@@ -1,0 +1,13 @@
+modeling daily realize future volatility singular spectrum analysis 
+ use singular spectrum analysis ssa model realize volatility 
+	 logarithmic standard deviation important future return series 
+	 realize volatility logarithmic standard deviation 
+	 construct follow methodology andersen et al j. stat 
+	 ass 96 2001 42 55 use intra day transaction datum find 
+	 ssa decompose volatility series effectively 
+	 capture market trend account 34 38 
+	 total variance series importantly number 
+	 underlying market periodicity reliable identification 
+	 periodicity extremely important option pricing risk 
+	 management believe ssa useful addition 
+	 financial practitioner toolbox 

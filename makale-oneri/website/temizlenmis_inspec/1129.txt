@@ -1,0 +1,9 @@
+compute stationary nash equilibrium undiscounted single controller 
+	 stochastic game 
+ person nonzero sum stochastic game second player 
+	 control transition formulate linear complementarity problem 
+	 lcp(q m solution nash equilibrium pair stationary 
+	 strategy limit average payoff criterion matrix m 
+	 construct copositive class lemke algorithm 
+	 process special class n person 
+	 stochastic game polymatrix stochastic game 

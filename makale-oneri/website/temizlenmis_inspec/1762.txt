@@ -1,0 +1,6 @@
+laguerre pseudospectral method nonlinear partial differential equation 
+ laguerre gauss radau interpolation investigate approximation 
+	 result obtain example laguerre pseudospectral scheme 
+	 construct bbm equation stability convergence 
+	 propose scheme prove numerical result high 
+	 accuracy approach 

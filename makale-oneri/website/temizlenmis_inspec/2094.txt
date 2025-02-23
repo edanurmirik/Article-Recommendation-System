@@ -1,0 +1,8 @@
+statistical inference partial prior information base gauss type 
+	 inequality 
+ potter anderson 1983 develop bayesian decision procedure 
+	 require specification class prior distribution 
+	 restrict minimal probability content subset 
+	 parameter space provide method 
+	 selection subset generalization gauss 
+	 inequality use determine relevant parameter subset 

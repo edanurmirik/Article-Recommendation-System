@@ -1,0 +1,11 @@
+multicriterion optimization composite laminate maximum failure margin 
+	 interactive descent algorithm 
+ interactive multicriterion optimization method composite laminate 
+	 subject multiple loading condition introduce laminate 
+	 margin initial failure ply failure fpf respect 
+	 apply loading condition treat criterion original 
+	 problem reduce bicriterion problem introduce parameter 
+	 combine criterion linear manner problem solve use 
+	 interactive descent algorithm condition require 
+	 discrete procedure converge pareto optimum numerical 
+	 example 

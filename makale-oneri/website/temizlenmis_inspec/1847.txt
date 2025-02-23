@@ -1,0 +1,20 @@
+conceptual modeling specification generation b2b business process 
+	 base ebxml 
+ order support dynamic setup business process independent 
+	 organization formal standard schema describe business 
+	 process basically require ebxml framework provide 
+	 specification schema bpss business process specification 
+	 schema available standalone representation uml 
+	 version xml version intend 
+	 direct creation business process specification 
+	 define specification element relationship require 
+	 create ebxml compliant business process specification 
+	 reason important support conceptual modeling 
+	 organize directly match major modeling concept 
+	 paper deal represent manage b2b business process 
+	 use uml compliant diagram major challenge organize uml 
+	 diagram natural way suited business process 
+	 meta model transform diagram xml version 
+	 paper demonstrate usefulness conceptually model business 
+	 process prototype business process editor tool 
+	 ebdesigner 

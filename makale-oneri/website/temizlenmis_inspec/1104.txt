@@ -1,0 +1,15 @@
+3 stage pipeline architecture multi view image decoder 
+ paper propose architecture decoder implement 
+	 multi view image decode algorithm study hardware 
+	 structure multi view image processing accomplish 
+	 propose multi view image decoder operate stage 
+	 pipeline manner extract depth pixel decode 
+	 image clock multi view image decoder consist 
+	 module node selector transfer value nodes 
+	 repeatedly depth extractor extract depth pixel 
+	 value node affine transformer 
+	 generate project position image plane value 
+	 pixel specified viewpoint propose architecture 
+	 design simulate max+plusii design tool operating 
+	 frequency 30 mhz image construct real time 
+	 decoder propose architecture 

@@ -1,0 +1,17 @@
+design modeling interval base abr flow control protocol 
+ novel flow control protocol present availability bit rate abr 
+	 service asynchronous transfer mode atm network scheme 
+	 feature periodic explicit rate feedback enable precise 
+	 allocation link bandwidth buffer space hop hop basis 
+	 guarantee maximum throughput minimum cell loss high resource 
+	 efficiency inclusion resource management cell 
+	 synchronization consolidation algorithm protocol capable 
+	 control point multipoint abr service unify 
+	 framework author illustrate modeling single abr 
+	 connection interaction multiple abr connection 
+	 constraint applicable flow control decision loss free flow 
+	 control mechanism present high speed abr connection use 
+	 fluid traffic model support algorithm atm signal procedure 
+	 specify company linear system modeling numerical 
+	 analysis simulation result demonstrate performance 
+	 cost benefit high speed backbone networking scenario 

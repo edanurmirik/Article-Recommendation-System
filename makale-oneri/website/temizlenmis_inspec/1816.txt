@@ -1,0 +1,14 @@
+hamiltonian modelling nonlinear disturbance attenuation control tcsc 
+	 improve power system stability 
+ tackle obstacle apply passivity base control pbc power 
+	 system affine non linear system widely exist power system 
+	 formulate standard hamiltonian system use pre feedback 
+	 method port control hamiltonian dissipation pchd model 
+	 thyristor control serial compensator tcsc establish 
+	 correspond revise hamiltonian function furthermore 
+	 employ modify hamiltonian function directly storage 
+	 function non linear adaptive l sub 2/ gain control method 
+	 propose solve problem l sub 2/ gain disturbance attenuation 
+	 hamiltonian system parametric perturbation finally 
+	 simulation result present verify validity propose 
+	 controller 

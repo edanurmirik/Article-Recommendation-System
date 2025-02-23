@@ -1,0 +1,18 @@
+comparison high power converter topology implementation fact 
+	 controller 
+ paper compare power converter topology implementation 
+	 flexible ac transmission system facts controller multilevel 
+	 topology multipoint clamp mpc chain nest cell 
+	 establish multipulse topology need 
+	 implement high power inverter switch frequency restrict 
+	 line frequency study address device count dc filter rating 
+	 restriction voltage control active power transfer dc 
+	 link balance dc link voltage emphasis place 
+	 capacitor sizing impact cost size 
+	 facts controller method dimension dc capacitor filter 
+	 present find chain converter attractive 
+	 implementation static compensator static synchronous 
+	 series compensator mpc converter attractive 
+	 implementation unified power flow controller interline power 
+	 flow controller special arrangement require overcome 
+	 limitation voltage control 

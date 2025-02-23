@@ -1,0 +1,17 @@
+median partitioning novel method selection representative subset 
+	 large compound pool 
+ method term median partitioning mp develop select diverse 
+	 set molecule large compound pool unlike method 
+	 subset selection mp approach depend pairwise 
+	 comparison molecule apply large 
+	 compound collection time limit step calculation 
+	 molecular descriptor database compound mp employ array 
+	 property descriptor little correlation divide large compound 
+	 pool partition representative molecule 
+	 select n subsequent step population molecule 
+	 divide subpopulation median value 
+	 property descriptor desire number 2 sup n/ partition 
+	 obtain descriptor evaluation selection entropy 
+	 formulation embed genetic algorithm mp apply 
+	 generate subset available chemicals directory result 
+	 compare cell base partitioning 

@@ -1,0 +1,17 @@
+comparison automate digital elevation model extraction result use 
+	 track aster track spot stereo image 
+ digital elevation model dem extract automatically stereo 
+	 satellite image past decade common satellite 
+	 datum use extract dem track spot recently 
+	 addition track aster datum download freely 
+	 provide attractive alternative extract dem datum work 
+	 compare automate dem extraction result use aster stereo 
+	 pair spot stereo pair area hilly mountain drum 
+	 mountain utah compare usgs 7.5 min dem standard product 
+	 result spot produce dem result term 
+	 accuracy detail radiometric variation image 
+	 subsequent satellite revolution small 
+	 aster stereo pair choice simultaneous 
+	 track acquisition single pass compare usgs 
+	 7.5 min dem aster spot extract dem standard 
+	 deviation 11.6 4.6 m respectively 

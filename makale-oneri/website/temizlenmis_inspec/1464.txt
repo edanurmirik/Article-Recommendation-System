@@ -1,0 +1,23 @@
+lr parse conjunctive grammar 
+ generalized lr parse algorithm context free grammar introduce 
+	 tomita 1986 polynomial time implementation nondeterministic 
+	 lr parse use graph structure stack represent content 
+	 nondeterministic parser pushdown possible branch 
+	 computation single computation step specifically 
+	 develop solution practical parse task arise 
+	 computational linguistic prove 
+	 suitable natural language processing conjunctive grammar extend 
+	 context free grammar allow use explicit intersection 
+	 operation grammar rule paper develop new lr style 
+	 parse algorithm grammar base 
+	 idea graph structure pushdown simultaneous existence 
+	 path graph use perform mention 
+	 intersection operation underlie finite automata treat 
+	 general way instead algorithm correctness 
+	 particular way construct automata paper define 
+	 wide class automata usable grammar include 
+	 traditional lr(k automata instance trivial 
+	 automaton single reachable state modification slr(k 
+	 table construction method use specific property 
+	 conjunctive grammar provide possible way finite 
+	 automata use algorithm 

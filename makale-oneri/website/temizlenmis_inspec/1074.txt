@@ -1,0 +1,11 @@
+inhibit decoherence ancilla process 
+ general condition derive prevent decoherence single 
+	 state quantum system qubit thermal bath employ 
+	 auxiliary system require purpose merely assume 
+	 weak general condition example extra 
+	 qubit extra classical field study application 
+	 quantum information processing general condition confirm 
+	 know approach inhibit decoherence approach 
+	 decoherence free quantum memory quantum operation present 
+	 place qubit center sphere extra qubit 
+	 surface 

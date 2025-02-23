@@ -1,0 +1,13 @@
+analytical model composite adaptive rectangular structure use 
+	 heaviside function 
+ objective article describe mathematical model base 
+	 heaviside function delta -dirac distribution 
+	 composite adaptive rectangular structure embed and/or bond 
+	 piezoelectric actuator sensor adopt structure model 
+	 laminae configuration rectangular nonpiezoelectric 
+	 piezoelectric patch laminae area 
+	 present configuration point 
+	 material equation motion boundary 
+	 condition describe electromechanical coupling base 
+	 mindlin displacement field linear theory 
+	 piezoelectricity hamilton principle 

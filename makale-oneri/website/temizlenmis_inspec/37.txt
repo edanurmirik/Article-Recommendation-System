@@ -1,0 +1,17 @@
+design pid controller desire time domain frequency domain response 
+ practical requirement design control system especially process 
+	 control system usually specify term time domain 
+	 response overshoot rise time frequency domain 
+	 response resonance peak stability margin 
+	 numerous method develop design 
+	 proportional integral derivative pid controller little work 
+	 relation quantitative time domain frequency domain 
+	 response paper study following problem 
+	 nominal stable process time delay design suboptimal pid 
+	 controller achieve required time domain response 
+	 frequency domain response nominal system uncertain 
+	 system h sub infinity pid controller develop base 
+	 optimal control theory parameter derive analytically 
+	 property investigate compare develop 
+	 suboptimal controller h sub 2/ pid controller maclaurin pid 
+	 controller 

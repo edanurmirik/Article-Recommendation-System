@@ -1,0 +1,8 @@
+scale curve element method elliptic problem small periodic 
+	 coefficient 
+ paper concern second order elliptic problem small 
+	 periodic coefficient bound domain curved boundary 
+	 scale curve element method couple linear element 
+	 isoparametric element propose error estimate obtain 
+	 smooth domain furthermore additive schwarz method 
+	 provide isoparametric element method 

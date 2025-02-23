@@ -1,0 +1,15 @@
+multivariable h sub infinity // mu feedback control design high precision 
+	 wafer stage motion 
+ conventional pid like siso controller common industry 
+	 performance requirement tight grow 
+	 need advanced controller positioning device 
+	 ic manufacturing plant interaction major performance limit 
+	 factor mimo control invoke tackle problem 
+	 practically feasible procedure present design mimo feedback 
+	 controller electromechanical positioning device use h sub 
+	 infinity // mu technique weighting filter propose 
+	 straightforwardly effectively impose performance uncertainty 
+	 specification experiment mimo control considerably 
+	 improve performance multiloop siso control problem 
+	 highlight important industrial practice lack 
+	 workable solution 

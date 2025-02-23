@@ -1,0 +1,10 @@
+multi output regression use locally regularise orthogonal square 
+	 algorithm 
+ paper consider datum model use multi output regression model 
+	 locally regularise orthogonal square lrols algorithm 
+	 propose construct sparse multi output regression model 
+	 generalise associate regressor regression model 
+	 individual regularisation parameter ability 
+	 multi output orthogonal square ols model selection produce 
+	 parsimonious model good generalisation performance greatly 
+	 enhance 

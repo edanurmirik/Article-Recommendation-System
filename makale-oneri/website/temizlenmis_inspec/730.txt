@@ -1,0 +1,16 @@
+multi hour design survivable classical ip network 
+ internet intra domain route protocol ospf rip 
+	 base short path routing path length define sum 
+	 metric associate path link metric 
+	 manage network administrator context design 
+	 internet backbone network consist dimension network router 
+	 transmission link establish metric requirement 
+	 satisfied internet traffic static 
+	 significant variation observe day second 
+	 failure occur cable cut hardware failure software failure 
+	 etc present algorithm meta heuristic greedy heuristic 
+	 design internet backbone network account multi hour 
+	 behaviour traffic survivability requirement 
+	 multi hour protection strategy study numerically 
+	 compare algorithm extend integrate quality 
+	 service constraint 

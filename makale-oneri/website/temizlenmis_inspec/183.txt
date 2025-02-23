@@ -1,0 +1,3 @@
+asymptotic analysis 3 2 1)-shell sort 
+ analyze 3 2 1)-shell sort algorithm usual random 
+	 permutation model 

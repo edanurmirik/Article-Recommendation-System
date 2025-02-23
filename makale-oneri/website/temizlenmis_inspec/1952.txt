@@ -1,0 +1,12 @@
+comprehensive encoding decouple solution problem decoherence 
+	 design solid state quantum computing 
+ proposal scalable quantum computing device suffer 
+	 decoherence interaction environment 
+	 severe engineering constraint introduce practical 
+	 solution major concern address solid state proposal 
+	 particular decoherence reduce encode logical qubit 
+	 qubit completely eliminate efficient set 
+	 decouple pulse sequence encoding remove need 
+	 single qubit operation pose difficult design constraint 
+	 far dominant decoherence process identify 
+	 empirically order optimize decouple pulse 

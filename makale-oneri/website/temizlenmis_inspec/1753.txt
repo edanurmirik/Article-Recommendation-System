@@ -1,0 +1,8 @@
+risk theory nonlinear dividend barrier 
+ framework classical risk theory investigate surplus process 
+	 presence nonlinear dividend barrier derive equation 
+	 characteristic process probability survival 
+	 expect sum discount dividend payment number theoretic 
+	 solution technique develop approximate quantity 
+	 numerical illustration exponential claim size 
+	 parabolic dividend barrier 

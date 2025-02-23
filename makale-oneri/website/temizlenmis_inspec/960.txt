@@ -1,0 +1,16 @@
+bisimulation minimization symbolic model check 
+ state space minimization technique crucial combat state explosion 
+	 variety explicit state verification tool use bisimulation 
+	 minimization check equivalence system minimize 
+	 component composition reduce state space prior 
+	 model checking experimental result bisimulation minimization 
+	 symbolic model check contexts mixed explore 
+	 bisimulation minimization optimization symbolic model checking 
+	 invariance property consider bisimulation minimization 
+	 algorithm produce bdd base model checker 
+	 invariant property compare model checker conventional 
+	 base backwards reachability comparison theoretical 
+	 experimental suggest bisimulation minimization viable 
+	 context invariance verification perform 
+	 minimization require computational resource 
+	 model check unminimized system backwards reachability 

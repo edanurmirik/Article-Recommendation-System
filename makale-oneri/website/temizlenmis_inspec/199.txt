@@ -1,0 +1,21 @@
+optimality auditory information process 
+ study limit detection estimation weak sinusoidal signal 
+	 primary mammalian auditory system use stochastic 
+	 fitzhugh nagumo model action recovery model synaptic 
+	 depression overall model cover chain hair cell 
+	 point synaptic connection cell cochlear 
+	 nucleus information processing performance system 
+	 evaluate use phi -divergence statistic 
+	 quantify dissimilarity probability measure 
+	 intimately relate number fundamental limit statistic 
+	 information theory exist set parameter 
+	 optimize important phi -divergence simultaneously 
+	 set correspond constant quiescent firing rate qfr 
+	 spiral ganglion neuron optimal value qfr frequency 
+	 dependent essentially independent amplitude signal 
+	 small amplitude consequently optimal processing accord 
+	 standard criterion accomplish model 
+	 parameter tune value correspond 
+	 qfr offer new explanation qfr provide 
+	 new insight role play parameter 
+	 peripheral auditory system 

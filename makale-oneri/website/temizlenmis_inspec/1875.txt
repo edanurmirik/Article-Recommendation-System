@@ -1,0 +1,6 @@
+design implementation vampire 
+ describe vampire high performance theorem prover order logic 
+	 description target developer system 
+	 specialist automate reasoning focus design 
+	 system key implementation feature analyze 
+	 performance prover casc jc 

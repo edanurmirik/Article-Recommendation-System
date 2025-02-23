@@ -1,0 +1,12 @@
+fc++ functional tool object orient task 
+ fc++ library program functionally c++ compare c++ 
+	 functional programming library fc++ distinguish powerful 
+	 type system allow manipulation parametrically polymorphic 
+	 function e.g. pass argument function 
+	 return result paper fc++ use 
+	 common object orient programming task demonstrate fc++ 
+	 implementation common design pattern adapter builder 
+	 command compare conventional c++ implementation 
+	 pattern implementation simple 
+	 class dependency need efficient type safe 
+	 thank parametric polymorphism type inference 

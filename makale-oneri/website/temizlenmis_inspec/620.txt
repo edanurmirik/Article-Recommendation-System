@@ -1,0 +1,6 @@
+adaptive image enhancement retinal blood vessel segmentation 
+ retinal blood vessel image enhance remove nonstationary 
+	 background adaptively estimate base local neighbourhood 
+	 information result segmentation blood 
+	 vessel simple algorithm need obtain priori 
+	 illumination knowledge imaging system 

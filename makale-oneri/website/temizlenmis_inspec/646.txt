@@ -1,0 +1,17 @@
+vibration control structure use tune mass damper development 
+	 system suppress displacement auxiliary mass 
+ vibration control structure use active tune mass damper 
+	 atmd stroke auxiliary mass limited difficult 
+	 control vibration case large disturbance input 
+	 paper method propose problem 
+	 method switch control system type controller 
+	 controller normal controller small relative 
+	 displacement auxiliary mass effective 
+	 mode vibration large relative displacement 
+	 auxiliary mass new variable gain control system construct 
+	 switch controller method brake system 
+	 active vibration control necessary use actuator active 
+	 control use actuator propose system brake 
+	 suppress displacement increase auxiliary mass large 
+	 disturbance input finally system design 
+	 effectiveness system confirm simulation 

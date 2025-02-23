@@ -1,0 +1,10 @@
+generalized predictive control non uniformly sample system 
+ paper study digital control system non uniform updating 
+	 sample pattern include multirate sample datum system 
+	 special case derive lift model state space domain 
+	 main obstacle generalized predictive control gpc design use 
+	 lift model causality constraint 
+	 account design constraint propose new gpc algorithm 
+	 result optimal causal control law non uniformly sample 
+	 system solution apply immediately multirate sample data 
+	 system rate integer multiple base period 

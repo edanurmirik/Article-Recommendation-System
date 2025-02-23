@@ -1,0 +1,32 @@
+match pet ct scan head neck area development method 
+	 validation 
+ positron emission tomography pet provide important information tumor 
+	 biology lack detailed anatomical information aim 
+	 present study develop validate automatic registration 
+	 method match pet ct scan head neck 
+	 difficulty achieve goal 1 nonrigid motion 
+	 neck hamper use automatic ridged body transformation 2 
+	 emission scan contain little anatomical information apply 
+	 standard image fusion method 3 objective way exist 
+	 quantify quality match result problem solve 
+	 follow accurate reproducible positioning patient 
+	 achieve use radiotherapy treatment mask propose method 
+	 use transmission emission scan obtain 
+	 sufficient anatomical information matching bed position 
+	 transmission scan include protocol mutual 
+	 information base algorithm use registration technique pet 
+	 ct datum obtain seven patient patient ct 
+	 scan pet scan dataset use estimate 
+	 consistency match pet ct sub 1/ ct sub 1/ ct sub 2/ 
+	 ct sub 2/ pet use circle consistency test find 
+	 use method consistency obtain 4 mm 1.3 
+	 degree average pet voxel use registration 5.15 mm 
+	 error compare favorably voxel size crop 
+	 image remove scanner bed image improve 
+	 consistency algorithm transmission scan 
+	 potentially reduce single position use approach 
+	 conclusion represent algorithm validation technique 
+	 feature attractive theoretical 
+	 practical point view user independent automatic validation 
+	 technique match ct pet scan head neck 
+	 opportunity compare different image enhancement 

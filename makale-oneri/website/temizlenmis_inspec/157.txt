@@ -1,0 +1,15 @@
+automatic extraction eye mouth field face image use 
+	 eigenfeature ensemble network 
+ paper present novel algorithm extraction eye mouth 
+	 facial feature field 2d gray level image eigenfeature 
+	 derive eigenvalue eigenvector binary edge datum 
+	 set construct eye mouth field eigenfeature ideal 
+	 feature finely locate field efficiently eigenfeature 
+	 extract set positive negative training sample 
+	 facial feature use train multilayer perceptron mlp 
+	 output indicate degree particular image window 
+	 contain eye mouth ensemble network 
+	 consist multitude independent mlp use enhance 
+	 generalization performance single mlp experimentally 
+	 verify propose algorithm robust facial size 
+	 slight variation pose 

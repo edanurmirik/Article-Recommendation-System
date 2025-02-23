@@ -1,0 +1,6 @@
+switch controller design convex polyhedral lyapunov function 
+ propose systematic switching control design method class 
+	 nonlinear discrete time hybrid system novelty adopt 
+	 approach fact unlike conventional control control 
+	 burden shift logical level create need 
+	 development new analysis design method 

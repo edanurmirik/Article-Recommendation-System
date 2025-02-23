@@ -1,0 +1,13 @@
+calibrate initial em apply recursive model categorical 
+	 variable 
+ estimate em apply large causal model 10 
+	 categorical variable subject initial value 
+	 estimate phenomenon model 
+	 structure complicated involve variable 
+	 measure compensation recommend literature 
+	 em implement time different set initial 
+	 value obtain appropriate estimate propose improve 
+	 approach initial value main idea use initial 
+	 calibrate datum simulation result strongly indicate 
+	 calibrate initial rise estimate far close 
+	 true value initial calibrate 

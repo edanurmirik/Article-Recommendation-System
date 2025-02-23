@@ -1,0 +1,16 @@
+measure keyboard response delay compare keyboard joystick input 
+ response characteristic pc keyboard identify 
+	 use response device psychological experiment past 
+	 propose method check characteristic independently 
+	 mean external measurement equipment 
+	 availability different pc model rapid pace model change 
+	 urgent need development convenient accurate 
+	 method check method propose consist raise 
+	 precision pc clock microsecond level use 
+	 joystick connect midi terminal sound board pc 
+	 independent timing function statistical processing data 
+	 provide method possible estimate accurately 
+	 keyboard scan interval time average keyboard delay time 
+	 result measured keyboard delay time vary 11 
+	 73 msec depend keyboard model value 
+	 30 msec 

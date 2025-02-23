@@ -1,0 +1,18 @@
+frontier separability quantum entanglement spin system 
+ discuss critical point x sub c/ separate quantum entangle 
+	 separable state series n spin s simple mixed state 
+	 characterize matrix operator rho x| phi phi 
+	 |+1 x d sup n sub d n x 0 1 d 2s 1 sub d n 
+	 d sup n/ d sup n/ unity matrix phi special 
+	 entangle state case x 0 x 1 correspond respectively 
+	 fully random spin fully entangled state 
+	 series consider special state phi invariant 
+	 charge conjugation generalize n 2 spin s 1/2 
+	 einstein podolsky rosen state second consider 
+	 generalization werner 1989 density matrix evaluation 
+	 critical point x sub c/ bound come 
+	 partial transposition method peres 1996 conditional 
+	 nonextensive entropy criterion result suggest conjecture 
+	 bound come method coincide result 
+	 x sub c/ exact result present relevant 
+	 discussion quantum computing teleportation cryptography 

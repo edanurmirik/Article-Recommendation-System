@@ -1,0 +1,14 @@
+scheduling scheme integrate flight propulsion control system 
+ describe scheme schedule integrate flight propulsion 
+	 control system experimental vertical short land 
+	 v stol aircraft concept acceleration hover 0 120 kn 
+	 flight phase multivariable integrated flight propulsion 
+	 controller design point v stol envelope 
+	 implement exact plant observer state feedback 
+	 scheduling scheme value state feedback observer gain 
+	 matrix interpolate fix point design function 
+	 aircraft speed second approach control signal produce 
+	 different fix point controller blend allow 
+	 significant reduction order scheduled controller 
+	 scheduling scheme nonlinear simulation provide 
+	 excellent handling quality aircraft accelerate hover 

@@ -1,0 +1,16 @@
+grey box model identification evolutionary computing 
+ paper present evolutionary grey box model identification methodology 
+	 good use priori knowledge clear box model 
+	 global structural representation physical system study 
+	 whilst incorporate accurate blackbox model immeasurable 
+	 local nonlinearitie practical system evolutionary technique 
+	 apply build dominant structural identification local 
+	 parametric tuning need differentiable performance 
+	 index presence noisy datum evolutionary 
+	 technique provide excellent fitting performance capable 
+	 accommodate multiple objective examine relationship 
+	 model complexity fitting accuracy model building 
+	 process validation result propose method offer 
+	 robust uncluttered accurate model practical system 
+	 expect type grey box model accommodate 
+	 practical engineering system modelling accuracy 

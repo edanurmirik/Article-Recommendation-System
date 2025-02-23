@@ -1,0 +1,18 @@
+autofocus system microscope 
+ technique develop microscope autofocusing 
+	 eccentric light beam approach high resolution wide focus 
+	 range compact construction principle describe 
+	 theoretical formula eccentric light beam approach deduce 
+	 apply object lens objective plane 
+	 focal plane object lens objective plane 
+	 focal plane experimental setup use semiconductor laser 
+	 device light source laser beam enter 
+	 microscope eccentric main light axis defocused signal 
+	 acquire symmetrical silicon photocell change 
+	 reflect light position cause differential amplification 
+	 process microprocessor electric signal 
+	 power amplify drive dc motor fine work 
+	 platform automatic focus microscope result 
+	 experiment or-0.1- mu m precision autofocuse range 
+	 or-500- mu m defocuse system high reliability 
+	 meet requirement accurate micro measurement system 

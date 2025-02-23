@@ -1,0 +1,26 @@
+geometrically invariant watermarking use feature point 
+ paper present new approach watermarke digital image provide 
+	 robustness geometrical distortion weakness classical 
+	 watermarking method geometrical distortion outline 
+	 geometrical distortion decompose class global 
+	 transformation rotation translation local 
+	 transformation stirmark attack overview exist 
+	 self synchronize scheme present theses scheme use 
+	 periodical property mark invariant property transform 
+	 template insertion information provide original image 
+	 counter geometrical distortion new class 
+	 watermarking scheme use image content present propose 
+	 embed detection scheme mark bind 
+	 content descriptor define salient point different type 
+	 feature point study robustness geometrical 
+	 transformation evaluate develop enhanced detector 
+	 embedding signature extract feature point 
+	 image perform delaunay tessellation set point 
+	 mark embed use classical additive scheme inside triangle 
+	 tessellation detection use correlation property 
+	 different triangle performance present scheme 
+	 evaluate jpeg compression geometrical attack 
+	 transformation result fact scheme robust 
+	 different manipulation finally conclude remark 
+	 analyze different perspective content base 
+	 watermarking scheme 

@@ -1,0 +1,16 @@
+single machine earliness tardiness scheduling resource dependent release 
+	 date 
+ paper deal single machine earliness tardiness scheduling 
+	 problem common date resource dependent release date 
+	 assume cost resource consumption job 
+	 non increasing linear function job release date 
+	 function common job objective find schedule 
+	 job release date minimize total resource consumption 
+	 earliness tardiness penalty problem 
+	 np hard ordinary sense date unrestricted 
+	 number job schedule date 
+	 unrestricted exact dynamic programming dp algorithm small 
+	 medium size problem develop heuristic algorithm 
+	 large scale problem propose result 
+	 computational comparison heuristic optimal solution 
+	 discuss 

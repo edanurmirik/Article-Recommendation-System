@@ -1,0 +1,17 @@
+construction double sample s control chart agile manufacturing 
+ double sampling ds x control chart design allow quick detection 
+	 small shift process mean provide quick response agile 
+	 manufacturing environment ds x control chart assume 
+	 process standard deviation remain unchanged entire 
+	 course statistical process control complementary 
+	 ds chart use monitor process variation cause 
+	 change process standard deviation develop 
+	 paper development ds s chart quickly detect small 
+	 shift process standard deviation agile manufacturing 
+	 present construction ds s chart base 
+	 concept construct ds x chart formulate 
+	 optimization problem solve genetic algorithm 
+	 efficiency ds s control chart compare 
+	 traditional s control chart result ds s control 
+	 chart economically preferable alternative detect 
+	 small shift traditional s control chart 

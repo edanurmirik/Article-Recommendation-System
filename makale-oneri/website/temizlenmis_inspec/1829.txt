@@ -1,0 +1,14 @@
+improved approximation max cut graph bound degree 
+ let alpha approximately=0.87856 denote good approximation ratio currently 
+	 know max cut problem general graph consider 
+	 semidefinite relaxation max cut problem round use 
+	 random hyperplane rounding technique m.x. goemans d.p. 
+	 williamson 1995 add local improvement step 
+	 graph degree delta algorithm achieve 
+	 approximation ratio alpha epsilon epsilon 0 
+	 constant depend delta .. use computer assist 
+	 analysis graph maximal degree 3 algorithm 
+	 obtain approximation ratio 0.921 3 regular 
+	 graph approximation ratio 0.924 note 
+	 semidefinite relaxation max cut use goemans williamson 
+	 integrality gap 1/0.885 2 regular graph 

@@ -1,0 +1,8 @@
+parareal time procedure control partial differential equation 
+ propose previous note time discretization partial 
+	 differential evolution equation allow parallel 
+	 implementation scheme reinterpret preconditioning 
+	 procedure algebraic setting time discretization 
+	 allow extend parallel methodology problem optimal 
+	 control partial differential equation report numerical 
+	 implementation reveal large interest 

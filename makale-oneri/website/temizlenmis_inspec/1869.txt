@@ -1,0 +1,4 @@
+stability l sub 2/ gain property lpv system 
+ stability l sub 2/ gain property linear parameter vary system 
+	 obtain assume bound maximum average value 
+	 parameter rate 

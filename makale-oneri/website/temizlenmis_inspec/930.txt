@@ -1,0 +1,13 @@
+narx base technique modelling magneto rheological damp device 
+ paper present methodology identify variable structure nonlinear 
+	 model magneto rheological damper mrd similar device 
+	 peculiarity respect mainstream literature 
+	 especially conceive obtain model structurally simple 
+	 easy estimate suited model base control goal 
+	 pursue adopt linear parameter narx model 
+	 identification method develop base minimization 
+	 simulation error method capable select model 
+	 structure parameter require 
+	 priori structural information set validation test report 
+	 aim demonstrate technique efficiency compare 
+	 widely accept mrd modelling approach 

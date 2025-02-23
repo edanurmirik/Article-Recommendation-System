@@ -1,0 +1,12 @@
+mathematical modelling work system layer 
+	 exponential law permeability variation mobile liquid 
+	 interface 
+ construct study dimensional model work system 
+	 layer mobile boundary liquid 
+	 viscosity use plunger displacement model liquid 
+	 boundary filtration region liquid model 
+	 curve lyapunov class unlike familiar work solve 
+	 dimensonal problem inhomogeneous layer mobile 
+	 boundary boundary filtration region model 
+	 curve lyapunov class practical convergence 
+	 numerical solution problem study 

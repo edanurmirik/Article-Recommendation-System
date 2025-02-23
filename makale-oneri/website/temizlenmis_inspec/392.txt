@@ -1,0 +1,33 @@
+time vary property renal autoregulatory mechanism 
+ order assess possible time vary property renal 
+	 autoregulation time frequency time scale method apply 
+	 renal blood flow broad band force arterial blood pressure 
+	 fluctuation single nephron renal blood flow spontaneous 
+	 oscillation obtain normotensive sprague dawley wistar 
+	 long evans rat spontaneously hypertensive rat time frequency 
+	 analysis normotensive hypertensive blood flow datum obtain 
+	 kidney single nephron 
+	 myogenic tubuloglomerular feedback tgf mechanism 
+	 time vary characteristic furthermore utilize renyi 
+	 entropy measure complexity blood flow dynamic 
+	 time frequency plane effort discern difference 
+	 normotensive hypertensive recording find clear difference 
+	 renyi entropy normotensive hypertensive blood flow 
+	 recording kidney level force p 0.037 
+	 spontaneous arterial pressure fluctuation p 0.033 
+	 single nephron level p 0.008 especially single nephron 
+	 level mean renyi entropy significantly large hypertensive 
+	 normotensive rat suggest complex dynamic 
+	 hypertensive condition far evaluate 
+	 separation dynamic normotensive hypertensive rat 
+	 find prescribed frequency range myogenic tgf 
+	 mechanism employ multiresolution wavelet transform analysis 
+	 reveal exclusively scale range correspond 
+	 frequency interval myogenic tgf mechanism width 
+	 blood flow wavelet coefficient fall disjoint set 
+	 normotensive hypertensive rat separation scale 
+	 myogenic tgf frequency range distinct obtain 100 
+	 accuracy observation remain valid 
+	 kidney blood pressure flow datum result suggest understanding 
+	 time vary property mechanism require 
+	 complete description renal autoregulation 

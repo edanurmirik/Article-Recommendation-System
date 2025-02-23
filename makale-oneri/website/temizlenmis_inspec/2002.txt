@@ -1,0 +1,19 @@
+new subspace identification approach base principal component analysis 
+ principal component analysis pca widely use monitor complex 
+	 industrial process multiple variable diagnose process 
+	 sensor fault objective paper develop new subspace 
+	 identification algorithm consistent model estimate 
+	 error variable eiv situation paper propose 
+	 new subspace identification approach use principal component 
+	 analysis pca naturally fall category eiv formulation 
+	 resemble total square allow error 
+	 process input output propose use pca determine system 
+	 observability subspace matrix system order eiv 
+	 formulation standard pca modify instrumental variable 
+	 order achieve consistent estimate system matrix 
+	 propose subspace identification method demonstrate use 
+	 simulate process real industrial process model 
+	 identification order determination comparison moesp 
+	 algorithm n4sid algorithm use benchmark demonstrate 
+	 advantage propose pca base subspace model identification 
+	 smi algorithm 

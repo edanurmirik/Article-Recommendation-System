@@ -1,0 +1,21 @@
+multiecho segment epi z shim background gradient compensation 
+	 mesbac pulse sequence fmri 
+ multiecho segment epi z shim background gradient compensation 
+	 mesbac pulse sequence propose validate functional mri 
+	 fmri study region suffer severe susceptibility artifact 
+	 sequence provide effective tradeoff spatial 
+	 temporal resolution reduce image distortion signal dropout 
+	 blood oxygenation level dependent bold)-weighte fmri signal 
+	 reliably obtain region orbitofrontal cortex ofc 
+	 overcome physiological motion artifact prolong 
+	 multisegment epi acquisition set navigator echo 
+	 acquire readout phase encoding direction ghost 
+	 artifact generally produce single shot epi acquisition 
+	 eliminate separately place odd echo different 
+	 k space trajectory unlike z shim method focus 
+	 increase temporal resolution event relate functional brain 
+	 mapping mesbac sequence simultaneously address problem image 
+	 distortion signal dropout maintain sufficient temporal 
+	 resolution mesbac sequence particularly useful 
+	 pharmacological affective fmri study brain region 
+	 ofc nucleus accumben amygdala para hippocampus etc 

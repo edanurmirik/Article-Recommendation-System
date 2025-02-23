@@ -1,0 +1,17 @@
+robust self tune pid controller nonlinear system 
+ paper propose robust self tune pid controller suitable 
+	 nonlinear system control system employ preload relay p_relay 
+	 series pid controller p_relay ensure high gain 
+	 yield robust performance incur chatter 
+	 phenomenon paper instead view chattering 
+	 undesirable inevitable feature use naturally occur 
+	 signal tune tune pid controller operating 
+	 regime digresse explicit input signal require 
+	 pid controller tune particular operating point relay 
+	 disabled chatter cease correspondingly 
+	 invoke change setpoint operate regime 
+	 way approach applicable time vary system 
+	 pid tuning continuous base late set chattering 
+	 characteristic analysis provide stability property 
+	 control scheme simulation result level control fluid 
+	 spherical tank use scheme present 

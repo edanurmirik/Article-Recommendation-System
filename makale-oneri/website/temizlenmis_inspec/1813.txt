@@ -1,0 +1,12 @@
+lmi approach digital redesign linear time invariant system 
+ simple design methodology digital redesign static state feedback 
+	 controller use linear matrix inequality present 
+	 propose method provide close matching state 
+	 original continuous time system digitally redesign 
+	 system guarantee stability specifically digital redesign 
+	 problem reformulate linear matrix inequality lmis solve 
+	 numerical optimisation technique main feature propose 
+	 method closed loop stability digitally redesign 
+	 system explicitly guarantee design procedure use 
+	 lmi base approach numerical example position control 
+	 simple crane system present 

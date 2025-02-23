@@ -1,0 +1,19 @@
+augmented spatial digital tree algorithm contact detection 
+	 computational mechanic 
+ base understanding exist spatial digital tree base contact 
+	 detection approach alternate digital tree adt algorithm 
+	 particular efficient algorithm term augmented spatial 
+	 digital tree asdt algorithm propose present work 
+	 asdt algorithm adopt different point representation scheme use 
+	 low comer vertex represent hyper-)rectangle 
+	 upper comer vertex serve augment information consequently 
+	 asdt algorithm work space original 
+	 n dimensional space general balanced tree 
+	 expect introduction additional 
+	 bounding subregion rectangle associate tree node 
+	 possible significantly reduce number node visit 
+	 region search node visit slightly 
+	 expensive example arise computational mechanic 
+	 present provide assessment performance asdt 
+	 numerical result indicate asdt 3.9 time 
+	 fast adt 

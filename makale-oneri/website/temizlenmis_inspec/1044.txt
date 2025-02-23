@@ -1,0 +1,11 @@
+analogue realization fractional order controller 
+ approach design analogue circuit implement fractional order 
+	 controller present suggest approach base use 
+	 continue fraction expansion case negative coefficient 
+	 continue fraction expansion use negative impedance 
+	 converter propose possible method obtain suitable 
+	 rational approximation continue fraction expansion 
+	 discuss example realization fractional order sup lambda 
+	 controller present illustrate obtain measurement 
+	 suggest approach use control fast process 
+	 use digital controller difficult impossible 

@@ -1,0 +1,18 @@
+fuzzy polynomial neural network hybrid architecture fuzzy modeling 
+ introduce concept fuzzy polynomial neural network fpnn hybrid 
+	 modeling architecture combine polynomial neural network pnns 
+	 fuzzy neural network fnns development fpnn dwell 
+	 technology computational intelligence ci fuzzy set 
+	 neural network genetic algorithm structure fpnn 
+	 result synergistic usage fnn pnn fnns contribute 
+	 formation premise rule base structure fpnn 
+	 consequence fpnn design use pnn structure 
+	 pnn fix advance usually place 
+	 case conventional neural network organize dynamically 
+	 meet required approximation error exploit group method 
+	 datum handling gmdh produce dynamic topology network 
+	 performance fpnn quantify experimentation 
+	 exploit standard datum use fuzzy modeling obtain 
+	 experimental result reveal propose network exhibit high 
+	 accuracy generalization capability comparison similar 
+	 fuzzy model 

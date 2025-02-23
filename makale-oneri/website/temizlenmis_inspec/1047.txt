@@ -1,0 +1,19 @@
+dynamic control initialize fractional order system 
+ importance historical effect fractional order system 
+	 paper present general fractional order system control theory 
+	 include time vary initialization response previous 
+	 study properly account historical effect 
+	 initialization response force response 
+	 fractional order system determine scalar fractional order 
+	 impulse response determine generalization 
+	 exponential function stability property fractional order system 
+	 present complex w plane transformation 
+	 s plane time response discuss respect pole position 
+	 complex w plane frequency response behavior include 
+	 fractional order vector space representation generalization 
+	 state space concept present include initialization 
+	 response control method vector representation initialized 
+	 fractional order system finally fractional order 
+	 differintegral generalize continuous order distribution 
+	 possibility include fractional order transfer 
+	 function 

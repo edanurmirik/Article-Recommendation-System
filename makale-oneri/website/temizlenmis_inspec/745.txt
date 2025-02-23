@@ -1,0 +1,16 @@
+intensity base affine registration include feature similarity spatial 
+	 normalization 
+ paper present new spatial normalization affine transformation 
+	 quantitative comparison brain architecture different subject 
+	 require common coordinate system analysis specific 
+	 brain area necessary normalize compare region 
+	 interest global brain intensity base registration method 
+	 match global brain region interest 
+	 locally normalize compare feature base method method 
+	 paper use feature similarity local region 
+	 intensity similarity lateral ventricle central gray nucleus 
+	 brain include corpus callosum use feature 
+	 schizophrenia detection appropriately normalize method 
+	 reduce difference feature area corpus callosum 
+	 7.7 2.4 lateral ventricle 8.2 13.5 compare mutual 
+	 information talairach method 

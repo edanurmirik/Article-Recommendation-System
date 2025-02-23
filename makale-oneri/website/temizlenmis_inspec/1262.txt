@@ -1,0 +1,15 @@
+development evaluation shoke2000 pci base fpga card 
+ paper describe pci base fpga card shoke2000 develop 
+	 order study reconfigurable computing late field 
+	 programmable gate array fpga consist input output o 
+	 configurable block internal configurable logic block 
+	 realize user logic circuit connect 
+	 popular o standard easily feature enable fpga connect 
+	 device different interface new reconfigurable 
+	 system realizable connect fpga device 
+	 digital signal processor dsp analog device paper 
+	 describe basic function shoke2000 develop 
+	 realize hybrid reconfigurable system consist fpga dsp 
+	 analog device present application example shoke2000 
+	 include simple image recognition application distribute share 
+	 memory computer cluster teach material computer education 

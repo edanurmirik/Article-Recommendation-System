@@ -1,0 +1,32 @@
+scalable hybrid computation spike 
+ outline hybrid analog digital scheme compute important 
+	 feature enable scale system large complexity 
+	 like digital computation use bit precise logical 
+	 unit collectively compute precise answer computation 
+	 hybrid scheme use moderate precision analog unit 
+	 collectively compute precise answer computation second 
+	 frequent discrete signal restoration analog information prevent 
+	 analog noise offset degrade computation state 
+	 machine enable complex computation create use sequence 
+	 elementary computation natural choice implement hybrid 
+	 scheme base spike spike count code digital 
+	 spike time code analog illustrate spike afford easy 
+	 way implement component scalable hybrid computation 
+	 important example distribute analog computation 
+	 spike create distribute modular representation 
+	 analog number implement digital carry interaction 
+	 spike analog neuron second signal restoration 
+	 perform recursive spike count quantization spike time code 
+	 use spike analog dynamical system trigger state 
+	 transition digital dynamical system reconfigure 
+	 analog dynamical system use binary control vector feedback 
+	 interaction analog digital dynamical system create 
+	 hybrid state machine hsm hsm extend expand concept 
+	 digital finite state machine hybrid domain present 
+	 experimental datum neuron hsm chip implement 
+	 error correct analog digital conversion concurrent use 
+	 spike time spike count code present experimental datum 
+	 silicon circuit implement hsm base pattern recognition 
+	 use spike time synchrony outline hsms use perform 
+	 learning vector quantization spike pattern recognition 
+	 generation reconfigure 

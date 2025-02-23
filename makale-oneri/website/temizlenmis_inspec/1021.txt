@@ -1,0 +1,6 @@
+error probability analysis mil std-1773 optical fiber datum bus 
+ analyze error probability mil std-1773 optical fiber data 
+	 bus modulation scheme original manchester ii 
+	 bi phase coding ptmbc embc bsf use derive expression 
+	 error probability compare receiver sensitivity 
+	 optical fiber datum bus 

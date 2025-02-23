@@ -1,0 +1,17 @@
+novel active noise reduce headset use earshell vibration control 
+ active noise reduce anr headset available commercially application 
+	 vary aviation communication consumer audio current anr 
+	 system use passive attenuation high frequency 
+	 loudspeaker base active noise control low frequency achieve 
+	 broadband noise reduction paper present novel anr headset 
+	 external noise transmit user ear earshell 
+	 vibration reduce control vibration earshell use 
+	 force actuator act inertial mass earshell 
+	 headband model base theoretical analysis use velocity feedback 
+	 control current piezoelectric actuator provide sufficient 
+	 force require low stiffness improve low frequency 
+	 performance control simulation base experimental datum 
+	 laboratory headset good performance potentially 
+	 achieve practice robust feedback controller 
+	 single frequency real time control experiment verify noise 
+	 reduction achieve use earshell vibration control 

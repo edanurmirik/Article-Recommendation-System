@@ -1,0 +1,11 @@
+sharpen estimate stability constant maximum norm 
+	 crank nicolson scheme dimensional heat equation 
+ paper concern stability constant c sub infinity 
+	 maximum norm crank nicolson scheme apply 
+	 dimensional heat equation know result s.j. 
+	 serdyukova c sub infinity 23 present paper 
+	 use sharp resolvent estimate discrete laplacian 
+	 cauchy formula 3 or= c sub infinity 
+	 4.325 bind hold heat equation consider 
+	 bound interval dirichlet neumann boundary 
+	 condition 

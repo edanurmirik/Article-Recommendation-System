@@ -1,0 +1,13 @@
+secret glasgow haskell compiler inliner 
+ high order language haskell encourage programmer build 
+	 abstraction compose function good compiler inline 
+	 recover efficiently executable program 
+	 principle inline dead simple replace function 
+	 instance body compiler writer tell 
+	 inline black art delicate compromise work 
+	 good performance unnecessary code bloat 
+	 purpose paper articulate key lesson 
+	 learn scale production inliner use 
+	 glasgow haskell compiler focus mainly algorithmic aspect 
+	 provide indicative measurement substantiate 
+	 importance aspect inliner 

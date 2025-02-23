@@ -1,0 +1,21 @@
+cross entropy rare event maximal cut partition problem 
+ solve maximal cut partition problem use randomize 
+	 algorithm base cross entropy method maximal cut 
+	 problem propose algorithm employ auxiliary bernoulli 
+	 distribution transform original deterministic network 
+	 associate stochastic associate stochastic network 
+	 asn iteration randomized algorithm asn involve 
+	 follow phase 1 generation random cut use 
+	 multidimensional ber(p distribution calculation associate 
+	 cut length objective function related quantity 
+	 rare event probability 2 update parameter vector p 
+	 basis datum collect phase ber(p 
+	 distribution converge distribution degenerated ber(p sub 
+	 d/ p sub d/ p sub d/,/sub 1/ p sub d n/ sense 
+	 element p sub d/ unity rest zero unity 
+	 element p sub d/ uniquely define cut 
+	 estimate maximal cut similar approach use 
+	 partition problem support numerical result 
+	 numerical study suggest maximal cut partition 
+	 problem propose algorithm typically polynomial complexity 
+	 size network 

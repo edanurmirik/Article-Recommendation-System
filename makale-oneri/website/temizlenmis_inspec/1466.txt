@@ -1,0 +1,12 @@
+feldkamp type image reconstruction equiangular datum 
+ cone beam approach image reconstruction attract increase attention 
+	 application especially medical imaging previously 
+	 traditional practical cone beam reconstruction method feldkamp 
+	 algorithm generalize case spiral helical scanning 
+	 loci equispatial cone beam projection datum paper 
+	 formulate generalized feldkamp algorithm case 
+	 equiangular cone beam projection datum perform numerical 
+	 simulation evaluate image quality medical 
+	 multi slice cone beam ct scanner typically use equiangular projection 
+	 datum new formula useful area framework 
+	 far refinement benchmark comparison 

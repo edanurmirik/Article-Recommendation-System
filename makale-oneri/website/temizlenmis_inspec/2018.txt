@@ -1,0 +1,19 @@
+design implementation 3 d mapping system highly irregular shape 
+	 object application semiconductor manufacturing 
+ basic technology robotic system develop automate packing 
+	 polycrystalline silicon nugget fragile fuse silica crucible 
+	 czochralski melt pull semiconductor wafer production 
+	 highly irregular shape nugget packing constraint 
+	 difficult challenging task require delicate 
+	 manipulation packing highly irregular polycrystalline silicon 
+	 nugget fragile fuse silica crucible application 
+	 dual optical 3 d surface mapping system use active laser 
+	 triangulation develop successfully test 
+	 system measure geometry profile nugget pack 
+	 profile nugget crucible 
+	 resolution 1 mm 15 khz sampling frequency achieve datum 
+	 system use packing algorithm determine 
+	 optimal nugget placement key contribution describe 
+	 design implementation efficient robust 3 d imaging system 
+	 map highly irregular shaped object use conventional component 
+	 context real commercial manufacturing process 

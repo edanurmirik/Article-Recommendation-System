@@ -1,0 +1,24 @@
+achieve performance openmp ccnuma software distribute share 
+	 memory system 
+ openmp emerge viable high level programming model share memory 
+	 parallel system conceive enable easy portable application 
+	 development range system implement 
+	 cache coherent non uniform memory access ccnuma architecture 
+	 unfortunately hard obtain high performance 
+	 architecture particularly large number thread involve 
+	 paper discuss difficulty face write openmp 
+	 program ccnuma system explain vendor attempt 
+	 overcome focus system sgi origin 2000 
+	 perform variety experiment design illustrate impact 
+	 vendor effort compare code write standard 
+	 loop level parallel style openmp alternative version 
+	 write single program multiple data spmd fashion realize 
+	 openmp consistently provide superior 
+	 performance carefully choose set language extension help 
+	 translate program style compile 
+	 directly similar manner syntax extension 
+	 borrow hpf aspect hpf compiler technology help 
+	 translation process expectation extended 
+	 language compile improve attractiveness openmp 
+	 language high performance computation important class 
+	 modern architecture 

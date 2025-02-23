@@ -1,0 +1,16 @@
+vpp fortran design hpf ja extension 
+ vpp fortran datum parallel language design vpp 
+	 series supercomputer addition pure datum parallelism 
+	 contain certain low level feature design extract high 
+	 performance user program comparison vpp fortran 
+	 high performance fortran hpf 2.0 low level feature 
+	 available hpf 2.0 feature include asynchronous 
+	 interprocessor communication explicit shadow local directive 
+	 vpp fortran useful handle real world 
+	 application include hpf ja extension 
+	 describe paper hpf ja language specification 
+	 version 1.0 extension hpf 2.0 achieve practical performance 
+	 real world application result collaboration 
+	 japan association hpf jahpf practical programming 
+	 tune procedure hpf ja language specification describe 
+	 use nas parallel benchmark bt example 

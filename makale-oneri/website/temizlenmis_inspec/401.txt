@@ -1,0 +1,11 @@
+digital analog converter base differential quad switch 
+ high conversion rate high resolution oversample digital analog converter 
+	 dac direct digital modulation address paper new 
+	 type switch scheme differential quad switching 
+	 present verify feasibility scheme essential 
+	 auxiliary circuitry interface fabricate 0.8- 
+	 mu m cmos technology measure result switch scheme 
+	 provide 11 b resolution 100 msamples s 6 b 1 gsamples s. 
+	 degradation signal noise ratio observe variation 
+	 supply voltage 1.5 v mean propose scheme 
+	 suitable low voltage application 

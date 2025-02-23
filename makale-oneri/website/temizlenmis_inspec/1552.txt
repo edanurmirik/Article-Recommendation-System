@@ -1,0 +1,9 @@
+stability runge kutta method delay integro differential equation 
+ study stability runge kutta rk method delay integro differential 
+	 equation constant delay basis linear equation 
+	 du dt lu(t mu(t- tau k integral /sub t- tau //sup t/ u theta 
+	 d theta l m k constant complex matrix particular 
+	 result case k 0 koto 1994 hold 
+	 test equation i.e. stable rk method preserve 
+	 delay independent stability exact solution step size 
+	 form h tau /m use m positive integer 

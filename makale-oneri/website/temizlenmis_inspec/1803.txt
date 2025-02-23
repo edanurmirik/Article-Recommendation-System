@@ -1,0 +1,12 @@
+linear complexity polyphase power residue sequence 
+ know family binary legendre quadratic residue sequence 
+	 generalise multiple value case employ polyphase 
+	 representation p phase sequence p prime prime 
+	 length l construct index sequence length l 
+	 equivalently coset pth power residue 
+	 non residue modulo l. linear complexity polyphase 
+	 sequence derive fall class depend 
+	 value assign b sub 0/ initial digit sequence 
+	 p belong set pth power residue 
+	 characteristic polynomial linear feedback shift register 
+	 generate sequence derive 

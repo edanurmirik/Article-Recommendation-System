@@ -1,0 +1,15 @@
+generalized gaussian quadrature exponential application 
+ introduce new family gaussian type quadrature weighted integral 
+	 exponential function consider application integration 
+	 interpolation bandlimited function use generalization 
+	 representation theorem caratheodory derive 
+	 quadrature positive measure quadrature 
+	 parameterize eigenvalue toeplitz matrix construct 
+	 trigonometric moment measure accuracy epsilon 
+	 select eigenvalue close epsilon yield approximate 
+	 quadrature accuracy compute weight node 
+	 present new fast algorithm new quadrature use 
+	 approximate integrate bandlimited function prolate 
+	 spheroidal wave function essentially bandlimite function 
+	 bessel function develop precision 
+	 interpolate basis bandlimited function interval 

@@ -1,0 +1,15 @@
+extract straight road structure urban environment use ikonos satellite 
+	 imagery 
+ discuss fully automatic technique extract road urban 
+	 environment method basis vegetation mask derive 
+	 multispectral ikonos datum texture derive panchromatic 
+	 ikonos datum technique use distinguish road 
+	 pixel individual pixel object base 
+	 representation allow reason high level recognition 
+	 individual segment intersection relationship 
+	 use determine underlying road structure logically 
+	 hypothesize existence additional road network component 
+	 result image san diego california object base 
+	 processing component adapt utilize basis technique 
+	 use build road network scene 
+	 straight line structured topology 

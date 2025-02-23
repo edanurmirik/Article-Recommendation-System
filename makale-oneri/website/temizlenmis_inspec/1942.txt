@@ -1,0 +1,23 @@
+precode ofdm adaptive vector channel allocation scalable video 
+	 transmission frequency selective fade channel 
+ orthogonal frequency division multiplexing ofdm apply broadband 
+	 wireline wireless system high data rate transmission 
+	 severe intersymbol interference isi occur conventional 
+	 ofdm system provide advantage conversion isi channel 
+	 isi free subchannel multiple frequency band 
+	 suffer channel spectral null heavy data rate overhead 
+	 cyclic prefix insertion previously new ofdm framework precode 
+	 ofdm propose mitigate problem 
+	 precoding conversion isi channel isi free vector 
+	 channel paper consider application precode 
+	 ofdm system efficient scalable video transmission propose 
+	 enhance precoded ofdm system adaptive vector channel 
+	 allocation provide strong protection error 
+	 important layer layered bit stream structure scalable video 
+	 critical layer equivalently low layer 
+	 allocate vector channel high transmission quality channel 
+	 quality characterize frobenius norm metric base channel 
+	 estimation receiver channel allocation information feed 
+	 periodically transmitter control channel 
+	 simulation result demonstrate robustness propose 
+	 scheme noise fade inherent wireless channel 

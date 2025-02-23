@@ -1,0 +1,9 @@
+resolution current mode algorithmic analog digital converter 
+ error limit resolution current mode algorithmic analog digital 
+	 converter mainly relate current mirror operation 
+	 systematic error minimize proper circuit technique random 
+	 source unavoidable paper statistical analysis 
+	 resolution typical converter carry account 
+	 process tolerance support analysis 4 bit adc realize 
+	 0.35- mu m cmos technology exhaustively simulate result 
+	 find excellent agreement theoretical derivation 

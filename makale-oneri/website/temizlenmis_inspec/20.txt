@@ -1,0 +1,12 @@
+adaptive state feedback control class linear system unknown 
+	 bound uncertainty 
+ problem adaptive robust stabilization class linear time vary 
+	 system disturbance nonlinear uncertainty consider 
+	 bound disturbance uncertainty assume unknown 
+	 arbitrary uncertain dynamical system 
+	 adaptive robust state feedback controller obtain 
+	 result closed loop system asymptotically stable theory 
+	 adaptive robust state feedback control scheme 
+	 scheme ensure closed loop system exponentially practically 
+	 stable use practical engineering finally simulation 
+	 control scheme effective 

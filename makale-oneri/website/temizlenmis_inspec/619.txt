@@ -1,0 +1,5 @@
+wavelet base image segment representation 
+ efficient representation method arbitrarily shape image segment 
+	 propose method include smart way select wavelet basis 
+	 approximate image segment improve image quality 
+	 reduce computational load 

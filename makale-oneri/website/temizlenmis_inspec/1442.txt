@@ -1,0 +1,16 @@
+use construct type c++ union 
+ c++ standard state union type member 
+	 nontrivial constructor destructor 
+	 unreasonable thought clear case 
+	 crux problem union build semantic 
+	 denote member current member union 
+	 compiler know appropriate constructor 
+	 destructor union member good reason 
+	 want use construct object type union example 
+	 want implement scripting language single variable 
+	 type integer string list union 
+	 perfect candidate implement composite type 
+	 restriction construct union member prevent use 
+	 exist string list class example stl provide 
+	 underlie functionality luckily feature c++ 
+	 placement new provide workaround 

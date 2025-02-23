@@ -1,0 +1,18 @@
+quantitative analysis reconstruct 3 d coronary arterial tree 
+	 intracoronary device 
+ traditional quantitative coronary angiography perform dimensional 
+	 2 d projection view view choose angiographer 
+	 minimize vessel overlap foreshortening 2 d projection view 
+	 acquire nonstandardized fashion 
+	 way know estimate error occur qca process 
+	 furthermore coronary artery possess curvilinear shape undergo 
+	 cyclical deformation attachment myocardium 
+	 necessary obtain dimensional 3 d 
+	 information good describe quantify dynamic curvilinear 
+	 nature human coronary artery use patient specific 3 d 
+	 coronary reconstruction algorithm routine angiographic image 
+	 new technique propose describe 1 curvilinear nature 
+	 3 d coronary artery intracoronary device 2 magnitude 
+	 arterial deformation cause intracoronary device 
+	 heart motion 3 optimal view(s respect desire 
+	 pathway deliver intracoronary device 

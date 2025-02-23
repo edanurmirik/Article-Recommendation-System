@@ -1,0 +1,17 @@
+agc autonomous power system use combine intelligent technique 
+ present work intelligent load frequency controller 
+	 develop regulate power output system frequency 
+	 control speed generator help fuel rack 
+	 position control controller obtain use fuzzy logic 
+	 fl second use combination fl genetic 
+	 algorithm neural network aim propose controller(s 
+	 restore smooth way frequency nominal value 
+	 short time possible change load 
+	 demand etc action controller(s provide satisfactory 
+	 balance frequency overshoot transient oscillation 
+	 zero steady state error design performance evaluation 
+	 propose controller(s structure illustrate help case 
+	 study apply loss generality typical single area 
+	 power system find propose controller exhibit 
+	 satisfactory overall dynamic performance overcome possible 
+	 drawback associate compete technique 

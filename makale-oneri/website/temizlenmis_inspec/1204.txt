@@ -1,0 +1,23 @@
+design prototype performance tool interface openmp 
+ paper propose performance tool interface openmp similar spirit 
+	 mpi profiling interface intent define clear 
+	 portable api openmp execution event visible runtime 
+	 performance tool present design use source level 
+	 instrumentation approach base openmp directive rewrite rule 
+	 instrument directive combination apply generate 
+	 interface consistent directive semantic pass 
+	 context information e.g. source code location portable 
+	 efficient way propose openmp performance api far allow user 
+	 function arbitrary code region mark performance 
+	 measurement control use new openmp directive prototype 
+	 propose openmp performance interface develop compatible 
+	 performance library expert automatic event trace analyzer 
+	 17 18 tau performance analysis framework 13 directive 
+	 instrumentation transformation define implement 
+	 source source translation tool opari application example 
+	 present expert tau openmp performance 
+	 interface opari instrumentation tool operation use 
+	 mpi profiling interface example 
+	 demonstrate propose approach provide portable robust 
+	 solution performance analysis openmp mixed mode openmp 
+	 mpi application 

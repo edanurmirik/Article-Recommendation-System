@@ -1,0 +1,13 @@
+design pid type controller use multiobjective genetic algorithm 
+ design pid controller multiobjective problem plant set 
+	 specification satisfied designer adjust 
+	 parameter pid controller feedback 
+	 interconnection plant controller satisfy 
+	 specification specification usually competitive 
+	 acceptable solution require tradeoff approach 
+	 adjust parameter pid controller base multiobjective 
+	 optimization genetic algorithm present paper 
+	 mrcd multiobjective robust control design genetic algorithm 
+	 employ approach easily generalize design 
+	 multivariable couple decentralized pid loop 
+	 successfully validate large number experimental case 

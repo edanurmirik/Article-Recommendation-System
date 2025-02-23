@@ -1,0 +1,11 @@
+system embed control reduce observer 
+ interrelated problem design reduce observer plant state 
+	 separately control system consider 
+	 standpoint design multivariable linear system 
+	 desire matrix transfer function matrix equation define 
+	 entire constructive class solution pose problem 
+	 obtain use system embed technology demonstrate 
+	 control base reduced observer capable provide desire 
+	 response control input response nonzero 
+	 initial condition directly measurable 
+	 component state vector illustrative example present 

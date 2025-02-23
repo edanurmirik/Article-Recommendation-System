@@ -1,0 +1,3 @@
+application foundation application server 
+ change role application server mean choose right platform 
+	 complex challenge 

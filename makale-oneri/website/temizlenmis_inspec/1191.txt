@@ -1,0 +1,12 @@
+monotonicity conservation numerical solution heat equation 
+ important choose numerical method practice mirror 
+	 characteristic property describe process stability 
+	 convergence investigate qualitative property paper 
+	 conservation monotonicity space initial heat 
+	 distribution prove statement monotonicity 
+	 conservation total monotonicity step vector iteration 
+	 apply result consider numerical solution 
+	 dimensional heat equation main theorem formulate 
+	 necessary sufficient condition uniform monotonicity 
+	 conservation sharpness condition demonstrate 
+	 numerical example 

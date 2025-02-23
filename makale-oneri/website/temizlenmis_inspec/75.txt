@@ -1,0 +1,21 @@
+portable auto attendant system sophisticated dialog structure 
+ attendant system connect caller party want talk 
+	 traditional system require caller know 
+	 party caller forget system fail provide 
+	 service caller paper propose portable auto 
+	 attendant system aas sophisticated dialog structure 
+	 caller flexibility caller interact 
+	 system request phone number provide work area 
+	 specialty surname title etc party absent system 
+	 provide extra information 
+	 system build modularly 
+	 component speech recognizer language model dialog manager 
+	 text speech replace necessary simply 
+	 change personnel record database system easily port 
+	 company sophisticated dialog manager apply 
+	 strategy allow natural interaction user system 
+	 function fuzzy request user repair extra information 
+	 query provide system integrate 
+	 system experimental result comparison system 
+	 approach provide user friendly natural interaction 
+	 auto attendant system 

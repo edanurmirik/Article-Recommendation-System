@@ -1,0 +1,24 @@
+diffraction limit circular mask periodic rectangular aperture 
+	 array 
+ mask periodic aperture imaging system adopt widely play 
+	 lead role modern technology use pinhole camera 
+	 code imaging system optical information processing etc 
+	 high resolution infinite depth focus usefulness 
+	 broad frequency spectra range visible light x ray 
+	 gamma ray mask periodic aperture investigate 
+	 literature limit far field diffraction 
+	 shift aperture mask consideration 
+	 derivation far field diffraction single aperture 
+	 apply mask periodic aperture far field 
+	 diffraction formula modify multiaperture mask propose 
+	 past analysis remain complicated offer 
+	 practical guidance mask design study circular mask 
+	 periodic rectangular aperture develop easy way interpret 
+	 near field diffraction intensity circular aperture 
+	 calculate mean lommel function convolution 
+	 circular mask diffraction periodic rectangular aperture 
+	 present simple mathematical tool analyze 
+	 mask property include intensity distribution blurring 
+	 aberration criterion define far- near field 
+	 diffraction concept expand analyze different 
+	 type mask arbitrarily shape aperture 

@@ -1,0 +1,11 @@
+adaptive stabilization undampe flexible structure 
+ paper non identifier base adaptive stabilization undampe flexible 
+	 structure consider case collocate input output 
+	 operator system pole zero imaginary axis 
+	 case velocity feedback available adaptive stabilizer 
+	 construct adaptive pd controller proportional plus 
+	 derivative controller case position feedback 
+	 available adaptive stabilizer construct adaptive 
+	 p controller augment system consist control 
+	 system parallel compensator numerical example 
+	 illustrate effectiveness propose controller 

@@ -1,0 +1,8 @@
+application multiprocessor system computation jet 
+ article describe implementation method numerical solution 
+	 gas dynamic problem wide class multiprocessor system 
+	 conventionally characterize cluster system standard 
+	 data transfer interface message pass interface 
+	 use parallelization application algorithm processor 
+	 simulation jet escape low pressure region choose 
+	 computational example 

@@ -1,0 +1,28 @@
+real time estimation multi modal frequency smart structure 
+ paper method real time estimation multi modal 
+	 frequency realize real time compare numerical 
+	 experimental test parameter base frequency estimation 
+	 method apply engineering field 
+	 communication radar adaptive vibration noise control 
+	 know frequency estimation method introduce explain 
+	 bairstow method introduce find root characteristic 
+	 equation estimation multi modal frequency 
+	 computational efficiency bairstow method 
+	 quantitatively simple numerical test consider sinusoid 
+	 amplitude mix white noise 
+	 test result auto regressive ar auto regressive 
+	 average arma method unsuitable noisy environment 
+	 method apart ar method fast tracking capability 
+	 point view computational efficiency result reveal 
+	 arma method inefficient cascade notch filter 
+	 method effective linearize adaptive notch filter 
+	 recursive maximum likelihood method average performance 
+	 experimental test devise confirm feasibility real time 
+	 computation impose severe condition drastically 
+	 different amplitude considerable change natural 
+	 frequency perform experiment extract natural 
+	 frequency vibration signal wing like composite plate 
+	 real time natural frequency speciman change add 
+	 masse especially ar method exhibit remarkable performance 
+	 spite severe condition study helpful 
+	 need frequency estimation algorithm real time application 

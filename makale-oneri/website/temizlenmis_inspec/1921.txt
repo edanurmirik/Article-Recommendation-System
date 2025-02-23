@@ -1,0 +1,19 @@
+acl dynamic system agent 
+ article present design acl dynamic system agent 
+	 acl include set conversation performative extend 
+	 operation register create terminate agent main design 
+	 goal agent level provide knowledge level primitive 
+	 integrate dynamic nature system 
+	 goal achieve define anonymous interaction protocol 
+	 enable agent request supply knowledge 
+	 consider symbol level issue concern management agent 
+	 routing agent reachability anonymous interaction protocol 
+	 exploit distribute facilitator schema hide 
+	 agent level provide mechanism register capability 
+	 agent deliver request accord competence agent 
+	 present formal specification acl underlying 
+	 architecture exploit algebra actor illustrate 
+	 help graphical notation approach provide basis 
+	 discuss dynamic primitive acl study property 
+	 dynamic multi agent system example concern behavior 
+	 agent correctness conversation policy 

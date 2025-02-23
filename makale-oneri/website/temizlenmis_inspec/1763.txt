@@ -1,0 +1,15 @@
+numerical study 2d free surface wave fix 
+ motion surface wave effect interesting 
+	 challenging phenomenon nature use boundary integral 
+	 method compute analyze problem linear analysis 
+	 linearize equation bound error increase compatible 
+	 condition contribute cancellation instable 
+	 kelvin helmholtz term effect existence 
+	 equation hard determine limitation prove 
+	 true limitation swing interface 
+	 small distance surface 
+	 large order maintain stability computation 
+	 compatible relationship satisfied numerical example 
+	 simulation stand wave break wave calculate 
+	 case shallow find behavior wave 
+	 singular 

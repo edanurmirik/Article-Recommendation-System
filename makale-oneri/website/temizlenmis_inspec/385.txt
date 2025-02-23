@@ -1,0 +1,19 @@
+multiple model adaptive estimation filter spawning 
+ multiple model adaptive estimation mmae filter spawning use 
+	 detect estimate partial actuator failure vista f-16 
+	 truth model degree freedom simulation provide 
+	 calspan general dynamics design model choose 13 state 
+	 linearize model include order actuator model actuator 
+	 failure incorporate truth model design model 
+	 assume failure free stream filter spawning use include 
+	 additional filter partial actuator failure hypothesis 
+	 mmae bank spawned filter base vary degree partial 
+	 failure term effectiveness associate 
+	 complete actuaton failure hypothesis high conditional 
+	 probability correctness current time blend 
+	 estimate failure effectiveness find use filter 
+	 estimate base failure hypothesis complete actuator 
+	 failure hypothesis spawned filter partial failure 
+	 hypothesis yield substantial precision effectiveness 
+	 estimation compare possible spawn additional 
+	 filter partial failure adaptation viable methodology 

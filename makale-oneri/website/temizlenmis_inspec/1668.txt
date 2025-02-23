@@ -1,0 +1,12 @@
+elastic constraint branch wedelin carmen lagrangian heuristic 
+	 integer programming personnel scheduling 
+ wedelin algorithm lagrangian base heuristic 
+	 successfully use carmen systems solve large crew pair 
+	 problem airline industry extend wedelin approach 
+	 develop implementation personnel scheduling problem 
+	 term staff rostere problem exploit special structure 
+	 problem introduce elastic constraint branch 
+	 twin aim improve performance new approach 
+	 column generation friendly numerical result 
+	 approach outperform commercial solver cplex difficult 
+	 commercial rostere problem 

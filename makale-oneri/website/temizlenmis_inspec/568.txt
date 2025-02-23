@@ -1,0 +1,25 @@
+modeling cut temperature turn insert tool geometry 
+	 material 
+ temperature interest machining cut tool fail 
+	 thermal softening temperature activate wear model 
+	 cut temperature develop model consider 
+	 simple tool geometry rectangular slab sharp 
+	 corner report describe finite element study tool 
+	 temperature cut account tool nose radius include 
+	 angle effect temperature correction factor model use 
+	 design selection insert develop account 
+	 effect parametric mesh generator use generate 
+	 finite element model tool insert vary geometry 
+	 steady state temperature response calculate use nastran solver 
+	 finite element analysis fea run perform quantify 
+	 effect insert include angle nose radius material 
+	 insert tool holder cut temperature insert 
+	 rake face fea result utilize develop temperature 
+	 correction factor model account effect 
+	 temperature correction factor model integrate analytical 
+	 temperature model rectangular insert predict cut 
+	 temperature contour turning insert shape 
+	 nose radius finally experimental measurement cut temperature 
+	 use tool work thermocouple technique perform compare 
+	 prediction new temperature model comparison 
+	 good agreement 

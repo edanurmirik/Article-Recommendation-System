@@ -1,0 +1,12 @@
+pattern recognition strategy molecular surface ii surface 
+	 complementarity 
+ pt ibid vol.23 p.1176 87 2002 fuzzy logic base algorithm 
+	 quantitative treatment complementarity molecular surface 
+	 present overlap surface patch define 
+	 series use identification complementary surface 
+	 patch consider step solution molecular 
+	 docking problem standard technology use 
+	 optimization result complex structure algorithm 
+	 apply 33 biomolecular complex optimization 
+	 downhill simplex method complex structure 
+	 find good agreement experimental result 

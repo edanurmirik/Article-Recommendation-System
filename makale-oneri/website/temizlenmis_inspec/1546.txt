@@ -1,0 +1,7 @@
+necessary condition optimality impulsive system banach space 
+ present necessary condition optimality optimal control problem 
+	 arise system govern impulsive evolution equation banach 
+	 space basic notation terminology present 
+	 necessary condition optimality present special case 
+	 discuss present application classical linear 
+	 quadratic regulator problem 

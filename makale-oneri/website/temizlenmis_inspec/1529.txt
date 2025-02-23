@@ -1,0 +1,15 @@
+quantize state systems devs approach continuous system simulation 
+ new class dynamical system quantized state systems qss introduce 
+	 paper qss continuous time system input 
+	 trajectory piecewise constant function state variable 
+	 trajectory piecewise linear function 
+	 convert piecewise constant function quantization function 
+	 equip hysteresis qss exactly 
+	 represent simulate discrete event model 
+	 framework devs approach far qss 
+	 use approximate continuous system allow 
+	 discrete event simulation opposition classical discrete time 
+	 simulation approximate qss 
+	 stability property original system conserve 
+	 solution qss solution original system 
+	 quantization zero 

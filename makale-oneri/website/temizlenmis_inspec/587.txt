@@ -1,0 +1,15 @@
+improved self organize cpn base fuzzy system adaptive 
+	 propagation algorithm 
+ paper describe improved self organize cpn base counter propagation 
+	 network fuzzy system self organize algorithm iusocpn 
+	 issocpn unsupervise supervise respectively 
+	 introduce idea construct neural fuzzy system 
+	 phase hybrid learning algorithm utilize cpn base 
+	 near neighbor clustering scheme structure learn 
+	 initial parameter set gradient descent method adaptive 
+	 learning rate fine tune parameter obtain network 
+	 use way cpn model control dynamic system 
+	 fast learn speed original propagation 
+	 algorithm comparative result example suggest 
+	 method fairly efficient term simple structure fast learning 
+	 speed relatively high modeling accuracy 

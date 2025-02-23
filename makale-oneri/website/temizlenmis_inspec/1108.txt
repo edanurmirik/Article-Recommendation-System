@@ -1,0 +1,19 @@
+visible cement datum set 
+ advance x ray microtomography possible obtain 
+	 dimensional representation material microstructure 
+	 voxel size micrometer visible cement data set 
+	 represent collection 3 d data set obtain use european 
+	 synchrotron radiation facility grenoble france september 2000 
+	 image obtain hydrate portland cement paste 
+	 data set represent hydrate plaster paris 
+	 common building brick datum set available 
+	 visible cement data set website 
+	 http://visiblecement.nist.gov website include raw 3 d 
+	 datafile description material image datum set 
+	 example dimensional image visualization datum set 
+	 collection c language computer program use 
+	 processing analyze 3 d microstructural image paper 
+	 provide detail experiment perform esrf 
+	 analysis procedure utilize obtain datum set file 
+	 representative example image material 
+	 investigate 

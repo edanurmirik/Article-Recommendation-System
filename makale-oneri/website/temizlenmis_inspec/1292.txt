@@ -1,0 +1,9 @@
+heat build automation system 
+ integrate building automation system bas result system 
+	 ability sense change air temperature 
+	 building heating ventilation air conditioning hvac system 
+	 advantage internet use remote monitoring 
+	 build interoperability open protocol system 
+	 issue discuss bas hvac community 
+	 information internet facility manager real time datum 
+	 energy usage performance issue 

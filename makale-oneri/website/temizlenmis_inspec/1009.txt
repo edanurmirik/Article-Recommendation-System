@@ -1,0 +1,14 @@
+robust output feedback model predictive control use line linear matrix 
+	 inequality 
+ fundamental question model predictive control mpc robustness 
+	 model uncertainty paper present robust constrained 
+	 output feedback mpc algorithm stabilize plant 
+	 polytopic uncertainty norm bind uncertainty design procedure 
+	 involve line design robust constrained state feedback mpc law 
+	 state estimator use linear matrix inequality lmis 
+	 employ line approach controller design 
+	 sequence explicit control law able analyze robust 
+	 stabilizability combine control law estimator 
+	 adjust design parameter guarantee robust stability 
+	 closed loop system presence constraint algorithm 
+	 illustrate example 

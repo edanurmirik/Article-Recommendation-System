@@ -1,0 +1,16 @@
+quality image metric synthetic image base perceptual color 
+	 difference 
+ improvement image rendering process increase 
+	 importance quantitative comparison synthetic color image 
+	 essential define perceptually base metric enable 
+	 objectively assess visual quality digital simulation 
+	 response need paper propose new methodology 
+	 determination objective image quality metric answer 
+	 problem metric methodology base 
+	 llab color space perception color complex image 
+	 modification cielab1976 color space metric propose 
+	 pixel pixel metric introduce local distance map 
+	 image second metric associate pair image 
+	 global value finally metric use recursive subdivision 
+	 image obtain adaptative distance map rougher 
+	 expensive compute method 

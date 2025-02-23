@@ -1,0 +1,14 @@
+recent advance validate method ivp ode 
+ compare standard numerical method initial value problem ivps 
+	 ordinary differential equation ode validate method 
+	 interval method ivps ode important advantage 
+	 return solution problem 1 problem guarantee 
+	 unique solution 2 enclosure true solution 
+	 produce present brief overview interval taylor series 
+	 method ivp ode discuss recent advance 
+	 theory validate method ivp ode particular 
+	 discuss interval hermite obreschkoff iho scheme computing 
+	 rigorous bound solution ivp ode stability 
+	 iho method new perspective wrapping effect 
+	 interpret problem reduce wrapping effect 
+	 find stable scheme advance solution 

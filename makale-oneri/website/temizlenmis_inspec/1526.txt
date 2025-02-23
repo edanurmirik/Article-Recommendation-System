@@ -1,0 +1,25 @@
+gk devs geometric kinematic devs formalism simulation modeling 
+	 3 dimensional multi component system 
+ combine discrete continuous simulation methodology base devs 
+	 discrete event system specification formalism present 
+	 paper satisfy simulation requirement 3 dimensional 
+	 dynamic system multi component propose geometric 
+	 kinematic devs gk devs formalism able describe 
+	 geometric kinematic structure system continuous state 
+	 dynamic interaction multi component 
+	 establish model dynamic behavior particular 
+	 hierarchical structure atomic coupled model 
+	 conventional devs merge model propose formalism 
+	 simulation continuous motion 3 d component 
+	 sequential state set partition discrete 
+	 continuous state set rate change function 
+	 continuous state set employ modify 
+	 conventional devs formalism gk devs formalism preserve 
+	 hierarchical modular modeling fashion coupling scheme 
+	 furthermore gk devs model simulation propose abstract 
+	 simulation algorithm gk simulator datum control 
+	 separate event schedule globally hierarchically 
+	 object orient principle satisfied propose gk devs 
+	 formalism gk simulator algorithm apply 
+	 simulation flexible manufacturing system consist 2 axis 
+	 lathe 3 axis milling machine vehicle mount robot 

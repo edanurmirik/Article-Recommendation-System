@@ -1,0 +1,7 @@
+lossy spice model produce realistic average simulation 
+ previous average model state space averaging technique switch 
+	 waveform analysis usually apply perfect element 
+	 non inclusive ohmic loss element play 
+	 active role dc transfer function affect small signal 
+	 ac analysis introduce damp effect model 
+	 introduce boost voltage mode application 

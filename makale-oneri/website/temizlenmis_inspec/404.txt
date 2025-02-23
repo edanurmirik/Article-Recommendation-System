@@ -1,0 +1,15 @@
+0.8 v 128 kb way set associative level cmos cache memory use 
+	 stage wordline bitline orient tag compare wlotc blotc scheme 
+ paper report 0.8 v 128 kb way set associative level cmos cache 
+	 memory use novel stage wordline bitline orient tag compare 
+	 wlotc blotc sense wordline bitline swl sbl tag sense amplifier 
+	 transistor 8 t tag cell level 2 l2 10 t 
+	 shrink logic swing sls memory cell ground float g f 
+	 datum sense amplifier level 1 l1 high speed operation 
+	 low voltage low power vlsi system application owe reduced 
+	 loading swl new 11 t tag cell use wlotc scheme 
+	 10 t sls memory cell g f sense amplifier l1 split 
+	 comparison index signal 8 t tag cell swl sbl tag 
+	 sense amplifier l2 0.8 v cache memory implement 1.8 v 
+	 0.18- mu m cmos technology measure l1 l2 hit time 11.6/20.5 
+	 ns average dissipation 0.77 mw 50 mhz 

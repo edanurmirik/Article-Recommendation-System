@@ -1,0 +1,8 @@
+dynamic method weight linear square problem 
+ new method solve weighted linear square problem 
+	 rank propose base theory liapunov stability 
+	 method associate dynamic system weighted linear square 
+	 problem solution interested integrate 
+	 numerically stable numerical method numerical test 
+	 suggest new method comparative current 
+	 conventional technique base normal equation 

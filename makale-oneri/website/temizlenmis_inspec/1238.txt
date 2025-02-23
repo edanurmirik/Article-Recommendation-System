@@ -1,0 +1,17 @@
+optimization element element fem hpf 1.1 
+ study poisson equation numerically evaluate 
+	 element element ebe finite element method parallel 
+	 environment use hpf 1.1 high performance fortran order 
+	 achieve high parallel efficiency datum structure alter 
+	 node base datum instead mixture node- element base datum 
+	 represent node base ebe finite element scheme nebe 
+	 parallel machine use study nec sx-4 experiment 
+	 perform single node 32 processor share common 
+	 memory hpf compiler use experiment hpf sx rev 2.0 
+	 release 1997 unofficial support hpf 1.1 model 
+	 contain approximately 200 000 1,500,000 degree freedom 
+	 analyze order evaluate method calculation time 
+	 parallel efficiency memory use compare performance 
+	 hpf conjugate gradient solver large model use nec 
+	 sx-4 compiler option noshrunk 85 message 
+	 pass interface 

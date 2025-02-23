@@ -1,0 +1,13 @@
+polarization rf field human head high field study 
+	 quadrature surface coil 7.0 t 
+ rf field intensity distribution human brain inhomogeneous 
+	 wave behavior high field far complicate 
+	 spatial distribution rf field polarization consider 
+	 predict image intensity distribution additional layer 
+	 complexity involve quadrature coil use transmission 
+	 reception study complicated rf field behavior computer 
+	 modeling method employ investigate rf field 
+	 quadrature surface coil 300 mhz theoretical experimental 
+	 result phantom human head 7.0 t present 
+	 result theoretically important practically useful 
+	 high field quadrature coil design application 

@@ -1,0 +1,7 @@
+randomize process wait free test set 
+ present explicit currently simple randomize algorithm 
+	 process wait free test set implement 4 value 
+	 single writer single reader atomic variable test set 
+	 11 expect elementary step reset exactly 1 
+	 elementary step base finite state analysis proof 
+	 correctness expect length compress table 

@@ -1,0 +1,16 @@
+formal verification human automation interaction 
+ paper discuss formal rigorous approach analysis operator 
+	 interaction machine address acute problem detect 
+	 design error human machine interaction focus verify 
+	 correctness interaction complex automated control 
+	 system paper describe systematic methodology evaluate 
+	 interface provide necessary information 
+	 machine enable operator perform specified task successfully 
+	 unambiguously address adequacy information 
+	 provide user training material e.g. user manual 
+	 machine behavior essential methodology 
+	 automate apply verification large system 
+	 illustrate example case study pilot 
+	 interaction autopilot aboard modern commercial aircraft 
+	 expect application methodology augmentation 
+	 enhancement formal verification human automation interface 

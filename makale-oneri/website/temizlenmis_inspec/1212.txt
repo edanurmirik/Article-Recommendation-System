@@ -1,0 +1,14 @@
+tcrm diagnose tuple inconsistency granulize dataset 
+ approach granularization present knowledge discovery 
+	 inconsistent tuple exist granulize dataset 
+	 hardly reveal develop model tuple consistency 
+	 recognition model tcrm help efficiently detect inconsistent tuple 
+	 dataset granulize main output develop 
+	 model include explore inconsistent tuple consume processing 
+	 time far conduct empirical test eighteen continuous 
+	 real life dataset granulize equal width interval technique 
+	 embed s plus histogram bin algorithm shba large 
+	 binning size algorithm lbsa bin algorithm diagnose 
+	 remarkable result 40 granulize dataset contain 
+	 inconsistent tuple 22 inconsistent tuple 
+	 20 

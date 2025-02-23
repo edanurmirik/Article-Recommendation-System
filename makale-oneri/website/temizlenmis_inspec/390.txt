@@ -1,0 +1,28 @@
+automate breath detection long duration signal use feedforward 
+	 backpropagation artificial neural network 
+ new breath detection algorithm present intend automate 
+	 analysis respiratory datum acquire sleep algorithm 
+	 base independent artificial neural network ann sub insp/ 
+	 ann sub expi/ recognize original signal window 
+	 interest onset inspiration expiration occur 
+	 postprocessing consist find inside window 
+	 interest minimum maximum corresponding inspiration 
+	 expiration ann sub insp/ ann sub expi/ correctly determine 
+	 respectively 98.0 98.7 desire window compare 
+	 29 820 inspiration 29 819 expiration detect human expert 
+	 obtain entire night recording postprocessing allow 
+	 determination inspiration expiration onset mean 
+	 difference respect human expert mean or- sd 34 
+	 or- 71 ms inspiration 5 or- 46 ms expiration method 
+	 prove effective detect onset inspiration 
+	 expiration night continuous recording comparison 
+	 human expert perform classification task yield 
+	 automate algorithm undifferentiable human expert 
+	 fail distribution human expert result 
+	 applicable adult respiratory volume datum present algorithm 
+	 successfully apply infant sleep datum consist 
+	 uncalibrated rib cage abdominal movement recording comparison 
+	 previously publish algorithm breath detection 
+	 respiratory volume signal present algorithm 
+	 high specificity present similar high positive 
+	 predictive value 

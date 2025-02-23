@@ -1,0 +1,8 @@
+pontryagin maximum principle optimal control govern fluid dynamic 
+	 system point boundary state constraint 
+ study optimal control problem subject semilinear equation 
+	 state constraint prove certain theorem example state 
+	 constraint maximum principle hold main difficulty 
+	 problem sensitivity analysis state 
+	 respect control cause unboundedness nonlinearity 
+	 operator 

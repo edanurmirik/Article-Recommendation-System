@@ -1,0 +1,11 @@
+new method oscillatory problem base classical code 
+ numerical integration differential equation oscillatory solution 
+	 common problem field apply science 
+	 method specially devise kind problem 
+	 calculation coefficient need computational 
+	 effort classical code coefficient depend 
+	 step size simple manner contrary work 
+	 present new algorithm specially design perturb oscillator 
+	 coefficient simple dependence step size 
+	 method obtain competitive compare classical 
+	 special code 

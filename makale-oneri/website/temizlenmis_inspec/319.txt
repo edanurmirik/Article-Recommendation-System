@@ -1,0 +1,17 @@
+design screening experiment highly reliable product 
+ reasonable life testing time improve reliability highly 
+	 reliable product great challenge use resolution 
+	 iii experiment degradation test tseng et al 1995 
+	 present case study improve reliability fluorescent 
+	 lamp conduct experiment address 
+	 problem choose optimal setting variable 
+	 sample size inspection frequency termination time run 
+	 influential correct identification significant 
+	 factor experimental cost assume product 
+	 degradation path satisfy wiener process paper propose 
+	 systematic approach aforementioned problem 
+	 identification rule propose constraint 
+	 minimum probability correct decision maximum probability 
+	 incorrect decision propose identification rule optimum 
+	 test plan obtain minimize total experimental cost 
+	 example provide illustrate propose method 

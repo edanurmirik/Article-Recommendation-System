@@ -1,0 +1,10 @@
+quasi newton algorithm adaptive minor component extraction 
+ adaptive quasi newton algorithm develop extract single minor 
+	 component correspond small eigenvalue stationary 
+	 sample covariance matrix deflation technique instead commonly 
+	 use inflation method apply extract high order minor 
+	 component algorithm enjoy advantage simple 
+	 computational complexity highly modular parallel structure 
+	 efficient implementation simulation result 
+	 demonstrate effectiveness propose algorithm extract 
+	 multiple minor component adaptively 

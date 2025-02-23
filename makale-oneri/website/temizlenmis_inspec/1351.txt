@@ -1,0 +1,20 @@
+analytic pca construction theoretical analysis light variability 
+	 image lambertian object 
+ analyze theoretically subspace approximate image convex 
+	 lambertian object viewpoint different 
+	 distant illumination condition analytically construct 
+	 principal component analysis image convex lambertian object 
+	 explicitly attach shadow account find principal 
+	 eigenmode eigenvalue respect light variability 
+	 analysis use analytic formula irradiance term 
+	 spherical harmonic coefficient illumination 
+	 appropriate assumption principal component eigenvector 
+	 identical spherical harmonic basis function evaluate 
+	 surface normal vector main contribution extend 
+	 result single viewpoint case principal 
+	 eigenmode eigenvalue affect limited subset 
+	 upper hemisphere normal available spherical harmonic 
+	 long orthonormal restricted domain result 
+	 close qualitatively quantitatively previous 
+	 empirical observation represent essentially complete 
+	 theoretical explanation observation 

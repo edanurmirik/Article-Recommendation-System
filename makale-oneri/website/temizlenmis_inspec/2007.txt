@@ -1,0 +1,14 @@
+creation high fidelity finite element model kidney use 
+	 trauma research 
+ detailed finite element model human kidney trauma research 
+	 create directly national library medicine visible 
+	 human female vhf project datum set image segmentation organ 
+	 reconstruction software package develop employ 
+	 transform 2d vhf image 3d polygonal representation 
+	 nonuniform rational b spline nurbs surface map 
+	 polygonal surface finally utilize create robust 3d 
+	 hexahedral finite element mesh commercially available meshing 
+	 software model employ combine viscoelastic hyperelastic 
+	 material model successfully simulate behaviour biological 
+	 soft tissue finite element model validate use 
+	 biomechanical research 

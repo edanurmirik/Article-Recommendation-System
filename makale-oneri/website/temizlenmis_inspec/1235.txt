@@ -1,0 +1,22 @@
+find performance bug tno hpf benchmark suite 
+ high performance fortran hpf design provide portable 
+	 performance distribute memory machine important aspect 
+	 portable performance behavior available hpf compiler 
+	 ideally programmer expect comparable performance 
+	 different hpf compiler program machine 
+	 test performance portability compiler design 
+	 special benchmark suite tno hpf benchmark suite 
+	 consist set hpf program test aspect 
+	 efficient parallel code generation benchmark suite consist 
+	 number template program use generate test program 
+	 different array size alignment distribution iteration 
+	 space range simple assignment complex 
+	 assignment triangular iteration space convex iteration 
+	 space coupled subscript indirection array run tno 
+	 hpf benchmark suite compiler prepare prototype compiler 
+	 pgi hpf compiler gmd adaptor hpf compiler result 
+	 performance difference large order 
+	 magnitude test program close inspection reveal 
+	 origin difference performance 
+	 difference local enumeration storage distribute array 
+	 element 

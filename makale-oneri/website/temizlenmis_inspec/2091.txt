@@ -1,0 +1,23 @@
+prospect quantitative compute tomography imaging presence 
+	 foreign metal body use statistical image reconstruction 
+ x ray compute tomography ct image patient bear metal intracavitary 
+	 applicator metal foreign object exhibit severe artifact 
+	 include streak aliasing systematically evaluate 
+	 computer simulation impact scatter radiation 
+	 polyenergetic spectrum measurement noise performance 
+	 reconstruction algorithm conventional filter backprojection 
+	 fbp deterministic iterative deblurring new iterative 
+	 algorithm alternate minimization base ct detector model 
+	 include noise scatter polyenergetic spectra contrary 
+	 dominant view literature fbp streaking artifact 
+	 mismatch fbp simplified model ct detector 
+	 response physical process signal acquisition artifact 
+	 image significantly mitigate algorithm substantially 
+	 reduce detector model mismatch metal artifact reduce 
+	 acceptable level prior knowledge metal object 
+	 patient include pose shape attenuation map use 
+	 constrain iteration image reconstruction combination 
+	 object constrain ct estimate pose metal object 
+	 patient promising approach effectively mitigate metal 
+	 artifact quantitative estimation tissue attenuation 
+	 coefficient clinical possibility 

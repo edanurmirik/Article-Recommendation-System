@@ -1,0 +1,11 @@
+reachability contextual net 
+ contextual net petri net read arcs model concurrent system 
+	 context dependent action problem reachability 
+	 net consist find sequence transition lead 
+	 initial marking contextual net goal marking 
+	 solution problem present paper consist 
+	 construct finite complete prefix unfolding 
+	 contextual net finite prefix marking 
+	 reachable initial marking present search 
+	 branch prefix goal mark solve 
+	 appropriate linear programming problem 

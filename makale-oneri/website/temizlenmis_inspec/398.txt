@@ -1,0 +1,15 @@
+unconditionally stable extend use finite element time domain solution 
+	 active nonlinear microwave circuit use perfectly match layer 
+ paper propose extension unconditionally stable finite element 
+	 time domain fetd method global electromagnetic analysis 
+	 active microwave circuit formulation advantage 
+	 time step size long govern spatial discretization 
+	 mesh nyquist sampling criterion second 
+	 implementation truncation perfectly match layer pml 
+	 straightforward anisotropic pml absorbing material present 
+	 truncation fetd lattice reflection -50 db 
+	 obtain numerically entire propagation bandwidth waveguide 
+	 microstrip line benchmark test microwave amplifier 
+	 indicate extended fetd algorithm superior 
+	 finite difference time domain base algorithm mesh flexibility 
+	 simulation accuracy reduce computation time dramatically 

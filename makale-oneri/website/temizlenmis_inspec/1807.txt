@@ -1,0 +1,9 @@
+regional flux target minimum energy 
+ extension gradient controllability problem case target 
+	 subregion boundary parabolic system domain 
+	 discuss definition property adapt case 
+	 present focus characterisation control 
+	 achieve regional boundary gradient target minimum energy 
+	 approach develop lead numerical algorithm 
+	 computation optimal control numerical illustration 
+	 efficiency approach lead conjecture 

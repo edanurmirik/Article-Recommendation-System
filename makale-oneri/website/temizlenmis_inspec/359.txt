@@ -1,0 +1,11 @@
+neighborhood operator system approximation 
+ paper present framework study generalize standard 
+	 notion equivalence relation rough set approximation space 
+	 category k step neighborhood system base binary 
+	 relation finite universe family binary relation 
+	 obtain corresponding class k step neighborhood 
+	 system derive extension pawlak 1982 rough set 
+	 approximation operator base neighborhood system 
+	 propose property neighborhood operator system rough set 
+	 approximation operator investigate connection 
+	 examine 

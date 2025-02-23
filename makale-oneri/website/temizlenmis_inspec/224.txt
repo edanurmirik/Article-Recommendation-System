@@ -1,0 +1,5 @@
+java portability test 
+ sun microsystems recently launch java verification program aim enable 
+	 company assess cross platform portability application 
+	 write java help software vendor ensure 
+	 solution run heterogenous j2ee application server environment 

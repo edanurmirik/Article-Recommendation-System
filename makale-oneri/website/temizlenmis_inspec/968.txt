@@ -1,0 +1,14 @@
+stabilization global invariant set chaotic system energy base 
+	 control approach 
+ paper present new control approach steer trajectory 
+	 dimensional nonlinear chaotic system stable stationary 
+	 state time periodic orbit propose method mainly consist 
+	 slide mode base control design extend explicit 
+	 consideration system energy basis controller design 
+	 system stabilization control objective regulate 
+	 energy respect shape nominal representation implicitly 
+	 relate system trajectory paper establish 
+	 theoretical result introduce control design approach refer 
+	 energy base slide mode control capability 
+	 propose approach illustrate example relate 
+	 chaotic circuit chua 

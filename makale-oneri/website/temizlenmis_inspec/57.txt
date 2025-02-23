@@ -1,0 +1,21 @@
+speaker adaptive modeling vocal tract normalization 
+ paper present method speaker adaptive modeling use vocal tract 
+	 normalization vtn experimental test database 
+	 propose new training method vtn use single density 
+	 acoustic model hmm state select scale factor 
+	 frequency axis avoid problem mixture density tend 
+	 learn scale factor training speaker 
+	 use select scale factor use single gaussian 
+	 density select scale factor training result low 
+	 error rate use mixture density recognition phase 
+	 propose improvement know pass strategy use 
+	 non normalize acoustic model recognition pass instead 
+	 normalize model low error rate obtain recognition 
+	 test method compare fast variant vtn pass 
+	 strategy efficient method suboptimal scale 
+	 factor word sequence determine sequentially find 
+	 telephone digit string recognition suboptimality reduce 
+	 vtn gain recognition performance 30 relative summary 
+	 german spontaneous speech task verbmobil wsj task german 
+	 telephone digit string corpus sietill propose method vtn 
+	 reduce error rate significantly 

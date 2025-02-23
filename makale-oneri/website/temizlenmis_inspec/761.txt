@@ -1,0 +1,15 @@
+nmr implementation quantum lattice gas algorithm 
+ recent theoretical result suggest array quantum information 
+	 processor communicate classical channel use solve 
+	 fluid dynamic problem quantum lattice gas algorithm qlga run 
+	 architecture solve diffusion equation 
+	 nonlinear burgers equation report describe 
+	 progress ensemble nuclear magnetic resonance nmr 
+	 implementation qlga solve diffusion equation 
+	 method rely nmr technique encode initial mass density 
+	 ensemble qubit quantum information processor use standard 
+	 pulse technique mass density manipulate evolve 
+	 step algorithm provide experimental result 
+	 attempt realize nmr implementation result 
+	 qualitatively follow ideal simulation observe 
+	 implementation error highlight need improved control 

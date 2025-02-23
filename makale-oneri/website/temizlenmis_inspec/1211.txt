@@ -1,0 +1,19 @@
+hybrid decision tree 
+ paper hybrid learn approach hybrid decision tree hdt 
+	 propose hdt simulate human reasoning use symbolic learning 
+	 qualitative analysis use neural learning subsequent 
+	 quantitative analysis generate trunk binary hdt accord 
+	 binary information gain ratio criterion instance space 
+	 define original unordered attribute unordered attribute 
+	 far distinguish training example fall leaf node 
+	 diversity diversity threshold node 
+	 mark dummy node dummy node mark 
+	 specific feedforward neural network fannc train 
+	 instance space define original order attribute exploit 
+	 accomplish learning task paper distinguish 
+	 kind incremental learning task incremental learning 
+	 procedure design example incremental learning different 
+	 storage requirement provide enable hdt deal gracefully 
+	 datum set new datum frequently append 
+	 hypothesis drive constructive induction mechanism provide 
+	 enable hdt generate compact concept description 

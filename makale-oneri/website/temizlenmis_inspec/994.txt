@@ -1,0 +1,20 @@
+design implementation flexible manufacturing control system use 
+	 neural network 
+ design implementation sequential controller base concept 
+	 artificial neural network flexible manufacturing system 
+	 present recurrent neural network rnn type use 
+	 purpose contrary programmable controller rnn base 
+	 sequential controller base definite mathematical model 
+	 depend experience trial error technique 
+	 propose controller flexible limit 
+	 restriction finite state automata theory adequate 
+	 guideline construct rnn base sequential controller 
+	 present guideline apply different case study 
+	 propose controller test simulation real time experiment 
+	 test prove successfulness propose controller 
+	 performance theoretical experimental result present 
+	 discuss indicate propose design procedure use 
+	 elman rnn effective design sequential controller 
+	 event base type manufacturing system addition simulation 
+	 result assure effectiveness propose controller overcome 
+	 effect noisy input 

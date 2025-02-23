@@ -1,0 +1,9 @@
+elimination zero order diffraction digital holography 
+ simple method suppress zero order diffraction reconstructed 
+	 image digital holography present method laplacian 
+	 detect hologram use instead hologram 
+	 numerical reconstruction compute discrete fresnel integral 
+	 method significantly improve image quality 
+	 resolution high accuracy reconstructed image main 
+	 advantage method simplicity experimental 
+	 requirement convenience datum processing 

@@ -1,0 +1,10 @@
+numerical simulation information recovery quantum computer 
+ decoherence main problem solve quantum computer 
+	 build control decoherence possible use error correction 
+	 method method noisy quantum computation 
+	 process work study ability steane shor 
+	 fault tolerant recover method modification 
+	 steane ancilla network correct error qubit test way 
+	 measure correctly ancilla fidelity method state 
+	 possibility carry effective error correction 
+	 noisy quantum channel use noisy error correction method 

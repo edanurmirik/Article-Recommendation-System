@@ -1,0 +1,8 @@
+robustness trajectory finite time extent 
+ problem estimate perturbation bound finite trajectory 
+	 consider trajectory assume generate linear 
+	 system uncertainty characterize term integral quadratic 
+	 constraint perturbation bound obtain 
+	 solution nonconvex quadratic optimization problem 
+	 address use lagrange relaxation result use 
+	 robustness analysis hybrid system switch dynamical system 

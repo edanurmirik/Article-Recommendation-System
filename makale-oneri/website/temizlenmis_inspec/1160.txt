@@ -1,0 +1,7 @@
+monoid polygon omega -stable proof mustafin poizat 
+	 conjecture 
+ monoid s omega -stabilizer superstabilizer stabilizer 
+	 s polygon omega -stable superstable stable theory 
+	 prove omega -stabilizer regular monoid 
+	 confirm mustafin poizat conjecture allow end 
+	 description omega -stabilizer 

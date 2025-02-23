@@ -1,0 +1,25 @@
+development visual design steering aid large scale 
+	 multidisciplinary design optimization i. method development 
+ modify paradigm computational steering cs term visual design 
+	 steering vds develop paper vds paradigm apply 
+	 optimal design problem provide mean capture 
+	 enable designer insight vds allow designer decision 
+	 analysis optimization visual 
+	 environment order effectively steer solution process 
+	 objective vds obtain solution time 
+	 use designer knowledge expertise use visual 
+	 representation complex system manner enable human 
+	 experience judgement incorporate optimal design 
+	 process appropriate step traditional black box 
+	 solver return solution prescribe input set 
+	 paper focus research issue pertain graph morphing 
+	 visualization method create represent n dimensional optimization 
+	 problem use 2 dimensional 3 dimensional visualization ii 
+	 investigate implementation vds paradigm use graph 
+	 morphing approach improve optimal design process specifically 
+	 follow issue address impact design variable change 
+	 optimal design space identification possible constraint 
+	 redundancy impact constraint tolerance optimal solution 
+	 smoothness objective function contour demonstrate 
+	 graph morphing effectively reduce complexity 
+	 computational time associate optimization problem 

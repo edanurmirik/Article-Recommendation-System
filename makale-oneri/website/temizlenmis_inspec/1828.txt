@@ -1,0 +1,22 @@
+exploit structure quantify formula 
+ study computational problem find value quantify formula 
+	 obtain quantify variable sum term sum 
+	 base commutative monoid quantifier need satisfy 
+	 simple condition variable finite domain 
+	 problem generalization problem 
+	 sum product term find value sum study r.e. 
+	 stearns h.b. hunt iii 1996 data structure structure 
+	 tree define display information subproblem 
+	 solve independently process evaluate 
+	 formula formula good structure tree enable certain 
+	 generic algorithm evaluate formula significantly time 
+	 brute force evaluation generic algorithm mean 
+	 algorithm construct uninterpreted function symbol quantifier 
+	 symbol monoid operation algebraic nature model 
+	 facilitate formal treatment local reduction base 
+	 local replacement term local reduction preserve formula 
+	 structure sense structure tree nice property 
+	 transform structure tree similar property local 
+	 reduction use transform hierarchical specify 
+	 problem useful structure hierarchically specify problem 
+	 similar structure 

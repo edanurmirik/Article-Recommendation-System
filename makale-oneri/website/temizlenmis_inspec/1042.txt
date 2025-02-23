@@ -1,0 +1,11 @@
+chaotic phenomenon fractional order dynamic trajectory control 
+	 redundant manipulator 
+ redundant manipulator advantage compare classical arm 
+	 allow trajectory optimization free space 
+	 presence obstacle resolution singularity 
+	 type arm propose kinematic control algorithm adopt 
+	 generalize inverse matrix general corresponding 
+	 trajectory planning scheme important limitation motivate 
+	 problem paper study chaos reveal 
+	 pseudoinverse base trajectory planning algorithm use theory 
+	 fractional calculus 

@@ -1,0 +1,16 @@
+vacuum compatible vibration isolation stack interferometric 
+	 gravitational wave detector tama300 
+ interferometric gravitational wave detector require large degree 
+	 vibration isolation purpose multilayer stack construct 
+	 rubber metal block suitable provide isolation 
+	 degree freedom tama300 300 m interferometer 
+	 japan long term dimensional stability compatibility 
+	 ultrahigh vacuum environment 10 sup -6/ pa require 
+	 interferometer operating point despite ground strain 
+	 thermal drift isolation system thermal actuator 
+	 introduce prevent high outgas rate rubber 
+	 spoil vacuum rubber block enclose gas tight 
+	 bellow use technique successfully develop 
+	 layer stack vibration isolation ratio 
+	 10 sup 3/ 300 hz control drift vacuum 
+	 compatibility 

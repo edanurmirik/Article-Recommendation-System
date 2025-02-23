@@ -1,0 +1,18 @@
+self organize context base approach tracking multiple robot 
+	 trajectory 
+ combine competitive hebbian learn neural network design 
+	 learn recall complex spatiotemporal sequence 
+	 sequence particular item occur sequence 
+	 share state sequence processing repeat share 
+	 state hard problem occur domain 
+	 robotic propose model consist group synaptic 
+	 weight competitive interlayer hebbian intralayer connection 
+	 responsible encode respectively spatial 
+	 temporal feature input sequence additional mechanism 
+	 allow network deal share state context unit neuron 
+	 disabled learn redundancy use encode sequence state 
+	 network operate determine current state 
+	 learned sequence model simulate set 
+	 robot trajectory order evaluate storage retrieval 
+	 ability sequence sample effect robustness noise 
+	 tolerance fault 

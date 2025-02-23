@@ -1,0 +1,15 @@
+optical actuation bistable mems 
+ paper present optical actuation scheme mems device base 
+	 establish fact light possess momentum impart 
+	 force equal 2 w c reflect surface w 
+	 total power reflected light c speed light 
+	 radiation pressure know nearly insignificant 
+	 macroscale application significant mems 
+	 device addition light actuation offer new paradigm 
+	 intersect light beam interfere contrast electrical 
+	 conductor short come contact second light 
+	 operate high temperature high radiation environment far outside 
+	 capability solid state electronic component actuation 
+	 method demonstrate air vacuum switch 
+	 state bistable mems device associate heat transfer model 
+	 present 

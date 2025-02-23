@@ -1,0 +1,3 @@
+quadratic gauss sum finite commutative ring 
+ article explicitly determine quadratic gauss sum finite 
+	 commutative ring 

@@ -1,0 +1,12 @@
+mission planning regional surveillance 
+ regional surveillance problem discuss involve formulate flight route 
+	 aircraft scan geographical region aerial 
+	 surveillance conduct use synthetic aperture radar device 
+	 mount aircraft compose complete high resolution image 
+	 region model determine optimise flight route 
+	 describe employ integer programming second 
+	 genetic algorithm comparison solution optimality term 
+	 total distance travel model efficiency 
+	 technique term require cpu time order 
+	 identify condition appropriate apply 
+	 model 

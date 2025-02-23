@@ -1,0 +1,17 @@
+modification synchronization rossler chen chaotic system 
+ active control effective method identical rossler chen 
+	 system synchronize method work certain 
+	 class chaotic system know parameter drive system 
+	 response system modification base lyapunov stability theory 
+	 propose order overcome limitation adaptive 
+	 synchronization controller state identical 
+	 rossler chen system globally asymptotically synchronize 
+	 presence system unknown constant parameter derive 
+	 especially unknown parameter positive 
+	 controller simple controller independent 
+	 positive uncertain parameter condition 
+	 arbitrary unknown parameter system identical constant 
+	 cancel demonstrate possible synchronize 
+	 chaotic system result prove use know lyapunov 
+	 stability theorem numerical simulation validate 
+	 propose synchronization approach 

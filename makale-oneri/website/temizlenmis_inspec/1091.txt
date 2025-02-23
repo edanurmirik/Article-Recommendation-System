@@ -1,0 +1,18 @@
+car caravan snaking 1 influence pintle pin friction 
+ brief review knowledge car caravan snaking carry 
+	 background describe fairly detailed mathematical model 
+	 contemporary car trailer system construct baseline set 
+	 parameter value reduced form model 
+	 result accordance literature property baseline 
+	 combination explore use linear non linear version 
+	 model influence damp pintle joint 
+	 design parameter stability linear system 
+	 neighbourhood critical snaking speed calculate 
+	 discuss coulomb friction damp pintle pin include 
+	 simulation use indicate consequent amplitude dependent 
+	 behaviour friction damp especially level 
+	 choose user dangerous characteristic despite 
+	 capacity stabilization snaking motion 
+	 conclude pintle pin friction damp represent 
+	 satisfactory solution snaking problem paper set scene 
+	 development improved solution 

@@ -1,0 +1,16 @@
+arrange solid ball represent graph 
+ solid ball mean set ball r sup 3/ 
+	 penetrate finite graph g represent 
+	 arrange solid ball following way red ball r sup 3/ 
+	 vertex g connect red ball chain 
+	 correspond pair adjacent vertex g chain 
+	 mean finite sequence blue solid ball consecutive 
+	 ball tangent omit chain red ball 
+	 tangent ball number b(g g minimum number 
+	 ball red blue necessary represent g. ball 
+	 chain table ball sit table minimum 
+	 number ball g denote bt(g thing prove 
+	 b(k sub 6/ 8 b(k sub 7/ 13 b sub t/(k sub 5/ 8,b sub 
+	 t/(k sub 6/ 14 prove c sub 1 n sup 3/ b(k sub n/ 
+	 c sub 2 n sup 3/ log n c sub 3 n sup 4//log n b sub t/(k sub 
+	 n/ c sub 4 n sup 4/ 

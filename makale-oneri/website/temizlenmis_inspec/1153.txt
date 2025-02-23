@@ -1,0 +1,27 @@
+direct aperture optimization turnkey solution step shoot imrt 
+ imrt treatment plan step shoot delivery traditionally 
+	 produce optimization intensity distribution map 
+	 beam angle optimization step follow 
+	 application leaf sequence algorithm translate 
+	 intensity map set deliverable aperture shape 
+	 article introduce automate planning system bypass 
+	 traditional intensity optimization instead directly optimize 
+	 shape weight aperture approach 
+	 direct aperture optimization technique allow user 
+	 specify maximum number aperture beam direction 
+	 provide significant control complexity treatment 
+	 delivery possible machine dependent delivery 
+	 constraint impose mlc enforce aperture 
+	 optimization algorithm separate leaf sequence step 
+	 leaf setting aperture intensity optimize 
+	 simultaneously use simulated annealing algorithm test 
+	 direct aperture optimization variety patient case use 
+	 egs4 beam monte carlo package dose calculation engine 
+	 result demonstrate direct aperture optimization produce 
+	 highly conformal step shoot treatment plan use 
+	 aperture beam direction compare traditional 
+	 optimization strategy study demonstrate direct aperture 
+	 optimization result significant reduction number 
+	 beam segment number monitor unit direct aperture 
+	 optimization produce highly efficient treatment delivery 
+	 maintain dosimetric benefit imrt 

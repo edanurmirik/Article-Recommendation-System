@@ -1,0 +1,11 @@
+optical encoding color dimensional correlation 
+ dimensional 3d correlation color image consider color 
+	 distribution dimension useful 
+	 color pattern recognition task 3d correlation 
+	 directly perform optical correlator process 
+	 dimensional 2d signal propose method encode 3d 
+	 function 2d way fourier transform 
+	 correlation signal optically perform encode 
+	 3d fourier transform correlation 3d signal theory 
+	 encoding experimental result obtain 
+	 optical correlator 

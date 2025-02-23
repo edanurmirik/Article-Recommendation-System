@@ -1,0 +1,17 @@
+active vibration control composite sandwich beam piezoelectric 
+	 extension bend shear actuator 
+ use quasi static equation piezoelectricity derive finite 
+	 element formulation capable model different kind 
+	 piezoelastically induce actuation adaptive composite sandwich 
+	 beam formulation couple certain piezoelectric 
+	 constant transverse electric field develop extension bend 
+	 actuation shear induce actuation illustration present 
+	 sandwich model sublaminate face core face develop 
+	 control scheme base linear quadratic regulator independent 
+	 modal space control lqr imsc method use estimate 
+	 active stiffness active damping introduce shear 
+	 extension bend actuator assess performance type 
+	 actuator dynamic response study carry modal domain 
+	 observe shear actuator efficient actively 
+	 control vibration extension bend actuator 
+	 control effort 

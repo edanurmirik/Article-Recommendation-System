@@ -1,0 +1,16 @@
+static semantic haskell 
+ paper static semantic haskell 98 non strict purely 
+	 functional programming language semantic formally specify 
+	 nearly detail haskell 98 type system include 
+	 resolution overloading kind inference include defaulting 
+	 polymorphic recursion major omission proper treatment 
+	 ambiguous overloading resolution overloading translate 
+	 explicit dictionary passing current implementation 
+	 haskell target language translation variant 
+	 girard reynolds polymorphic lambda calculus feature high order 
+	 polymorphism explicit type abstraction application term 
+	 language translate program type check 
+	 implicit version system impredicative surprising 
+	 result formalization effort monomorphism 
+	 restriction render system inference rule compromise 
+	 principal type property 

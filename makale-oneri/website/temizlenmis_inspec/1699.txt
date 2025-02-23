@@ -1,0 +1,12 @@
+time domain reconstruction thermoacoustic tomography spherical 
+	 geometry 
+ reconstruction base microwave induce thermoacoustic tomography spherical 
+	 configuration present thermoacoustic wave biological tissue 
+	 sample excite microwave pulse measure wide band 
+	 unfocused ultrasonic transducer set spherical surface 
+	 enclose sample sufficient datum acquire different 
+	 direction reconstruct microwave absorption distribution 
+	 exact reconstruction solution derive approximate modify 
+	 backprojection algorithm experiment demonstrate 
+	 reconstruct image agree original sample spatial 
+	 resolution system reach 0.5 mm 

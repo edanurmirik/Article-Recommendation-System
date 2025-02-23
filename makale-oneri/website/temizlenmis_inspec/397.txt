@@ -1,0 +1,24 @@
+accurate modeling lossy nonuniform transmission line use differential 
+	 quadrature method 
+ paper discuss efficient numerical approximation technique 
+	 differential quadrature method dqm adapt model 
+	 lossy uniform nonuniform transmission line dqm quickly 
+	 compute derivative function point bound 
+	 domain estimate weighted linear sum value function 
+	 small set point belong domain use dqm 
+	 frequency domain telegrapher partial differential equation 
+	 transmission line discretize set easily solvable 
+	 algebraic equation dqm reduce interconnect multiport model 
+	 port voltage current relate rational formula 
+	 frequency domain rationalization process dqm 
+	 comparable pade approximation asymptotic waveform 
+	 evaluation awe apply transmission line derivation 
+	 mechanism disparate method significantly different 
+	 unlike awe employ complex moment match process obtain 
+	 rational approximation dqm require approximation 
+	 transcendental function avoid process moment 
+	 generation moment matching global sampling point 
+	 dqm approximation require far grid point order build 
+	 accurate discrete model numerical method dqm base 
+	 time domain model readily integrate circuit simulator like 
+	 spice 

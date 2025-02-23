@@ -1,0 +1,13 @@
+minimize blossom symmetric linear constraint 
+ paper exist close dependence control 
+	 polygon polynomial minimum blossom symmetric 
+	 linear constraint consider minimization problem p 
+	 unique solution point delta bezier curve 
+	 minimization function f sufficient condition exist 
+	 ensure uniqueness solution concavity 
+	 control polygon polynomial characteristic polya 
+	 frequency control polygon minimum coincide critical 
+	 point polynomial use blossoming theory provide 
+	 useful geometrical interpretation minimization problem 
+	 addition minimization approach lead new method 
+	 discover inequality elementary symmetric polynomial 

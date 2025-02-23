@@ -1,0 +1,15 @@
+adaptive efficient mutual exclusion 
+ paper present adaptive algorithm mutual exclusion use read 
+	 write operation performance algorithm depend 
+	 point contention i.e. number process concurrently 
+	 active algorithm execution n total number 
+	 process algorithm o(k remote step complexity o(log k 
+	 system response time k point contention remote step 
+	 complexity maximal number step perform process 
+	 wait count step system response time time 
+	 interval subsequent entry critical section 
+	 time unit minimal interval active process 
+	 perform step space complexity algorithm 
+	 o(n log n n range process 
+	 space complexity algorithm depend solely n 
+	 preserve performance measure algorithm 

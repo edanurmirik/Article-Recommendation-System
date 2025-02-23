@@ -1,0 +1,10 @@
+new projection type method monotone lcp finite termination 
+ paper establish new projection type method solution 
+	 monotone linear complementarity problem lcp method 
+	 combination extragradient method newton method 
+	 active set strategy use linear system equation 
+	 low dimension solve iteration 
+	 assumption monotonicity method globally 
+	 linearly convergent furthermore nondegeneracy condition 
+	 finite termination property finally method 
+	 extend solve monotone affine variational inequality problem 

@@ -1,0 +1,21 @@
+advanced optimization strategy rice dhpf compiler 
+ high performance fortran hpf envision vehicle modernize 
+	 legacy fortran code achieve scalable parallel performance 
+	 large extent today commercially available hpf compiler fail 
+	 deliver scalable parallel performance broad spectrum 
+	 application insufficiently powerful compiler analysis 
+	 optimization substantial restructuring hand optimization 
+	 require achieve acceptable performance hpf port 
+	 exist fortran application regular data parallel 
+	 application key goal rice dhpf compiler project 
+	 develop optimization technique enable wide range exist 
+	 scientific application port easily efficient hpf 
+	 minimal restructuring paper describe challenge effective 
+	 parallelization present complex regular data parallel 
+	 application describe novel analysis 
+	 optimization technology dhpf compiler address challenge 
+	 effectively major rewriting application illustrate 
+	 technique describe use parallelize nas sp 
+	 bt benchmark dhpf compiler generate multipartitione 
+	 parallelization code approach scalability 
+	 efficiency sophisticated hand code parallelization 

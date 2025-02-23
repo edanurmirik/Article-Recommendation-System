@@ -1,0 +1,6 @@
+bivariate fractal interpolation function rectangular domain 
+ non tensor product bivariate fractal interpolation function define gridded 
+	 rectangular domain construct linear space consist 
+	 function introduce relevant lagrange interpolation problem 
+	 discuss negative result existence affine fractal 
+	 interpolation function define domain obtain 

@@ -1,0 +1,20 @@
+model periodic oscillation genetic regulatory system 
+ paper focus model explain periodic oscillation 
+	 gene protein system simple nonlinear model analyze 
+	 effect time delay stability oscillation main model 
+	 genetic regulation comprise gene system 
+	 autoregulatory feedback loop exploit multiple time scale 
+	 hysteretic property model construct periodic oscillation 
+	 jumping dynamic analyze possible mechanism accord 
+	 singular perturbation theory paper periodic 
+	 oscillation mainly generate nonlinearly negative positive 
+	 feedback loop gene regulatory system jumping dynamic 
+	 generally cause time scale difference biochemical 
+	 reaction simple model actually act genetic oscillator 
+	 switch gene protein network dynamic robust 
+	 parameter perturbation environment variation explore 
+	 effect time delay stability dynamic 
+	 time delay generally increase stability region 
+	 oscillation oscillation robust parameter 
+	 change example provide numerically demonstrate 
+	 theoretical result 

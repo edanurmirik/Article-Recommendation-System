@@ -1,0 +1,10 @@
+quasi stage order condition sdirk method 
+ stage order condition simplifying assumption reduce number 
+	 order condition fulfil design runge kutta rk 
+	 method dirk diagonally implicit rk method 
+	 stage order great 1 introduce quasi stage order condition 
+	 derive property dirk use condition 
+	 derive low order dirk method embed error estimator 
+	 numerical test stiff ode dae index 1 2 indicate 
+	 method competitive rk method low accuracy 
+	 tolerance 

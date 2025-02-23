@@ -1,0 +1,21 @@
+development computer aid manufacturing system profiled edge 
+	 lamination tooling 
+ profile edge lamination pel tooling promising rapid tooling rt method 
+	 involve assembly array lamination edge 
+	 simultaneously profile bevel base cad model 
+	 intend tool surface facilitate adoption rt method 
+	 industry comprehensive pel tool development system propose 
+	 main system 1 iterative tool design base 
+	 thermal structural model 2 fabrication tool use 
+	 computer aid manufacturing cam software abrasive water jet 
+	 cutting cam software develop lamination slice datum 
+	 profile proprietary rp software form polyline 
+	 create smooth kinematically desirable cut trajectory 
+	 tool lamination cut trajectory algorithm 
+	 identical equidistant profile segmentation adaptively vector 
+	 profile projection avpp create purpose compare 
+	 performance algorithm benchmark shape 
+	 avpp algorithm provide cut trajectory complicated 
+	 tool geometry 15 layer aluminum pel tool successfully 
+	 fabricate use 5 axis cnc awj cutter nc code generate 
+	 cam software 

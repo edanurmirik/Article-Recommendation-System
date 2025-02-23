@@ -1,0 +1,7 @@
+self validate integration approximation piecewise analytic function 
+ let analytic piecewise analytic function compact interval 
+	 present algorithm produce enclosure integral 
+	 function certain condition representation 
+	 function minimal order number 
+	 operation integration algorithm implement numerical 
+	 comparison non validating integration software present 

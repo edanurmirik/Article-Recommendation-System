@@ -1,0 +1,21 @@
+h sub 2/ optimization element type dynamic vibration absorber 
+ dynamic vibration absorber dva passive vibration control device 
+	 attach vibrate body primary system 
+	 subject exciting force motion paper discuss 
+	 optimization problem element type dva basis 
+	 h sub 2/ optimization criterion objective h sub 2/ 
+	 optimization reduce total vibration energy system 
+	 overall frequency total area power spectrum response 
+	 curve minimize criterion system subject 
+	 random excitation instead sinusoidal excitation h sub 2/ 
+	 optimization probably desirable popular h sub infinity 
+	 optimization past decade increase interest 
+	 element type dva previous study 
+	 type dva base h sub infinity optimization design 
+	 able find algebraic solution find 
+	 closed form exact solution special case primary 
+	 system damping furthermore general case solution include 
+	 damp primary system present form numerical 
+	 solution optimum parameter obtain compare 
+	 conventional voigt type dva compare 
+	 optimum parameter base h sub infinity criterion 

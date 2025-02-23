@@ -1,0 +1,16 @@
+nonlinear modeling adaptive fuzzy control mcfc stack 
+ improve availability performance fuel cell operating 
+	 temperature molten carbonate fuel cell mcfc stack 
+	 control specified range exist model 
+	 mcfc ready apply synthesis paper radial 
+	 basis function neural network identification model mcfc stack 
+	 develop base input output sample datum adaptive fuzzy 
+	 control procedure temperature mcfc stack 
+	 develop parameter fuzzy control system regulate 
+	 propagation algorithm rule database fuzzy system 
+	 adaptively adjust near neighbor clustering 
+	 algorithm finally use neural network model mcfc stack 
+	 simulation result control algorithm present result 
+	 effectiveness propose modeling design procedure 
+	 mcfc stack base neural network identification 
+	 novel adaptive fuzzy control 

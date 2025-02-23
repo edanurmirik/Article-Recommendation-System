@@ -1,0 +1,16 @@
+comparison different decision algorithm use volumetric storm cell 
+	 classification 
+ decision algorithm useful classify meteorological volumetric radar datum 
+	 discuss datum come radar decision support system 
+	 rdss database environment canada concern summer storm create 
+	 country research group use datum complete rdss 
+	 verify utility choose method volumetric storm cell 
+	 classification paper consist review experiment 
+	 datum rdss database environment canada present 
+	 quality particular classifier classification accuracy 
+	 coefficient use express quality research group 
+	 lead experiment similar way possible compare 
+	 receive output experiment support vector machine 
+	 svm method rough set algorithm use object orient reduct 
+	 rule generation classify volumetric storm datum perform 
+	 classifier 

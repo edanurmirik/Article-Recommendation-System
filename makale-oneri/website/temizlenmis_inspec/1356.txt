@@ -1,0 +1,13 @@
+axis nc milling rule surface optimal geometry conical tool 
+ milling rule surface use conical milling cutter study 
+	 field largely ignore research scientist 
+	 use industry especially machine turbine blade 
+	 suggest improved positioning respect 
+	 directrice rule surface compare method 
+	 develop cylindrical cutter positioning enable 
+	 error cutter work piece reduce algorithm 
+	 introduce calculate error determine cutter 
+	 dimension cone radius angle order respect tolerance 
+	 interval impose design office study provide 
+	 opportunity determine cutter great dimension 
+	 alleviate bend problem milling 

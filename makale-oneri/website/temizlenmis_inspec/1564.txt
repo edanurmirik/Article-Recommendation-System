@@ -1,0 +1,6 @@
+asymptotic normality k sub phi /-divergence goodness fit test 
+ paper wide class goodness fit statistic base k sub phi 
+	 /-divergences asymptotic normality establish 
+	 assumption n m sub n/ 0 infinity n denote sample 
+	 size m sub n/ number cell result extend 
+	 contiguous alternative study asymptotic efficiency 

@@ -1,0 +1,28 @@
+scale invariant segmentation dynamic contrast enhance perfusion mr image 
+	 inherent scale selection 
+ selection good set scale problematic develop 
+	 signal drive approach pixel base image segmentation 
+	 different possibly conflict criterion need fulfil order 
+	 obtain good trade uncertainty variance 
+	 location accuracy optimal set scale depend 
+	 factor noise level present image material prior 
+	 distribution different type segment class conditional 
+	 distribution associate type segment 
+	 actual size connect segment analyse theoretically 
+	 experiment possibility use overall 
+	 class conditional error rate criterion select optimal 
+	 sampling linear morphological scale space 
+	 overall error rate optimize prior class 
+	 distribution image material account uniform 
+	 ignorant prior distribution ensure constant class conditional error 
+	 rate consequently advocate uniform prior class distribution 
+	 uncommitted scale invariant segmentation approach desire 
+	 experiment neural net classifier develop segmentation 
+	 dynamic magnetic resonance mr image acquire paramagnetic 
+	 tracer support theoretical result furthermore experiment 
+	 addition spatial feature classifier extract 
+	 linear morphological scale space improve 
+	 segmentation result compare signal drive approach base solely 
+	 dynamic mr signal segmentation result obtain 
+	 type feature compare use novel quality measure 
+	 characterize spatial property label image 

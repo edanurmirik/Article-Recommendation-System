@@ -1,0 +1,20 @@
+model shape topology low resolution density map biological 
+	 macromolecule 
+ develop efficient way represent geometry topology 
+	 volumetric dataset biological structure medium low 
+	 resolution aim store query database 
+	 framework use new vector quantization algorithm select 
+	 point macromolecule approximate 
+	 probability density function original volume datum connectivity 
+	 point obtain use alpha shape theory 
+	 novel datum representation number interesting characteristic 
+	 1 allow automatically segment quantify number 
+	 important structural feature low resolution map 
+	 cavity channel open possibility query large 
+	 collection map basis quantitative structural 
+	 feature 2 provide compact representation term size 
+	 3 contain subset dimensional point optimally 
+	 quantify density medium resolution datum 4 general 
+	 model geometry topology macromolecule opposite 
+	 spatially unrelated bunch voxel easily obtain use 
+	 alpha shape theory 

@@ -1,0 +1,13 @@
+improvement critique sugeno yasukawa qualitative modeling 
+ investigates sugeno yasukawa 1993 qualitative fuzzy modeling 
+	 approach propose easily implementable solution 
+	 unclear detail original paper trapezoid approximation 
+	 membership function rule creation sample data point 
+	 selection important variable far suggest improve 
+	 parameter identification algorithm apply instead 
+	 original detail crucial concern method 
+	 performance comparative analysis help 
+	 improve accuracy build model finally propose 
+	 possible rule base reduction apply successfully 
+	 certain case improvement reduce time requirement 
+	 method 16 experiment 

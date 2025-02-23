@@ -1,0 +1,14 @@
+combinatorial graph base solution method class continuous time 
+	 optimal control problem 
+ paper address class continuous time optimal control problem 
+	 solution typically characterize bang bang singular 
+	 control regime analytical study numerical computation 
+	 solution difficult far complete technique 
+	 control theory use paper solve optimal control 
+	 problem reduce combinatorial search short 
+	 path specially construct graph node graph 
+	 weight sequence dependent manner extend classical 
+	 short path algorithm case propose solution method 
+	 currently limit single state problem multiple control 
+	 function production planning problem train operation problem 
+	 optimally solve illustrate method 

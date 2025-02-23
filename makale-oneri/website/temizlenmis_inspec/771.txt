@@ -1,0 +1,23 @@
+pareto optimal formulation cost versus colorimetric accuracy trade 
+	 printer color management 
+ color management printing digital image challenging task 
+	 primarily nonlinear ink mix behavior presence 
+	 redundant solution print device ink 
+	 algorithms conversion image datum printer specific format 
+	 typically design achieve single predetermine rendering 
+	 intent colorimetric accuracy present cielab cmyk 
+	 color conversion scheme base general pareto optimal formulation 
+	 printer color management scheme operate use 149 color 
+	 characterization datum set select efficiently capture entire 
+	 cmyk gamut scheme use artificial neural network 
+	 transfer function cielab cmyk space second 
+	 scheme base reformulation tetrahedral interpolation 
+	 optimization problem characterization datum divide tetrahedra 
+	 interpolation base approach use program qhull 
+	 remove common restriction characterization datum 
+	 organize scheme offer user control trade problem 
+	 cost versus reproduction accuracy allow user specify print 
+	 objective use constraint maximum allowable ink 
+	 maximum allowable ae*/sub ab/. formulation minimization ink 
+	 particularly favorable integrate clipping 
+	 gamut compression feature single methodology 

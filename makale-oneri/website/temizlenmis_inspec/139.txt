@@ -1,0 +1,19 @@
+equilibrium swelling kinetic ph responsive hydrogel model 
+	 experiment simulation 
+ widespread application ionic hydrogel number application like 
+	 control microfluidic flow development muscle like actuator 
+	 filtration separation drug delivery important properly 
+	 understand material understand hydrogel property 
+	 important standpoint similarity biological 
+	 tissue typically gel size sensitive outer solution ph salt 
+	 concentration paper develop model predict 
+	 swell deswelling hydrogel buffer ph solution 
+	 equilibrium model develop predict degree swelling 
+	 hydrogel ph salt concentration solution 
+	 kinetic model develop predict rate swelling 
+	 hydrogel solution ph change experiment perform 
+	 characterize mechanical property hydrogel different ph 
+	 solution degree swell rate swelling 
+	 hydrogel study experiment simulation 
+	 compare experimental result model find predict 
+	 swell deswelle process accurately 

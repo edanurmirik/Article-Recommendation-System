@@ -1,0 +1,27 @@
+knowledge model reuse therapy decision specialisation generic 
+	 decision model 
+ present definition therapy decision task associate 
+	 heuristic multi attribute hm solve method form 
+	 kads style specification goal therapy decision task 
+	 identify ideal therapy patient accordance 
+	 set objective diverse nature constitute global 
+	 therapy evaluation framework consideration patient 
+	 preference quality life result integrate 
+	 high level overview task specialisation generic 
+	 decision task additional decomposition method subtask 
+	 involve subtask possess reflective capability 
+	 reason self model particularly learning subtask 
+	 incrementally correct refine model use assess effect 
+	 therapy work illustrate process reuse 
+	 framework ai software development methodology 
+	 kads commonkads order obtain new specialised 
+	 generic component analysis library develop 
+	 context order maximise reuse benefit possible 
+	 therapy decision task hm method define term 
+	 regular component early mention library emphasise 
+	 importance use rigorous approach modelling domain 
+	 method ontology extensive use semi formal 
+	 object orient analysis notation uml associate 
+	 constraint language ocl illustrate ontology decision 
+	 method correspond specific therapy decision 
+	 domain refinement inheritance 

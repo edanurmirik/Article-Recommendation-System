@@ -1,0 +1,19 @@
+bistability harmonically force relaxation oscillation 
+ relaxation oscillation appear process involve transition 
+	 state characterize fast slow time scale 
+	 relaxation oscillator couple external periodic force 
+	 entrainment force result response include 
+	 multiple periodicity bistability prototype 
+	 behavior harmonically drive van der pol equation 
+	 display region parameter space drive force amplitude 
+	 stable orbit period 2n+or-1 coexist flank region 
+	 period 2n+1 2n-1 parameter region bistable orbit 
+	 derive analytically closely relate harmonically drive 
+	 stoker haag piecewise discontinuous equation result valid 
+	 control parameter space system consider 
+	 reason complicated dynamic feature region 
+	 high multiple periodicity appear like noise order 
+	 periodic region system mimic detail 
+	 analytically tractable force van der pol equation result suggest 
+	 extension situation force relaxation oscillation 
+	 component operate mechanism 

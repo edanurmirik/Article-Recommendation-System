@@ -1,0 +1,5 @@
+matlab code plot ambiguity function 
+ matlab code capable plot ambiguity function different radar 
+	 signal present program use matlab sparse matrix 
+	 operation avoid loop program useful 
+	 pedagogical tool radar course teach pulse compression 

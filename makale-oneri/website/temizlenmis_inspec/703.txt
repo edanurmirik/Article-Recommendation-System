@@ -1,0 +1,15 @@
+direct self control minimum torque ripple high dynamic double 
+	 level gto inverter drive 
+ highly dynamic control scheme low torque ripple direct self control 
+	 dsc torque hysteresis control high power medium voltage 
+	 induction motor drive feed double level inverter d3li 
+	 present arrangement level inverter 
+	 connect parallel dc feed open motor 
+	 winding dsc know two- level inverter 
+	 adapt d3li optimize minimum torque ripple 
+	 18 corner trajectory choose stator flux induction 
+	 machine approach ideal circle 
+	 hexagon know dsc level inverter detriment 
+	 torque ripple machine inverter control explain 
+	 propose torque quality dynamic verify 
+	 measurement 180 kw laboratory drive 

@@ -1,0 +1,13 @@
+conformal mapping design tool coaxial coupler complex cross section 
+ numerical conformal mapping exploit simple accurate efficient 
+	 tool analysis design coaxial waveguide coupler 
+	 complex cross section implementation base 
+	 schwarz christoffel toolbox public domain matlab package apply 
+	 slot coaxial cable symmetrical coaxial coupler 
+	 circular polygonal inner conductor external shield effect 
+	 metallic diaphragm arbitrary thickness partially separate 
+	 inner conductor easily account propose 
+	 technique validate result finite element 
+	 method excellent agreement fraction computational 
+	 cost extend case nonsymmetrical coupler 
+	 provide designer important additional degree freedom 

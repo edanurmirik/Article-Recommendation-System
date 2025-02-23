@@ -1,0 +1,17 @@
+human face detection visual scene use neural network 
+ paper present neural network base face detection system objective 
+	 design system detect human face visual scene 
+	 high search speed accuracy use neural network 
+	 simple structure train use face non face sample 
+	 preprocesse method position normalization histogram 
+	 equalization etc attain high accuracy prune size 
+	 neural network run fast reduce total 
+	 search area target visual scene use skin color detector 
+	 skin color detection assume face reside skin color 
+	 region system design face detect 
+	 system detect face search speed improve 
+	 system speed improvement achieve reduce face locator 
+	 network size use structural learning knowledge 
+	 reduce face search area use skin color detection system 
+	 fast training neural network achieve use variable 
+	 step size 

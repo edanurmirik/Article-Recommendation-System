@@ -1,0 +1,17 @@
+agent orient service orient environment deploy dynamic 
+	 distribute system 
+ paper present jase java base agent orient service orient 
+	 environment deploy dynamic distribute system jase utilize 
+	 important concept field distribute computing 
+	 concept service remote programming mobile agent jase 
+	 mobile agent use support application service interface 
+	 agent use wrap service service inter face agent 
+	 dynamically register service service server mobile agent 
+	 locate specific service interface agent submit request 
+	 service server description require service jase use 
+	 xml describe service description mobile agent 
+	 query jase support kind communication facility tuple space 
+	 asynchronous message paper design implementation 
+	 jase describe application suitability 
+	 effectiveness jase performance evaluation 
+	 finally relate work conclusion 

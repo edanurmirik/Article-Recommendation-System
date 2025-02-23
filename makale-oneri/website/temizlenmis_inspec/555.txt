@@ -1,0 +1,18 @@
+computing transient gate charge movement voltage dependent ion channel 
+ opening voltage gate sodium potassium calcium ion channel 
+	 steep relationship voltage response change 
+	 transmembrane voltage structural movement ion channel 
+	 precede channel opening generate capacitative gating current net 
+	 gate charge displacement membrane depolarization index 
+	 voltage sensitivity ion channel activation process 
+	 understand molecular basis voltage dependent gating ion 
+	 channel require measurement computation gate charge 
+	 q. derive simple accurate semianalytic approach compute 
+	 voltage dependence transient gate charge movement q v 
+	 relationship discrete markov state model ion channel use 
+	 matrix method approach allow rapid computation q v curve 
+	 finite infinite length step depolarization consistent 
+	 experimentally measure transient gate charge 
+	 computational approach apply shaker potassium channel gating 
+	 include impact inactivate particle potassium channel 
+	 gate current 

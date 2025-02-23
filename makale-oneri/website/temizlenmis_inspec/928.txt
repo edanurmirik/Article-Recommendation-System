@@ -1,0 +1,19 @@
+weight energy linear quadratic regulator vibration control piezoelectric 
+	 composite plate 
+ paper finite element linear quadratic regulator lqr vibration 
+	 control smart piezoelectric composite plate propose use 
+	 total weight energy method select weighting matrix 
+	 construct optimal performance function relative measure 
+	 total kinetic energy strain energy input energy system 
+	 design variable need consider achieve balance 
+	 desire high damp effect low input cost modal 
+	 control analysis use interpret effect energy 
+	 weight factor damp ratio modal voltage 
+	 modal damp effect increase kinetic energy 
+	 weight factor approach square root 2/2 strain energy 
+	 weight factor increase decrease input energy weight 
+	 factor numerical result agree modal control 
+	 analysis control problem simplify design 
+	 variable computational cost greatly reduce 
+	 accurate structural control analysis attractive 
+	 large system 

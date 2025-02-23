@@ -1,0 +1,21 @@
+portal dose image prediction dosimetric treatment verification 
+	 radiotherapy ii algorithm wedge beam 
+ method present calculation dimensional function t sub 
+	 wedge/(x y describe transmission wedge photon beam 
+	 patient extension method 
+	 publish open nonwedged field med phys 25 830 840 1998 
+	 transmission function open field use clinic 
+	 prediction portal dose image pdi i.e. dose distribution 
+	 patient plane normal beam axis compare 
+	 pdi measure electronic portal imaging device epid 
+	 calculation base planning ct scan patient 
+	 irradiation geometry determine treatment planning 
+	 process input datum developed algorithm wedge beam 
+	 derive available measure input datum set 
+	 transmission prediction open beam extend 
+	 limited set measurement wedge beam method 
+	 test pdi plane 160 cm focus agreement 
+	 apply focus detector distance fluoroscopic epid low 
+	 high energy photon beam 6 23 mv good agreement ~1 
+	 find calculate measured transmission slab 
+	 thorax phantom 

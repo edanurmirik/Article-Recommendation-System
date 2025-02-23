@@ -1,0 +1,17 @@
+numerical modeling flow stenose coronary artery relationship 
+	 main hemodynamic parameter 
+ severity coronary arterial stenosis usually measure simple 
+	 geometrical parameter percent diameter stenosis 
+	 hemodynamically base parameter fractional flow reserve 
+	 ffr coronary flow reserve cfr present study aim 
+	 establish relationship actual hemodynamic condition 
+	 parameter define stenosis severity clinical setting 
+	 use computational model blood flow vessel blunt 
+	 stenosis autoregulate vascular bed simulate stenose blood 
+	 vessel key point create realistic simulation properly 
+	 model arterial autoregulation constant flow regulation mechanism 
+	 result cfr ffr value physiological 
+	 range constant wall shear stress model yield unrealistic 
+	 value simulation tool develop present study 
+	 useful clinical assessment single multiple stenosis 
+	 mean minimally invasive method 

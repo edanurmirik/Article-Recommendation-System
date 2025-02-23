@@ -1,0 +1,13 @@
+dimensional optimum design cool line injection mould base 
+	 boundary element design sensitivity analysis 
+ dimensional numerical simulation use boundary element method 
+	 propose predict cavity temperature distribution 
+	 cool stage injection moulding choose radius 
+	 position cool line design variable boundary integral 
+	 sensitivity formulation deduce optimum design cool 
+	 line squared difference objective temperature 
+	 temperature cavity objective function base 
+	 optimization technique design sensitivity analysis 
+	 iterative algorithm reach minimum value objective 
+	 function introduce lead optimum design cool 
+	 line time 

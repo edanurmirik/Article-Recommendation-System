@@ -1,0 +1,16 @@
+molecular descriptor selection combine genetic algorithm fuzzy logic 
+	 application database mining procedure 
+ new algorithm devote molecular descriptor selection context 
+	 datum mining problem develop algorithm base 
+	 concept genetic algorithm ga descriptor hyperspace 
+	 exploration combine stepwise approach local 
+	 convergence selection power evaluate fitness function 
+	 derive fuzzy clustering method different training test 
+	 set randomly generate ga generation fitness score 
+	 derive combine score training test set 
+	 ability propose algorithm select relevant subset 
+	 descriptor test datum set academic 
+	 example correspond artificial problem bullseye second 
+	 real datum set include 114 olfactory compound divide 
+	 odor category case propose method allow 
+	 improve separation different datum set class 

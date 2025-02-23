@@ -1,0 +1,7 @@
+switch synchronization scheme class chaotic system 
+ letter propose observer base synchronization scheme class 
+	 chaotic system class system piecewise linear 
+	 dynamic use property system procedure 
+	 construct gain observer prove stability 
+	 result comment robustness propose scheme 
+	 present simulation result 

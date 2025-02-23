@@ -1,0 +1,11 @@
+adaptive multiresolution approach solution hyperbolic pde 
+ paper establish innovative efficient multiresolution adaptive 
+	 approach combine high resolution method numerical 
+	 solution single system partial differential equation 
+	 propose methodology unconditionally bound hyperbolic 
+	 equation dynamically adapt grid high spatial 
+	 resolution automatically allocate domain region strong 
+	 gradient observe possess desire property 
+	 numerical approach stability accuracy numerical result 
+	 test problem present clearly robustness cost 
+	 effectiveness propose method 

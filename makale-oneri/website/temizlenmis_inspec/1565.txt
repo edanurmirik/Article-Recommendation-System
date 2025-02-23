@@ -1,0 +1,5 @@
+lag window connect jacobi polynomial 
+ lag window corresponding spectral window jacobi polynomial sum 
+	 jacobi polynomial introduce bias variance 
+	 spectral density estimator investigate window bandwidth 
+	 characteristic exponent determine 

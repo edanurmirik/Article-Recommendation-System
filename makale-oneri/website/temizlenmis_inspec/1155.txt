@@ -1,0 +1,34 @@
+leaf sequence algorithm enlarge treatment field length imrt 
+ mlc base imrt maximum usable field size small 
+	 maximum field size conventional treatment 
+	 constraint overtravel distance mlc leave and/or jaw 
+	 use new leaf sequence algorithm usable imrt field length 
+	 perpendicular mlc motion equal 
+	 length mlc field violate upper jaw overtravel 
+	 limit intensity pattern criterion propose 
+	 assess intensity pattern deliver violation 
+	 jaw position constraint criterion meet new 
+	 algorithm consider jaw position constraint 
+	 segmentation step shoot delivery method strategy 
+	 employ algorithm connect intensity element outside 
+	 jaw overtravel limit inside jaw overtravel limit 
+	 method use establish connection 
+	 segmentation modify previously publish algorithm areal 
+	 algorithm include change intensity level alternate 
+	 leaf sequence direction limit segment field size 
+	 algorithm test 1000 random intensity pattern 
+	 dimension 21 27 cm sup 2/ 800 intensity pattern high 
+	 intensity outside jaw overtravel limit different type 
+	 clinical treatment plan undeliverable use 
+	 segmentation method commercial treatment planning system 
+	 new algorithm achieve success rate 100 test pattern 
+	 1000 random pattern new algorithm yield similar 
+	 average number segment 36.9+or-2.9 comparison 36.6+or-1.3 
+	 use areal algorithm 800 pattern high 
+	 intensity outside jaw overtravel limit new algorithm 
+	 result increase 25 average number segment 
+	 compare areal algorithm areal algorithm fail 
+	 create deliverable segment 90 pattern use single 
+	 isocenter new algorithm provide solution extend usable 
+	 imrt field length 21 27 cm imrt commercial linear 
+	 accelerator use step shoot delivery method 

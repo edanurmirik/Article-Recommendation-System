@@ -1,0 +1,18 @@
+evaluate alternative manufacturing control strategy use benchmark 
+	 system 
+ paper describe investigation effect dynamic job routing 
+	 job sequence decision performance distribute control 
+	 system adaptability disturbance experimental 
+	 work carry compare performance alternative control 
+	 strategy manufacturing environment investigate 
+	 relationship control control system 
+	 experimental test bed present paper consist 
+	 agent base control system implement c++ discrete event 
+	 simulation model use test bed control strategy 
+	 test benchmark manufacturing system vary production 
+	 volume model production system looser tight schedule 
+	 disturbance frequency find hybrid strategy 
+	 combine reactive agent mechanism allocation strategy 
+	 contract net appropriate job sequence heuristic provide 
+	 good performance particularly job congestion increase 
+	 shop floor 

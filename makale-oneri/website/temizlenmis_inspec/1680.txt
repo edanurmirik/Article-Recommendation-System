@@ -1,0 +1,15 @@
+minimize weight number early tardy job common window 
+	 involve location penalty 
+ study single machine scheduling problem minimize weighted number 
+	 early tardy job common window n 
+	 non preemptive simultaneously available job job incur 
+	 early tardy penalty early tardy respect 
+	 common window schedule window size 
+	 parameter window location decision variable objective 
+	 problem find schedule minimize weighted number 
+	 early tardy job location penalty 
+	 problem np complete ordinary sense develop dynamic 
+	 programming base pseudo polynomial algorithm conduct computational 
+	 experiment result performance 
+	 dynamic algorithm good term memory requirement cpu 
+	 time provide polynomial time algorithm special case 

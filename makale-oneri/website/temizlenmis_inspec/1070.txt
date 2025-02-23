@@ -1,0 +1,11 @@
+universal simulation hamiltonian dynamic quantum system 
+	 finite dimensional state space 
+ interaction sufficient simulate arbitrary quantum dynamic 
+	 composite quantum system dodd et al phys rev. 65 040301(r 
+	 2002 provide partial solution problem form 
+	 efficient algorithm simulate desire body hamiltonian 
+	 evolution use fix body entangle n qubit hamiltonian 
+	 local unitarie extend result case component 
+	 system qudit d dimension consequence 
+	 explain universal quantum computation perform 
+	 fix body entangle n qudit hamiltonian local unitarie 

@@ -1,0 +1,18 @@
+maclp multi agent constraint logic programming 
+ multi agent system mas key technology decompose 
+	 complex problem order solve efficiently 
+	 problem distribute nature industrial application 
+	 distribute nature involve large number 
+	 parameter constraint i.e. combinatorial solve 
+	 particularly hard problem efficiently require programming tool 
+	 combine mas technology programming schema facilitate 
+	 modeling solution constraint paper present maclp multi 
+	 agent constraint logic programming logic programming platform 
+	 building declarative way multi agent system 
+	 constraint solve capability maclp extend cspcons logic 
+	 programming system permit distribute program execution 
+	 communicate sequential prolog process constraint 
+	 provide necessary facility communication 
+	 agent facility abstract programmer low level 
+	 detail communication allow focus development 
+	 agent 

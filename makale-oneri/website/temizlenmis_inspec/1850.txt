@@ -1,0 +1,17 @@
+n tier hub technology 
+ 2001 enterprise engineering laboratory george mason university 
+	 contract boeing company develop ehub capability 
+	 aerospace supplier taiwan laboratory environment core 
+	 technology design develop test large 
+	 tier aerospace supplier taiwan commercialize 
+	 technology project objective provide layered network 
+	 application service transport xml base business transaction 
+	 flow multi tier heterogeneous datum processing environment 
+	 paper document business scenario ehub application 
+	 network transport mechanism use build n tier 
+	 hub contrast ehubs solution point view 
+	 supplier push datum accordance supplier requirement 
+	 enhance probability supplier adoption unique 
+	 contribution project development ehub meet 
+	 need small medium enterprise sme tier 
+	 supplier 

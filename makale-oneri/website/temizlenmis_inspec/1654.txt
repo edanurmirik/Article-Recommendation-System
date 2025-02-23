@@ -1,0 +1,8 @@
+numerical validation solution complementarity problem nonlinear 
+	 case 
+ paper propose validation method solution nonlinear 
+	 complementarity problem validation procedure perform 
+	 computational test result test positive 
+	 guarantee multi dimensional interval include 
+	 solution exclude solution nonlinear complementarity 
+	 problem 

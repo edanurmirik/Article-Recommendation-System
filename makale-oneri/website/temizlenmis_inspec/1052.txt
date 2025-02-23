@@ -1,0 +1,12 @@
+develop high performance web server concurrent haskell 
+ server application particular network base server application place 
+	 unique combination demand programming language lightweight 
+	 concurrency high o throughput fault tolerance 
+	 important paper describe prototype web server write 
+	 concurrent haskell extension present useful result 
+	 firstly conform server write minimal effort 
+	 lead implementation 1500 line code 
+	 secondly naive implementation produce reasonable performance 
+	 furthermore minor modification time critical 
+	 component improve performance level acceptable 
+	 heavily load web server 

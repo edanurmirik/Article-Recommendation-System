@@ -1,0 +1,16 @@
+assessment prehospital chest pain use telecardiology 
+ general practitioner equip portable 
+	 electrocardiograph transmit 12 lead electrocardiogram 
+	 ecg telephone line cardiologist available 24 h day 
+	 interactive teleconsultation 13 month period 5073 
+	 telecardiology service 952 subject chest pain 
+	 identify telecardiology service allow general 
+	 practitioner manage 700 case 74 diagnostic 
+	 test request 162 patient 17 83 patient 9 
+	 send hospital emergency department group 
+	 cardiological diagnosis confirm 60 patient refute 23 
+	 seven patient telecardiology service fail detect 
+	 cardiac problem hospitalize subsequent 48 h. 
+	 telecardiology service sensitivity 97.4 specificity 
+	 89.5 diagnostic accuracy 86.9 chest pain telemedicine 
+	 useful tool diagnosis chest pain primary care 

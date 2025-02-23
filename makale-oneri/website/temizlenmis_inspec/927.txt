@@ -1,0 +1,12 @@
+autonomous detection crack initiation use surface mount piezotransducer 
+ paper report application situ health monitoring 
+	 system comprise array piezoceramic wafer element 
+	 detection fatigue degradation metallic specimen expose 
+	 cyclic loading lamb wave transmit beam test coupon 
+	 sense use small surface mount piezotransducer element 
+	 signal autonomously analyse indication relate 
+	 onset structural degradation experimental result confirm 
+	 efficacy approach provide demonstration good robustness 
+	 realistic loading condition emphasize great potential 
+	 develop automate situ structural health monitoring system 
+	 application fatigue prone operational structure aircraft 

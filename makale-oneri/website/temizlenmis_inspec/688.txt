@@ -1,0 +1,13 @@
+active vibration control piezolaminate smart beam 
+ paper deal active vibration control beam like structure 
+	 distribute piezoelectric sensor actuator layer bond 
+	 surface beam finite element model base 
+	 euler bernoulli beam theory develop contribution 
+	 piezoelectric sensor actuator layer mass stiffness 
+	 beam consider type classical control strategy 
+	 direct proportional feedback constant gain negative velocity 
+	 feedback lyapunov feedback optimal control strategy linear 
+	 quadratic regulator lqr scheme apply study control 
+	 effectiveness control performance different type 
+	 loading impulse loading step loading harmonic random 
+	 loading study 

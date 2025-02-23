@@ -1,0 +1,11 @@
+record quantum property light long live atomic spin state 
+	 quantum memory 
+ report experiment mapping quantum state light ground 
+	 state spin ensemble cs atom lifetime 2 ms 
+	 recording quadrature phase operator light 
+	 demonstrate vacuum squeeze state light sensitivity 
+	 mapping procedure level approximately 1 photon sec 
+	 hz result pave road complete store 
+	 quadrature phase observable quantum memory gaussian state 
+	 light experiment shed new light fundamental limit 
+	 sensitivity magneto optical resonance method 

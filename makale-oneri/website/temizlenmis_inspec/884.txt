@@ -1,0 +1,10 @@
+hybrid neural network population learning algorithm approach solve 
+	 reliability optimization problem 
+ propose hybrid approach integrate dedicated artificial neural network 
+	 population learning algorithm apply maximise system 
+	 reliability cost technical feasibility constraint paper 
+	 include formulation system reliability optimisation sro 
+	 problem description dedicated neural network train 
+	 apply population learn algorithm solution example 
+	 sro problem result computational experiment 
+	 present discuss 

@@ -1,0 +1,16 @@
+conflict free execution elementary net 
+ deal analysis elementary petri net respect possibility 
+	 avoid conflict execution main aim 
+	 paper find method check net 
+	 conflict avoidable i.e. possess conflict free fair run 
+	 second find method rebuild net totally 
+	 conflict avoidable net i.e. net possess conflict free fair run 
+	 process behaviour main result 
+	 follow 1 proof decidability elementary net 
+	 problem existence conflict avoidable fair process 
+	 algorithm produce fair run 2 construction arbitrary 
+	 elementary net totally conflict avoidable net 
+	 behaviour net complete way behaviour 
+	 original totally conflict avoidable 
+	 execution supervise order ensure conflict freeness 
+	 reduce case graph build algorithm section 

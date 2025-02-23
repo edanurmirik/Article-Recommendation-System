@@ -1,0 +1,18 @@
+elastically adaptive deformable model 
+ present technique automatic adaptation deformable model 
+	 elastic parameter kalman filter framework shape 
+	 estimation application novelty technique 
+	 model elastic parameter constant spatio temporally 
+	 varying variation elastic parameter depend 
+	 distance model datum rate change 
+	 distance pass algorithm use physics base modeling 
+	 technique iteratively adjust geometric elastic 
+	 degree freedom model response force compute 
+	 discrepancy model datum augment 
+	 state equation extended kalman filter incorporate 
+	 additional variable able significantly improve quality 
+	 shape estimation model elastic parameter 
+	 initialize value subsequently modify 
+	 depend datum noise distribution present result 
+	 demonstrate effectiveness method dimensional 
+	 dimensional datum 

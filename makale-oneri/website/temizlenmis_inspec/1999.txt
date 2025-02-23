@@ -1,0 +1,12 @@
+performance comparison pid dead time compensating controller 
+ paper intend answer question simple dead time 
+	 compensator expect perform pid performance 
+	 criterion use integrate absolute error iae compare 
+	 pi pid controller simple dead time compensator dtc 
+	 step load disturbance apply plant input stable 
+	 integrating process consider fair comparison 
+	 controller provide equal robustness sense 
+	 measure robustness h sub infinity norm sum 
+	 absolute value sensitivity function complementary 
+	 sensitivity function use performance dtc 
+	 function dead time margin d sub m/ 

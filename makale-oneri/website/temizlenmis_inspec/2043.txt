@@ -1,0 +1,15 @@
+limit computational electromagnetic code impose computer 
+	 architecture 
+ algorithmic complexity innermost loop determine complexity 
+	 algorithm computational electromagnetic cem code 
+	 analyze accord operation count impact 
+	 underlying computer hardware memory chip slow 
+	 arithmetic processor code involve high datum movement compare 
+	 number arithmetic operation execute comparatively 
+	 slow matrix matrix multiplication fast 
+	 matrix vector multiplication sufficient 
+	 compare complexity actual performance 
+	 algorithm judge fast execution implication involve fdtd 
+	 loop lu factorization iterative solver dense matrix run 
+	 time reference platform athlon 900 mhz hp pa 
+	 8600 processor verify finding 

@@ -1,0 +1,21 @@
+attack find algorithm security protocol 
+ paper propose automatic attack construction algorithm order find 
+	 potential attack security protocol base dynamic 
+	 strand space model enhance original strand space model 
+	 introduce active node strand characterize dynamic 
+	 procedure protocol execution exact causal dependency relation 
+	 message consider model algorithm avoid 
+	 state space explosion cause asynchronous composition order 
+	 finite state space new method strand add demand 
+	 exploit extend bundle incremental manner 
+	 require explicit configuration protocol execution parameter 
+	 fine granularity model term structure introduce 
+	 subterm divide check subterm datum subterm 
+	 datum subterm far classify base compatible data 
+	 subterm relation obtain automatically finite set valid 
+	 acceptable term honest principal algorithm term core 
+	 design represent intruder knowledge compactly 
+	 forward search technology use simulate attack pattern easily 
+	 use algorithm new attack dolve yao protocol 
+	 find harmful secret reveal 
+	 session terminate 

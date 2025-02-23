@@ -1,0 +1,6 @@
+mutual effect grid wind turbine voltage stability control 
+ note consider result wind turbine modelling power system 
+	 stability investigation voltage stability power grid 
+	 grid connect wind turbine improve use blade angle 
+	 control temporary reduction wind turbine power 
+	 shortly short circuit fault grid 

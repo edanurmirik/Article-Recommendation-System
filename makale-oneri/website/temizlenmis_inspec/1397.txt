@@ -1,0 +1,16 @@
+computer program calculate p value testing process capability 
+	 index c sub pmk/ 
+ process capability index include c sub p/ c sub pk/ c sub pm/ 
+	 propose provide numerical measure process 
+	 potential performance combine advantage index 
+	 pearn et al 1992 introduce new capability index c sub 
+	 pmk/ useful capability index 
+	 process sided specification limit paper 
+	 author implement theory testing hypothesis use natural 
+	 estimator c sub pmk/ provide efficient maple computer 
+	 program calculate p value provide table 
+	 critical value commonly use capability requirement base 
+	 test develop simple step step procedure plant 
+	 application practitioner use propose procedure 
+	 determine process meet preset capability 
+	 requirement reliable decision 

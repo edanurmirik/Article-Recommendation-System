@@ -1,0 +1,12 @@
+optimal learning pattern classification rbf network 
+ propose modifying structure radial basis function rbf 
+	 network introduce weight matrix input layer 
+	 contrast direct connection input hidden layer 
+	 conventional rbf training space rbf network 
+	 adaptively separate resultant decision boundary class 
+	 region report training weight matrix carry 
+	 single layer perceptron clustering process 
+	 way network capable deal complicated 
+	 problem high degree interference training 
+	 datum achieve high classification rate current 
+	 classifier use rbf 

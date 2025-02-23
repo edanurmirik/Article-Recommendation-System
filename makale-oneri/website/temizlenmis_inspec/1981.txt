@@ -1,0 +1,9 @@
+optimal linear control stabilizer design 
+ common method improve stability power system 
+	 synthesis turbine generator control system 
+	 high effectiveness relatively low cost element 
+	 synthesis construction effective synchronous generator 
+	 turbine controller difficult task paper describe 
+	 seven step mu -synthesis approach pss design enable 
+	 synchronous generator remain stable wide range system 
+	 operating condition 

@@ -1,0 +1,15 @@
+characterization sheet buckle subject control boundary constraint 
+ wedge strip test design study onset post buckling behavior 
+	 sheet boundary constraint device easily 
+	 incorporate conventional tensile test machine material 
+	 resistance buckling measure buckling height versus 
+	 plane strain state design yield different consistent 
+	 buckle mode easy change boundary condition clamp 
+	 free sample geometry experimental result use 
+	 verify hybrid approach buckle prediction i.e. combination 
+	 fem analysis energy base analytical wrinkling criterion 
+	 fem analysis use obtain stress field deform 
+	 geometry complex form condition analytical solution 
+	 provide prediction sensitive artificial numerical 
+	 parameter good agreement experimental datum numerical 
+	 prediction obtain 

@@ -1,0 +1,22 @@
+heuristic approach resource location broadband network 
+ broadband network atm importance dynamic migration data 
+	 resource increase potential improve performance 
+	 especially transaction processing environment migratory 
+	 datum resource necessary mechanism manage 
+	 location data resource paper present algorithm 
+	 use system state information heuristic manage 
+	 location data resource distribute network propose 
+	 algorithm site maintain information state site 
+	 respect data resource system use find 
+	 1 subset site likely request data resource 
+	 2 site datum resource migrate current 
+	 site propose algorithm enhance effectiveness continuously 
+	 update system state information store site focus 
+	 reduce overall average time delay need transaction 
+	 request locate access migratory data resource 
+	 evaluate performance propose algorithm compare 
+	 exist location management algorithm 
+	 simulation study system parameter 
+	 frequency request generation frequency data resource 
+	 migration network topology scale network experimental 
+	 result effectiveness propose algorithm case 

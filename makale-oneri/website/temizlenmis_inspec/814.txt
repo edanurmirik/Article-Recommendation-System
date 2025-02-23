@@ -1,0 +1,13 @@
+framework image deblurre use wavelet packet basis 
+ average translation operator diagonal wavelet 
+	 packet basis convolution operator diagonal 
+	 wavelet packet basis decompose operator 
+	 kind condition investigate 
+	 possibility use convolution approximate 
+	 convolution practice image blur use 
+	 approximation deblur image framework 
+	 permit redefine exist deblurre method 
+	 permit define new variational method combine 
+	 wavelet packet total variation approach argue 
+	 experiment permit avoid drawback 
+	 approach respectively ring staircase 

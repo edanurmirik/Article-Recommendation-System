@@ -1,0 +1,12 @@
+current waveform control high power factor rectifi circuit harmonic 
+	 suppression voltage current distribution system 
+ paper present input current waveform control rectifi circuit 
+	 realize simultaneously high input power factor 
+	 harmonics suppression receiving end voltage source 
+	 current distorted receiving end voltage propose input 
+	 current waveform include harmonic component phase 
+	 receiving end voltage harmonic control parameter 
+	 propose waveform design examine characteristic 
+	 harmonic suppression effect distribution system 
+	 input power factor rectifi circuit effectiveness 
+	 propose current waveform confirm experimentally 

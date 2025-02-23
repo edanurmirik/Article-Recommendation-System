@@ -1,0 +1,9 @@
+design analysis testing parallel step w method stiff 
+	 system 
+ parallel step w method linearly implicit integration method 
+	 s stage value compute parallel construct method 
+	 stage order q s order p s favourable stability property 
+	 generalization concept a- l stability propose 
+	 condition stiff accuracy numerical comparison 
+	 share memory computer efficiency method especially 
+	 combination krylov technique large stiff system 

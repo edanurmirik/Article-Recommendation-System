@@ -1,0 +1,7 @@
+design performance evaluation alternative xml storage strategy 
+ paper study strategy store xml document include 
+	 leave document file system use relational 
+	 database system use object manager implement 
+	 evaluate approach use number xquery query number 
+	 interesting insight gain experiment summary 
+	 advantage disadvantage approach present 

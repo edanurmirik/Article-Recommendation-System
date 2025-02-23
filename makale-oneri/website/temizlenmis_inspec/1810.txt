@@ -1,0 +1,11 @@
+input output base pole placement controller class time delay system 
+ controller structure valid siso plant involve internal 
+	 external point delay present control signal base 
+	 input output plant signal controller allow finite 
+	 infinite spectrum assignment important feature 
+	 propose controller involve use class 
+	 point delay signal controller synthesis involve 
+	 computational cost method plant control input 
+	 generate filter input output plant signal 
+	 controller structure potentially applicable adaptive case 
+	 unknown plant parameter 

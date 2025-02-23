@@ -1,0 +1,10 @@
+influence process design control strategy application 
+	 electropneumatic field 
+ article propose example electropneumatic system 
+	 architecture process modify respect 
+	 specification position velocity tracking criterion 
+	 concern energy consumption experimental result compare 
+	 analyze use industrial bench test complete model 
+	 system present kind nonlinear control law 
+	 develop monovariable multivariable type base flatness 
+	 theory 

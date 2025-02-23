@@ -1,0 +1,15 @@
+search efficient solution multi criterion problem target level 
+	 method 
+ target level method consider solve continuous multi criterion 
+	 maximization problem step decision maker specifie 
+	 target level point desire criterion value set 
+	 vector evaluation seek point close target point 
+	 chebyshev metric vector evaluation obtain way 
+	 general weakly efficient identify efficient evaluation 
+	 second step maximize sum criterion set generate 
+	 step 1 prove relationship evaluation 
+	 decision obtain propose procedure hand 
+	 efficient weakly efficient evaluation decision 
+	 hand edgeworth pareto hull set vector evaluation 
+	 convex set efficient vector evaluation approximate 
+	 propose method 

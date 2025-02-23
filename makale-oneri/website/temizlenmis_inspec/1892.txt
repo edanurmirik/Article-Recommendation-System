@@ -1,0 +1,14 @@
+closed loop persistent identification linear system unmodeled dynamic 
+	 stochastic disturbance 
+ essential issue time complexity probe signal selection 
+	 study persistent identification linear time invariant system 
+	 closed loop setting establish upper low bound 
+	 identification accuracy function length observation 
+	 size unmodeled dynamic stochastic disturbance demonstrate 
+	 inherent impact unmodeled dynamic identification accuracy 
+	 reduction time complexity stochastic averaging disturbance 
+	 probe capability rank periodic signal closed loop 
+	 persistent identification finding indicate mixed 
+	 formulation deterministic uncertainty system dynamic 
+	 blend random disturbance beneficial reduction 
+	 identification complexity 

@@ -1,0 +1,9 @@
+extend kamp theorem model time granularity 
+ paper generalization kamp theorem relative functional 
+	 completeness operator prove generalization 
+	 consist functional completeness expressive 
+	 temporal operator respect extension order 
+	 theory linear order mfo extra binary relational 
+	 symbol result motivate search modal language 
+	 capable express property operator suitable model time 
+	 granularity omega -layere temporal structure 

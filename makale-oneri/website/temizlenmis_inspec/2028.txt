@@ -1,0 +1,14 @@
+centroid detection base optical correlation 
+ propose correlation base method simultaneously detect 
+	 centroid multiple object input scene method 
+	 base modulus moment function second method base 
+	 square moment function method work 
+	 single intensity filter method invariant change 
+	 position orientation scale object result good 
+	 noise smooth performance use spatial light modulator slms 
+	 directly implement input image filter information 
+	 purpose approach present result simulation 
+	 different approach provide comparison 
+	 optical correlation- digital moment base method experimental 
+	 result correspond optical correlator use slm 
+	 centroid detection present 

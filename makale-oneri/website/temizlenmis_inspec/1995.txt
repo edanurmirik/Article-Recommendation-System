@@ -1,0 +1,24 @@
+comparison computational color constancy algorithm methodology 
+	 experiment synthesized datum 
+ introduce context test computational color constancy specify 
+	 approach implementation number lead algorithm 
+	 report result experiment use synthesized datum 
+	 experiment use synthesized datum important ground 
+	 truth know possible confound camera characterization 
+	 pre processing absent factor affect color 
+	 constancy efficiently investigate 
+	 manipulate individually precisely algorithm choose close 
+	 study include gray world method limit case version 
+	 retinex method number variant forsyth 1990 
+	 gamut mapping method cardei et al 2000 neural net method 
+	 finlayson et al color correlation method finlayson et al 1997 
+	 2001 hubel finlayson 2000 investigate ability 
+	 algorithm estimate different color constancy 
+	 quantity chromaticity scene illuminant overall 
+	 magnitude illuminant correct illumination invariant 
+	 image consider algorithm performance function number 
+	 surface scene generate reflectance spectra relative 
+	 effect algorithm add specularitie effect 
+	 subsequent clipping datum datum available line 
+	 http://www.cs.sfu.ca/~color/data implementation 
+	 algorithm available http://www.cs.sfu.ca/~color/code 

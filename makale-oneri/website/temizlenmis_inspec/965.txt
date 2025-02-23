@@ -1,0 +1,11 @@
+slide mode control chaos cubic chua circuit system 
+ paper slide mode controller apply control cubic chua 
+	 circuit system slide surface paper use dimension 
+	 high traditional surface guarantee passage 
+	 initial state control system use 
+	 characteristic slide mode aim design controller 
+	 meet desire specification use control energy 
+	 compare result current exist literature 
+	 result propose controller steer chua circuit 
+	 system desire state chattering phenomenon 
+	 abrupt state change 

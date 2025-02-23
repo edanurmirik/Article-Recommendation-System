@@ -1,0 +1,35 @@
+method geometrical verification dynamic intensity modulate 
+	 radiotherapy use scan electronic portal imaging device 
+ order guarantee safe delivery dynamic intensity modulate 
+	 radiotherapy imrt verification leaf trajectory 
+	 treatment necessary aim study develop method 
+	 line verification leaf trajectory use electronic 
+	 portal imaging device scan read independent 
+	 multileaf collimator example scanning imager electronic 
+	 portal imaging device epids base liquid fill ionization 
+	 chamber base amorphous silicon portal image 
+	 acquire continuously liquid fill ionization chamber epid 
+	 delivery signal treatment progress 
+	 generate accelerator portal image 
+	 prescribe leaf diaphragm position compute dynamic 
+	 prescription progress information motion distortion effect 
+	 leave correct base treatment progress 
+	 record image row aperture form prescribe 
+	 leave diaphragm use reference field edge 
+	 actual field edge find use maximum gradient edge detector 
+	 error leaf diaphragm position find deviation 
+	 reference field edge detect field edge early 
+	 measurement dynamic epid response accuracy 
+	 detect field edge 1 mm ensure 
+	 verification independent inaccuracy acquire progress 
+	 signal signal check diode measurement 
+	 method test different dynamic prescription use 
+	 describe method correctly reproduce distorted field edge 
+	 verify single portal image 0.1 s 866 mhz personal 
+	 computer flaw control system experimental dynamic 
+	 multileaf collimator correctly reveal method 
+	 error leaf position increase leaf speed indicate 
+	 delay approximately 0.8 s control system second 
+	 accuracy leave diaphragm depend direction 
+	 motion conclusion describe verification method suitable 
+	 detailed verification leaf trajectory dynamic imrt 

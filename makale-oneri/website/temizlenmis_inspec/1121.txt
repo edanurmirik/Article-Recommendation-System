@@ -1,0 +1,15 @@
+optimal bandwidth utilization optical ring converter degree 4 
+ model optical routing set communication path 
+	 network wavelength assign path 
+	 path share edge receive different wavelength goal 
+	 assign wavelength possible order use optical 
+	 bandwidth efficiently node network contain wavelength 
+	 converter path pass node change 
+	 wavelength having converter node reduce 
+	 number wavelength require route paper present 
+	 wavelength converter degree 4 routing algorithm 
+	 routing load l realize l wavelength 
+	 node optical ring host wavelength converter 
+	 prove 4 minimum degree converter 
+	 reach utilization available wavelength 
+	 node optical ring host converter 

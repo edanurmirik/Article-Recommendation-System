@@ -1,0 +1,12 @@
+wavelet base level detail representation 3d object 
+ paper propose 3d object lod level detail model system 
+	 construct mesh range image generate mesh 
+	 lod use wavelet transform initial mesh 
+	 generation use marching cube algorithm modify original 
+	 algorithm apply construct mesh multiple range image 
+	 efficiently base mesh use decimation algorithm 
+	 simplify mesh preserve topology finally 
+	 reconstruct new mesh similar initial mesh calculate 
+	 wavelet coefficient use wavelet transform solve 
+	 critical problem wavelet base method surface crease problem 
+	 use mesh simplification base mesh generation method 

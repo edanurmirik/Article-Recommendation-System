@@ -1,0 +1,18 @@
+scalable technique nonparametric statistic real time robot learning 
+ locally weight learning lwl class technique nonparametric 
+	 statistic provide useful representation training algorithm 
+	 learn complex phenomenon autonomous adaptive control 
+	 robotic system paper introduce lwl algorithm 
+	 test successfully real time learning complex robot 
+	 task discuss major class lwl memory base lwl purely 
+	 incremental lwl need remember datum explicitly 
+	 contrast traditional belief lwl method work 
+	 high dimensional space provide new algorithm 
+	 test 90 dimensional learning problem applicability 
+	 lwl algorithm demonstrate robot learn example 
+	 include learning devil sticking pole balancing humanoid 
+	 robot arm inverse dynamic learning seven 30 
+	 degree freedom robot example application 
+	 statistical neural network technique allow fast 
+	 accurate acquisition motor control classical control 
+	 engineering 

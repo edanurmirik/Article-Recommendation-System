@@ -1,0 +1,12 @@
+fuzzy logic approach accommodate thermal stress improve start 
+	 phase combine cycle power plant 
+ use combine cycle power generation plant increase dramatically 
+	 decade supervisory control approach base dynamic 
+	 model develop use proportional integral derivative 
+	 pid fuzzy logic fuzzy pid scheme aim minimize 
+	 steam turbine plant start time violate maximum thermal 
+	 stress limit exist start schedule provide benchmark 
+	 performance candidate controller assess 
+	 improvement regard possible reduce start time satisfaction 
+	 maximum thermal stress restriction realize use 
+	 propose control scheme 

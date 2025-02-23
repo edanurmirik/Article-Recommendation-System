@@ -1,0 +1,15 @@
+repeat game lack information dual differential 
+	 approach 
+ introduce dual differential game repeat game lack 
+	 information natural continuous time version 
+	 dual game introduce de meyer 1996 traditional way study 
+	 value differential game discrete time approximation 
+	 follow opposite approach identify limit value 
+	 repeat game discrete time value differential game 
+	 use recursive structure finitely repeat 
+	 version dual game construct differential game 
+	 upper value uniform discretization satisfy precisely 
+	 property value dual differential game exist 
+	 unique viscosity solution order derivative equation 
+	 limit condition identify solution translate viscosity 
+	 property primal 

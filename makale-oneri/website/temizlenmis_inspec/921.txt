@@ -1,0 +1,17 @@
+processing complexly shape multiply connect domain finite element 
+	 mesh generation 
+ large number finite element model modern material science 
+	 engineering define complexly shaped domain 
+	 multiply connect generation quality finite element mesh 
+	 domain especially case mesh 100 quadrilateral 
+	 highly problematic paper describe mathematical fundamental 
+	 practical -implementation powerful method algorithm 
+	 allow transformation multiply connect domain arbitrary 
+	 geometrical complexity set simple domain 
+	 process broadly available finite element mesh generator 
+	 developed method apply number complex geometry 
+	 include arise analysis parasitic inductance 
+	 capacitance print circuit board quality practical 
+	 result produce method programming implementation 
+	 provide evidence algorithm apply finite 
+	 element model physical background 

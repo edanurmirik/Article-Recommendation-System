@@ -1,0 +1,13 @@
+module placement boundary constraint use b*-trees 
+ module placement problem determine co ordinate logic module 
+	 chip module overlap cost e.g. silicon 
+	 area interconnection length etc optimise shorten 
+	 connection input output and/or related module 
+	 adjacent desire place module specific 
+	 boundary chip deal boundary constraint 
+	 explore feasibility condition b*-tree boundary 
+	 constraint develop simulated annealing base algorithm use 
+	 b*-trees unlike previous work propose algorithm guarantee 
+	 feasible b*-tree boundary constraint perturbation 
+	 experimental result algorithm obtain small 
+	 silicon area recent work base sequence pair 

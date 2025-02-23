@@ -1,0 +1,13 @@
+universal approximation hierarchical fuzzy system constraint 
+	 fuzzy rule 
+ paper present special hierarchical fuzzy system output 
+	 previous layer use use 
+	 fuzzy rule current layer propose scheme 
+	 universal approximator continuous function 
+	 compact set complete fuzzy set use 
+	 fuzzy rule singleton fuzzifier center average defuzzifier 
+	 simulation ball beam control system demonstrate 
+	 propose scheme approximate good accuracy model 
+	 nonlinear controller fuzzy rule centralized fuzzy 
+	 system control performance comparable 
+	 nonlinear controller 

@@ -1,0 +1,8 @@
+ant colony optimization stochastic gradient descent 
+ study relationship technique know ant colony 
+	 optimization aco stochastic gradient descent precisely 
+	 empirical aco algorithm approximate stochastic gradient 
+	 descent space pheromone propose implementation 
+	 stochastic gradient descent belong family aco 
+	 algorithm use insight explore mutual 
+	 contribution technique 

@@ -1,0 +1,13 @@
+color plane interpolation use alternate projection 
+ commercial digital camera use color filter array sample red green 
+	 blue color accord specific pattern location 
+	 pixel color sample value 
+	 color interpolate use neighboring sample color plane 
+	 interpolation know demosaice important task 
+	 digital camera pipeline demosaicing perform 
+	 appropriately image suffer highly visible color artifact 
+	 paper present new demosaicing technique use 
+	 inter channel correlation effectively alternate projection 
+	 scheme compare technique state art 
+	 demosaicing technique outperform visually 
+	 term mean square error 

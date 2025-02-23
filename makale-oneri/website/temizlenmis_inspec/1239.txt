@@ -1,0 +1,16 @@
+dimensional global mhd simulation code earth magnetosphere 
+	 use hpf ja 
+ translate dimensional magnetohydrodynamic mhd simulation 
+	 code earth magnetosphere vpp fortran hpf ja 
+	 fujitsu vpp5000/56 vector parallel supercomputer mhd code 
+	 fully vectorize fully parallelize vpp fortran entire 
+	 performance capability hpf mhd code 
+	 comparable vpp fortran dimensional global 
+	 mhd simulation earth magnetosphere perform speed 
+	 400 gflop efficiency 76.5 use 56 processing 
+	 element fujitsu vpp5000/56 vector parallel computation 
+	 permit comparison catalog value conclude 
+	 fluid mhd code fully vectorize fully parallelize 
+	 vpp fortran translate relative ease hpf ja code 
+	 hpf ja expect perform comparably code 
+	 write vpp fortran 

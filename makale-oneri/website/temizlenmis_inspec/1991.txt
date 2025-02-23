@@ -1,0 +1,13 @@
+framework evaluate data hiding capacity image source 
+ information theoretic model image watermarking datum hiding 
+	 present paper previous theoretical result use 
+	 characterize fundamental capacity limit image watermarking 
+	 data hiding system capacity determine statistical model 
+	 use host image distortion constraint data 
+	 hider attacker information available data 
+	 hider attacker decoder consider autoregressive 
+	 block dct wavelet statistical model image compute 
+	 data hiding capacity compressed uncompressed host image 
+	 source closed form expression obtain sparse model 
+	 approximation model geometric attack distortion measure 
+	 invariant attack consider 

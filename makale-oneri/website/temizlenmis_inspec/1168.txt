@@ -1,0 +1,9 @@
+compute failure probability application reliability analysis 
+ paper present method calculate failure probability 
+	 application reliability analysis method base 
+	 transform initial set variable n dimensional uniform 
+	 random variable unit hypercube limit 
+	 condition set calculate associate probability use 
+	 recursive method base gauss legendre quadrature formula 
+	 calculate result multiple integral example application 
+	 use illustrate propose method 

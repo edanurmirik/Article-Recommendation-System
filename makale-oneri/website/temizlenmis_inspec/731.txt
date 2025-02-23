@@ -1,0 +1,17 @@
+aggregate bandwidth estimation store video distribution system 
+ multimedia application like video demand distance learning internet video 
+	 broadcast etc play fundamental role future broadband 
+	 network common aspect application transmission 
+	 video stream require sustained relatively high bandwidth 
+	 stringent requirement quality service paper 
+	 original algorithm evaluate video distribution system 
+	 statistical estimation aggregate bandwidth need number 
+	 smoothed video stream propose discuss variable bit 
+	 rate traffic generate video stream characterize 
+	 marginal distribution conditional probability rate 
+	 temporary closed stream develop iterative algorithm evaluate 
+	 upper low bind need bandwidth guarantee 
+	 loss probability obtain result compare simulation 
+	 result base similar assumption present 
+	 literature consideration developed algorithm 
+	 order evaluate effectiveness propose method 

@@ -1,0 +1,12 @@
+airline base schedule optimisation flight network anneal 
+ system rigorous airline base schedule optimisation describe 
+	 architecture system reflect underlying problem structure 
+	 architecture hierarchical consist master problem 
+	 logical aircraft schedule optimisation sub problem schedule 
+	 evaluation sub problem number component 
+	 sub problem include connection generation passenger choice 
+	 modelling passenger traffic allocation simulation revenue 
+	 cost determination schedule optimisation carry mean 
+	 simulate annealing flight network operator simulate 
+	 annealing process feasibility preserve form complete set 
+	 operator 

@@ -1,0 +1,5 @@
+nonlinear time optimal control problem 
+ sufficient condition existence optimal control time optimal 
+	 control problem fix end smooth nonlinear control system 
+	 formulate property system characterize 
+	 optimal control switching point study 

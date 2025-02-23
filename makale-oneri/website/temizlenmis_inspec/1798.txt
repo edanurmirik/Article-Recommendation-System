@@ -1,0 +1,19 @@
+robustness evaluation minimal rbf neural network 
+	 nonlinear data storage channel equalisation 
+ author present performance robustness evaluation recently 
+	 develop minimal resource allocation network mran equalisation 
+	 highly nonlinear magnetic recording channel disc storage 
+	 system unlike communication system equalisation signal 
+	 channel difficult problem corrupt 
+	 data dependent noise highly nonlinear distortion nair moon 
+	 1997 propose maximum signal distortion ratio msdr 
+	 equaliser datum storage channel use specially design 
+	 neural network parameter neural network 
+	 determine theoretically base exact knowledge channel 
+	 model parameter present paper performance msdr 
+	 equaliser compare mran equaliser use magnetic 
+	 recording channel model condition include variation 
+	 partial erasure jitter width noise power model 
+	 mismatch result study indicate complex mran 
+	 equaliser consistently performance robustness 
+	 msdr equaliser term signal distortion ratio sdrs 

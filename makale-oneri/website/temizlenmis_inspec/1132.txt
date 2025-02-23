@@ -1,0 +1,10 @@
+semidefinite programming vs. lp relaxation polynomial programming 
+ consider global minimization multivariate polynomial 
+	 semi algebraic set omega define polynomial inequality 
+	 compare hierarchy relaxation lp relaxation base 
+	 product original constraint spirit rlt 
+	 procedure sherali adams 1990 recent semidefinite 
+	 programming sdp relaxation introduce author comparison 
+	 analyze light recent result real algebraic geometry 
+	 representation polynomial positive compact 
+	 semi algebraic set 

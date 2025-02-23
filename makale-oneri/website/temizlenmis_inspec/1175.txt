@@ -1,0 +1,18 @@
+prediction tool chip temperature continuous interrupted machining 
+ numerical model base finite difference method present predict 
+	 tool chip temperature field continuous machining time 
+	 vary milling process continuous steady state machining 
+	 operation like orthogonal cutting study model heat 
+	 transfer tool chip tool rake face contact zone 
+	 shear energy create primary zone friction energy 
+	 produce rake face chip contact zone heat balance 
+	 chip stationary tool consider 
+	 temperature distribution solve use finite difference method 
+	 later model extend mill cutting 
+	 interrupt chip thickness vary time propose model 
+	 combine steady state temperature prediction continuous 
+	 machining transient temperature evaluation interrupted cutting 
+	 operation chip process change discontinuous 
+	 manner mathematical model simulation result 
+	 satisfactory agreement experimental temperature measurement 
+	 report literature 

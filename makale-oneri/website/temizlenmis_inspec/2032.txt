@@ -1,0 +1,8 @@
+adaptive digital watermarking use fuzzy logic technique 
+ digital watermarking propose copyright protection digital 
+	 society propose adaptive digital watermarking scheme base 
+	 human visual system model fuzzy logic technique fuzzy 
+	 logic approach employ obtain different strength 
+	 length watermark local characteristic image 
+	 propose scheme experiment scheme provide robust 
+	 imperceptible watermark 

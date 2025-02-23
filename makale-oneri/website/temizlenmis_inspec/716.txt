@@ -1,0 +1,7 @@
+algorithmic result order median problem 
+ series paper new type objective function location theory 
+	 order median function introduce analyze 
+	 objective function unifie generalize common objective 
+	 function use location theory paper identify finite 
+	 dominate set model develop polynomial time algorithm 
+	 detailed complexity analysis 

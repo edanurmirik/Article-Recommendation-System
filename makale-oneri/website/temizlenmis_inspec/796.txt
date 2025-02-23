@@ -1,0 +1,11 @@
+quadratic newton iteration system multiplicity 
+ newton iterator popular component polynomial equation 
+	 system solver numeric symbolic point view 
+	 iterator usually handle smooth situation jacobian 
+	 matrix associate system invertible 
+	 restrictive factor generalize newton iterator open 
+	 problem design efficient iterator quadratic 
+	 convergence degenerate case propose answer 
+	 m adic topology ideal m choose generic compare 
+	 smooth case prove quadratic convergence small overhead 
+	 grow square multiplicity root 

@@ -1,0 +1,11 @@
+trajectory force track control constrained mobile manipulator 
+	 parameter uncertainty 
+ study trajectory force track control problem mobile 
+	 manipulator subject holonomic nonholonomic constraint 
+	 unknown inertia parameter adaptive controller propose base 
+	 suitable reduce dynamic model define reference signal 
+	 mixed tracking error propose controller ensure 
+	 entire state system asymptotically converge desire 
+	 trajectory ensure constraint force asymptotically 
+	 converge desire force detailed numerical example 
+	 present illustrate develop method 

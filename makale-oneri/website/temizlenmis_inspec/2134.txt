@@ -1,0 +1,12 @@
+linear model circuit base multivalue component 
+ linearization planarization circuit model pivotal 
+	 submicron technology hand characteristic 
+	 vlsi circuit improve use multivalue 
+	 component l level circuit base 
+	 multivalue component representable algebraic model base 
+	 l linear arithmetic polynomial map correspondingly l decision 
+	 diagram linear planar nature complexity 
+	 represent circuit linear decision diagram estimate 
+	 o(g g number multivalue component circuit 
+	 result test lineardesignmv algorithm circuit 
+	 8000 lgsynth 93 multivalue component present 

@@ -1,0 +1,12 @@
+decentralize adaptive output feedback stabilization class 
+	 interconnect system unknown bound uncertainty 
+ problem adaptive decentralized stabilization class linear 
+	 time invarye large scale system nonlinear interconnectivity 
+	 uncertainty discuss bound uncertainty assume 
+	 unknown uncertain dynamic system adaptive 
+	 decentralized controller present result closed loop 
+	 system asymptotically stable theory adaptive 
+	 decentralize control scheme scheme ensure 
+	 closed loop system exponentially practically stable use 
+	 practical engineering finally simulation control 
+	 scheme effective 

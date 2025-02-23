@@ -1,0 +1,9 @@
+friction compensator pneumatic control valve 
+ procedure compensate static friction stiction pneumatic 
+	 control valve present compensation obtain add 
+	 pulse control signal characteristic pulse 
+	 determine control action compensator implement 
+	 industrial controller control system industrial 
+	 experience procedure reduce control error 
+	 stick slip motion significantly compare standard control 
+	 stiction compensation 

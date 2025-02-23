@@ -1,0 +1,12 @@
+robust l sub 2/ disturbance attenuation nonlinear system input 
+	 dynamical uncertainty 
+ deal problem robust l sub 2/ disturbance attenuation nonlinear 
+	 system input dynamical uncertainty input dynamical 
+	 uncertainty restrict minimum phase relative degree zero 
+	 sufficient condition nonlinear system 
+	 satisfy l sub 2/ gain performance input state stable 
+	 property use condition design approach smooth 
+	 state feedback control law solve robust l sub 2/ disturbance 
+	 attenuation problem approach extend general 
+	 case nominal system high relative degree finally 
+	 numerical example demonstrate propose approach 

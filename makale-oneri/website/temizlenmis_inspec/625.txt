@@ -1,0 +1,11 @@
+identify multivariate discordant observation computer intensive approach 
+ problem identify multiple outlier multivariate normal sample 
+	 approach successive testing use p value table 
+	 critical value caroni prescott appl statist 41 p.355 1992 
+	 propose generalization edr esd procedure rosner 
+	 technometrics 25 1983 venter viljoen comput statist data 
+	 anal 29 p.261 1999 introduce computer intensive method 
+	 identify outlier univariate outlier situation generalize 
+	 method multivariate outlier situation compare new 
+	 procedure caroni prescott appl statist 4 p.355 
+	 1992 

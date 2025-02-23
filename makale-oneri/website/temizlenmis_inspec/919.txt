@@ -1,0 +1,12 @@
+agent e commerce state art 
+ paper survey state art agent mediate electronic commerce 
+	 e commerce especially business consumer b2c e commerce 
+	 business business b2b e commerce consumer buying 
+	 behaviour perspective role agent b2c e commerce 
+	 product brokering merchant brokering negotiation 
+	 application agent b2b e commerce mainly supply chain 
+	 management mobile agent evolutionary agent data mining agent 
+	 special technique apply agent mediate 
+	 e commerce addition technology implementation 
+	 briefly review finally conclude paper discussion 
+	 future direction agent mediate e commerce 

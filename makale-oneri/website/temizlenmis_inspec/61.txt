@@ -1,0 +1,16 @@
+application time frequency principal component analysis text independent 
+	 speaker identification 
+ propose formalism vector filtering spectral trajectory 
+	 allow integration number speech parameterization 
+	 approach cepstral analysis delta delta delta parameterization 
+	 auto regressive vector modeling ... common formalism 
+	 propose new filtering contextual principal component cpc 
+	 time frequency principal component tfpc filtering consist 
+	 extract principal component contextual covariance 
+	 matrix covariance matrix sequence vector 
+	 expand context apply new filtering framework 
+	 closed set speaker identification use subset polycost 
+	 database use speaker dependent tfpc filter result 
+	 relative improvement approximately 20 compare use 
+	 classical cepstral coefficient augment delta -coefficient 
+	 significantly 90 confidence level 

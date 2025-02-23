@@ -1,0 +1,4 @@
+property hadamard matrix come dihedral group 
+ h. kimura 1996 introduce method construct hadamard matrix degree 
+	 8n 4 dihedral group order 2n paper study 
+	 property construction 

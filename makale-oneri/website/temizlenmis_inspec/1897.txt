@@ -1,0 +1,18 @@
+user appropriate tyre modelling vehicle dynamic standard limit 
+	 situation 
+ model vehicle vehicle dynamic simulation special attention 
+	 pay modelling tyre force -torque accord 
+	 dominant influence result task 
+	 sufficiently exact representation effective force 
+	 user friendly practical relevant applicability especially 
+	 experimental tyre input data incomplete missing 
+	 text firstly describe basic vehicle dynamic tyre model 
+	 conceive physically base semi empirical model 
+	 application connection multi body system mbs basis 
+	 tyre passenger car heavy truck simulate steady 
+	 state tyre characteristic compare 
+	 underlie experimental value possibility link tyre model 
+	 tmeasy mbs program describe far support 
+	 standard tyre interface example simulated 
+	 experimental datum heavy truck standardized driving 
+	 manoeuvre compare 

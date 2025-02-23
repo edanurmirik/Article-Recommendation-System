@@ -1,0 +1,14 @@
+nonlinear system arise nonisothermal non newtonian hele shaw flow 
+	 presence body force source 
+ paper formal derivation system 
+	 equation injection moulding start basic 
+	 equation nonisothermal non newtonian flow dimensional 
+	 domain derive system t sup 0/ p sup 0/ t sup 1/ 
+	 p sup 1/ presence body force source find body 
+	 force source nonlinear effect system 
+	 derive nonlinear darcy law formulation include 
+	 pressure gradient body force source play 
+	 role nonlinearity later prove existence weak solution 
+	 certain boundary value problem initial boundary value problem 
+	 associate result equation t sup 0/ p sup 0/ 
+	 general mathematical setting 

@@ -1,0 +1,13 @@
+design 1 d 2 d variable fractional delay allpass filter use weight 
+	 square method 
+ paper weighted square method present design 
+	 dimensional dimensional variable fractional delay allpass 
+	 filter coefficient variable allpass filter 
+	 express polynomial fractional delay parameter 
+	 nonlinear phase error approximate weighted equation error 
+	 cost function convert quadratic form 
+	 minimize weight equation error optimal polynomial 
+	 coefficient obtain iteratively solve set linear 
+	 simultaneous equation iteration finally design example 
+	 demonstrate illustrate effectiveness propose 
+	 approach 

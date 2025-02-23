@@ -1,0 +1,21 @@
+estimation gradient solution adjoint diffusion equation 
+	 monte carlo method 
+ case isotropic diffusion consider representation 
+	 weight concentration trajectory space derivative 
+	 form integral weight solution 
+	 correspond boundary value problem directional derivative 
+	 convective velocity convective velocity domain 
+	 boundary degenerate additional condition impose 
+	 representation allow construct efficient random walk 
+	 sphere ball algorithm condition violate 
+	 transition model diffusion trajectory euler scheme 
+	 realize directional derivative velocity estimate 
+	 dependent testing method use parallel modelling 
+	 closely space diffusion trajectory succeed justify 
+	 method statistically equivalent transition model single 
+	 trajectory step euler scheme use suitable 
+	 weight weight admit direct differentiation respect 
+	 initial coordinate direction result weight 
+	 algorithm calculate concentration derivative especially 
+	 efficient initial point subdomain 
+	 coefficient diffusion equation constant 

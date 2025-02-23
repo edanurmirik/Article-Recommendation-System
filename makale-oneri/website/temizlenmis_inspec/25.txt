@@ -1,0 +1,17 @@
+identification evolve fuzzy rule base model 
+ approach identification evolve fuzzy rule base er model 
+	 propose er model implement method noniterative update 
+	 rule base structure parameter incremental unsupervised 
+	 learning rule base evolve add informative rule 
+	 previously form model addition exist rule 
+	 replace new rule base rank use informative 
+	 potential datum way rule base structure 
+	 inherit update new informative datum available 
+	 completely retrain adaptive nature 
+	 evolve rule base model combination highly transparent 
+	 compact form fuzzy rule promising candidate 
+	 modeling control complex process competitive neural 
+	 network approach test benchmark problem 
+	 air conditioning component modeling application use datum 
+	 installation serve real building result illustrate 
+	 viability efficiency approach 

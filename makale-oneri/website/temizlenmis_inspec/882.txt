@@ -1,0 +1,12 @@
+m d/1 queue deterministic server vacation 
+ study single server vacation queue poisson arrival deterministic 
+	 service constant duration b 0 deterministic vacation 
+	 constant duration d 0 designate model m d d/1 
+	 completion service server vacation 
+	 probability p continue work system probability 1 
+	 p. obtain time dependent steady state probability 
+	 generation function number system steady state 
+	 obtain explicitly mean number mean wait time 
+	 system queue know result m d/1 queue 
+	 derive special case finally numerical illustration 
+	 discuss 

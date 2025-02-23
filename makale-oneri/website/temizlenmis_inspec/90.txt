@@ -1,0 +1,31 @@
+lan base building maintenance surveillance robot 
+ building construction industry major industry hong kong 
+	 develop country world commissioning 
+	 high rise building large estate substantial manpower inside 
+	 management centre standby manner surveillance 
+	 security purpose building require daily 
+	 operation ensure quality environment occupant 
+	 surveillance job robot efficiency highly 
+	 enhance result great saving manpower improve 
+	 safety management staff product furthermore 
+	 robot retrieve command building management system 
+	 local area network lan saving manpower achieve 
+	 term line fault attendance human management staff 
+	 paper describe development robot prototype hong kong 
+	 handle daily routine maintenance work surveillance 
+	 responsibility hardware structure robot board 
+	 device describe real time image capture camera 
+	 robot pan tilt zoom function transmit 
+	 central management office local area network interface 
+	 robot building automation system bas 
+	 building discuss key achievement 
+	 project strong implication reduce number human staff 
+	 manage modem building teleoperation robot internet 
+	 intranet possible second achievement 
+	 project finally robot identify physical position inside 
+	 building landmark recognition method base standard cad 
+	 drawing achievement project main goal 
+	 paper description groundbreaking technology 
+	 robotic development mainly intend convince building 
+	 designer manager incorporate robotic system 
+	 manage modem building save manpower improve efficiency 

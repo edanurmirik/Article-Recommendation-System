@@ -1,0 +1,16 @@
+modeling simulation adaptive available bit rate voice asynchronous 
+	 transfer mode network 
+ article present modeling simulation methodology analyze 
+	 performance voice quality send available bit rate 
+	 service asynchronous transfer mode network source modify 
+	 rate send traffic network base feedback 
+	 carry resource management cell achieve change 
+	 encoding level contention increase network 
+	 resource bandwidth case source start reduce rate 
+	 generate send traffic efficiency scheme 
+	 different scheduling drop policy operating condition 
+	 environment evaluate use simulation modeling furthermore 
+	 sensitivity analysis apply different parameter queue 
+	 size average interval length investigate impact 
+	 performance metric result limit load 41 
+	 link capacity result acceptable quality 

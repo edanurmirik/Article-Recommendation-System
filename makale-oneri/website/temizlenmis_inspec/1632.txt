@@ -1,0 +1,6 @@
+structure fractional delay filter small number multiplier 
+ wide bandwidth high resolution fractional delay filter fdf structure 
+	 small number multiplier output sample short coefficient 
+	 compute time present proposal base use 
+	 frequency fdf design method half nyquist frequency 
+	 multirate structure 

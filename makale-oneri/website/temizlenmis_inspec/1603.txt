@@ -1,0 +1,16 @@
+exploit structure adaptive dynamic programming algorithm 
+	 stochastic batch service problem 
+ purpose paper illustrate importance use structural 
+	 result dynamic programming algorithm consider problem 
+	 approximate optimal strategy batch service customer 
+	 service station customer stochastically arrive station 
+	 wait serve incur waiting cost service cost service 
+	 customer perform group fix service capacity 
+	 investigate structure cost function establish 
+	 theoretical result include monotonicity value function 
+	 use adaptive dynamic programming monotone algorithm 
+	 use structure preserve monotonicity estimate 
+	 iteration approximate value function problem 
+	 homogeneous customer solve optimally means 
+	 comparison evaluate heuristic finally compare algorithm 
+	 classical forward dynamic programming method 

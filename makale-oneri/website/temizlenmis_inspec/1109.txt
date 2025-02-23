@@ -1,0 +1,12 @@
+existence condition gamma -acyclic database scheme mvd 
+	 constraint 
+ important use database technology large scale system 
+	 erp mis good database design improve performance 
+	 system research gamma -acyclic database scheme 
+	 good property e.g. connected join expression 
+	 monotonous help improve query performance database 
+	 system condition need generate gamma -acyclic 
+	 database scheme relational scheme paper 
+	 sufficient necessary condition existence gamma -acyclic 
+	 join lossless dependency preserve database scheme meet 4nf 
+	 

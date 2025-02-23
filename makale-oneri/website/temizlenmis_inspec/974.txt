@@ -1,0 +1,6 @@
+extrapolation lie group approximated bch formula 
+ present extrapolation algorithm integration differential 
+	 equation lie group suitable generalization 
+	 know gbs algorithm ode sufficiently accurate approximation 
+	 bch formula require reach order 
+	 approximation minimized number commutator 

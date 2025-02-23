@@ -1,0 +1,14 @@
+efficient level image thresholding method base bayesian formulation 
+	 maximum entropy principle 
+ efficient method level thresholding propose base bayes 
+	 formula maximum entropy principle assumption 
+	 image histogram alternative criterion derive base 
+	 maximize entropy use speed searching algorithm 
+	 form conditional probability distribution simple linear 
+	 parabola concave parabola convex s function employ 
+	 compare optimal threshold determination effect 
+	 precision optimal threshold determination discuss 
+	 trade precision epsilon 0.001 select experimentally 
+	 experiment demonstrate propose method achieve significant 
+	 improvement speed 26 57 time fast exhaustive 
+	 search method 

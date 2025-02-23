@@ -1,0 +1,15 @@
+new approach stand phase angle reduction power system restoration 
+ power system restoration necessary check phase angle 
+	 bus close circuit breaker connect line 
+	 angle occur tie line 
+	 system connect subsystem system case 
+	 large standing phase angle spa difference synchro check relay 
+	 allow closing breaker line 
+	 excessive spa reduce attempt connect line 
+	 paper new fast method reduce spa present 
+	 purpose stand phase angle difference specific 
+	 bus represent term sensitivity factor associate 
+	 change active power generation consumption bus 
+	 propose method reschedule generation select unit 
+	 shed load select bus reduce excessive spa difference 
+	 bus base sensitivity factor 

@@ -1,0 +1,13 @@
+differential algebraic system anew 
+ propose figure lead term differential algebraic system 
+	 precisely low index linear system properly state 
+	 lead term consider detail particular ask 
+	 numerical integration method apply original system 
+	 reach inherent regular ode conservation i.e. 
+	 discretization decouple commute sense general 
+	 expect commutativity additional difficulty 
+	 like strong stepsize restriction arise abstract 
+	 differential algebraic equation infinite dimensional hilbert space 
+	 introduce index notion generalize equation 
+	 particular partial differential algebraic equation consider 
+	 abstract formulation 

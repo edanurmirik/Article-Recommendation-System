@@ -1,0 +1,15 @@
+hybrid broadcast video demand service 
+ multicast offer efficient mean distribute video content program 
+	 multiple client batch request share 
+	 server video stream batch customer request 
+	 client initiate server initiate advanced client initiate 
+	 video multicast implement patch periodic broadcast 
+	 typical server initiate approach entirety base 
+	 segment base paper focus performance vod service 
+	 popular video analyze limitation conventional 
+	 patching customer request rate high combine 
+	 advantage broadcast scheme propose hybrid 
+	 broadcast scheme popular video lower service 
+	 latency improve client interactivity use active 
+	 buffering technique good compromise 
+	 lower service latency improve vcr like interactivity 

@@ -1,0 +1,15 @@
+cane railway scheduling constraint logic programming labelling order 
+	 constraint real life application 
+ australia cane transport large unit cost manufacturing 
+	 raw sugar 35 total manufacturing cost 
+	 produce efficient schedule cane railway result 
+	 significant cost saving paper present study use constraint 
+	 logic programming clp solve cane transport scheduling problem 
+	 tailor heuristic labelling order constraint strategy 
+	 propose encourage result application test 
+	 problem real life case present preliminary result 
+	 demonstrate clp use effective tool solve 
+	 cane transport scheduling problem potential decrease 
+	 development cost scheduling system use 
+	 efficient tool reschedule task exist cane transport 
+	 scheduling system perform 

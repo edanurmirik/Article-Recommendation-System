@@ -1,0 +1,16 @@
+new tuning method pid controller 
+ paper tuning method proportional integral derivative pid 
+	 controller performance assessment formula method 
+	 propose tuning method base genetic algorithm base pid 
+	 controller design method derive tuning formula genetic 
+	 algorithm base design method apply design pid controller 
+	 variety process relationship controller 
+	 parameter parameter characterize process dynamic 
+	 determine tuning formula derive use simulation 
+	 study rule assess performance pid controller 
+	 tune propose method possible 
+	 incorporate capability determine pid controller 
+	 tune autotuner autotuner base new tuning 
+	 method corresponding performance assessment rule 
+	 establish simulation real time experimental result 
+	 demonstrate effectiveness usefulness formula 

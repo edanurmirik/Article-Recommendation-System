@@ -1,0 +1,17 @@
+assessment macrocyclic effect complexation crown ether 
+	 alkali cation use substructural molecular fragment method 
+ substructural molecular fragments method solov'ev v. p. varnek a. a. 
+	 wipff g. j. chem inf comput sci 2000 40 847 858 apply 
+	 assess stability constant logk complex crown ether 
+	 polyether glyme na sup k sup cs sup 
+	 methanol seven computational model include 
+	 different fragment set couple linear nonlinear fitting 
+	 equation apply data set contain 69 na sup 123 
+	 k sup 31 cs sup compound account 
+	 macrocyclic effect crown ether additional cyclicity 
+	 descriptor use predict stability constant 
+	 macrocyclic compound open chain analogue good 
+	 agreement experimental datum report early 
+	 study experimentally work macrocyclic effect 
+	 function cation ligand quantitatively estimate 
+	 study crown ether 

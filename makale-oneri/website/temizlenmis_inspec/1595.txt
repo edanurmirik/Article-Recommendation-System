@@ -1,0 +1,13 @@
+convergence finite element approximation multilevel linearization 
+	 ginzburg landau model d wave superconductor 
+ paper consider finite element approximation recently 
+	 propose ginzburg landau type model d wave superconductor 
+	 contrast conventional ginzburg landau model scalar complex 
+	 value order parameter replace multicomponent complex 
+	 order parameter free energy modify accord d wave 
+	 paring symmetry convergence optimal error estimate 
+	 super convergent estimate derivative derive 
+	 furthermore propose multilevel linearization procedure solve 
+	 nonlinear system prove optimal error estimate 
+	 super convergence derivative preserve 
+	 multi level linearization algorithm 

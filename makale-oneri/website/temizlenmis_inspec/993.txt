@@ -1,0 +1,19 @@
+large deviation analysis transient queue markov fluid 
+	 input approximation fast simulation 
+ article analyze transient buffer content distribution queue feed 
+	 large number markov fluid source characterize 
+	 probability overflow time t current buffer level 
+	 number source state scale buffer 
+	 bandwidth resource number source n apply large 
+	 deviation technique transient overflow probability decay 
+	 exponentially n. case exponential source 
+	 derive expression decay rate rare event probability 
+	 consideration general markov fluid source present 
+	 plausible conjecture provide likely path 
+	 initial state overflow time t knowledge decay rate 
+	 likely path overflow lead approximation 
+	 transient overflow probability ii efficient simulation method 
+	 rare event buffer overflow simulation method base 
+	 importance sampling huge speed compare straightforward 
+	 simulation approximation low computational complexity 
+	 accurate verify mean simulation experiment 

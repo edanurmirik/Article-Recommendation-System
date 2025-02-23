@@ -1,0 +1,27 @@
+design implementation reusable extensible hl7 encoding decode 
+	 framework 
+ health level seven hl7 international standard electronic data 
+	 exchange health care environment enable disparate computer 
+	 application exchange key set clinical administrative 
+	 information define standard hl7 message format 
+	 prescribe standard encoding rule paper propose 
+	 flexible reusable extensible hl7 encode decode framework 
+	 use message object model mom message definition repository 
+	 mdr mom provide abstract hl7 message form represent 
+	 group object relationship reflect logical 
+	 relationship standard hl7 message element segment 
+	 field component enforce key structural constraint 
+	 impose standard mom completely eliminate 
+	 dependency hl7 encoder decoder platform specific data 
+	 format possible build encoder decoder 
+	 reusable standalone software component enable interconnection 
+	 arbitrary heterogeneous hospital information system 
+	 little effort mdr external database key 
+	 definition hl7 message help encoder decoder 
+	 resilient possible future modification standard hl7 
+	 message format use encoder decoder perform 
+	 formedness check respective input i.e. hl7 message 
+	 object express mom encode hl7 message string 
+	 implement prototype version encoder decoder use 
+	 java easily package deliver standalone 
+	 component use standard component framework 

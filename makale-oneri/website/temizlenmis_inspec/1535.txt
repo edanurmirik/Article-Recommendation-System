@@ -1,0 +1,12 @@
+hot controller 
+ year semiconductor industry emphasis 
+	 way improve accuracy thermal mass flow controller tmfcs 
+	 issue involve tmfc mount orientation pressure 
+	 effect receive attention little address 
+	 effect change ambient temperature process gas 
+	 temperature scientist engineer qualiflow succeed 
+	 solve problem use temperature correction algorithm digital 
+	 tmfc use situ environmental temperature compensation 
+	 technique calculate correction factor temperature effect 
+	 obtain satisfactory result traditional sensor 
+	 new improve thin film sensor 

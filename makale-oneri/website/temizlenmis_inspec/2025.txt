@@ -1,0 +1,13 @@
+multispectral color image capture use liquid crystal tunable filter 
+ describe experimental setup multispectral color image acquisition 
+	 system consist professional monochrome ccd camera tunable 
+	 filter spectral transmittance control 
+	 electronically perform spectral characterization 
+	 acquisition system account acquisition noise 
+	 convert camera output signal device independent color datum 
+	 main approach propose evaluate consist apply 
+	 regression method convert k camera output 
+	 device independent color space ciexyz cielab method 
+	 base spectral model acquisition system invert 
+	 model use principal eigenvector approach estimate 
+	 spectral reflectance pixel image surface 

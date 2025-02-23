@@ -1,0 +1,18 @@
+perfusion quantification use gaussian process deconvolution 
+ quantification perfusion use dynamic susceptibility contrast mri 
+	 dsc mri require deconvolution obtain residual impulse 
+	 response function irf work method use gaussian 
+	 process deconvolution gpd propose fact irf 
+	 smooth incorporate constraint method gpd method 
+	 automatically estimate noise level voxel 
+	 advantage model parameter optimize automatically gpd 
+	 compare singular value decomposition svd use common threshold 
+	 singular value svd use threshold optimize 
+	 accord noise level voxel comparison carry 
+	 use artificial datum datum healthy volunteer 
+	 gpd comparable svd variable optimize 
+	 threshold determine maximum irf directly 
+	 relate perfusion gpd provide estimate entire 
+	 irf signal noise ratio snr increase time 
+	 resolution measurement increase gpd superior 
+	 svd find large distribution volume 

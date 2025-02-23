@@ -1,0 +1,13 @@
+fitting mixed effect model repeat ordinal outcome nlmixed 
+	 procedure 
+ paper present analysis repeat ordinal outcome arise 
+	 psychological study case repeat measure analysis 
+	 variance second mixed effect regression 
+	 longitudinal design subject specific variation model 
+	 include random effect linear predictor inside link 
+	 function generalized linear model nlmixed procedure sas 
+	 use fit mixed effect model categorical response 
+	 datum presentation emphasize parallel model 
+	 specification sas statement purpose paper 
+	 facilitate use mixed effect model analysis repeat 
+	 ordinal outcome 

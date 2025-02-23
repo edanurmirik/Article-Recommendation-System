@@ -1,0 +1,18 @@
+non linear analysis nearly saturate porous medium theoretical numerical 
+	 formulation 
+ formulation porous medium saturate compressible fluid 
+	 undergo large elastic plastic deformation present 
+	 consistent thermodynamic formulation propose phase 
+	 mixture problem preserve straightforward robust numerical 
+	 scheme novel feature specification fluid 
+	 compressibility term volumetric logarithmic strain 
+	 energy conjugate fluid pressure entropy inequality 
+	 result entropy inequality use separate different 
+	 mechanism represent response effective stress response 
+	 accord terzaghi solid skeleton fluid pressure response 
+	 compressibility fluid dissipative darcy flow represent 
+	 interaction phase paper conclude 
+	 couple numerical example display predictive capability 
+	 propose formulation particular consider result 
+	 kinematically linear theory compare kinematically non linear 
+	 theory 

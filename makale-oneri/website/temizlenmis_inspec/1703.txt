@@ -1,0 +1,22 @@
+statistical analysis nonlinearly reconstruct near infrare tomographic 
+	 image ii experimental interpretation 
+ pt ibid vol 21 7 p. 755 63 2002 image error analysis 
+	 diffuse near infrare tomography nir system carry 
+	 simulate datum use statistical approach describe pt 
+	 paper pogue et al 2002 methodology use 
+	 experimental datum acquire phantom prototype imaging system 
+	 intend characterize breast tissue result imaging 
+	 performance limit random measurement error 
+	 calibration issue image error entire field view 
+	 generally minimize accurate homogeneous estimate 
+	 phantom property available local image error 
+	 target region interest roi reduce image reconstruction 
+	 process include levenberg marquardt style regularization 
+	 provide good minimization objective function reduction 
+	 correlate overall image error decrease 
+	 minimization bias roi contain localize change 
+	 optical property achieve iteration 
+	 algorithm precalibration algorithm statistical 
+	 evaluation phantom study provide measure image 
+	 accuracy imply minimization standard objective 
+	 function 

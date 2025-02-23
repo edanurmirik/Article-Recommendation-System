@@ -1,0 +1,19 @@
+evaluate good main battle tank use fuzzy decision theory 
+	 linguistic criterion evaluation 
+ paper expert opinion describe linguistic term 
+	 express trapezoidal triangular fuzzy number 
+	 consensus expert consistent utilize fuzzy delphi method 
+	 adjust fuzzy rating expert achieve consensus 
+	 condition aggregate expert opinion 
+	 operation fuzzy number mean fuzzy rating x sub ij/ 
+	 mean weight w sub .j/. multi alternative 
+	 multi attribute case fuzzy decision matrix x=[x sub ij/]/sub 
+	 m*n/ construct mean fuzzy rating x sub ij/. 
+	 derive aggregate fuzzy number multiply fuzzy 
+	 decision matrix corresponding fuzzy attribute weight 
+	 final result problem rank fuzzy number 
+	 propose easy procedure use fuzzy number rank aggregate 
+	 fuzzy number sub i/. way obtain good selection 
+	 evaluate system practical application propose 
+	 algorithm evaluate good main battle tank fuzzy decision 
+	 theory compare method 

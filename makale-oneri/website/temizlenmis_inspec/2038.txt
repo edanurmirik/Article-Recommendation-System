@@ -1,0 +1,14 @@
+choice element set lesson 2000 presidential campaign 
+	 united states 
+ consider behavior choice rule plurality voting approval 
+	 voting borda count self consistent choice apply 
+	 choose good option element set assume 
+	 main option prefer large majority voter 
+	 option small number vote influence 
+	 election outcome main option receive close number 
+	 vote use rate main option borda count 
+	 self consistent choice contain term allow strength 
+	 preference voter rating main candidate 
+	 voter vote option way possible 
+	 determine reliably winner plurality voting approval 
+	 voting produce close result 

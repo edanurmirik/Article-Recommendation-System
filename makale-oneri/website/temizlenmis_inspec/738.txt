@@ -1,0 +1,3 @@
+play time 3 g network 
+ delay roll 3 g network europe 
+	 negative slant 

@@ -1,0 +1,14 @@
+improved fuzzy mcdm model base ideal anti ideal concept 
+ liang present 1999 fuzzy multiple criterion decision making mcdm method 
+	 base concept ideal anti ideal point despite 
+	 merit liang method follow limitation objective 
+	 criterion convert dimensionless index subjective 
+	 criterion convert prevent compatibility 
+	 criterion ii formula convert objective criterion 
+	 reliable iii unreliable ranking method i.e. maximize set 
+	 minimize set apply rank fuzzy number paper 
+	 apply hsu chen method suggest fuzzy number rank 
+	 method propose improved fuzzy mcdm model base ideal 
+	 anti ideal concept overcome shortcoming liang method 
+	 numerical example demonstrate effectiveness feasibility 
+	 propose rank method improved model respectively 

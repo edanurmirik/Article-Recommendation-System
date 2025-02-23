@@ -1,0 +1,18 @@
+project scheduling time dependent cost branch bind algorithm 
+ project network execution activity normal duration 
+	 require utilization certain resource fast execution 
+	 activity desire additional resource extra cost 
+	 require project network cost structure activity 
+	 planning horizon project compression problem concern 
+	 determination optimal schedule perform activity 
+	 satisfy restriction minimize total cost 
+	 project execution paper consider project compression problem 
+	 time dependent cost structure activity planning 
+	 horizon divide regular time interval 
+	 cost structure activity vary cost structure 
+	 activity remain time interval objective 
+	 find optimal project schedule minimize total project cost 
+	 present mathematical model problem develop heuristic 
+	 exact branch bind algorithm use simulate problem 
+	 provide insight computational performance heuristic 
+	 branch bind algorithm 

@@ -1,0 +1,18 @@
+successive expansion method network planning apply symbolic analysis 
+	 method 
+ conventional power system network successive expansion planning method 
+	 discuss context new paradigm competitive electric 
+	 power energy service market sequel paper present 
+	 application conceptually new computer program base 
+	 symbolic analysis load flow power system network network 
+	 parameter variable define symbol symbolic analyzer 
+	 model analytically power system dc load flow enable 
+	 sensitivity analysis power system parameter variable 
+	 variation cost transfer injection valuable tool 
+	 expansion planning analysis virtue find 
+	 conventional approach rely compensation method precalculate 
+	 distribution factor novel application shed 
+	 light traditional power system network expansion planning 
+	 method possible application system 
+	 network expansion planning new environment assume 
+	 competitive electric power market 

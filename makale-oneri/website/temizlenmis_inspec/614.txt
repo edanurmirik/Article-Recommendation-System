@@ -1,0 +1,16 @@
+line distribute intelligent fault section estimation system 
+	 large scale power network 
+ paper novel distribute intelligent system suggest line 
+	 fault section estimation fse large scale power network 
+	 step multi way graph partition method base weight 
+	 minimum degree reordering propose effectively partition 
+	 original large scale power network desire number connect 
+	 sub network quasi balanced fse burden minimum frontier 
+	 element partition distribute intelligent system base 
+	 radial basis function neural network rbf nn companion fuzzy 
+	 system suggest fse relevant theoretical analysis 
+	 procedure present paper propose distribute 
+	 intelligent fse method implement sparse storage 
+	 technique test ieee 14 30 118 bus system 
+	 respectively computer simulation result propose fse 
+	 method work successfully large scale power network 

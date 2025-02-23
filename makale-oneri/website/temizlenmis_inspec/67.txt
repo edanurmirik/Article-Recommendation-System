@@ -1,0 +1,13 @@
+metaschemas er orm uml data model comparison 
+ paper provide metaschema main database model 
+	 notation use industry entity relationship er notation 
+	 information engineering barker examine detail 
+	 object role modeling orm conceptual schema diagram discussion 
+	 optionality cardinality multiplicity widen include 
+	 unified modeling language uml class diagram issue address 
+	 metamodel analysis include normalization impact non derive 
+	 constraint derive association influence orthogonality 
+	 language transparency trade simplicity 
+	 expressibility facilitate comparison modeling notation 
+	 use display metaschema purpose orm use 
+	 great expressibility clarity 

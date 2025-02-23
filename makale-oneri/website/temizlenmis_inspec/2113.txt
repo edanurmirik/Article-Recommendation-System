@@ -1,0 +1,5 @@
+ideal slide mode problem convex optimization 
+ characteristic slide mode appear use continuous 
+	 convex program algorithm base exact penalty function 
+	 discuss case study ideal slide mode 
+	 occur absence infinite number switching 

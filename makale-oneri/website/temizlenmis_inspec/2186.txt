@@ -1,0 +1,8 @@
+strategy high throughput template zeolite synthesis 
+ design redesign high throughput experiment zeolite synthesis 
+	 address model relate material function chemical 
+	 composition zeolite structure direct agent 
+	 introduce use model monte carlo like design protocol 
+	 evaluate multi round protocol bind effective 
+	 strategy use priori information structure directing 
+	 library find good 

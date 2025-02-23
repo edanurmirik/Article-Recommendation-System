@@ -1,0 +1,5 @@
+lattice boltzmann scheme quantum application 
+ review basic idea quantum lattice boltzmann equation lbe 
+	 present thought possible use equation 
+	 simulate quantum body problem parallel electronic 
+	 quantum computer 

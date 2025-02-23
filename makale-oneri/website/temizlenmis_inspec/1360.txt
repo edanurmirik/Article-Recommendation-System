@@ -1,0 +1,12 @@
+automate post bonding inspection use machine vision technique 
+ inspection play important role semiconductor industry 
+	 paper focus inspection task wire bonding packaging 
+	 purpose wire bonding w b connect bond pad 
+	 lead finger major type defect 1 bond line miss 
+	 2 bond line breakage number bonding line bonding 
+	 ball use feature defect classification propose 
+	 method consist image preprocessing orientation determination 
+	 connection detection bond line detection bond ball detection 
+	 defect classification propose method simple fast 
+	 experimental result propose method detect 
+	 defect effectively 

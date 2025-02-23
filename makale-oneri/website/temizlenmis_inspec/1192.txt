@@ -1,0 +1,8 @@
+construction sided bound initial boundary value problem 
+ paper extend bounding operator approach develop boundary value 
+	 problem case initial boundary value problem ibvps 
+	 follow general principle bound operator enclose method 
+	 case partial differential equation discuss 
+	 particular continuous discretization method appropriate error 
+	 bind control shift monotone extension rothe method 
+	 parabolic problem investigate 

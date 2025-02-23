@@ -1,0 +1,6 @@
+48 gbit s inp dhbt ms dff low time jitter 
+ master slave d type flip flop ms dff fabricate self align inp dhbt 
+	 technology present packaged circuit rate clock 
+	 operation 48 gbit s. low time jitter good retiming 
+	 capability observe layout aspect packaging measurement 
+	 issue discuss particular 

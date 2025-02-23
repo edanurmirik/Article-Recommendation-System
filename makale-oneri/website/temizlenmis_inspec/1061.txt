@@ -1,0 +1,9 @@
+abacus efi anti virus 
+ extensible firmware interface efi standard emerge logical step 
+	 provide flexibility extensibility boot sequence process 
+	 enable complete abstraction system bios interface 
+	 system hardware provide mean 
+	 standardize boot sequence extend device driver boot 
+	 time application portability non pc base architecture 
+	 include embed system like internet appliance tv internet 
+	 set box 64 bit itanium platform 

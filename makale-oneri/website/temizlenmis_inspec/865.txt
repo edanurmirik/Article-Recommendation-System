@@ -1,0 +1,10 @@
+setup cost lead time reduction stochastic inventory model 
+	 service level constraint 
+ stochastic inventory model analyze paper explore problem 
+	 lead time associate setup cost reduction continuous 
+	 review periodic review inventory model model 
+	 mixture backorder lose sale respectively assume 
+	 mean variance lead time demand protection interval 
+	 i.e. lead time plus review period demand know 
+	 probability distribution unknown develop minimax 
+	 distribution free procedure find optimal solution case 

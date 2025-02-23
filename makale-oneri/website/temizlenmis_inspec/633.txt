@@ -1,0 +1,9 @@
+use k near neighbor classification leave tree 
+ construct hybrid composite classifier combine classifier 
+	 common use classification tree k near neighbor k nn 
+	 scheme divide feature space classification tree 
+	 classify test set item use k nn rule 
+	 training item leaf test item reduce somewhat 
+	 computational load associate k nn produce 
+	 classification rule perform tree usual 
+	 k nn number know data set 

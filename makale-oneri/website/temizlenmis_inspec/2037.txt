@@ -1,0 +1,6 @@
+regularization linear regression problem 
+ study consider robust estimation linear regression parameter 
+	 regularization method pseudoinverse method bayesian 
+	 method allow correlation error datum regularizing 
+	 algorithm construct relationship pseudoinversion 
+	 bayesian approach blue investigate 

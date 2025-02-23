@@ -1,0 +1,10 @@
+collocation formulation multistep method variable step size 
+	 extension 
+ multistep method classically construct specially design difference 
+	 operator equidistant time grid practically useful 
+	 implement vary step size accord 
+	 error control algorithm known extend adams bdf 
+	 formula variable step size formulation paper present 
+	 collocation approach construct variable step size formula 
+	 use piecewise polynomial k step method 
+	 order k+1 variable step size polynomial collocation formulation 

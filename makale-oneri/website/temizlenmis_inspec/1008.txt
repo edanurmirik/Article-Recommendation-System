@@ -1,0 +1,15 @@
+quadratic programming algorithm large scale model predictive control 
+ quadratic programming qp method important element application 
+	 model predictive control mpc large challenging mpc 
+	 application consider attention need focus 
+	 construction tailoring efficient qp algorithm study 
+	 tailor apply new qp method qpschur large mpc 
+	 application cross directional control problem paper 
+	 machine write c++ qpschur object orient implementation 
+	 novel dual space schur complement algorithm compare 
+	 approach widely apply qp algorithm qpschur 
+	 significantly efficient order magnitude 
+	 algorithm addition detailed simulation consider 
+	 demonstrate importance flexible object orient 
+	 construction qpschur additional feature constraint 
+	 handling warm start partial solution 

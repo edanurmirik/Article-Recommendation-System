@@ -1,0 +1,15 @@
+estimate long range dependence finite sample property confidence 
+	 interval 
+ major issue financial economic behavior asset return long 
+	 horizon estimator long range dependence 
+	 propose know asymptotic property 
+	 important test accuracy use simulate series different 
+	 length test r s analysis detrende fluctuation analysis 
+	 periodogram regression method sample draw gaussian white 
+	 noise dfa statistic turn unanimous winner 
+	 unfortunately asymptotic distribution theory derive 
+	 statistic far able construct empirical 
+	 i.e. approximate confidence interval method 
+	 obtain value differ largely heuristic value propose 
+	 author r s statistic close asymptotic value 
+	 periodogram regression method 

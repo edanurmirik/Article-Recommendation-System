@@ -1,0 +1,14 @@
+transactional asynchronous replication scheme mobile database system 
+ mobile database system mobility user significant impact data 
+	 replication result replica control protocol 
+	 exist today traditional distribute multidatabase environment 
+	 long suitable solve problem new mobile database 
+	 replication scheme transaction level result set propagation 
+	 tlrsp model forward paper conflict detection 
+	 resolution strategy base tlrsp discuss detail 
+	 implementation algorithm propose order compare 
+	 performance tlrsp model mobile replication 
+	 scheme develop detailed simulation model experimental 
+	 result tlrsp model provide efficient support 
+	 replicate mobile database system reduce reprocess overhead 
+	 maintain database consistency 

@@ -1,0 +1,19 @@
+separation tracking multiple broadband source electromagnetic 
+	 vector sensor 
+ structure adaptively separate enhance track uncorrelated 
+	 source electromagnetic vector sensor emvs present 
+	 structure consist set parallel spatial processor 
+	 individual source stage processing involve 
+	 spatial processor preprocessing stage reject 
+	 source interest second stage 
+	 adaptive maximize signal noise ratio snr 
+	 track desire source preprocessing design use 
+	 late source parameter estimate obtain source tracker 
+	 redesign activate periodically source 
+	 detect source tracker significant movement 
+	 compare conventional adaptive beamforming algorithm 
+	 advantage priori information desire signal location 
+	 need source separate maximum snr 
+	 location available structure suited parallel 
+	 implementation numerical example include illustrate 
+	 capability performance algorithm 

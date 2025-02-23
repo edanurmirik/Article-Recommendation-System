@@ -1,0 +1,14 @@
+simulation evacuation process use bionic inspire cellular automaton 
+	 model pedestrian dynamic 
+ present simulation evacuation process use recently introduce 
+	 cellular automaton model pedestrian dynamic model apply 
+	 bionic approach describe interaction pedestrian 
+	 use idea chemotaxis study simple situation 
+	 evacuation large room door 
+	 variation model parameter allow describe 
+	 different type behaviour regular panic find 
+	 non monotonic dependence evacuation time coupling 
+	 constant time depend strength herding behaviour 
+	 minimal evacuation time intermediate value 
+	 coupling i.e. proper combination herding use knowledge 
+	 short way exit 

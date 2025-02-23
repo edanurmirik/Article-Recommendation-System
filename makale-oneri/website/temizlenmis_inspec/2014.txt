@@ -1,0 +1,16 @@
+adaptive filtering noise reduction hue saturation intensity color space 
+ hue saturation intensity hsi color model widely use 
+	 color image processing analysis conversion formula 
+	 rgb color model hsi nonlinear complicated comparison 
+	 conversion formula color model rgb image 
+	 degrade random gaussian noise nonlinearity lead 
+	 nonuniform noise distribution hsi accurate image analysis 
+	 difficult analyze noise characteristic hsi 
+	 color model develop adaptive spatial filtering method 
+	 reduce magnitude noise nonuniformity noise variance 
+	 hsi color space adaptive filtering method filter 
+	 kernel pixel dynamically adjust depend value 
+	 intensity saturation experiment filter 
+	 saturation hue component generate edge map color 
+	 gradient find use adaptive filtering method 
+	 minimum error rate edge detection improve approximately 15 

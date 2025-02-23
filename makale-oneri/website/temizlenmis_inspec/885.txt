@@ -1,0 +1,13 @@
+assignment period priority message task distribute 
+	 control system 
+ present task message base scheduling method guarantee 
+	 end end constraint include precedence constraint time 
+	 constraint period priority task message method 
+	 integrate consider task execute node 
+	 message transmit network design apply 
+	 general distribute control system multiple loop single 
+	 loop sensor node multiple sensor actuator node 
+	 multiple actuator controller node multiple task 
+	 type constraint assign method optimal period 
+	 priority task message propose use present task 
+	 message base scheduling method 

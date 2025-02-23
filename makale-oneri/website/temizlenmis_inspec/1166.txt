@@ -1,0 +1,5 @@
+embed outer automorphism group out(f sub n/ free group rank n 
+	 group out(f sub m/ m n 
+ prove n or= 1 group out(f sub n/ embed 
+	 group out(f sub m/ m 1 n 1)k sup n/ k 
+	 arbitrary natural number coprime n 1 

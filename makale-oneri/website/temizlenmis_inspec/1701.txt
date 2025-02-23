@@ -1,0 +1,21 @@
+estimation 3 d leave ventricular deformation medical image use 
+	 biomechanical model 
+ quantitative estimation regional cardiac deformation 
+	 dimensional 3 d image sequence important clinical 
+	 implication assessment viability heart wall 
+	 present generic methodology estimate soft tissue 
+	 deformation integrate image derive information 
+	 biomechanical model apply problem cardiac 
+	 deformation estimation method image modality independent 
+	 image segment interactively initial correspondence 
+	 establish use shape tracking approach dense motion field 
+	 estimate use transversely isotropic linear elastic model 
+	 account muscle fiber direction left ventricle 
+	 dense motion field turn use calculate deformation 
+	 heart wall term strain cardiac specific direction 
+	 strain obtain use approach open chest dog 
+	 coronary occlusion exhibit high correlation strain 
+	 produce animal use implant marker far 
+	 good agreement previously publish result 
+	 literature propose method provide quantitative regional 3 d 
+	 estimate heart deformation 

@@ -1,0 +1,17 @@
+closed loop finite element modeling active constrained layer damp 
+	 time domain analysis 
+ dimensional finite element closed loop model develop 
+	 predict effect active passive damping vibrate structure 
+	 golla hughes mctavish method employ capture 
+	 viscoelastic material behavior time domain analysis 
+	 parametric study include different control gain 
+	 geometric parameter relate active constrained layer damp 
+	 acld treatment comparison acld model 
+	 passive constrained model active damping model result 
+	 obtain reiterate acld somewhat vibration 
+	 suppression purely passive active system 
+	 provide high structural damp control gain compare 
+	 purely active system acld performance reduce 
+	 viscoelastic layer design acld model 
+	 careful consideration order optimize effect passive 
+	 damp 

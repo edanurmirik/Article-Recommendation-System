@@ -1,0 +1,17 @@
+new architecture implement pipeline fir adf base classification 
+	 coefficient 
+ paper propose new method implement pipeline 
+	 finite impulse response fir adaptive digital filter adf 
+	 aim reduce maximum delay filtering portion 
+	 conventional delay mean square dlms pipeline adf achieve 
+	 filter section maximum delay simplify 
+	 pre upsampled post downsample fir filter use concept 
+	 classification coefficient reduction independent 
+	 order filter advantage order filter 
+	 large result method apply 
+	 infinite impulse response iir filter furthermore propose 
+	 method compare transpose adf filtering 
+	 section zero delay realize significantly reduce 
+	 maximum delay associate update coefficient fir adf 
+	 effect propose method exhibit high 
+	 convergence speed comparison transpose fir adf 

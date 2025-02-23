@@ -1,0 +1,21 @@
+regression testing database application 
+ database application feature structured query language sql 
+	 exception programming integrity constraint table trigger pose 
+	 difficulty maintenance activity especially regression 
+	 testing follow modification database application 
+	 work address difficulty propose phase regression 
+	 testing methodology phase 1 explore control flow datum flow 
+	 analysis issue database application propose impact 
+	 analysis technique base dependency exist 
+	 component database application analysis lead select 
+	 test case initial test suite regression test 
+	 modify application phase 2 reduction regression 
+	 test case perform use reduction algorithm present 
+	 algorithm graph walk algorithm walk control 
+	 flow graph database module select safe set test case 
+	 retest graph firewall algorithm use firewall inter 
+	 procedural level finally maintenance environment database 
+	 application describe experience regression testing 
+	 methodology impact analysis technique adequate 
+	 select regression test phase 2 technique use 
+	 reduction number theses test 

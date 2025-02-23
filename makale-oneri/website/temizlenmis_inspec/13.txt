@@ -1,0 +1,13 @@
+stability analysis characteristic polynomial coefficient 
+	 polynomial interval parameter use monotonicity 
+ analyze stability characteristic polynomial coefficient 
+	 polynomial interval parameter monotonicity method 
+	 stability condition base frazer duncan theorem 
+	 condition check use endpoint value interval 
+	 parameter stability condition necessary sufficient 
+	 monotonicity assumption monotonicity condition 
+	 hold parameter region present interval division 
+	 method transformation algorithm order apply 
+	 monotonicity condition stability analysis method 
+	 apply characteristic polynomial coefficient 
+	 polynomial interval parameter 

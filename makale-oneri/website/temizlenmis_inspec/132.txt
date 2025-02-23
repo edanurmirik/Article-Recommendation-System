@@ -1,0 +1,18 @@
+unified view vector rotational cordic algorithm architecture base 
+	 angle quantization approach 
+ vector rotation key operation employ extensively digital 
+	 signal processing application paper introduce new 
+	 design concept angle quantization aq use 
+	 design index vector rotational operation rotational 
+	 angle know advance base aq process establish 
+	 unified design framework cost effective low latency rotational 
+	 algorithm architecture exist work 
+	 conventional coordinate rotational digital computer cordic 
+	 ar cordic mvr cordic eeas base cordic fit 
+	 design framework form vector rotational cordic family 
+	 address search algorithm solve optimization problem 
+	 encounter propose vector rotational cordic family 
+	 corresponding scale operation cordic family 
+	 discuss base new design framework realize 
+	 high speed low complexity rotational vlsi circuit 
+	 degrade precision performance fix point implementation 

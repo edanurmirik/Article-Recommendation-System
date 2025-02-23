@@ -1,0 +1,7 @@
+rate allocation video transmission lossy correlate network 
+ novel rate allocation algorithm video transmission lossy network 
+	 subject bursty packet loss present gilbert elliot model 
+	 use encoder drive selection code parameter 
+	 experimental result use h.26l test model significant 
+	 performance improvement respect assumption independent 
+	 packet loss 

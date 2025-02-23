@@ -1,0 +1,21 @@
+design stroke dependent damper axle suspension truck 
+	 use multibody system dynamic numerical optimization 
+ stroke dependent damper design axle suspension truck 
+	 damper supply extra damp inward deflection rise 4 
+	 cm way damper reduce extreme suspension deflection 
+	 deteriorate comfort truck question 
+	 stroke dependent damp curve yield good compromise 
+	 suspension deflection work space comfort 
+	 optimization problem define minimize maximum inward 
+	 suspension deflection subject constraint chassis 
+	 acceleration typical road undulation optimization 
+	 problem solve use sequential linear programming slp 
+	 multibody dynamic simulation software optimization run 
+	 carry small degree freedom vehicle model 
+	 large scale model truck semi trailer combination 
+	 result stroke dependent damp reduce large 
+	 deflection incidental road disturbance optimum 
+	 stroke dependent damp curve relate acceleration bind 
+	 mean vehicle model simulation numerical optimization 
+	 able quantify trade suspension deflection 
+	 work space truck comfort 

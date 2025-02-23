@@ -1,0 +1,16 @@
+point wavelet application 
+ multiresolution analysis mra wavelet provide useful efficient tool 
+	 represent function multiple level detail wavelet 
+	 representation use broad range application 
+	 include image compression physical simulation numerical 
+	 analysis paper author construct new class wavelet 
+	 point wavelet base interpolatory point 
+	 subdivision scheme local support symmetric stable 
+	 analysis synthesis algorithm linear time complexity 
+	 depend different weight parameter w scaling function 
+	 wavelet generate point subdivision scheme 
+	 different degree smoothness user select 
+	 wavelet relevant practice class wavelet 
+	 author apply point wavelet signal compression 
+	 result point wavelet behave 
+	 b spline wavelet situation 

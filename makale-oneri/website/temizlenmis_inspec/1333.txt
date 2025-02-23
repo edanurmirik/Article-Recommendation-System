@@ -1,0 +1,4 @@
+cross number p(n 3 
+ prove cross number generalized petersen graph p(3k 
+	 h 3 k h h 0 2 k 3 h 1 k or= 3 
+	 single exception p(9,3 crossing number 2 

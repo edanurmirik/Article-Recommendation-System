@@ -1,0 +1,13 @@
+chromatic spectrum mixed hypergraph 
+ mixed hypergraph triple h x c d x vertex set 
+	 c d list subset x. strict k coloring h 
+	 surjection c x 1 ... k member le 
+	 vertex assign common value member d vertex 
+	 assign distinct value feasible set h k h strict 
+	 k color result prove finite set 
+	 positive integer feasible set mixed hypergraph 
+	 omit number interval start 1 
+	 set s t 2 or= s or= t 2 small realization 
+	 2 t s vertex member c union d single 
+	 interval underlying linear order vertex feasible 
+	 set single interval integer 

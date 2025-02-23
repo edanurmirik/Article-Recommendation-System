@@ -1,0 +1,20 @@
+restoration broadband imagery steer liquid crystal optical phase 
+	 array 
+ imaging application highly desirable replace mechanical 
+	 beam steering component i.e. mirror gimbal 
+	 nonmechanical device device nematic liquid crystal 
+	 optical phase array lcopa lcopa implement blaze phase 
+	 grate steer incident light phase grating 
+	 use broadband imaging system adverse effect occur 
+	 dispersion cause different incident wavelength arrive 
+	 angle steer different output angle cause 
+	 chromatic aberration image plane second device steer 
+	 energy diffraction order 
+	 multiple order effect result multiple copy scene 
+	 appear image plane describe digital image restoration 
+	 technique design overcome degradation propose 
+	 postprocessing technique base wiener deconvolution filter 
+	 technique applicable scene contain object 
+	 approximately constant reflectivity spectral region 
+	 interest experimental result present demonstrate 
+	 effectiveness technique 

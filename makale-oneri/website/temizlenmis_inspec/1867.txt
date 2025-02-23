@@ -1,0 +1,9 @@
+optimization base design fix order controller command follow 
+ discrete time scalar system propose approach design feedback 
+	 controller fix order minimize upper bind peak 
+	 magnitude tracking error command input work 
+	 use linear programming design class closed loop 
+	 system propose rejection non zero initial condition 
+	 bound disturbance incorporate performance robustness form 
+	 guarantee upper bind peak magnitude tracking error 
+	 plant coprime factor uncertainty 

@@ -1,0 +1,7 @@
+estimation trifocal tensor use gmm 
+ novel estimation trifocal tensor base gaussian mixture model 
+	 gmm present mixture model build assume 
+	 residual inlier outlier belong different gaussian 
+	 distribution bayesian rule employ detect inlier 
+	 estimation experiment present method 
+	 precise relatively unaffected outlier 

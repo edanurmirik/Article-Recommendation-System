@@ -1,0 +1,17 @@
+datum extraction web base pre define schema 
+ development internet world wide web 
+	 invaluable information source organization 
+	 document available web html form originally 
+	 design document format little consideration 
+	 content effectively extract datum document remain 
+	 nontrivial task paper present schema guide approach 
+	 extract datum html page approach user define 
+	 schema specify extract provide sample mapping 
+	 schema html page system induce 
+	 mapping rule generate wrapper html page input 
+	 produce require datum form xml conform 
+	 user define schema prototype system implement approach 
+	 develop preliminary experiment indicate propose 
+	 semi automatic approach easy use able 
+	 produce wrapper extract require datum inputte page 
+	 high accuracy 

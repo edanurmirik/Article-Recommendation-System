@@ -1,0 +1,19 @@
+supersampling multiframe blind deconvolution resolution enhancement adaptive 
+	 optic compensate imagery low earth orbit satellite 
+ describe postprocesse methodology reconstruct undersampled image 
+	 sequence randomly vary blur provide image enhancement 
+	 sample resolution sensor method 
+	 demonstrate simulate imagery 
+	 adaptive optics-(ao)-compensate imagery starfire optical 
+	 range 3.5 m telescope artificially undersample 
+	 result multiframe blind deconvolution 
+	 high quality optical imagery low earth orbit satellite collect 
+	 ground base telescope date algorithm use 
+	 generalization multiframe blind deconvolution technique 
+	 include representation spatial sampling focal plane array 
+	 element base forward stochastic model generalization 
+	 enable random shift shape ao compensate point spread 
+	 function psf use partially eliminate aliasing effect 
+	 associate sub nyquist sampling image focal plane 
+	 array method use reduce resolution loss occur 
+	 image wide field view fov mode 

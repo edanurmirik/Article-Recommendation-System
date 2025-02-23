@@ -1,0 +1,14 @@
+modify fieller interval interval estimation effective dose 
+	 logistic dose response curve 
+ interval estimation gamma effective dose mu /sub gamma 
+	 base asymptotic variance maximum likelihood 
+	 estimator delta interval fieller theorem fieller interval 
+	 sitter wu 1993 compare delta fieller interval 
+	 median effective dose mu /sub 50/ assume logistic dose response 
+	 curve result indicate fieller interval 
+	 generally superior delta interval appear conservative 
+	 adjust form fieller interval mu /sub gamma 
+	 term adjust fieller af interval introduce comparison 
+	 af interval delta fieller interval provide 
+	 property interval estimation method 
+	 investigate 

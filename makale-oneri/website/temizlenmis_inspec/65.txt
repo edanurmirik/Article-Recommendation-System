@@ -1,0 +1,13 @@
+use subtype stereotype uml model 
+ base user experience version 1.3 unified modeling language 
+	 uml object management group omg request information 
+	 1999 elicit response ask identify 
+	 problem offer solution response 
+	 examine problem relate uml metamodel 
+	 solution problem identify propose specifically 
+	 evaluate metamodel relate stereotype versus subtype 
+	 kind classifier particularly types interfaces 
+	 classes introduction new subtype 
+	 relationship identify area metamodel 
+	 uml use inappropriately definition 
+	 uml metamodel 

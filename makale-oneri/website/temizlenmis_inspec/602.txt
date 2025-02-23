@@ -1,0 +1,32 @@
+image fusion /sup 18 fdg pet mri ct radiotherapy planning 
+	 oropharyngeal nasopharyngeal carcinomas 
+ accurate diagnosis tumor extent important dimensional conformal 
+	 radiotherapy study report use image fusion 
+	 18)f fluoro-2 deoxy d glucose positron emission tomography /sup 
+	 18 fdg pet magnetic resonance imaging compute tomography mri ct 
+	 target delineation radiotherapy planning 
+	 head neck cancer subject consist 12 patient 
+	 oropharyngeal carcinoma 9 patient nasopharyngeal carcinoma 
+	 npc treat radical radiotherapy july 1999 
+	 february 2001 image fusion /sup 18 fdg pet mri ct 
+	 perform use automatic multimodality image registration 
+	 algorithm use brain internal reference 
+	 registration gross tumor volume gtv determine base clinical 
+	 examination /sup 18 fdg uptake fusion image clinical 
+	 target volume ctv determine follow usual pattern lymph 
+	 node spread disease entity clinical 
+	 presentation patient 3 case superficial 
+	 tumor primary tumor detect /sup 18 fdg pet 
+	 gtv volume primary tumor change image fusion 
+	 19 case 89 increase 49 npc decrease 45 
+	 npc normal tissue sparing easily perform base 
+	 clear gtv ctv determination fusion image particular 
+	 parotid sparing possible 15 patient 71 upper neck 
+	 area near parotid gland tumor free /sup 18 fdg pet 
+	 mean follow period 18 month recurrence occur 
+	 area define ctv treat prophylactically 
+	 1 patient experience nodal recurrence ctv 
+	 simultaneous primary site recurrence conclusion preliminary 
+	 study image fusion /sup 18 fdg pet mri ct 
+	 useful gtv ctv determination conformal rt spare 
+	 normal tissue 

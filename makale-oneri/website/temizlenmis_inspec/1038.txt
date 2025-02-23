@@ -1,0 +1,11 @@
+analysis control longitudinal vibration wave viewpoint 
+ analysis control longitudinal vibration rod feedback wave 
+	 viewpoint synthesize collocate noncollocate feedback 
+	 wave control strategy explore control design base 
+	 local property wave transmission reflection 
+	 vicinity control force apply area complex 
+	 closed form solution involve controller design achieve 
+	 goal absorb incoming vibration energy 
+	 create vibration free zone eliminate stand wave 
+	 structure finding appear useful practice 
+	 simplicity implementation controller 

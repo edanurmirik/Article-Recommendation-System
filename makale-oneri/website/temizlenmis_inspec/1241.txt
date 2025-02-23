@@ -1,0 +1,19 @@
+code generator hpf library fortran 95 transformational function 
+ language feature core language hpf 2.0 high performance 
+	 fortran hpf library hpf library consist 55 generic 
+	 function implementation library present challenge 
+	 datum type datum kind array rank input distribution 
+	 need support instance 2 billion separate 
+	 function require support copy scatter fully efficient 
+	 support billion specific function 
+	 outstanding problem hpf solve problem develop 
+	 library generator utilize mechanism parameterized 
+	 template mechanism allow procedure instantiate 
+	 compile time argument specific type kind rank 
+	 distribution specific processor array describe 
+	 algorithm use different library function implementation 
+	 ease generate large number library routine 
+	 single template template extend special code 
+	 specific combination input argument describe detail 
+	 implementation performance matrix multiplication template 
+	 fujitsu vpp5000 platform 

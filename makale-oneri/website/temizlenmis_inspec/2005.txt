@@ -1,0 +1,22 @@
+state art orthopaedic surgical navigation focus medical 
+	 image modality 
+ paper present review surgical navigation system orthopaedic 
+	 categorize system accord image modality 
+	 use visualization surgical action medical image use 
+	 essential surgical education documentation 
+	 diagnosis operation planning year recent 
+	 introduction navigation technique orthopaedic surgery new 
+	 field application open today surgical navigation system 
+	 know image guide surgery system available 
+	 application orthopaedic surgery visualize 
+	 position orientation surgical instrument graphical overlay 
+	 medical image operate anatomy computer monitor 
+	 preoperative image datum compute tomography scan intra 
+	 operatively generate image example ultrasonic endoscopic 
+	 fluoroscopic image suitable purpose new category 
+	 medical image term surgeon define anatomy develop 
+	 exclusively rely usage navigation technology point 
+	 anatomy digitize interactively surgeon use 
+	 build abstract geometrical model bony structure 
+	 operate technique use image datum 
+	 available appropriate application 

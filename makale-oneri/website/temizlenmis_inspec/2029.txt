@@ -1,0 +1,13 @@
+block truncation image bit plane code 
+ block truncation code btc successful image compression technique 
+	 simple fast computational burden bit rate fix 
+	 2.0 bit pixel performance moderate term compression 
+	 ratio compare compression scheme discrete cosine 
+	 transform dct vector quantization vq wavelet transform code 
+	 wtc etc kind overhead require btc code bit 
+	 plane quantization value respectively new technique 
+	 present reduce bit plane overhead conventional bit plane 
+	 overhead 1.0 bit pixel decrease 0.734 bit pixel 
+	 maintain decoded quality absolute moment btc ambtc 
+	 lena image compare publish bit plane code 
+	 strategy propose method outperform exist method 

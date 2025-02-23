@@ -1,0 +1,13 @@
+variable stepsize variable order multistep method integration 
+	 perturb linear problem 
+ g. scheifele 1971 write solution perturb oscillator 
+	 expansion term new set function extend 
+	 monomial taylor series solution recently p. martin 
+	 j.m. ferrandiz 1997 construct multistep code base 
+	 scheifele technique generalize d.j. lopez p. martin 
+	 1998 perturb linear problem remark code 
+	 constant steplength method efficient integrator able 
+	 change steplength paper extend idea f.t. krogh 
+	 1974 adams method algorithm propose lopez 
+	 martin advantage new code perturb 
+	 problem 

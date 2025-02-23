@@ -1,0 +1,7 @@
+object orient version simlib simple simulation package 
+ paper introduce object orient version simlib 
+	 easy understand discrete event simulation package 
+	 object orient version preferable original procedural 
+	 language version simlib easy understand 
+	 teach simulation object point view single server queue 
+	 simulation demonstrate use object orient simlib 

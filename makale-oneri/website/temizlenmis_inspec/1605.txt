@@ -1,0 +1,18 @@
+grasp heuristic mixed chinese postman problem 
+ arc routing problem arps consist find traversal graph 
+	 satisfy condition relate link graph 
+	 chinese postman problem cpp aim find minimum cost tour 
+	 closed walk traverse link graph 
+	 undirected cpp link edge traverse 
+	 way directed cpp link arc 
+	 traverse specified way know polynomially 
+	 solvable deal mixed graph edge 
+	 arc problem turn np hard paper present 
+	 heuristic algorithm problem mixed cpp mcpp 
+	 base greedy randomize adaptive search procedure grasp 
+	 technique algorithm test compare know 
+	 recent method literature wide collection randomly 
+	 generate instance 200 node 600 link produce 
+	 encourage computational result far know good 
+	 heuristic algorithm mcpp respect solution quality 
+	 publish 

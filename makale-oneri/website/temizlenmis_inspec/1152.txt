@@ -1,0 +1,29 @@
+incorporate multi leaf collimator leaf sequence iterative imrt 
+	 optimization 
+ intensity modulate radiation therapy imrt treatment planning typically 
+	 consider beam optimization beam delivery separate task 
+	 follow optimization multi leaf collimator mlc beam 
+	 delivery device use generate fluence pattern patient 
+	 treatment delivery limitation characteristic mlc 
+	 deliverable intensity distribution differ 
+	 produce optimizer lead difference deliver 
+	 optimize dose objective function parameter 
+	 adjust empirically plan reoptimize achieve desire 
+	 deliverable dose distribution result plan usually 
+	 acceptable good achievable method develop 
+	 incorporate mlc restriction optimization process 
+	 house imrt system modify include calculation 
+	 deliverable intensity optimizer process prior 
+	 dose calculation mlc leaf sequencer use convert intensity 
+	 dynamic mlc sequence deliverable intensity 
+	 determine optimization step remain 
+	 evaluate effectiveness deliverable base optimization 17 
+	 patient case study compare standard optimization 
+	 plus conversion deliverable beam deliverable base optimization 
+	 result improve isodose coverage reduce dose critical 
+	 structure deliverable base optimization result close 
+	 original nondeliverable optimization result suggest imrt 
+	 overcome mlc limitation adjust individual beamlet use 
+	 deliverable base optimization reduce need empirical 
+	 adjustment objective function parameter reoptimization 
+	 plan achieve desire result 

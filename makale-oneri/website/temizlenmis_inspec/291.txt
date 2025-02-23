@@ -1,0 +1,14 @@
+nuclear magnetic resonance molecular photography 
+ procedure describe store dimensional 2d pattern consist 
+	 32 32=1024 bit spin state molecular system 
+	 retrieve store information stack nuclear magnetic 
+	 resonance spectra system use nematic liquid crystal 
+	 proton act spin cluster strong intramolecular 
+	 interaction technique use programmable multifrequency 
+	 irradiation low amplitude apply liquid 
+	 crystal large number coherent long live /sup 1 h response 
+	 signal excited result spectrum sharp 
+	 peak controllable frequency amplitude spectral 
+	 resolution enhance use second weak pulse 90 degree 
+	 phase shift 1024 bit information retrieve 
+	 set resolve pseudo-2d spectra reproduce input pattern 

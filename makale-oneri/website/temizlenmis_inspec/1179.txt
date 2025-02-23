@@ -1,0 +1,10 @@
+evolution complexity elementary cellular automaton rule 18 
+ cellular automata class mathematical system characterize 
+	 discreteness space time state value determinism local 
+	 interaction use symbolic dynamical theory coarse grain 
+	 temporal evolution orbit cellular automata mean formal 
+	 language automata theory study evolution complexity 
+	 elementary cellular automaton local rule number 18 prove 
+	 width 1 evolution language regular n or= 2 
+	 width n evolution language context free context 
+	 sensitive 

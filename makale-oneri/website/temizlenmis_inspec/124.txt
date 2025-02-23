@@ -1,0 +1,14 @@
+high speed cmos circuit parallel dynamic logic speed enhance skewed 
+	 static logic 
+ paper describe parallel dynamic logic pdl exhibit high 
+	 speed charge sharing problem pdl use parallel connect 
+	 transistor fast logic evaluation good candidate 
+	 high speed low voltage operation bias effect compare 
+	 logic style use stack transistor furthermore pdl 
+	 need signal ordering tapering pdl speed enhance skewed 
+	 static logic render straightforward logic synthesis usual 
+	 area penalty logic duplication experimental result 
+	 32 bit carry lookahead adder use 0.25- mu m cmos technology 
+	 pdl speed enhance skewed static sss look reduce delay 
+	 clock delayed(cd)-domino 15%-27 power delay product 
+	 20%-37 

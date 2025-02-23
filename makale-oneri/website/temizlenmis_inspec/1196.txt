@@ -1,0 +1,26 @@
+multiple shooting use dichotomically stable integrator solve 
+	 differential algebraic equation 
+ previous work author establish 
+	 dichotomically stable discretization need solve stiff 
+	 boundary value problem ordinary differential equation ode 
+	 sharp boundary layer occur end interval 
+	 dichotomically stable implicit runge kutta method use 3 stage 
+	 fourth order lobatto iiia formulae implement variable 
+	 step size initial value integrator use 
+	 multiple shooting approach case index 
+	 differential algebraic equation daes use lobatto iiia 
+	 formulae advantage comparable gaussian method 
+	 order differential algebraic variable 
+	 need treat separately ode integrator 
+	 adapt solution index dae result 
+	 integrator symdae insert multiple shoot code 
+	 mshdae previously develop r. lamour differential algebraic 
+	 boundary value problem standard version mshdae use bdf 
+	 integrator dichotomically stable stiff test 
+	 problem fail integrate interval interest 
+	 dichotomically stable integrator symdae encounter difficulty 
+	 problem modify version mshdae produce 
+	 accurate solution limit impose computer word length 
+	 efficiency solution process improve increase 
+	 stiffness nonstiff problem solution entirely 
+	 satisfactory 

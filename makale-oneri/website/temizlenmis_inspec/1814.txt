@@ -1,0 +1,14 @@
+control integral process dead time 2 quantitative analysis 
+ 1 ibid p.285 90 2002 different control scheme 
+	 integral process dead time result disturbance 
+	 response response subideal 
+	 necessary quantitatively analyse achievable 
+	 specification robust stability region control parameter 
+	 quantitatively determine compromise 
+	 disturbance response robustness specification 
+	 normalise maximum dynamic error maximum decay rate normalise 
+	 control action bind approximate recovery time use 
+	 characterise step disturbance response 
+	 attempt obtain normalise dynamic error tau /sub m/ 
+	 impossible sufficient condition relative 
+	 gain uncertainty bind square root 3)/2 

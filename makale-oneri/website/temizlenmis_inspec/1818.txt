@@ -1,0 +1,11 @@
+sliding mode control scheme class continuous chemical reactor 
+ synthesis robust control law regulation control class 
+	 relative degree nonlinear system present control design 
+	 base slide mode uncertainty estimator develop 
+	 framework algebraic differential concept closed loop stability 
+	 underlying closed loop system achieve average 
+	 technique robustness propose control scheme prove 
+	 face noise measurement model uncertainty sustain 
+	 disturbance performance propose control law 
+	 illustrate numerical simulation compare propose 
+	 controller tune pi controller 

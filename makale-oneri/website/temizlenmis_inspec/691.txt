@@ -1,0 +1,11 @@
+robust output feedback control linear continuous uncertain state delay 
+	 system unknown time delay 
+ state delay time unknown independent variable 
+	 real physical system new stability criterion uncertain 
+	 system state time vary delay propose robust 
+	 observer base control law base criterion construct 
+	 sequential quadratic programming method develop 
+	 separation property state feedback control law observer 
+	 independently design maintain closed loop system 
+	 stability example illustrate availability propose 
+	 design method 

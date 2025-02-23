@@ -1,0 +1,13 @@
+limitation delayed state feedback numerical study 
+ stabilization class linear time delay system achieve 
+	 numerical procedure continuous pole placement method 
+	 michiels et al 2000 method extension 
+	 classical pole placement algorithm ordinary differential equation 
+	 class delay differential equation michiels et al 2000 
+	 apply stabilization linear time invariant system 
+	 input delay use static state feedback paper study 
+	 limitation delayed state feedback law precisely 
+	 completely characterize class stabilizable plant 
+	 2d case purpose use numerical continuation 
+	 technique use delay state feedback control 
+	 application effect limitation briefly discuss 

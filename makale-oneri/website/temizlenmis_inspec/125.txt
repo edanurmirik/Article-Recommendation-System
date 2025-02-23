@@ -1,0 +1,12 @@
+fast implementation correlation long datum sequence coherent 
+	 receiver 
+ coherent reception depend match phase transmit 
+	 receive signal fast convolution technique base fast fourier 
+	 transform fft widely use extract time delay information 
+	 matching latency process large data window 
+	 receive signal overhead mission critical real 
+	 time application implementation parallel algorithm 
+	 correlation long datum sequence multiprocessor environment 
+	 demonstrate algorithm processing acquire 
+	 receive signal reduce computation overhead considerably 
+	 inherent parallelism 

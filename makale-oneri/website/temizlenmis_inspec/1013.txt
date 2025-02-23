@@ -1,0 +1,11 @@
+scalable intelligent takeoff controller simulated run jointed leg 
+ run jointed leg pose difficult control problem robotic neural 
+	 controller attractive allow robot adapt 
+	 change environmental condition scalability issue 
+	 neural controller paper describe development 
+	 scalable neurofuzzy controller takeoff phase running 
+	 stride scalability achieve select controller size 
+	 grow dimensionality problem empirical result 
+	 proper design takeoff controller scale leg 
+	 single movable link movable link 
+	 correspond growth size loss accuracy 

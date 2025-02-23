@@ -1,0 +1,20 @@
+adaptive wavelet method ii elliptic case 
+ paper concern design analysis adaptive wavelet 
+	 method system operator equation main accomplishment 
+	 extend range applicability adaptive wavelet base 
+	 method develop previously symmetric positive definite problem 
+	 indefinite unsymmetric system operator equation 
+	 accomplish introduce technique square 
+	 formulation develop previously transform original 
+	 continuous problem equivalent infinite system equation 
+	 pose euclidean metric 
+	 utilize adaptive technique solve result infinite system 
+	 equation wide range problem new 
+	 adaptive method perform asymptotically optimal complexity i.e. 
+	 recover approximate solution desire accuracy 
+	 computational expense stay proportional number term 
+	 corresponding wavelet good n term approximation important 
+	 advantage adaptive approach automatically stabilize 
+	 numerical procedure instance compatibility 
+	 constraint choice trial space like lbb condition 
+	 long arise 

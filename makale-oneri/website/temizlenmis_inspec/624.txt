@@ -1,0 +1,23 @@
+hybrid ml em algorithm calculation maximum likelihood estimate 
+	 semiparametric share frailty model 
+ paper describe generalised hybrid ml em algorithm calculation 
+	 maximum likelihood estimate semiparametric share frailty 
+	 model cox proportional hazard model hazard function 
+	 multiply parametric frailty random variable hybrid 
+	 method fast standard em method fast 
+	 standard direct maximum likelihood method ml newton raphson 
+	 large sample previously apply method semiparametric 
+	 share gamma frailty model verify simulation asymptotic 
+	 small sample statistical property frailty variance 
+	 estimate let theta /sub 0/ true value frailty variance 
+	 parameter asymptotic distribution normal theta /sub 
+	 0/>0 50 50 mixture point mass zero 
+	 normal random variable positive axis theta /sub 0/=0 
+	 small sample simulation suggest frailty variance estimate 
+	 approximately distribute x-(100 x)% mixture 
+	 0 x or=50 point mass zero normal random 
+	 variable positive axis theta /sub 0/>0 apply 
+	 method verify simulation statistical result 
+	 semiparametric share log normal frailty model apply 
+	 semiparametric share gamma log normal frailty model busselton 
+	 health study coronary heart disease datum 

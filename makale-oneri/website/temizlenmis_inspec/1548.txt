@@ -1,0 +1,8 @@
+second order characteristic finite element scheme convection diffusion 
+	 problem 
+ new characteristic finite element scheme present 
+	 convection diffusion problem second order accuracy time 
+	 increment symmetric unconditionally stable optimal error 
+	 estimate prove framework l sup 2/-theory numerical 
+	 result present example advantage 
+	 scheme 

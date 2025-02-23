@@ -1,0 +1,13 @@
+riccati base preconditioner compute invariant subspace large 
+	 matrix 
+ paper introduce analyze convergence property method 
+	 compute approximation invariant subspace associate 
+	 group eigenvalue large necessarily diagonalizable matrix 
+	 method belong family projection type method 
+	 step refine approximate invariant subspace use linearize 
+	 riccati equation turn block analogue 
+	 correction use jacobi davidson method analysis conduct 
+	 paper method converge rate quasi quadratic 
+	 provide approximate invariant subspace close exact 
+	 implementation method base multigrid technique 
+	 discuss numerical experiment report 

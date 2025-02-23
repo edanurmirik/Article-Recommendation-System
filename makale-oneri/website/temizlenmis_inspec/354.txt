@@ -1,0 +1,10 @@
+fault tolerant hamiltonian laceability hypercube 
+ know hypercube q sub n/ bipartite graph assume 
+	 n or=2 f subset edge |f|<or n-2 prove 
+	 exist hamiltonian path q sub n/-f vertex 
+	 different partite set exist path length 
+	 2 sup n/-2 vertex partite set assume 
+	 n or=3 f subset edge |f|<or n-3 prove 
+	 exist hamiltonian path q sub n/-{v}-f 
+	 vertex partite set v. furthermore bound 
+	 tight 

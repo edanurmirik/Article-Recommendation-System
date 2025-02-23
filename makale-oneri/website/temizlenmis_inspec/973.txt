@@ -1,0 +1,24 @@
+time integration multiphase chemistry size resolve cloud model 
+ existence cloud drop lead transfer chemical specie 
+	 gas aqueous phase specie concentration phase 
+	 modify chemical reaction phase transfer model 
+	 equation result multiphase chemical system 
+	 nonlinear highly coupled extremely stiff paper 
+	 investigate numerical approach treat process 
+	 droplet subdivide class decomposition 
+	 droplet spectrum class base droplet size 
+	 scavenge material inside drop respectively 
+	 fast dissociation aqueous phase chemistry treat 
+	 forward backward reaction aqueous phase gas phase 
+	 chemistry mass transfer different droplet class 
+	 gas phase integrate implicit 
+	 coupled manner second order bdf method 
+	 apply modification code lsode special linear system 
+	 solver direct sparse technique exploit special block 
+	 structure corresponding jacobian furthermore investigate 
+	 approximate matrix factorization relate operator splitting 
+	 linear algebra level sparse jacobians generate 
+	 explicitly store sparse form efficiency accuracy 
+	 time integration scheme discuss multiphase chemistry 
+	 system different complexity different number droplet 
+	 class 

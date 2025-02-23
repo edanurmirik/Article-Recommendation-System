@@ -1,0 +1,14 @@
+topology adaptive modeling object use surface evolution base 3d 
+	 mathematical morphology 
+ level set method propose mainly mathematician construct 
+	 model 3d object arbitrary topology method 
+	 computationally inefficient repeat distance transformation 
+	 increase dimension paper propose new method 
+	 model fast object arbitrary topology use surface 
+	 evolution approach base mathematical morphology sensor datum 
+	 cover object surface method begin initial 
+	 approximation object evolve closed surface model 
+	 topologically equivalent real object refined approximation 
+	 perform use energy minimization method 
+	 apply experiment use range datum result 
+	 report paper 

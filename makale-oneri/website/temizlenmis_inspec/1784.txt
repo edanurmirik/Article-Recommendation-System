@@ -1,0 +1,6 @@
+cyberethics bibliography 2002 select list recent work 
+ include 2002 annual bibliography update select list recent 
+	 book conference proceeding publish 2000 
+	 include select list special issue journal 
+	 periodical recently publish additional list 
+	 recently publish book article ibid june 2000 june 2001 

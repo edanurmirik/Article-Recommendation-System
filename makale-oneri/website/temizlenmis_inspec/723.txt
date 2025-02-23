@@ -1,0 +1,13 @@
+simulation physicochemical process erosion corrosion metal 
+	 phase flow 
+ computational model erosion corrosion metal use power 
+	 equipment phase flow ramek-2 develop result 
+	 calculation dependency intensity 
+	 erosion corrosion structural steel function 
+	 thermodynamic hydrodynamic water chemistry parameter 
+	 flow work path thermal power station nuclear power 
+	 station present dimensional space basis 
+	 mathematical model application software create forecast 
+	 erosion corrosion resource optimize rule 
+	 diagnosis protective maintenance erosion corrosion 
+	 element wet steam path power station 

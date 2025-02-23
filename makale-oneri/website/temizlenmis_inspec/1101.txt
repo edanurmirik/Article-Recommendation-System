@@ -1,0 +1,14 @@
+evaluation exist new feature recognition algorithm 1 theory 
+	 implementation 
+ paper evaluate performance general purpose 
+	 feature detection technique geometric model paper 
+	 different method describe identify set face bind 
+	 depression protrusion face algorithm implement 
+	 test component national design repository 
+	 algorithm study include previously publish general purpose feature 
+	 detection algorithm single face inner loop concavity 
+	 technique improvement exist algorithm 
+	 extension dimensional convex hull method handle curve 
+	 face protrusion lastly new algorithm base 
+	 dimensional convex hull minimum concave visible 
+	 multiple face inner loop face set describe 

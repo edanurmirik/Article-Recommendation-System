@@ -1,0 +1,6 @@
+cad cae software aid converter design dc dc power conversion 
+ typically power supply design involve electronic magnetic component 
+	 paper author describe use flyback converter example 
+	 cad cae tool aid power supply engineer area 
+	 reduce prototyping cost provide insight system 
+	 performance 

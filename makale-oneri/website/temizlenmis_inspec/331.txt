@@ -1,0 +1,16 @@
+multidimensional datum visualization 
+ historically datum visualization limit primarily dimension 
+	 e.g. histogram scatter plot available software package e.g. 
+	 data desk 6.1 matlab 6.1 sas jmp 4.04 spss 10.0 capable 
+	 produce dimensional scatter plot vary degree 
+	 user interactivity construct datum visualization 
+	 application visualization toolkit schroeder et al 1998 
+	 tcl tk display multivariate datum application glyph 
+	 ware 2000 glyph visual object datum 
+	 parameter map different visual attribute e.g. 
+	 size color use multi dimensional datum viewer explore 
+	 datum psycholinguistic experiment graphical interface 
+	 provide flexibility user dynamically explore 
+	 multidimensional image render raw experimental datum 
+	 highlight advantage multidimensional datum visualization 
+	 consider potential limitation 

@@ -1,0 +1,10 @@
+deterministic single photon source distribute quantum network 
+ sequence single photon emit demand single level 
+	 atom strongly couple high finesse optical cavity photon 
+	 generate adiabatically drive stimulate raman transition 
+	 atomic ground state vacuum field cavity 
+	 stimulate branch transition laser pulse 
+	 deterministically drive branch process unitary 
+	 intrinsically reversible essential quantum 
+	 communication networking photon appropriate 
+	 optical quantum information processing 

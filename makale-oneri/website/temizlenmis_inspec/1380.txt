@@ -1,0 +1,20 @@
+feature preserve volumetric technique merge surface triangulation 
+ extension improvement surface merge procedure base 
+	 extraction isosurface distance map define adaptive 
+	 background grid present main objective extend 
+	 application algorithm surface sharp edge 
+	 comer order deal object different length scale 
+	 initial background grid create use delaunay triangulation 
+	 method local voxelization point enrichment technique 
+	 introduce point background grid detect surface 
+	 feature ridge use ensure feature 
+	 preserve final merged surface surface merge methodology 
+	 extend include boolean operation surface 
+	 triangulation iso surface extraction algorithm modify 
+	 obtain correct iso surface multi component object 
+	 procedure demonstrate example range simple 
+	 geometrical entity complex engineering application present 
+	 algorithm allow realistic modelling large number complex 
+	 engineering geometry use overlap component define discretely 
+	 i.e. surface triangulation capability useful 
+	 grid generation start datum originate measurement image 

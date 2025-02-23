@@ -1,0 +1,18 @@
+robust wavelet neuro control linear brushless motor 
+ design simulation experimental implementation wavelet basis function 
+	 network learn controller linear brushless dc motors lbdcm 
+	 consider stability robustness position tracking primary 
+	 concern propose controller deal mainly external 
+	 disturbance e.g. nonlinear friction force payload variation 
+	 motion control linear motor consist 
+	 state feedback component learn feedback 
+	 component state feedback controller design basis 
+	 simple linear model learn feedback component wavelet 
+	 neural controller attenuation effect wavelet neural network 
+	 friction force verify numerical method learning 
+	 effect wavelet neural network friction force 
+	 numerical result wavelet neural network apply 
+	 real lbdcm line suppress friction force 
+	 variable different lubrication effectiveness 
+	 propose control scheme demonstrate simulated experimental 
+	 result 

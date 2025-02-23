@@ -1,0 +1,7 @@
+digital domain self calibration technique video rate pipeline d 
+	 converter use gaussian white noise 
+ digital domain self calibration technique video rate pipeline d 
+	 converter base gaussian white noise input signal present 
+	 propose algorithm simple efficient design example 
+	 illustrate overall linearity pipeline adc 
+	 highly improved use technique 

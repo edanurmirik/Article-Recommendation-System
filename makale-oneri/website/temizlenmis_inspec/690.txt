@@ -1,0 +1,10 @@
+robust kalman filter design discrete time delay system 
+ problem finite- infinite horizon robust kalman filtering 
+	 uncertain discrete time system state delay address 
+	 system consideration subject time vary norm bound 
+	 parameter uncertainty state output matrix develop 
+	 new methodology design linear filter error 
+	 variance filter guarantee certain upper bind 
+	 allow uncertainty time delay solution 
+	 term riccati equation multiple time delay system 
+	 investigate 

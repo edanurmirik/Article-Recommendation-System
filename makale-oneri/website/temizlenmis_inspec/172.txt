@@ -1,0 +1,5 @@
+vmebus interface multi detector trigger control system 
+ muse multiplicity selector trigger control system chimera 4 
+	 pi charge particle detector initialization muse perform 
+	 vmebus paper describe design vmebus interface 
+	 functional module muse briefly discuss application muse 

@@ -1,0 +1,15 @@
+sensorless control induction motor drive 
+ control induction motor drive mechanical speed sensor motor 
+	 shaft attraction low cost high reliability replace 
+	 sensor information rotor speed extract 
+	 measure stator voltage current motor terminal 
+	 vector control drive require estimate magnitude spatial 
+	 orientation fundamental magnetic flux wave stator 
+	 rotor open loop estimator closed loop observer use 
+	 purpose differ respect accuracy robustness 
+	 sensitivity model parameter variation dynamic performance 
+	 steady state speed accuracy low speed range achieve 
+	 exploit parasitic effect machine overview paper 
+	 use signal flow graph complex space vector quantity provide 
+	 insightful description system use sensorless control 
+	 induction motor 

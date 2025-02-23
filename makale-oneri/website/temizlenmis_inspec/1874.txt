@@ -1,0 +1,7 @@
+e brainiac theorem prover 
+ describe superposition base theorem prover e. e sound complete 
+	 prover clausal order logic equality important 
+	 property prover include strong redundancy elimination 
+	 criterion discount loop proof procedure flexible interface 
+	 specify search control heuristic efficient inference 
+	 engine discuss strength weakness system 

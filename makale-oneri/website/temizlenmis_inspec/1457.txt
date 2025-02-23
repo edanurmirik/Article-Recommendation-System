@@ -1,0 +1,10 @@
+discontinuous galerkin method transient analysis wave propagation 
+	 unbounded domain 
+ technique base discontinuous galerkin finite element method 
+	 develop apply derivation absorb boundary 
+	 condition analysis transient wave propagation condition 
+	 exact discretization error involve furthermore 
+	 computational cost associate use condition order 
+	 magnitude low condition base green function 
+	 time step scheme result implicit method conjunction 
+	 boundary condition appear unconditionally stable 

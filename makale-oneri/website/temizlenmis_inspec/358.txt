@@ -1,0 +1,11 @@
+correlation intuitionistic fuzzy set centroid method 
+ paper propose method calculate correlation coefficient 
+	 intuitionistic fuzzy set mean centroid value obtain 
+	 formula tell strength relationship 
+	 intuitionistic fuzzy set intuitionistic 
+	 fuzzy set positively negatively relate approach look 
+	 previous method evaluate strength 
+	 relation furthermore extend centroid method 
+	 interval value intuitionistic fuzzy set value correlation 
+	 coefficient interval value intuitionistic fuzzy set lie 
+	 interval -1 1 compute formula 

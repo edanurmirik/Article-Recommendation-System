@@ -1,0 +1,12 @@
+entangle atom bad cavity 
+ propose method produce entangled spin squeeze state large number 
+	 atom inside optical cavity illuminate atom 
+	 bichromatic light coupling cavity induce pairwise exchange 
+	 excitation entangle atom unlike proposal 
+	 entangle atom cavity qed proposal require 
+	 strong coupling regime g sup 2// kappa gamma 1 g 
+	 atom cavity coupling strength kappa cavity decay rate 
+	 gamma decay rate atom work important 
+	 parameter ng sup 2// kappa gamma n number atom 
+	 proposal permit production entanglement bad cavity 
+	 long contain large number atom 

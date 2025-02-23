@@ -1,0 +1,13 @@
+positional control pneumatic manipulator construction task 
+ paper describe solution apply pneumatic manipulator 
+	 problem positioning angle trajectory long 
+	 linear trajectory use construction task optimal positioning 
+	 pneumatic manipulator angle trajectory minimum control 
+	 energy consumption implementation control system 
+	 present control algorithm long linear trajectory 
+	 manipulator base phase phase motion mode 
+	 end effector investigate conventional fuzzy logic control 
+	 pneumatic manipulator apply experimental testing 
+	 carry obtain result allow widen application range 
+	 pneumatic manipulator construction particularly gantry type 
+	 machine 

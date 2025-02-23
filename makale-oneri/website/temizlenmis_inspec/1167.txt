@@ -1,0 +1,16 @@
+new approach d mc problem 
+ real world system multi state system compose multi state 
+	 component reliability compute term 
+	 low bind point level d d mincuts d mcs system 
+	 electric power transportation etc regard flow network 
+	 arc independent discrete limited multi value random 
+	 capacity paper mc assume know advance 
+	 author focus verify d mc candidate 
+	 use d mcs calculate network reliability propose 
+	 algorithm efficient exist algorithm algorithm 
+	 run o(p sigma mn time significant improvement previous 
+	 o(p sigma m sup 2/ time bound base max flow min cut p 
+	 number mcs d mc candidate respectively 
+	 simple intuitive use complex data structure example 
+	 d mc candidate find verify 
+	 propose algorithm reliability example compute 

@@ -1,0 +1,12 @@
+geotensity combine motion lighting 3d surface reconstruction 
+ paper automatically reconstruct 3d surface 
+	 object observe motion single static camera base 
+	 paradigm structure motion linear intensity subspace 
+	 introduce geotensity constraint govern relationship 
+	 image object 
+	 possible theory solve 3d lambertian surface structure 
+	 case single point light source propose solution exist 
+	 arbitrary number point light source surface 
+	 texture example automatic surface 
+	 reconstruction face point light source use arbitrary 
+	 unknown object motion single fix camera 

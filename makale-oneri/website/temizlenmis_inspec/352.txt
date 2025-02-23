@@ -1,0 +1,17 @@
+efficient retrieval selection algorithm video server random 
+	 duplicate assignment storage technique 
+ random duplicate assignment rda approach video datum store 
+	 assign number copy datum block different 
+	 randomly choose disk approach result 
+	 small response time low disk ram cost compare 
+	 know disk strip technique base storage approach 
+	 determine batch datum block 
+	 disk datum block retrieve 
+	 way maximum load disk minimize problem 
+	 retrieval selection problem rsp paper 
+	 propose new efficient algorithm rsp algorithm base 
+	 breadth search approach able guarantee optimal 
+	 solution rsp o(n sup 2/+mn m n correspond 
+	 number datum block number disk respectively 
+	 propose algorithm low time complexity 
+	 exist algorithm mfs algorithm 

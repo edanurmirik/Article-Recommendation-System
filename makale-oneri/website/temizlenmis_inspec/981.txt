@@ -1,0 +1,16 @@
+basin configuration dimensional model electric power system 
+ ongoing project stability massively complex electrical 
+	 power system discuss global geometric structure contact 
+	 basin attraction dimensional dynamical system 
+	 system represent simple model electrical power system 
+	 involve machine infinite bus apart possible 
+	 occurrence attractor represent pathological state contact 
+	 basin practical importance point view 
+	 operation real electrical power system aid 
+	 global map basin hope design intervention strategy 
+	 boot power system normal state method 
+	 involve dimensional section dimensional state 
+	 space determine basin directly numerical simulation 
+	 dense grid initial condition relation 
+	 basin specific numerical example choose 
+	 particular value parameter model 

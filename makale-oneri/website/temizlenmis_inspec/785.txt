@@ -1,0 +1,4 @@
+network wire 
+ type device use radio transmitter send datum thin air 
+	 wlan wireless local area network end cable 
+	 dalrymple weigh cost benefit 

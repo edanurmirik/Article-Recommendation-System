@@ -1,0 +1,21 @@
+genetic algorithm guide selection variable selection subset selection 
+ novel genetic algorithm guide selection method gas describe 
+	 method utilize simple encoding scheme represent 
+	 compound variable use construct qsar qspr model genetic 
+	 algorithm utilize simultaneously optimize encode 
+	 variable include descriptor compound subset gas 
+	 method generate multiple model apply subset 
+	 compound typically subset represent cluster different 
+	 chemotype procedure base molecular similarity present 
+	 determine model apply test set 
+	 compound variable selection method implement gas 
+	 test compare use selwood datum set n 31 compound nu 
+	 53 descriptor result method comparable 
+	 publish method subset selection method implement gas 
+	 test use artificial datum set n 100 point nu 
+	 1 descriptor examine ability subset data point second 
+	 apply analyze xlogp datum set n 1831 compound nu 126 
+	 descriptor method able correctly identify artificial datum 
+	 point belong subset analysis xlogp data set 
+	 subset selection method useful improve 
+	 qsar qspr model variable selection method fail 

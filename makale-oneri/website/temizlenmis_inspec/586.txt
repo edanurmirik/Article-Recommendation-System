@@ -1,0 +1,19 @@
+strategy payoff switch differential game base fuzzy reasoning 
+ paper new concept payoff switch differential game 
+	 introduce new game player time 
+	 choice payoff future 
+	 payoff switch process include time payoff switching 
+	 outcome payoff player unknown 
+	 overall payoff sequence payoff unknown 
+	 game end algorithm determine reasoning strategy 
+	 base fuzzy reasoning propose algorithm fuzzy 
+	 theory use estimate behavior player past 
+	 time interval derive fuzzy matrix gsm game similarity 
+	 matrix vgsm variation gsm behavior player 
+	 quantify weighting vector select weight relative 
+	 importance player behavior past time instant finally 
+	 simple fuzzy inference rule adopt generate linear reasoning 
+	 strategy advantage algorithm provide 
+	 flexible way differential game specialist convert 
+	 knowledge reasonable strategy practical example guard 
+	 territory illustrate main idea 

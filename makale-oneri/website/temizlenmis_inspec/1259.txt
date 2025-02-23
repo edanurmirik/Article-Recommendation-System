@@ -1,0 +1,15 @@
+mechanism infer approximate solution incomplete knowledge 
+	 base rule similarity 
+ paper propose inference method obtain approximate 
+	 solution knowledge store problem solve system 
+	 incomplete rule need solve problem exist 
+	 problem solve use rule similar exist rule 
+	 implementation use sld procedure resolution execute 
+	 subgoal rule atom subgoal similar 
+	 consequence atom rule similarity atom 
+	 calculate use knowledge base word account 
+	 reasoning situation reliability derive solution 
+	 calculate base similarity solution obtain 
+	 group class similar solution representative 
+	 solution select class propose method 
+	 verify experimentally solve simple problem 

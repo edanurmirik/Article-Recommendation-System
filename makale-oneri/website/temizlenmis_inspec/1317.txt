@@ -1,0 +1,26 @@
+dynamic spectrum management generation dsl system 
+ performance dsl system severely constrain crosstalk 
+	 electromagnetic coupling multiple twisted pair 
+	 phone cable order reduce performance loss arise 
+	 crosstalk dsl system currently design assumption 
+	 bad case crosstalk scenario lead overly conservative dsl 
+	 deployment article present new paradigm dsl system 
+	 design account multi user aspect dsl 
+	 transmission environment dynamic spectrum management dsm depart 
+	 current design philosophy enable transceiver 
+	 autonomously dynamically optimize communication setting 
+	 respect channel transmission neighboring 
+	 system distribute optimization additional 
+	 degree coordination available future dsl deployment dsm 
+	 allow great improvement dsl performance implementation 
+	 readily applicable cause performance degradation 
+	 exist dsl static spectrum management provide 
+	 overview dsm concept article review practical dsm 
+	 method iterative water filling autonomous distribute power 
+	 control method enable great improvement performance 
+	 implement software option exist adsl vdsl 
+	 system vectore dmt coordinate transmission reception 
+	 technique achieve crosstalk free communication dsl system 
+	 bring reach dream provide universal internet access 
+	 speed close 100 mb s 500 m 1 2 line 1 km 2 4 
+	 line dsm capable dsl enable broadband age 

@@ -1,0 +1,24 @@
+schedulability analysis real time traffic worldfip network 
+	 integrate approach 
+ worldfip protocol profile constitute european 
+	 fieldbus standard en-50170 particularly suited use 
+	 distribute computer control system set process 
+	 variable share network device cope 
+	 real time requirement system protocol provide 
+	 communication service base exchange periodic aperiodic 
+	 identify variable periodic exchange high priority 
+	 execute run time accord cyclic schedule 
+	 respective schedulability determine pre run time 
+	 build schedule table concern aperiodic exchange 
+	 situation different priority low 
+	 bandy accord come serve policy paper 
+	 response time base schedulability analysis real time traffic 
+	 present analysis consider type traffic 
+	 integrate way accord priority furthermore 
+	 fix priority base policy use schedule periodic 
+	 traffic propose analysis represent improvement relative 
+	 previous work evaluate online traffic 
+	 online admission control feature particular importance 
+	 planning scheduler use instead typical offline static 
+	 scheduler allow online change set periodic process 
+	 variable 

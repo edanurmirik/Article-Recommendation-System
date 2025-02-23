@@ -1,0 +1,15 @@
+adaptive optimize compiler 21st century 
+ historically compiler operate apply fix set optimization 
+	 predetermine order order list optimization 
+	 compilation sequence paper describe prototype system 
+	 use bias random search discover program specific compilation 
+	 sequence minimize explicit external objective function 
+	 result compiler framework adapt behavior 
+	 application compile pool available transformation 
+	 objective function target machine paper 
+	 describe experiment attempt characterize space 
+	 adaptive compiler search preliminary result suggest 
+	 optimal solution rare local minima frequent 
+	 hold true biased random search genetic algorithm 
+	 find good solution quickly simple strategy hill 
+	 climbing 

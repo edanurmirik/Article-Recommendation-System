@@ -1,0 +1,15 @@
+new method regression latent variable application spectral datum 
+ application base assessment linear model link 
+	 set variable y set predictor x. presence strong 
+	 colinearity predictor case spectral datum 
+	 alternative procedure ordinary square ols 
+	 propose discuss new alternative approach refer 
+	 regression model constrain principal component analysis 
+	 rm cpca method basically share certain common characteristic 
+	 pls regression dependent variable play central role 
+	 determine latent variable use predictor unlike pls 
+	 approach discuss lead straightforward model 
+	 method bear similarity latent root regression analysis 
+	 lrr discuss author tuning 
+	 parameter range 0 1 introduce family 
+	 model form include method particular case 

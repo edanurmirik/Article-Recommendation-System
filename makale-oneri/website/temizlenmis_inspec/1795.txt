@@ -1,0 +1,13 @@
+new voice internet protocol technique hierarchical data security 
+	 protection 
+ author propose voice internet protocol voip technique new 
+	 hierarchical datum security protection hdsp scheme propose hdsp 
+	 scheme maintain voice quality degrade packet loss 
+	 preserve high datum security perform datum inter leave 
+	 inter frame voice achieve error recovery voice 
+	 suffer continuous packet loss datum encryption 
+	 intra frame voice achieve high datum security 
+	 control random bit string sequence generate chaotic 
+	 system demonstrate performance propose hdsp scheme 
+	 successfully verify analyse propose approach 
+	 software simulation statistical measure test voice 

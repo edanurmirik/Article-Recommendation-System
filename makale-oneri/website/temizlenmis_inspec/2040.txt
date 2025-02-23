@@ -1,0 +1,7 @@
+inverse problem mathematical model ion exchange compressible ion 
+	 exchanger 
+ mathematical model ion exchange consider allow ion exchanger 
+	 compression process ion exchange inverse problem 
+	 investigate model unique solvability prove 
+	 numerical solution method propose efficiency propose 
+	 method demonstrate numerical experiment 

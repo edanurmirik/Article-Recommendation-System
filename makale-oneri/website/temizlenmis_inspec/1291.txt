@@ -1,0 +1,9 @@
+control scada system 
+ common way implement scada system outside 
+	 author opinion truly control scada project house 
+	 personnel handle job possible include 
+	 design equipment specification installation programming 
+	 task house control ownership 
+	 accomplish evaluate exist scada 
+	 system investigate new technology establish list 
+	 feature new system need incorporate 

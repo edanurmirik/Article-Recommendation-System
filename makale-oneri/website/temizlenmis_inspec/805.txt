@@ -1,0 +1,15 @@
+active pitch control large scale fix speed horizontal axis wind turbine 
+	 system i. linear controller design 
+ paper review address principle linear controller design 
+	 fix speed wind turbine system rate wind speed use 
+	 pitch angle control blade apply modern control theory 
+	 nonlinear equation system build 
+	 reasonable supposition nonlinear equation linearise 
+	 set operating point digital simulation result 
+	 paper finally linear quadratic optimal feedback controller 
+	 design dynamic closed circle system simulate 
+	 digital calculation advantage disadvantage 
+	 assumption design method discuss 
+	 inherent characteristic linear system control theory 
+	 performance linear controller sufficient operate 
+	 wind turbine discuss 

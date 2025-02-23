@@ -1,0 +1,13 @@
+analysis exclusively kinetic link underactuated mechanical system 
+ analysis exclusively kinetic link underactuated mechanical system 
+	 undertake system state 
+	 feedback linearizable equilibrium point 
+	 equilibrium point system small time locally 
+	 controllable stlc dimensional submanifold concept 
+	 restrictive stlc term small time local output 
+	 controllability stloc introduce satisfaction 
+	 guarantee choose configuration output control 
+	 desire value class system consider 
+	 stloc inertial coupling input output 
+	 nonzero case system nonminimum phase 
+	 example section illustrate result present 

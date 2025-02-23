@@ -1,0 +1,13 @@
+estimation n l n hammerstein wiener model 
+ estimation single input single output block orient model study 
+	 model consist linear block embed static nonlinear 
+	 gain n l n hammerstein wiener model 
+	 model structure motivated disturbance model 
+	 discuss paper concentrate parameter estimation 
+	 relaxation iteration scheme propose use model 
+	 structure error bilinear parameter lead 
+	 simple algorithm minimize original loss function 
+	 convergence consistency algorithm study order 
+	 reduce variance error obtain linear model far reduce 
+	 use frequency weight model reduction simulation study use 
+	 illustrate method 

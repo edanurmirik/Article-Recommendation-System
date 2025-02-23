@@ -1,0 +1,7 @@
+edge coloring large polychromatic star 
+ graph g positive integer r let f sub r/(g denote large 
+	 number color use coloring e(g 
+	 vertex incident r color positive integer n 
+	 r determine f sub r/(k sub n n/ exactly f sub r/(k sub n/ 
+	 1 disprove conjecture y. manoussakis et 
+	 al 1996 

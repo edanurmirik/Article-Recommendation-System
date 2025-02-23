@@ -1,0 +1,9 @@
+variable structure intelligent control pm synchronous servo motor drive 
+ variable structure control vsc discrete time system base 
+	 intelligent control present paper novel approach 
+	 propose state estimation linear observer firstly 
+	 design neural network use compensate uncertainty 
+	 parameter vsc scheme adjust online neural network 
+	 practical operating result pm synchronous motor pmsm 
+	 illustrate effectiveness practicability propose 
+	 approach 

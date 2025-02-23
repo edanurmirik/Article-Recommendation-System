@@ -1,0 +1,8 @@
+compatibility system linear constraint set natural number 
+ criteria compatibility system linear diophantine equation strict 
+	 inequation nonstrict inequation consider upper bound 
+	 component minimal set solution algorithm construction 
+	 minimal generating set solution type system 
+	 criterion corresponding algorithm construct 
+	 minimal support set solution use solve 
+	 consider type system system mixed type 

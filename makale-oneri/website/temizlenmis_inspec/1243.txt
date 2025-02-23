@@ -1,0 +1,15 @@
+hpf ja extension high performance fortran accelerate real world 
+	 application 
+ paper present set extension high performance fortran hpf 
+	 usable parallelize real world production code hpf 
+	 effective program compiler automatically 
+	 optimize efficiently compiler 
+	 way user explicitly parallelize optimize 
+	 program order resolve situation develop set 
+	 hpf extension hpf ja user control 
+	 sophisticated parallelization communication optimization 
+	 include parallelization loop complicated reduction 
+	 asynchronous communication user controllable shadow communication 
+	 pattern reuse irregular remote data access preliminary 
+	 experiment prove extension effective increase 
+	 hpf usability 

@@ -1,0 +1,9 @@
+motion estimation use modify dynamic programming 
+ new method compute precise estimate motion vector field 
+	 object sequence image propose correspondence 
+	 vector field computation formulate match optimization 
+	 problem multiple dynamic image propose method heuristic 
+	 modification dynamic programming apply 2 d optimization 
+	 problem motion vector field estimate use real movie image 
+	 demonstrate good performance algorithm term dynamic 
+	 motion analysis 

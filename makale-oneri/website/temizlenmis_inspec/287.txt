@@ -1,0 +1,15 @@
+loudspeaker voice coil inductance loss circuit model parameter estimation 
+	 effect frequency response 
+ series resistance separate treat separate element 
+	 loss inductor require ratio flux 
+	 mmf core frequency dependent small signal operation 
+	 dependence lead circuit model compose lossless 
+	 inductor resistor parallel frequency 
+	 dependent mathematical expression element derive 
+	 assumption ratio core flux mmf varie omega 
+	 /sup n-1/ n constant linear regression technique 
+	 describe extract model parameter measured datum 
+	 experimental datum present justify model lossy 
+	 inductance loudspeaker voice coil spice example present 
+	 illustrate effect voice coil inductor loss frequency 
+	 response typical driver 

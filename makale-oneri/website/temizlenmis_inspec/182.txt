@@ -1,0 +1,17 @@
+phase transition parking block brownian excursion coalescence 
+ paper consider hash linear probe hash table 
+	 m place n item n m l m n place noncomputer 
+	 science minded reader shall use metaphore n car parking 
+	 m place car c sub i/ choose place p sub i/ random 
+	 p sub i/ occupy c sub i/ try successively p sub i/+1 p sub 
+	 i/+2 find place pittel 42 prove l m 
+	 positive limit beta 1 size b sub 1//sup m l/ 
+	 large block consecutive car satisfie 2 beta -1 log beta 
+	 b sub 1//sup m l/=2 log m-3 log log m+ xi /sub m/ xi /sub m/ 
+	 converge weakly extreme value distribution paper 
+	 examine level n phase transition occur b sub 
+	 1//sup m l/=o(m m b sub 1//sup m l/=o(m intermediate case 
+	 reveal interesting behavior size block relate 
+	 standard additive coalescent way size connect 
+	 component random graph relate multiplicative 
+	 coalescent 

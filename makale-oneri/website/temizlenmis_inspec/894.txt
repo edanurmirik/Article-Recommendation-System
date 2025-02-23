@@ -1,0 +1,20 @@
+improved detection lung nodule use temporal subtraction technique 
+ author evaluate effect temporal subtraction technique 
+	 digital chest radiography regard accuracy detection 
+	 lung nodule solitary lung nodule small 30 mm 
+	 diameter include 10 lung cancer 10 benign nodule use 
+	 nodule group subjectively accord subtlety 
+	 nonnodular case 20 nodule perceptible interval change 
+	 select chest radiograph obtain use computed 
+	 radiographic system temporal subtraction image produce 
+	 use program develop university chicago effect 
+	 temporal subtraction image evaluate use observer 
+	 performance study use receiver operate characteristic 
+	 analysis observer performance temporal subtraction image 
+	 substantially improve sub z/ 0.980 0.958 compare 
+	 temporal subtraction image sub z/ 0.920 0.825 
+	 certify radiologist radiology resident respectively 
+	 temporal subtraction technique clearly improve diagnostic accuracy 
+	 detect lung nodule especially subtle case conclusion 
+	 temporal subtraction technique useful improve detection 
+	 accuracy peripheral lung nodule digital chest radiograph 

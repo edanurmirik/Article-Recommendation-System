@@ -1,0 +1,15 @@
+relationship strong monotonicity property p sub 2/-property 
+	 gus property semidefinite linear complementarity problem 
+ recent paper semidefinite linear complementarity problem gowda 
+	 song 2000 introduce study p property p sub 2/-property 
+	 gus property strong monotonicity property linear 
+	 transformation l s sup n/ s sup n/ s sup n/ space 
+	 symmetric real n n matrix attempt characterize 
+	 p sub 2/-property raise follow question 
+	 strong monotonicity imply p sub 2/-property ii 
+	 gus property imply p sub 2/-property paper 
+	 strong monotonicity property imply p sub 2/-property 
+	 linear transformation describe equivalence 
+	 property lyapunov transformation mean 
+	 example gus property need imply p sub 2/-property 
+	 lyapunov transformation 

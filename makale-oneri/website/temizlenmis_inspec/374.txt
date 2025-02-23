@@ -1,0 +1,10 @@
+horizontal waypoint guidance design use optimal control 
+ horizontal waypoint guidance algorithm propose apply line follow 
+	 guidance waypoint line segment sequence line follow 
+	 guidance design use lqr linear quadratic regulator 
+	 optimal waypoint change point derive minimize 
+	 acceleration require change waypoint line segment 
+	 derive sufficient condition stability bind ground 
+	 speed change base lyapunov stability theorem simulation 
+	 result propose algorithm effectively guide 
+	 vehicle sequence waypoint line segment 

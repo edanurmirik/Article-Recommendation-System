@@ -1,0 +1,23 @@
+stochastic recurrence jackpot keno 
+ describe mathematical model simulation study jackpot keno 
+	 implement jupiters network gaming jng australian state 
+	 queensland control queensland office gaming 
+	 regulation qogr http://www.qogr.qld.gov.au/keno.shtml 
+	 recurrence house net hold derive 
+	 piecewise linear ternary domain split far 
+	 split point stochastic nature structure 
+	 intractable brockett levine statistics probability 
+	 applications cbs college publishing 1984 estimation house net 
+	 hold obtain appropriately design simulator use 
+	 random number generator desirable property describe 
+	 model simulation naturally derive hold payscale jng 
+	 qogr require payscale hold inverse problem require 
+	 solve require development special algorithm 
+	 describe stochastic binary search experimental result 
+	 present simulator use determine jackpot 
+	 pay scale satisfy legal requirement approximately 75 
+	 net revenue return player i.e. 25 net hold house 
+	 jng detail algorithm use solve problem 
+	 present notwithstanding stochastic nature simulation 
+	 convergence specified hold inverse problem 
+	 achieve 0.1 case interest date 

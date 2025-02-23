@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Makale</title>
+    <link href="https://cdn.lineicons.com/4.0/lineicons.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+        ::after,
+        ::before {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        li {
+            list-style: none;
+        }
+
+        h1 {
+            font-weight: 600;
+            font-size: 1.5rem;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .wrapper {
+            display: flex;
+        }
+
+        .main {
+            min-height: 100vh;
+            width: 100%;
+            overflow: hidden;
+            transition: all 0.35s ease-in-out;
+            background-color: #fafbfe;
+        }
+
+        #sidebar {
+            width: 70px;
+            min-width: 70px;
+            z-index: 1000;
+            transition: all 0.25s ease-in-out;
+            background-color: #0e2238;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        #sidebar.expand {
+            width: 260px;
+            min-width: 260px;
+        }
+
+        .toggle-btn {
+            background-color: transparent;
+            cursor: pointer;
+            border: 0;
+            padding: 1rem 1.5rem;
+        }
+
+        .toggle-btn i {
+            font-size: 1.5rem;
+            color: #FFF;
+        }
+
+        .sidebar-logo {
+            margin: auto 0;
+        }
+
+        .sidebar-logo a {
+            color: #FFF;
+            font-size: 1.15rem;
+            font-weight: 600;
+        }
+
+        #sidebar:not(.expand) .sidebar-logo,
+        #sidebar:not(.expand) a.sidebar-link span {
+            display: none;
+        }
+
+        .sidebar-nav {
+            padding: 2rem 0;
+            flex: 1 1 auto;
+        }
+
+        a.sidebar-link {
+            padding: .625rem 1.625rem;
+            color: #FFF;
+            display: block;
+            font-size: 0.9rem;
+            white-space: nowrap;
+            border-left: 3px solid transparent;
+        }
+
+        .sidebar-link i {
+            font-size: 1.1rem;
+            margin-right: .75rem;
+        }
+
+        a.sidebar-link:hover {
+            background-color: rgba(255, 255, 255, .075);
+            border-left: 3px solid #3b7ddd;
+        }
+
+        .sidebar-item {
+            position: relative;
+        }
+
+        /* Styles for sidebar submenu */
+        .sidebar-dropdown {
+            background-color: #0e2238;
+            padding-left: 1.625rem; /* Match the padding of the sidebar links */
+        }
+
+        .sidebar-subitem a {
+            display: block;
+            color: #FFF;
+            padding: .625rem 1.625rem;
+            font-size: 0.85rem; /* Slightly smaller font for subitems */
+            white-space: nowrap;
+            transition: background-color 0.2s;
+        }
+
+        .sidebar-subitem a:hover {
+            background-color: rgba(255, 255, 255, .075);
+            border-left: 3px solid #3b7ddd;
+        }
+
+        #sidebar:not(.expand) .sidebar-item .sidebar-dropdown {
+            position: absolute;
+            top: 0;
+            left: 70px;
+            background-color: #0e2238;
+            padding: 0;
+            min-width: 15rem;
+            display: none;
+        }
+
+        #sidebar:not(.expand) .sidebar-item:hover .has-dropdown+.sidebar-dropdown {
+            display: block;
+            max-height: 15em;
+            width: 100%;
+            opacity: 1;
+        }
+
+        #sidebar.expand .sidebar-link[data-bs-toggle="collapse"]::after {
+            border: solid;
+            border-width: 0 .075rem .075rem 0;
+            content: "";
+            display: inline-block;
+            padding: 2px;
+            position: absolute;
+            right: 1.5rem;
+            top: 1.4rem;
+            transform: rotate(-135deg);
+            transition: all .2s ease-out;
+        }
+
+        #sidebar.expand .sidebar-link[data-bs-toggle="collapse"].collapsed::after {
+            transform: rotate(45deg);
+            transition: all .2s ease-out;
+        }
+
+        .search-box {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .search-box input[type="text"] {
+            width: 70%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+            font-size: 16px;
+        }
+
+        .search-box button {
+            background-color: #3b7ddd;
+            color: #FFF;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            margin-left: -5px;
+            cursor: pointer;
+            box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+            font-size: 16px;
+        }
+
+        .search-box button:hover {
+            background-color: #3069b3;
+        }
+
+        .article-section {
+            margin-top: 30px;
+        }
+
+        .article-section h2 {
+            font-size: 1.25rem;
+            margin-bottom: 20px;
+        }
+
+        .article-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .article-item {
+            padding: 15px;
+            text-align: center;
+            flex-direction: column;
+            border-bottom: 1px solid #ddd;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 15px;
+            position: relative;
+        }
+
+        .article-item:last-child {
+            border-bottom: none;
+        }
+
+        .article-item h3 {
+            font-size: 1rem;
+            margin-bottom: 5px;
+            color: #ffa500;
+            cursor: pointer;
+        }
+
+        .article-item p {
+            margin: 0;
+            font-size: 0.875rem;
+            color: #666;
+        }
+
+        .article-item .like-dislike-buttons {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+        }
+
+        .like-dislike-buttons {
+            display: flex;
+        }
+
+        .like-dislike-buttons .like-button,
+        .like-dislike-buttons .dislike-button {
+            margin-right: 10px;
+            /* İstenilen boşluk */
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+            outline: none;
+            color: inherit;
+            /* Buton simgelerinin rengini belirle */
+        }
+
+        .like-dislike-buttons button i {
+            font-size: 1.25rem;
+            color: inherit;
+            /* İkon rengini belirle */
+        }
+
+        /* Beğeni simgesi (thumbs up) rengi */
+        .like-dislike-buttons button i.lni-thumbs-up {
+            color: #000;
+        }
+
+        /* Beğenmeme simgesi (thumbs down) rengi */
+        .like-dislike-buttons button i.lni-thumbs-down {
+            color: #000;
+        }
+
+        /* Beğenilen veya beğenilmeyen durumda simgelerin rengi */
+        .like-dislike-buttons button.like-button.liked i.lni-thumbs-up,
+        .like-dislike-buttons button.dislike-button.disliked i.lni-thumbs-down {
+            color: red;
+        }
+
+        .sidebar-footer {
+            padding: 1rem 1.5rem;
+        }
+
+        .save-button {
+            background-color: #3b7ddd;
+            color: #FFF;
+            border: none;
+            border-radius: 50%;
+            padding: 10px;
+            cursor: pointer;
+            font-size: 16px;
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+            box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+        }
+
+        .save-button:hover {
+            background-color: #3069b3;
+        }
+
+        .top-right {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: #f8f9fa; /* Arka plan rengi */
+            border: 1px solid #dee2e6; /* Kenarlık rengi */
+            padding: 10px 20px;
+            border-radius: 8px; /* Köşe yuvarlama */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Gölge efekti */
+        }
+        
+        .t h1 {
+            margin: 0;
+            font-size: 24px; /* Font boyutu */
+            color: #333; /* Font rengi */
+        }
+        
+        .t h1::before {
+            content: "Precision Değeri: "; /* Ekstra metin */
+            font-weight: bold;
+            color: #007bff; /* Ekstra metin rengi */
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <aside id="sidebar">
+            <div class="d-flex">
+                <button class="toggle-btn" type="button" onclick="toggleSidebar()">
+                    <i class="lni lni-grid-alt"></i>
+                </button>
+                <div class="sidebar-logo">
+                    <a href="home">{{ name }}</a>
+                </div>
+            </div>
+            <ul class="sidebar-nav">
+                <li class="sidebar-item">
+                    <a href="profil_page" class="sidebar-link">
+                        <i class="lni lni-user"></i>
+                        <span>Profil</span>
+                    </a>
+                </li>
+                <li class="sidebar-item">
+                    <a href="update_interests" class="sidebar-link">
+                        <i class="lni lni-bookmark"></i>
+                        <span>İlgi Alanları</span>
+                    </a>
+                </li>
+                <li class="sidebar-item">
+                    <a href="liked_articles" class="sidebar-link">
+                        <i class="lni lni-heart"></i>
+                        <span>Beğeniler</span>
+                    </a>
+                </li>
+                <li class="sidebar-item">
+                    <a href="#productsSubmenu" class="sidebar-link" data-bs-toggle="collapse" aria-expanded="false">
+                        <i class="lni lni-list"></i>
+                        <span>Makaleler</span>
+                    </a>
+                    <ul class="collapse sidebar-dropdown" id="productsSubmenu">
+                        <li class="sidebar-subitem"><a href="articles">Tüm Makaleler</a></li>
+                        <li class="sidebar-subitem"><a href="personalised_articles">Okuduklarına Göre</a></li>
+                        <li class="sidebar-subitem"><a href="algorithm_articles">Bizden Öneriler</a></li>
+                    </ul>
+                </li>
+                <li class="sidebar-item">
+                    <a href="#" class="sidebar-link">
+                        <i class="lni lni-cog"></i>
+                        <span>Ayarlar</span>
+                    </a>
+                </li>
+            </ul>
+            <div class="sidebar-footer">
+                <a href="{% url 'logout_page' %}" class="sidebar-link">
+                    <i class="lni lni-exit"></i>
+                    <span>Çıkış</span>
+                </a>
+            </div>
+        </aside>
+        
+        <div class="main p-3">
+            <div class="text-center">
+                <h1>Makaleleri keşfedin!</h1>
+                <div class="search-box">
+                    <input type="text" placeholder="Ara...">
+                    <button type="button"><i class="lni lni-search"></i></button>
+                </div>
+                <div class="t top-right">
+                    <h1>{{ precision_degeri }}</h1>
+                </div>
+                <div class="article-section">
+                    <h2>FastText için Önerilen Makaleler</h2>
+                    <div class="article-list">
+                        {% for article in fasttext_articles %}
+                        <div class="article-item" id="article-{{ article.mongo_id }}">
+                            <div>
+                                <h3 onclick="window.location.href='/article/{{ article.mongo_id }}'">{{ article.title }}
+                                </h3>
+                                <p>{{ article.summary }}</p>
+                            </div>
+                            <div class="like-dislike-buttons">
+                                <button class="like-button {% if article.state == 1 %}liked{% endif %}"
+                                    onclick="toggleLikeDislike('like', '{{ article.mongo_id }}', '{{ article.state }}')"
+                                    id="like-{{ article.mongo_id }}">
+                                    <i class="lni lni-thumbs-up"></i>
+                                </button>
+                                <button class="dislike-button {% if article.state == -1 %}disliked{% endif %}"
+                                    onclick="toggleLikeDislike('dislike', '{{ article.mongo_id }}', '{{ article.state }}')"
+                                    id="dislike-{{ article.mongo_id }}">
+                                    <i class="lni lni-thumbs-down"></i>
+                                </button>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="article-section">
+                    <h2>SciBert için Önerilen Makaleler</h2>
+                    <div class="article-list">
+                        {% for article in scibert_articles %}
+                        <div class="article-item" id="article-{{ article.mongo_id }}">
+                            <div>
+                                <h3 onclick="window.location.href='/article/{{ article.mongo_id }}'">{{ article.title }}
+                                </h3>
+                                <p>{{ article.summary }}</p>
+                            </div>
+                            <div class="like-dislike-buttons">
+                                <button class="like-button {% if article.state == 1 %}liked{% endif %}"
+                                    onclick="toggleLikeDislike('like', '{{ article.mongo_id }}', '{{ article.state }}')"
+                                    id="like-{{ article.mongo_id }}">
+                                    <i class="lni lni-thumbs-up"></i>
+                                </button>
+                                <button class="dislike-button {% if article.state == -1 %}disliked{% endif %}"
+                                    onclick="toggleLikeDislike('dislike', '{{ article.mongo_id }}', '{{ article.state }}')"
+                                    id="dislike-{{ article.mongo_id }}">
+                                    <i class="lni lni-thumbs-down"></i>
+
+                                </button>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                        <button class="save-button" onclick="redirectToSave()">Kaydet</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous">
+    </script>
+    <script>
+        function toggleSidebar() {
+            var sidebar = document.getElementById('sidebar');
+            sidebar.classList.toggle('expand');
+        }
+
+        function redirectToSave() {
+            window.location.href = 'ikinci_asama'; // Yönlendirmek istediğiniz URL'yi buraya ekleyin
+        }
+
+        function toggleLikeDislike(action, articleId, state) {
+            const likeButton = document.getElementById(`like-${articleId}`);
+            const dislikeButton = document.getElementById(`dislike-${articleId}`);
+
+            state = parseInt(state);
+
+            if (action === 'like') {
+                likeButton.classList.toggle('liked', state === 1);
+                dislikeButton.classList.remove('disliked', state === -1);
+            } else {
+                dislikeButton.classList.toggle('disliked', state === 1);
+                likeButton.classList.remove('liked', state === -1);
+            }
+
+            // AJAX request to send like/dislike action to the server
+            const xhr = new XMLHttpRequest();
+            xhr.open("POST", "/toggle_like_dislike/", true);
+            xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+            xhr.setRequestHeader("X-CSRFToken", '{{ csrf_token }}'); // Django CSRF token
+            xhr.send(JSON.stringify({
+                article_id: articleId,
+                action: action
+            }));
+        }
+    </script>
+</body>
+
+</html>

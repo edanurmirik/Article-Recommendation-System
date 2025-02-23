@@ -1,0 +1,14 @@
+general solution density functionally gradient piezoelectric cantilever 
+	 application 
+ use plane strain theory transversely isotropic body study 
+	 piezoelectric cantilever order find general solution 
+	 density functionally gradient piezoelectric cantilever use 
+	 inverse method i.e. airy stress function method 
+	 obtain stress induction function form polynomial 
+	 general solution beam base general 
+	 solution deduce solution cantilever 
+	 different loading condition furthermore application 
+	 general solution engineering study tip deflection 
+	 block force piezoelectric cantilever actuator finally 
+	 address method determine density distribution profile 
+	 piezoelectric material 

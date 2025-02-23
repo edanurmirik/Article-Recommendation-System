@@ -1,0 +1,17 @@
+model undesirable factor efficiency evaluation 
+ data envelopment analysis dea measure relative efficiency decision 
+	 unit dmus multiple performance factor group 
+	 output input efficient frontier determine 
+	 inefficient dmu improve performance reach efficient 
+	 frontier increase current output level decrease 
+	 current input level desirable good 
+	 undesirable bad factor present example inefficiency 
+	 exist production process final product manufacture 
+	 production waste pollutant output waste 
+	 pollutant undesirable reduce improve 
+	 performance use classification invariance property 
+	 standard dea model use improve performance 
+	 increase desirable output decrease undesirable 
+	 output method apply situation input 
+	 need increase improve performance linearity 
+	 convexity dea preserve proposal 

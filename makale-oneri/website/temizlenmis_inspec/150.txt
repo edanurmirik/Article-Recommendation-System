@@ -1,0 +1,9 @@
+model checking game branch time logic 
+ paper define examine model checking game branch time 
+	 temporal logic ctl game employ technique focus 
+	 enrich set pick distinguished element 
+	 necessary avoid ambiguity regeneration temporal 
+	 operator correctness game prove optimization 
+	 consider obtain model checking game important fragment 
+	 ctl game base model checking algorithm match know 
+	 low upper complexity bound sketch 

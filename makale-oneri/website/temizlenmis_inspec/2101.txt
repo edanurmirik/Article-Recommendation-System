@@ -1,0 +1,9 @@
+optical xor gate use semiconductor optical amplifier additional 
+	 input beam 
+ novel design optical xor gate use cross gain modulation 
+	 semiconductor optical amplifier suggest demonstrate 
+	 successfully 10 gb s. boolean ab ab input signal 
+	 b obtain combine achieve optical xor 
+	 gate additional input beam clock signal continuous 
+	 wave light use new design require 
+	 optical xor gate 

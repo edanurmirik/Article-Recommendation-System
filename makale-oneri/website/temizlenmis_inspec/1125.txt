@@ -1,0 +1,11 @@
+structure weakly invertible semi input memory finite automata delay 1 
+ semi input memory finite automata kind finite automata introduce 
+	 author paper study error propagation 
+	 generalization input memory finite automata append 
+	 autonomous finite automaton component paper 
+	 characterization structure weakly invertible 
+	 semi input memory finite automata delay 1 state 
+	 graph autonomous finite automaton cycle result 
+	 mutual invertibility finite automata obtain author 
+	 recently lead characterization structure 
+	 feedforward inverse finite automata delay 1 

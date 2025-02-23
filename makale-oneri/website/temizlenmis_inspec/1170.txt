@@ -1,0 +1,18 @@
+upper bind analysis oblique cutting nose radius tool 
+ generalized upper bind model calculate chip flow angle oblique 
+	 cut use flat face nose radius tool describe projection 
+	 uncut chip area rake face divide number 
+	 element parallel assumed chip flow direction length 
+	 element use find length corresponding 
+	 element shear surface use ratio shear velocity 
+	 chip velocity area element find cross 
+	 product length width cutting edge sum 
+	 area element shear surface total shear 
+	 surface area obtain friction area calculate use 
+	 similarity orthogonal oblique cutting equivalent 
+	 plane include cut velocity chip velocity 
+	 cutting power obtain sum shear power friction 
+	 power actual chip flow angle chip velocity obtain 
+	 minimize cutting power respect variable 
+	 shape curved shear surface chip cross section 
+	 cut force obtain model present 

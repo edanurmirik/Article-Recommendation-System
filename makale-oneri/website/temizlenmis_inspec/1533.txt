@@ -1,0 +1,24 @@
+generic simulation approach multi axis machining 2 model calibration 
+	 feed rate scheduling 
+ 1 ibid vol.124 2002 second 
+	 paper present new methodology analytically simulate 
+	 multi axis machining complex sculptured surface section 
+	 paper offer detailed explanation model calibration 
+	 procedure new methodology present accurately determine 
+	 cut force coefficient multi axis machining force 
+	 model present 1 reformulate cut force 
+	 coefficient account effect feed rate cut speed 
+	 complex cut edge design experimental result present 
+	 calibration procedure model verification test conduct 
+	 cut force coefficient test demonstrate 
+	 predict force 5 experimentally measure force 
+	 simulate result predict dynamic cutting force 
+	 static dynamic tool deflection second section paper 
+	 discuss modeling methodology apply feed rate 
+	 scheduling industrial application case study process 
+	 optimization machine airfoil like surface use 
+	 demonstration base predict instantaneous chip load and/or 
+	 specify force constraint feed rate scheduling utilize 
+	 increase metal removal rate feed rate scheduling 
+	 implementation result 30 reduction machining time 
+	 airfoil like surface 

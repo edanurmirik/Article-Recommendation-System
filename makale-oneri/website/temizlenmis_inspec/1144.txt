@@ -1,0 +1,26 @@
+simultaneous iterative reconstruction emission attenuation image 
+	 positron emission tomography emission datum 
+ quantitative image reconstruction positron emission tomography 
+	 attenuation correction mandatory case datum available 
+	 calculation attenuation correction factor try 
+	 determine emission datum 
+	 clear information content sufficient yield adequate 
+	 attenuation correction satisfactory activity 
+	 distribution determine log likelihood distribution 
+	 thorax phantom depend choice attenuation 
+	 activity pixel value measure crosstalk 
+	 addition iterative image reconstruction dimensional newton type 
+	 algorithm maximum likelihood estimator simultaneously 
+	 reconstruct image activity distribution 
+	 attenuation coefficient use demonstrate problem 
+	 possibility reconstruction result 
+	 change log likelihood range statistical noise 
+	 associate change activity value structure 6 
+	 263 addition possible choose 
+	 good maximum basis log likelihood regularization 
+	 use coupling different structure mediate 
+	 smoothing regularization prevent adequate solution 
+	 crosstalk conclude account attenuation 
+	 information emission datum improve performance image 
+	 reconstruction respect bias activity 
+	 reconstruction quantitative 

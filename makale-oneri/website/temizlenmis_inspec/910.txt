@@ -1,0 +1,18 @@
+control heavy duty robotic excavator use time delay control 
+	 integral slide surface 
+ control robotic excavator difficult standpoint 
+	 follow problem parameter variation mechanical structure 
+	 nonlinearitie hydraulic actuator disturbance 
+	 contact ground addition size robotic 
+	 excavator increase length mass excavator 
+	 link parameter heavy duty excavator vary 
+	 time delay control switch action tdcsa use integral 
+	 slide surface propose paper control 21 ton 
+	 robotic excavator analysis experiment use 
+	 integral slide surface switch action tdcsa 
+	 use pd type slide surface propose controller 
+	 apply straight line motion 21 ton robotic excavator 
+	 speed level skillful operator work experiment 
+	 design surface inclination broad range 
+	 joint motion propose controller exhibit good 
+	 performance 

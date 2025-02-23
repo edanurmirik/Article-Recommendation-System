@@ -1,0 +1,11 @@
+bound model check universal fragment ctl 
+ bounded model checking bmc recently introduce efficient 
+	 verification method reactive system bmc base sat method 
+	 consist search counterexample particular length 
+	 generate propositional formula satisfiable iff 
+	 counterexample exist new technique introduce e. 
+	 clarke et al model checking linear time temporal logic ltl 
+	 paper concept bound model checking 
+	 extend actl universal fragment ctl implementation 
+	 algorithm elementary net systems describe 
+	 experimental result 

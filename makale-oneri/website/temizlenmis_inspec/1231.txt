@@ -1,0 +1,25 @@
+efficient parallel programming scalable share memory system high 
+	 performance fortran 
+ openmp offer high level interface parallel programming scalable 
+	 share memory smp architecture provide user simple 
+	 work share directive rely compiler generate 
+	 parallel program base thread parallelism lack 
+	 language feature exploit datum locality result poor 
+	 performance non uniform memory access time scalable smp 
+	 machine neglect high performance fortran hpf 
+	 de facto standard datum parallel programming offer rich set 
+	 datum distribution directive order exploit datum locality 
+	 mainly target distribute memory machine 
+	 paper describe optimize execution model hpf program smp 
+	 machine avail mechanism provide openmp work 
+	 sharing thread parallelism exploit datum locality base 
+	 user specify distribution directive datum locality 
+	 ensure memory access close execute thread 
+	 fast minimize synchronization overhead 
+	 especially case unstructured reduction propose share 
+	 memory execution model hpf rely small set language 
+	 extension resemble openmp work share feature 
+	 extension optimize share memory parallelization 
+	 execution model implement adaptor hpf 
+	 compilation system experimental result verify efficiency 
+	 choose approach 

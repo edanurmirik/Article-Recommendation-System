@@ -1,0 +1,13 @@
+deterministic calculation photon spectra clinical accelerator target 
+ method propose compute photon energy spectra produce clinical 
+	 electron accelerator target base deterministic solution 
+	 boltzmann equation couple electron photon transport 
+	 dimensional 1 d slab geometry deterministic 
+	 method similar result monte carlo calculation 
+	 angular range interest therapy application relative energy 
+	 spectra compute deterministic 3 d monte carlo method 
+	 respectively compare realistic target material 
+	 different electron beam find similar photon energy 
+	 distribution mean energy deterministic calculation 
+	 typically require 1 2 min execution time sun workstation 
+	 compare 2 36 h monte carlo run 

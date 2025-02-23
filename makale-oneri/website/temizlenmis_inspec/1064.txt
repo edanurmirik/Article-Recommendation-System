@@ -1,0 +1,10 @@
+quantum control measurement device quantum state discrimination 
+ propose programmable quantum device able perform specific 
+	 generalized measurement certain set measurement depend 
+	 quantum state program register particular study 
+	 situation programmable measurement device serve 
+	 unambiguous discrimination nonorthogonal state particular 
+	 pair state unambiguously discriminate specify 
+	 state program qubit probability successful 
+	 discrimination optimal admissible pair 
+	 subset close optimal value 

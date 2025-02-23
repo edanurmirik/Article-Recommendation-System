@@ -1,0 +1,9 @@
+pipelined broadcast enhanced wormhole router 
+ paper propose pipelined broadcast broadcast message size m 
+	 o(m+n-1 time n dimensional hypercube base 
+	 replication tree derive reachable set greatly 
+	 improve performance compare ho kao 1995 algorithm 
+	 time o(m[n log(n+1 communication broadcast use 
+	 port wormhole router message replication capability 
+	 paper include algorithm performance comparison 
+	 previous scheme practical implementation 

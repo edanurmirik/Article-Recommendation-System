@@ -1,0 +1,12 @@
+steinmetz system design unbalanced condition 
+ paper study develop general analytical expression obtain 
+	 phase current symmetrization unbalanced voltage condition 
+	 propose procedure symmetrization application 
+	 traditional expression assume symmetry condition use 
+	 optimization method base general analytical equation 
+	 specifically paper apply evaluate method analyze 
+	 steinmetz system design graphic evaluate error 
+	 introduce assumption balanced voltage design plot 
+	 example study compare procedure example 
+	 necessity apply optimization technique highly unbalanced 
+	 condition demonstrate 

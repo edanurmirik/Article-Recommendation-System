@@ -1,0 +1,13 @@
+direct gear tooth contact analysis hypoid bevel gear 
+ new methodology tooth contact analysis base general 
+	 mathematical model generating process propose consider 
+	 line action order singularity certain operator 
+	 equation develop second order condition pair 
+	 generate gear tooth flank contact constructive approach 
+	 allow direct computation path contact solution 
+	 nonlinear equation system include exact determination 
+	 bound path contact transmission error 
+	 curvature property contact point obtain convenient 
+	 way result contact ellipsis approximate bear area 
+	 use automatic differentiation geometric 
+	 quantity calculable machine accuracy computer 

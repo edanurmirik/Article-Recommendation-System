@@ -1,0 +1,18 @@
+gossip synteny incomplete gossip syntenic distance genome 
+ syntenic distance genome minimum number 
+	 fusion fission translocation require transform 
+	 ignore order gene chromosome computing 
+	 distance np hard present work tight 
+	 connection syntenic distance incomplete gossip problem 
+	 novel generalization classical gossip problem 
+	 problem n gossiper unique piece initial 
+	 information communicate phone 
+	 participant exchange information goal minimize 
+	 total number phone necessary inform gossiper 
+	 set relevant gossip desire learn application 
+	 connection syntenic distance incomplete gossip 
+	 derive o(2 sup o(n log n)/ algorithm exactly compute 
+	 syntenic distance genome n chromosome 
+	 algorithm require o(n sup 2/+2 sup o(d log d)/ time 
+	 distance d improve o(n sup 2/+2(o(d//sup 2/ run time 
+	 previous exact algorithm 

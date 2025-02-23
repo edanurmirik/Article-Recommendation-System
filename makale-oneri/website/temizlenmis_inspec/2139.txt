@@ -1,0 +1,13 @@
+generalized confidence set statistically indeterminate random vector 
+ problem consider construction confidence set random 
+	 vector information distribution parameter 
+	 incomplete obtain exact estimate detailed analysis 
+	 problem notion introduce generalized confidence set 
+	 statistically indeterminate random vector property generalize 
+	 confidence set study standard method 
+	 estimation rely unification confidence set lead 
+	 case wide confidence estimate normally distribute 
+	 random vector inaccurately know mean value generalize 
+	 confidence set build tip dependence size 
+	 generalized confidence set form parameter set 
+	 possible mean value examine 

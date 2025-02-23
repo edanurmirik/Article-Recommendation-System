@@ -1,0 +1,14 @@
+comparison discrete stft wavelet analysis power quality 
+	 event 
+ paper deal comparison signal processing tool power 
+	 quality analysis signal processing technique consider 
+	 wavelet filter discrete short time fourier transform stft 
+	 example frequent disturbance meet power 
+	 system choose adjustable speed drive pulse converter 
+	 use emtp atp design normal energizing utility capacitor 
+	 present analysis test system consist 13 
+	 bus representative medium sized industrial plant 
+	 finally kind electrical disturbance analyze example 
+	 represent tool qualitative comparison result 
+	 advantage drawback signal processing technique apply 
+	 power quality analysis 

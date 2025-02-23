@@ -1,0 +1,15 @@
+integrated optimization model train crew management 
+ train crew management involve development duty timetable 
+	 driver crew cover train timetable rail transport 
+	 organization duty timetable spread certain period 
+	 know roster planning horizon train crew management arise 
+	 planning stage total number crew crew 
+	 distribution determine operating stage 
+	 number crew depot know input datum paper 
+	 interested train crew management planning stage 
+	 literature train crew management decompose stage 
+	 crew scheduling crew rostere solve sequentially 
+	 propose integrate optimization model solve crew scheduling 
+	 crew rostere model enable generate cyclic 
+	 roster non cyclic roster numerical experiment carry 
+	 datum set arise practical application 

@@ -1,0 +1,7 @@
+computation unmeasured generation vct view measured view 
+ compute unmeasured cone beam projection projection measure 
+	 generation helical volumetric compute tomography system 
+	 solve characteristic problem ultrahyperbolic differential 
+	 equation john 1938 work fourier domain convert 
+	 second order pde family order ordinary differential 
+	 equation simple order integration use solve odes 

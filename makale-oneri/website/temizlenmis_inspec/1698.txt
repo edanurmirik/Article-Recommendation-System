@@ -1,0 +1,11 @@
+exact frequency domain reconstruction thermoacoustic tomography i. planar 
+	 geometry 
+ report exact fast fourier domain reconstruction algorithm 
+	 thermoacoustic tomography planar configuration assume thermal 
+	 confinement constant acoustic speed effect finite size 
+	 detector finite length excitation pulse 
+	 explicitly include reconstruction algorithm algorithm 
+	 numerically experimentally verify demonstrate 
+	 blurring cause finite size detector surface 
+	 primary limit factor resolution 
+	 compensate deconvolution 

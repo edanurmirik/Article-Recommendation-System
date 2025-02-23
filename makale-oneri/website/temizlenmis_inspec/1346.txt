@@ -1,0 +1,8 @@
+automatic multilevel thresholding image segmentation grow time 
+	 adaptive self organize map 
+ paper grow tasom time adaptive self organizing map network 
+	 gtasom peak finding process propose 
+	 automatic multilevel thresholding propose gtasom test 
+	 image segmentation experimental result demonstrate gtasom 
+	 reliable accurate tool image segmentation result 
+	 outperform thresholding method 

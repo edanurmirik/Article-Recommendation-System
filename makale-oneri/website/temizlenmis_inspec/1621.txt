@@ -1,0 +1,13 @@
+current mode fully programmable piece wise linear block neuro fuzzy 
+	 application 
+ new method implement arbitrary piece wise linear characteristic 
+	 current mode present break point slope 
+	 separately controllable example block implement 
+	 n shape piece wise linearity design n shape block 
+	 operate subthreshold region use transistor 
+	 characteristic especially suitable large array 
+	 neuro fuzzy system number transistor power 
+	 consumption cell important concern prototype block 
+	 fabricate 0.35 mu m cmos technology functionality 
+	 programmability circuit verify 
+	 experimental result 

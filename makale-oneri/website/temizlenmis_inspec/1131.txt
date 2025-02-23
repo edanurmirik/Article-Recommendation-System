@@ -1,0 +1,11 @@
+min max theorem feedback vertex set 
+ establish necessary sufficient condition linear system x hx 
+	 or= e x or= 0 associate bipartite tournament 
+	 totally dual integral h cycle vertex incidence matrix 
+	 e vector consequence min max relation 
+	 packing cover cycle strongly polynomial time 
+	 algorithm feedback vertex set problem cycle packing 
+	 problem corresponding bipartite tournament addition 
+	 feedback vertex set problem general bipartite 
+	 tournament np complete approximable 3.5 base 
+	 min max theorem 

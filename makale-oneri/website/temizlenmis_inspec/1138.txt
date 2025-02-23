@@ -1,0 +1,9 @@
+approximating martingale variance reduction markov process simulation 
+ knowledge analytical numerical approximation enable 
+	 efficient simulation estimator construct principle 
+	 intuitively plausible certainly attractive completely 
+	 satisfactory general methodology develop exploit 
+	 author present new approach obtain variance reduction 
+	 markov process simulation applicable vast array 
+	 different performance measure approach rely construction 
+	 martingale use internal control variate 

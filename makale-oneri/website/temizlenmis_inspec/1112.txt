@@ -1,0 +1,12 @@
+blend parametric patch subdivision surface 
+ paper problem blend parametric surface use subdivision 
+	 patch discuss new approach remove boundary 
+	 present generate piecewise smooth subdivision surface 
+	 discard outmost quadrilateral open mesh derive 
+	 subdivision step approach employ blend 
+	 parametric bicubic b spline surface fill n sided hole 
+	 easy produce piecewise smooth subdivision surface convex 
+	 concave corner boundary limit surface guarantee 
+	 c sup 2/ continuous boundary singular 
+	 point remove boundary approach blend method 
+	 efficient blend surface generate good effect 

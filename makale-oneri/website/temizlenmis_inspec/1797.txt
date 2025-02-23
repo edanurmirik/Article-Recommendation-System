@@ -1,0 +1,20 @@
+use periodic monotonic activation function multilayer feedforward 
+	 neural network train extended kalman filter algorithm 
+ author investigate convergence pruning performance multilayer 
+	 feedforward neural network different type neuronal activation 
+	 function solve problem type activation 
+	 function adopt network traditional sigmoid 
+	 function sinusoidal function periodic function 
+	 consider combination function speed 
+	 learning reduce network size extended kalman 
+	 filter ekf algorithm conjunct pruning method use train 
+	 network correspond network apply solve 
+	 typical problem 4 point xor logic function parity 
+	 generation handwritten digit recognition piecewise linear function 
+	 approximation sunspot series prediction simulation result 
+	 periodic activation function perform monotonic 
+	 solve multicluster classification problem combine 
+	 periodic activation function find possess fast convergence 
+	 multicluster classification capability sinusoidal 
+	 activation function robustness property 
+	 sigmoid function require modelling unknown system 

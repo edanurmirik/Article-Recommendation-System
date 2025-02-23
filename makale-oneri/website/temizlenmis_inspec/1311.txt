@@ -1,0 +1,14 @@
+blend implementation block implicit method ode 
+ paper far develop new approach naturally define 
+	 nonlinear splitting need implementation block implicit 
+	 method ode consider brugnano j. comput 
+	 appl math 116 2000 41 brugnano trigiante recent 
+	 trends numerical analysis nova science new york 2000 pp 
+	 81 105 basic idea define numerical method 
+	 combination blending suitable component method carefully 
+	 choose method efficient implementation 
+	 obtain characterize diagonal 
+	 splitting suited parallel computer numerical test 
+	 compare performance propose implementation exist 
+	 present order evident potential 
+	 approach 

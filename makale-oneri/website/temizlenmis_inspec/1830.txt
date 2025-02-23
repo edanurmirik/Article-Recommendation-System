@@ -1,0 +1,8 @@
+approximation pathwidth outerplanar graph 
+ exist polynomial time algorithm compute pathwidth 
+	 outerplanar graph large exponent algorithm 
+	 impractical paper algorithm 
+	 biconnecte outerplanar graph g find path decomposition g 
+	 pathwidth twice pathwidth g plus obtain 
+	 result relation pathwidth biconnecte 
+	 outerplanar graph dual establish 

@@ -1,0 +1,22 @@
+use neural network analysis particle size distribution laser 
+	 diffraction test different particle system 
+ application forward light scatter method estimate particle 
+	 size distribution psd usually limit occurrence 
+	 multiple scattering affect angular distribution light 
+	 highly concentrated suspension result false calculation 
+	 conventionally adopt algorithm paper previously 
+	 propose neural network base method test different particle 
+	 system order evaluate applicability step 
+	 study experiment carry solid liquid suspension 
+	 different characteristic particle shape size 
+	 distribution vary solid concentration experimental 
+	 result consist angular distribution light intensity 
+	 particle shape suspension concentration use input datum 
+	 fitting neural network model nn replace optical 
+	 model provide psd reference value particle shape 
+	 psd nn fitting base image analysis comparison 
+	 psd value compute nn model reference 
+	 value indicate method use monitor psd 
+	 particle different shape highly concentrated suspension 
+	 extend range application forward laser diffraction 
+	 number system industrial interest 

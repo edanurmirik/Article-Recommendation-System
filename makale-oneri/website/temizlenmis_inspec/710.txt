@@ -1,0 +1,8 @@
+optimal allocation run simulation metamodel independent 
+	 variable 
+ cheng kleijnen 1999 propose general regression metamodel 
+	 model output queue system main limitation 
+	 regression function base polynomial use 
+	 independent variable limitation remove 
+	 derive explicit formula optimal way assign simulation 
+	 run different design point 

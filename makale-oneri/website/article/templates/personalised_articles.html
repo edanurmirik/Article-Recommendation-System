@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalised Articles</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <meta name="csrf-token" content="{{ csrf_token }}">
+    <style>
+        body {
+            background-color: #0e2238;
+            color: white; /* Beyaz renk */
+        }
+        .article-container {
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 10px;
+            transition: all 0.3s ease; /* Smooth transition */
+            background-color: #1b354f; /* Arka plan rengi */
+            position: relative;
+        }
+        .article-container .article-link {
+            font-size: 1rem;
+            margin-bottom: 5px;
+            color: #ffa500;
+            cursor: pointer;
+        }
+        .article-container h3 {
+            font-size: 1rem;
+            margin-bottom: 5px;
+            color: #ffa500;
+            cursor: pointer;
+        }
+        .article-container:hover {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+        }
+        .article-title {
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            color: #ffa500; /* Başlık rengi */
+        }
+        .article-summary {
+            font-size: 14px;
+        }
+        .heart-button {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 24px;
+            color: white;
+        }
+        .heart-button.liked {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="my-4">Personalised Articles</h1>
+        
+        <div class="article-section">
+            <h2>FastText için Önerilen Makaleler</h2>
+            <div class="article-list">
+                {% for article in fasttext_articles %}
+                <div class="article-container" id="article-{{ article.mongo_id }}">
+                    <h3 onclick="window.location.href='/article/{{ article.mongo_id }}'">{{ article.title }}
+                    </h3>
+                    <div class="article-summary">
+                        {{ article.summary }}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="article-section">
+            <h2>SciBert için Önerilen Makaleler</h2>
+            <div class="article-list">
+                {% for article in scibert_articles %}
+                <div class="article-container" id="article-{{ article.mongo_id }}">
+                    <h3 onclick="window.location.href='/article/{{ article.mongo_id }}'">{{ article.title }}
+                    </h3>
+                    <div class="article-summary">
+                        {{ article.summary }}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+    crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+modifier formula mean square convergence lms algorithm 
+ describe mean square convergence lms algorithm update 
+	 formula base independence assumption bring explicit error 
+	 especially step size large modifier formula describe 
+	 convergence propose simulation support propose 
+	 formula different condition 

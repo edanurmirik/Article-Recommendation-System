@@ -1,0 +1,13 @@
+technique compile implement nas parallel benchmark hpf 
+ nas parallel benchmark npb know benchmark set 
+	 high performance machine effort implement 
+	 high performance fortran hpf previous attempt 
+	 hpf version include complete set benchmark 
+	 performance good study implement 
+	 benchmark npb hpf parallelize use hpf 
+	 compiler develop report describe 
+	 implementation technique compiler feature necessary achieve 
+	 good performance evaluate hpf version hitachi sr2201 
+	 distribute memory parallel machine 16 processor execution 
+	 time hpf version factor 1.5 
+	 hand parallelize version npb 2.3 beta 

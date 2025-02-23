@@ -1,0 +1,17 @@
+network simplex algorithm o(n consecutive degenerate pivot 
+ suggest pivot rule primal simplex algorithm minimum cost 
+	 flow problem know network simplex algorithm 
+	 degeneracy cycling occur network simplex algorithm 
+	 cycling prevent maintain strongly feasible basis 
+	 propose cunningham 1976 impose 
+	 restriction enter variable algorithm perform 
+	 exponentially long sequence degenerate pivot phenomenon 
+	 know stall researcher suggest pivot rule 
+	 follow bound number consecutive degenerate pivot m 
+	 n sup 2/ k(k 1)/2 n number node network m 
+	 number arc network k number degenerate 
+	 arc basis observe k or= n. paper 
+	 describe anti stalling pivot rule ensure network 
+	 simplex algorithm perform k consecutive degenerate pivot 
+	 rule use negative cost augment cycle identify sequence 
+	 enter variable 

@@ -1,0 +1,15 @@
+brightness independent start routine star tracker 
+ initial attitude acquisition modern star tracker investigate 
+	 criteria efficient organization board database 
+	 discuss reference brightness independent initial 
+	 acquisition algorithm star catalog generation preprocessing 
+	 describe emphasis identification minimum star 
+	 brightness detection sensor base charge couple device 
+	 ccd photodetector crucial step proper evaluation 
+	 attainable sky coverage select star include 
+	 board catalog test result report 
+	 reliability accuracy consider 
+	 primary target probability erroneous solution 0.2 case 
+	 single run procedure attitude determination accuracy 
+	 order 0.02 degree average computation 
+	 inertial pointing boresight axis 

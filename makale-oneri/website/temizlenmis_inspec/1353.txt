@@ -1,0 +1,9 @@
+generalized spatio chromatic diffusion 
+ framework diffusion color image present method base 
+	 theory thermodynamic irreversible transformation 
+	 provide suitable basis design correlation 
+	 different color channel precisely derive equation 
+	 color evolution comprise purely spatial diffusive term 
+	 nonlinear term depend interaction color channel 
+	 space apply propose equation image represent 
+	 color space rgb cielab opponent color ihs 

@@ -1,0 +1,11 @@
+implementation universal quantum gate base nonadiabatic geometric 
+	 phase 
+ propose experimentally feasible scheme achieve quantum computation 
+	 base nonadiabatic geometric phase shift cyclic 
+	 geometric phase use realize set universal quantum gate 
+	 physical implementation set gate design josephson 
+	 junction nmr system interestingly find 
+	 nonadiabatic phase shift independent operation time 
+	 appropriate controllable condition remarkable feature 
+	 present nonadiabatic geometric gate intrinsic 
+	 limitation operation time 

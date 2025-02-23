@@ -1,0 +1,11 @@
+supervisory control design base hybrid system fuzzy event detection 
+	 application oxichlorination reactor 
+ paper present supervisory control scheme base hybrid system theory 
+	 fuzzy event detection fuzzy event detector linguistic 
+	 model synthesize complex relation process variable 
+	 process event incorporate expert knowledge process 
+	 operation kind detection allow anticipation 
+	 appropriate control action depend select membership 
+	 function use characterize process scrutiny proposed 
+	 supervisory control scheme successfully implement 
+	 oxichlorination reactor vinyl monomer plant 

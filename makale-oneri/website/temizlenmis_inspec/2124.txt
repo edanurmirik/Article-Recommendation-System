@@ -1,0 +1,6 @@
+set stable polynomial linear discrete system geometry 
+ multidimensional stability domain linear discrete system study 
+	 configuration determine parameter intersection 
+	 coordinate axis coordinate plane certain auxiliary plane 
+	 counterexample discrete variant kharitonov theorem 
+	 

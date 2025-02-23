@@ -1,0 +1,5 @@
+hide convexity finite dimensional stationary linear discrete time 
+	 system conical constraint 
+ new property finite dimensional linear discrete time system conical 
+	 control constraint similar hide convexity 
+	 continuous time system study 

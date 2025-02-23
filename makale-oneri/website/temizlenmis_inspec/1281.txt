@@ -1,0 +1,9 @@
+notion non interference time automata 
+ non interference property concurrent system security property 
+	 concern flow information different level security 
+	 system paper introduce notion time 
+	 non interference real time system specify time automata 
+	 notion present use automata base approach 
+	 characterize operation equivalence time 
+	 language definition apply example time critical 
+	 system model simplified control airplane 

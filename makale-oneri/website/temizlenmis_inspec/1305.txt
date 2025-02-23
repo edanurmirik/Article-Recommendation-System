@@ -1,0 +1,7 @@
+learn nonregular language comparison simple recurrent network 
+	 lstm 
+ rodriguez 2001 examine learning ability simple recurrent net srn 
+	 elman 1990 simple context sensitive context free language 
+	 response rodriguez 2001 article compare performance 
+	 simple recurrent net long short term memory recurrent net 
+	 context free context sensitive language 

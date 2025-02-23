@@ -1,0 +1,15 @@
+schema evolution datum warehouse 
+ address issue relate evolution maintenance data 
+	 warehousing system underlying data source change schema 
+	 capability change invalidate view data 
+	 warehousing system present approach dynamically adapt 
+	 view accord schema change arise source relation 
+	 type maintenance concern schema datum data 
+	 warehouse main issue avoid view recomputation 
+	 scratch especially view define multiple source 
+	 datum data warehouse use primarily organizational 
+	 decision making strategic schema data 
+	 warehouse evolve model new requirement result 
+	 analysis data mining processing approach provide mean 
+	 support schema evolution data warehouse independently 
+	 datum source 

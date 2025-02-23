@@ -1,0 +1,18 @@
+support vector machine model classification thermal error machine 
+	 tool 
+ paper address change concept machine tool thermal error 
+	 prediction hitherto carry directly map 
+	 temperature critical element machine model 
+	 develop use support vector machine powerful 
+	 data training algorithm seek account impact specific 
+	 operating condition addition temperature variation 
+	 effective prediction thermal error experiment 
+	 conduct study error pattern find change 
+	 significantly variation operating condition model 
+	 attempt classify error base operating condition 
+	 classify error predict base temperature 
+	 state paper briefly describe concept 
+	 implementation comprehensive model line 
+	 error assessment calibration system pc base open architecture 
+	 controller environment employ regular 
+	 production purpose periodic calibration machine tool 

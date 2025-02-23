@@ -1,0 +1,11 @@
+apply bgl computational geometry 
+ author apply boost graph library domain computational geometry 
+	 formulate concrete problem graph term second 
+	 develop way transform output exist algorithm 
+	 appropriate boost graph library datum structure finally implement 
+	 new algorithm boost graph library graph 
+	 algorithm job write 
+	 programming language second algorithm power 
+	 boost graph library generic programming approach graph graphic 
+	 generic programming combine novel use boost graph 
+	 library 

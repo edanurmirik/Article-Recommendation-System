@@ -1,0 +1,13 @@
+l sub 2/ model reduction variance reduction 
+ examine certain variance property model reduction focus 
+	 l sub 2/ model reduction general result present 
+	 general result use analyze model 
+	 reduction scheme model study finite impulse response 
+	 fir output error oe model compare variance 
+	 estimate model estimate directly datum 
+	 compute reduce high order model l sub 2/ model 
+	 reduction fir case estimate 
+	 model directly datum compare estimate l sub 2/ 
+	 model reduction high order fir model oe model 
+	 reduced model variance directly estimate 
+	 reduce model class use contain true system 

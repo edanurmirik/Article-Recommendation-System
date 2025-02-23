@@ -1,0 +1,8 @@
+contractivity implicit explicit linear multistep method 
+ paper concern class implicit explicit linear multistep 
+	 method numerical solution initial value problem 
+	 ordinary differential equation compose stiff 
+	 nonstiff study contractivity method regard 
+	 linear autonomous system ordinary differential equation 
+	 scale euclidean norm addition derive strong stability 
+	 result base stability region method 

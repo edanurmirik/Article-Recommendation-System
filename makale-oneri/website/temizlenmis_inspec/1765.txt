@@ -1,0 +1,5 @@
+bandlimited scaling function 
+ paper discuss band limit scaling function especially single 
+	 interval band case interval band case relationship 
+	 oversample property weakly translation invariance 
+	 study end propose open problem 

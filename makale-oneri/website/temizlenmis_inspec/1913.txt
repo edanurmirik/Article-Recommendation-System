@@ -1,0 +1,17 @@
+degree freedom precision motion stage 
+ article present design performance evaluation 
+	 degree freedom piezoelectrically actuate fine motion stage 
+	 use dimensional error compensation long range 
+	 translation mechanism development single element piezoelectric 
+	 linear displacement actuator capable translation 1.67 mu m 
+	 900 v potential electrode 27.4 n axial load 
+	 0.5 mm lateral distortion present finite element method 
+	 develop use evaluate resonant frequency stage 
+	 platform complete assembly platform payload 
+	 general error approximately 10.0 finite element 
+	 result experimentally measure value observe 
+	 complete fine motion stage provide approximately or-0.93 mu m 
+	 translation or-38.0 mu rad rotation plane 
+	 motion use excitation range 1000 v. impulse response 
+	 indicate fundamental mode resonance 162 hz measure 
+	 0.650 kg payload rigidly mount stage 

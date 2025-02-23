@@ -1,0 +1,9 @@
+construction boolean algebra 
+ construct boolean algebra prescribed behaviour concern depth 
+	 free product boolean algebra zfc use 
+	 pcf assume square result ultraproduct deal 
+	 family cardinality topological density homomorphic 
+	 image boolean algebras translate topology 
+	 cardinality closed subspace lastly deal 
+	 inequality cardinal invariant mainly d(b)/sup kappa 
+	 /<|b| imply ind(b)>/sup kappa /v depth(b)>or log(|b| 

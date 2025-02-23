@@ -1,0 +1,10 @@
+option pricing formula base non gaussian stock price model 
+ options financial instrument depend underlie stock 
+	 explain non gaussian fluctuation use nonextensive 
+	 thermodynamic parameter q. generalized form black scholes 
+	 bs partial differential equation 1973 close form 
+	 solution obtain standard bs equation q 1 use 
+	 economist calculate option price require multiple value 
+	 stock volatility know volatility smile use q 1.5 
+	 model empirical distribution return good 
+	 description option price use single volatility 

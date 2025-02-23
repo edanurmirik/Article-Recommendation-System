@@ -1,0 +1,7 @@
+hysteretic threshold logic quasi delay insensitive asynchronous design 
+ introduce class hysteretic linear threshold hlt logic function 
+	 novel extension linear threshold logic prove general 
+	 applicability construct state hold boolean function 
+	 demonstrate fusion hlt logic quasi delay insensitive 
+	 style asynchronous circuit design complete logical design 
+	 example future research direction identify 

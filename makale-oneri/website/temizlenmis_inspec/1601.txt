@@ -1,0 +1,9 @@
+solve multiple competitive facility location problem 
+ paper propose heuristic procedure solution 
+	 multiple competitive facility location problem franchise 
+	 facility locate trade area compete 
+	 facility exist objective maximize market share 
+	 capture franchise perform extensive 
+	 computational test conclude step heuristic procedure 
+	 combine simulated annealing ascent algorithm provide good 
+	 solution 

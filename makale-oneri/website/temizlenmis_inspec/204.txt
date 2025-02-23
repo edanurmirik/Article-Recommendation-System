@@ -1,0 +1,30 @@
+self calibration image derivative 
+ study investigate problem estimate camera calibration parameter 
+	 image motion field induce rigidly camera 
+	 unknown parameter image formation model linear 
+	 pinhole camera model equation obtain flow 
+	 separate component translation calibration 
+	 parameter component rotation calibration 
+	 parameter set parameter encode component 
+	 linearly relate flow parameter calibration 
+	 determine discrete motion general 
+	 possible decouple image measurement obtain 
+	 frame translational rotational component geometrically 
+	 ambiguity form rotational component 
+	 parallel translational component scene 
+	 reconstruct projective transformation general 
+	 calibration successive image frame necessary 
+	 3d rotation change measurement geometric 
+	 analysis rise direct self calibration method avoid 
+	 computation optical flow point correspondence use 
+	 normal flow measurement new constraint smoothness 
+	 surface view formulate relate structure motion directly 
+	 image derivative basis constraint 
+	 transformation view geometry consecutive image 
+	 estimate calibration parameter estimate 
+	 rotational component flow field propose technique 
+	 require special set need exact correspondence 
+	 potentially useful calibration active vision system 
+	 acquire knowledge intrinsic parameter 
+	 perform task tool analyze image sequence 
+	 large video database 

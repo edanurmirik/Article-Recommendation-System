@@ -1,0 +1,11 @@
+vehicle travel time model agv system dispatching rule 
+ design evaluation agv base material handling system highly 
+	 complex randomness large number variable 
+	 involve vehicle travel time fundamental parameter solve 
+	 flexible manufacturing system fms design problem 
+	 article present stochastic vehicle travel time model agv base 
+	 material handling system emphasis travel time 
+	 vehicle vehicle dispatch rule examine include 
+	 near vehicle selection rule long idle vehicle selection rule 
+	 simulation experiment use evaluate demonstrate 
+	 present model 

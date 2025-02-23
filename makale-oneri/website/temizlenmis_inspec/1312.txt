@@ -1,0 +1,14 @@
+stability numerical solution heat equation nonlocal boundary 
+	 condition 
+ paper deal numerical method solution heat equation 
+	 integral boundary condition finite difference use 
+	 discretization space matrix specify result 
+	 semidiscrete problem prove satisfy sectorial resolvent 
+	 condition uniformly respect discretization parameter 
+	 use resolvent condition unconditional stability prove 
+	 fully discrete numerical process generate apply theta 
+	 -stable step method semidiscrete problem stability 
+	 result establish maximum norm improve previous 
+	 result literature subject 
+	 unnatural restriction impose boundary condition 
+	 step method 

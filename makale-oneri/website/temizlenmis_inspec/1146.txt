@@ -1,0 +1,16 @@
+mammogram synthesis use 3d simulation i. breast tissue model image 
+	 acquisition simulation 
+ method propose generate synthetic mammogram base simulation 
+	 breast tissue mammographic imaging process computer 
+	 breast model design realistic distribution large 
+	 medium scale tissue structure parameter control size 
+	 placement simulate structure adipose compartment duct 
+	 provide method consistently model image simulate 
+	 breast modify position acquisition parameter 
+	 mammographic imaging process simulate use compression model 
+	 model x ray image acquisition process compression model 
+	 estimate breast deformation use tissue elasticity parameter find 
+	 literature clinical force value synthetic mammogram 
+	 generate mammogram acquisition model use monoenergetic 
+	 parallel beam approximation apply synthetically compress 
+	 breast phantom 

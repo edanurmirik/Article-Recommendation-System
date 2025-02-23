@@ -1,0 +1,16 @@
+adaptive image denoise use scale space consistency 
+ paper propose new method image denoise edge preservation 
+	 base image multiresolution decomposition redundant wavelet 
+	 transform approach edge implicitly locate preserve 
+	 wavelet domain whilst image noise filter 
+	 resolution level image edge estimate gradient magnitude 
+	 obtain wavelet coefficient model 
+	 probabilistically shrinkage function assemble base 
+	 model obtain joint use space scale consistency apply 
+	 preservation edge shrinkage function combine 
+	 preserve edge appear simultaneously resolution 
+	 geometric constraint apply preserve edge 
+	 isolate propose technique produce filter version 
+	 original image homogeneous region appear separate 
+	 define edge possible application include image 
+	 presegmentation image denoising 

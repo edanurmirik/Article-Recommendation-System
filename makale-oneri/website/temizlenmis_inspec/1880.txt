@@ -1,0 +1,12 @@
+simulation transient testing numerical relay 
+ hybrid practical solution relay evaluation present main 
+	 issue account power system simulation relay 
+	 simulation consist different stage system 
+	 simulation carry mean emtp complement 
+	 additional feature filter location determination 
+	 fault parameter allow compare simulated actual fault 
+	 record improve guarantee correct system simulation relay 
+	 simulation include filter algorithm relaying unit 
+	 decision logic play simulated real fault actual 
+	 relay compare simulated real response check correct 
+	 relay simulation 

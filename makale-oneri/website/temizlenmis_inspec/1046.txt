@@ -1,0 +1,12 @@
+suggestion fractional order controller flexible spacecraft attitude 
+	 control 
+ controller design method flexible spacecraft attitude control 
+	 propose system describe partial differential 
+	 equation internal damping frequency response 
+	 analyze basic characteristic flexible system 
+	 average function lower bind upper bind define 
+	 basis fractional order controller propose function 
+	 phase stabilization control low frequency smoothly enter 
+	 amplitude stabilization high frequency proper amplitude 
+	 attenuation equivalent damp ratio increase 
+	 proportion square frequency 

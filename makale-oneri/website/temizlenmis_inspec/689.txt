@@ -1,0 +1,8 @@
+continuous time linear system folklore fact 
+ consider family continuous input output map represent linear 
+	 time invariant system set signal 
+	 family contain map impulse response zero 
+	 function certain input nonzero output 
+	 family contain member input output 
+	 property describe frequency domain response 
+	 function map consider need commute 

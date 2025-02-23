@@ -1,0 +1,17 @@
+modular visual specification hybrid system introduction hycharts 
+ visual description technique particularly important design 
+	 hybrid system specification system usually 
+	 discuss engineer number different discipline 
+	 modularity vital hybrid system allow 
+	 handle large system permit think term 
+	 component familiar engineer base different 
+	 interpretation hierarchic graph clear hybrid computation 
+	 model develop hycharts hycharts consist modular visual 
+	 formalism specification architecture 
+	 specification behavior hybrid system operator 
+	 hierarchic graph enable surprisingly simple denotational 
+	 semantic concept know statechart like formalism 
+	 general composition operator hycharts easily compose 
+	 description technique engineering discipline 
+	 heterogeneous system specification particularly appropriate 
+	 hybrid system interdisciplinary character 

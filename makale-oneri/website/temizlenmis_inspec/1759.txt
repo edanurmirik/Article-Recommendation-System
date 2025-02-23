@@ -1,0 +1,8 @@
+p adic birch swinnerton dyer conjecture non semistable reduction 
+ paper examine iwasawa theory elliptic curve e additive 
+	 reduction odd prime p. extend perrin riou theory 
+	 certain nonsemistable representation able convert kato 
+	 zeta element p adic l function allow deduce 
+	 cotorsion selmer group cyclotomic z sub p/-extension 
+	 q prove inequality p adic birch swinnerton dyer 
+	 conjecture prime p square divide conductor e 

@@ -1,0 +1,15 @@
+adaptive time step procedure parabolic problem blow 
+ paper introduce analyze fully discrete approximation 
+	 parabolic problem nonlinear boundary condition imply 
+	 solution blow finite time use standard linear 
+	 element mass lump space variable time 
+	 discretization write problem equivalent form 
+	 obtain introduce appropriate time scale use 
+	 explicit runge kutta method equivalent problem order 
+	 motivate procedure present case simple 
+	 ordinary differential equation blow time 
+	 approximate case obtain necessary sufficient 
+	 condition blowup numerical solution prove 
+	 numerical blow time converge continuous study 
+	 explicit euler approximation localization blow 
+	 point numerical scheme 

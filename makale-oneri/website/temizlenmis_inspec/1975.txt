@@ -1,0 +1,12 @@
+efficient computation local geometric moment 
+ local moment attract attention local feature application 
+	 edge detection texture segmentation main reason 
+	 inherently integral base feature use 
+	 reduce effect uncorrelated noise computation local 
+	 moment view neighborhood operation interpret 
+	 convolution image set mask moment 
+	 compute inside overlap window independent convolution 
+	 fact account introduce matrix 
+	 formulation concept accumulation moment paper 
+	 present algorithm computationally efficient 
+	 convolve simple 

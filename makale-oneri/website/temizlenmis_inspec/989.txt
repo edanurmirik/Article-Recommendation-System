@@ -1,0 +1,15 @@
+dynamic checkpoint scheduling scheme fault tolerant distribute computing 
+	 system 
+ selection optimal checkpointing interval critical 
+	 issue implement checkpointing recovery scheme fault tolerant 
+	 distribute system paper present new scheme allow 
+	 process select proper checkpointing interval dynamically 
+	 process system evaluate cost checkpointing possible 
+	 rollback checkpointing interval select proper time 
+	 interval checkpointing unlike scheme 
+	 overhead incur checkpointing rollback activity 
+	 consider cost evaluation current communication 
+	 pattern reflect selection checkpointing interval 
+	 propose scheme require extra message communication 
+	 checkpointe interval selection easily incorporate 
+	 exist checkpointing coordination scheme 

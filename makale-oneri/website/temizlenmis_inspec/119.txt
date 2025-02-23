@@ -1,0 +1,12 @@
+jpeg2000 standard interactive imaging 
+ jpeg2000 late image compression standard emerge joint 
+	 photographic experts group jpeg work auspex 
+	 international standards organization new standard 
+	 offer superior compression performance jpeg jpeg2000 provide 
+	 new way interact compressed imagery scalable 
+	 interoperable fashion paper provide tutorial style review 
+	 new standard explain technology base 
+	 draw comparison jpeg compression standard 
+	 paper describe new work exploit capability jpeg2000 
+	 client server system efficient interactive browsing image 
+	 internet 

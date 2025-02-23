@@ -1,0 +1,10 @@
+l sub p/ boundedness c 1 mean orthonormal expansion general 
+	 exponential weight 
+ let finite infinite interval let w 0 infinity assume 
+	 w sup 2/ weight define orthonormal 
+	 polynomial correspond w sup 2/. f r r let s sub m/ f 
+	 denote mth partial sum orthonormal expansion f 
+	 respect polynomial investigate boundedness weight 
+	 l sub p/ space c 1 mean 1 n /sub m=1/ sigma /sup n s sub 
+	 m/[f class weight w sup 2/ consider include 
+	 noneven exponential weight 

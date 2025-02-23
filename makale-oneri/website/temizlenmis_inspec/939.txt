@@ -1,0 +1,12 @@
+image reconstruction fan beam projection short scan 
+ work concern 2d image reconstruction fan beam projection 
+	 exact stable reconstruction 
+	 region interest object require line pass 
+	 object measure complete non truncated fan beam 
+	 projection provide sufficient information reconstruction 
+	 line pass region interest intersect 
+	 vertex path non tangential way practical implication 
+	 condition discuss new filter backprojection 
+	 algorithm derive reconstruction experiment 
+	 computer simulate datum perform support mathematical 
+	 result 

@@ -1,0 +1,9 @@
+algorithm generate span tree flow 
+ span tree enumeration undirected graph important issue task 
+	 problem encounter computer network circuit analysis 
+	 paper discuss span tree flow case 
+	 flow requirement node pair algorithm base 
+	 minimal path mps propose generate span tree 
+	 flow propose algorithm structured approach 
+	 split system structural mps step 
+	 easy follow 

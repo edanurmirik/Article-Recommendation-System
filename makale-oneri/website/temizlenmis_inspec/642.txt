@@ -1,0 +1,13 @@
+reconstruction mr image datum acquire arbitrary k space 
+	 trajectory use image weight 
+ sample density compensation function denote image si weight 
+	 propose reconstruct mr image datum acquire 
+	 arbitrary k space trajectory equation si weight 
+	 establish si criterion iterative scheme develop 
+	 find weight si weight use reconstruct image 
+	 datum calculate random trajectory numerical phantom case 
+	 datum acquire interleaved spiral vivo 
+	 experiment respectively addition pipe menon weight mrm 
+	 1999;41:179 186 use reconstruction 
+	 comparison image obtain si weight find 
+	 slightly accurate obtain pipe weight 

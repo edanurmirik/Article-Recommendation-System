@@ -1,0 +1,15 @@
+identification linear parameter vary model 
+ consider identification certain class discrete time nonlinear 
+	 system know linear parameter vary system assume 
+	 input output scheduling parameter directly measure 
+	 form functional dependence system coefficient 
+	 parameter know identification problem 
+	 reduce linear regression provide compact formulae 
+	 correspond mean square recursive square algorithm 
+	 derive condition persistency excitation term 
+	 input scheduling parameter trajectory functional 
+	 dependence polynomial type condition natural 
+	 polynomial interpolation interpretation require 
+	 scheduling parameter trajectory vary slowly method 
+	 illustrate simulation example use different parameter 
+	 trajectory 

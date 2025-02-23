@@ -1,0 +1,10 @@
+fast frequency acquisition phase frequency detector gsamples s 
+	 phase lock loop 
+ paper describe technique design phase frequency detector 
+	 pfd high operating frequency period 8 
+	 delay fan out-4 inverter fo-4 fast frequency acquisition 
+	 prototype design 0.25- mu m cmos process exhibit operate 
+	 frequency 1.25 ghz [= 1/(8.fo-4 1.5 ghz [= 1/(6.7.fo-4 
+	 technique respectively conventional pfd operate 
+	 1 ghz [= 1/(10.fo-4 propose pfd achieve capture range 
+	 1.7 1.4 conventional design respectively 

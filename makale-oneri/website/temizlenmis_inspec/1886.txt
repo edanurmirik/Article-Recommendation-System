@@ -1,0 +1,9 @@
+non asymptotic confidence ellipsoid square estimate 
+ consider finite sample property square system 
+	 identification derive non asymptotic confidence ellipsoid 
+	 estimate shape confidence ellipsoid similar 
+	 shape ellipsoid derive use asymptotic theory unlike 
+	 asymptotic theory valid finite number datum point 
+	 probability estimate belong certain ellipsoid 
+	 natural dependence volume ellipsoid datum generate 
+	 mechanism model order number datum point available 

@@ -1,0 +1,16 @@
+3d visibility complex 
+ visibility problem central computer graphic application 
+	 common example include hide removal view computation 
+	 shadow boundary mutual visibility object lighting 
+	 simulation paper present theoretical study 3d 
+	 visibility property scene smooth convex object work 
+	 space light ray precisely maximal free segment 
+	 group segment object define 3d 
+	 visibility complex boundary group segment 
+	 correspond visual event scene limit shadow 
+	 disappearance object viewpoint etc 
+	 provide bad case analysis complexity visibility 
+	 complex 3d scene probabilistic study simple 
+	 assumption normal scene extend visibility complex 
+	 handle temporal visibility output sensitive construction 
+	 algorithm present application approach 

@@ -1,0 +1,12 @@
+production capacity flexible manufacturing system fix production 
+	 ratio 
+ determine production capacity flexible manufacturing system 
+	 important issue design system propose approach 
+	 determine production capacity i.e. maximum production 
+	 rate flexible manufacturing system type 
+	 dedicated pallet fix production ratio different 
+	 type problem reduce determination 
+	 single parameter propose iterative procedure 
+	 simulation approximate analytical technique use 
+	 building block performance evaluation technique iterative 
+	 procedure 

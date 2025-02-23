@@ -1,0 +1,19 @@
+high resolution high frequency monolithic shoot microinjector free 
+	 satellite drop concept design model 
+ introduce innovative microinjector design feature bubble valve 
+	 entail superior droplet ejection characteristic monolithic 
+	 fabrication allow handling wide range liquid new 
+	 microinjector use asymmetric bubble reduce crosstalk increase 
+	 frequency response eliminate satellite droplet firing 
+	 i.e. droplet ejection virtual valve close grow 
+	 thermal bubble microchannel isolate microchamber 
+	 liquid supply neighboring chamber firing 
+	 virtual valve open collapse bubble reduce flow 
+	 restriction fast refilling microchamber use bubble 
+	 valve bring fast reliable device operation impose 
+	 significant complication fabrication physical microvalve 
+	 addition special heater configuration 
+	 chamber design bubble surround nozzle cut tail 
+	 droplet eject completely eliminate satellite droplet 
+	 simple dimensional model operation microinjector 
+	 use estimate bubble formation liquid refilling 

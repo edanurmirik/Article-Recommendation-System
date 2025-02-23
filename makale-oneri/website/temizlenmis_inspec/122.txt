@@ -1,0 +1,19 @@
+formal framework viewpoint consistency 
+ multiple viewpoint model system development increasingly 
+	 important viewpoint offer different perspective target 
+	 system system development involve parallel refinement 
+	 multiple view viewpoint relate approach consider 
+	 number different guise spectrum researcher work 
+	 particularly focus use viewpoint open distribute 
+	 processing odp iso itu standardisation framework 
+	 requirement viewpoint model odp broad 
+	 demand multiple viewpoint prompt issue consistency 
+	 viewpoint paper describe general interpretation 
+	 consistency argue broad meet requirement 
+	 consistency odp present formal framework general 
+	 interpretation highlight basic property interpretation 
+	 locate restrict class consistency strategy check 
+	 consistency investigate illustrate theory 
+	 use formal description technique lotos paper 
+	 characterise nature option consistency checking 
+	 lotos 

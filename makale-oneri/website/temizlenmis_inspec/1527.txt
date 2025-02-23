@@ -1,0 +1,11 @@
+use devs formalism operationalize elp model diagnosis sachem 
+ paper describe original approach discrete event control 
+	 continuous process mean expert knowledge present 
+	 application approach sachem diagnosis subsystem 
+	 sachem system large scale knowledge base system aim 
+	 help set operator control dynamic complex 
+	 continuous system e.g. blast furnace propose method base 
+	 definition language facilitate acquisition 
+	 representation expert knowledge elp expert language 
+	 process ii use devs formalism elp model 
+	 operational iii algorithms exploit operational model 

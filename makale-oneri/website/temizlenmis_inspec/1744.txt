@@ -1,0 +1,10 @@
+convergence toland critical point sequence dc function 
+	 application resolution semilinear elliptic problem 
+ prove sequence f sub n/)/sub n/ dc function difference 
+	 convex function converge dc function f appropriate 
+	 way u sub n/ critical point f sub n/ sense 
+	 describe toland 1978 1979 u sub n/)/sub n/ 
+	 converge u u critical point f toland 
+	 sense build new algorithm search critical 
+	 point u apply order compute solution 
+	 semilinear elliptic equation 

@@ -1,0 +1,8 @@
+genetic algorithm input output selection mimo system base 
+	 controllability observability indice 
+ time domain optimisation algorithm use genetic algorithm conjunction 
+	 linear search scheme develop find small 
+	 near small subset input output control 
+	 multi input multi output system experimental result 
+	 propose algorithm fast convergence rate high 
+	 computation efficiency 

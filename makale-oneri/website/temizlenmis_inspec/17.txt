@@ -1,0 +1,19 @@
+fault diagnosis fault tolerant control linear stochastic system 
+	 unknown input 
+ paper present integrate robust fault detection isolation fdi 
+	 fault tolerant control ftc scheme fault actuator 
+	 sensor linear stochastic system subject unknown input 
+	 disturbance usual kind work assume 
+	 single fault occur time fault treat random bias 
+	 type fdi module construct use bank robust stage 
+	 kalman filter simultaneously estimate state fault 
+	 bias generate residual set decouple unknown disturbance 
+	 element residual set evaluate use hypothesis 
+	 statistical test fault declare accord prepare 
+	 decision logic ftc module activate base fault 
+	 indicator additive compensation signal compute use fault 
+	 bias estimate combine nominal control law compensate 
+	 fault effect system simulation result simplify 
+	 longitudinal flight control system parameter variation process 
+	 measurement noise demonstrate effectiveness approach 
+	 propose 

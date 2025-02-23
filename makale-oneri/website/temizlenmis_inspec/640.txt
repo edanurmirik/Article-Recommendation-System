@@ -1,0 +1,16 @@
+scribe large scale decentralized application level multicast 
+	 infrastructure 
+ paper present scribe scalable application level multicast 
+	 infrastructure scribe support large number group 
+	 potentially large number member group scribe build 
+	 pastry generic peer peer object location route substrate 
+	 overlay internet leverage pastry reliability 
+	 self organization locality property pastry use create 
+	 manage group build efficient multicast tree 
+	 dissemination message group scribe provide good effort 
+	 reliability guarantee outline application extend 
+	 scribe provide strong reliability simulation result base 
+	 realistic network topology model scribe scale wide 
+	 range group group size balance load 
+	 node achieve acceptable delay link stress compare 
+	 internet protocol multicast 

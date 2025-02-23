@@ -1,0 +1,3 @@
+firewall card shield datum 
+ slotshield 3000 firewall pci card save power space 
+	 offer security large network 

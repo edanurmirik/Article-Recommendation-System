@@ -1,0 +1,15 @@
+robust model order reduction complex biological process 
+ paper address robust model order reduction high dimensional 
+	 nonlinear partial differential equation pde model complex 
+	 biological process base nonlinear distribute parameter model 
+	 process validate experimental datum 
+	 exist pilot scale biological nutrient removal bnr activate 
+	 sludge plant develop state space model 154 state 
+	 variable general algorithm robustly reduce nonlinear pde 
+	 model present base investigation 
+	 state art model order reduction technique able 
+	 reduce original model model 30 state 
+	 incur pronounce modelling error singular perturbation 
+	 approximation balance truncating technique find low 
+	 model error low frequency range deem 
+	 suitable controller design real time application 

@@ -1,0 +1,13 @@
+dynamic neighborhood structure parallel evolution strategy 
+ parallelizing straightforward approach reduce total computation 
+	 time evolutionary algorithm find appropriate communication 
+	 network spatially structured population improve 
+	 convergence speed convergence probability difficult task 
+	 new method use dynamic communication scheme evolution 
+	 strategy compare conventional static dynamic 
+	 approach communication structure base 
+	 diffusion model approach link adjacent individual 
+	 dynamically choose accord deterministic probabilistic rule 
+	 self organization effect efficient stable communication 
+	 structure establish perform robustly quickly 
+	 multimodal test function 

@@ -1,0 +1,22 @@
+use spsa method ecg analysis 
+ classification monitoring compression electrocardiogram ecg 
+	 signal record single patient relatively long period 
+	 time consider particular application mind 
+	 high resolution ecg analysis late potential analysis 
+	 morphology change qrs arrythmias t wave alternant 
+	 study drug effect ventricular activation propose apply 
+	 modification classical method cluster analysis vector 
+	 quantization novelty approach use new 
+	 distortion measure quantify distance ecg cycle 
+	 class distortion measure define use min max criterion new 
+	 class distortion measure sensitive outlier 
+	 usual distortion measure use average distance price 
+	 practical advantage computational complexity significantly 
+	 increase result nonsmooth optimization problem solve 
+	 adapt version simultaneous perturbation stochastic 
+	 approximation spsa method j. spall ieee trans automat contr 
+	 vol 37 p. 332 41 mar. 1992 main idea generate smooth 
+	 approximation randomization procedure viability method 
+	 demonstrate simulated real datum experimental 
+	 comparison widely use correlation method real 
+	 datum 

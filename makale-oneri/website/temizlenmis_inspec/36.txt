@@ -1,0 +1,17 @@
+model predictive control help regulate slow process robust barrel 
+	 temperature control 
+ slow temperature control challenging control problem problem 
+	 challenging multiple zone involve 
+	 barrel temperature control extruder strict closed loop 
+	 performance requirement fast startup overshoot 
+	 maintain tight temperature control production 
+	 application characteristic system examine 
+	 clear commonly use proportional plus integral plus 
+	 derivative pid controller meet performance specification 
+	 kind system system overshoot 
+	 maintain temperature specify range 
+	 production run order achieve require performance control 
+	 strategy utilize technique model predictive control 
+	 autotune multiple parameter pid formulate control 
+	 strategy prove effective achieve desire 
+	 specification robust 

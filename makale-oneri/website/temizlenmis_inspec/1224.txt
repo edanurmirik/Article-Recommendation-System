@@ -1,0 +1,26 @@
+formalization weight factor analysis 
+ weight factor analysis wefa propose new approach 
+	 elicitation representation manipulation knowledge 
+	 problem generally high strategic level central 
+	 proposal group expert area problem 
+	 identify hierarchy factor positive negative influence 
+	 problem outcome tangible output wefa direct weight 
+	 graph wefa graph set node denote factor 
+	 directly indirectly influence overall aim graph 
+	 aim represent node direct arc direct 
+	 influence factor chain direct arc indicate 
+	 indirect influence influence identify 
+	 positive negative example sale cost factor 
+	 influence aim profitability organization sale 
+	 positive influence profitability cost negative influence 
+	 profitability addition relative significance 
+	 influence represent weight develop binary wefa 
+	 variant wefa factor graph restrict 
+	 true false impose restriction wefa graph allow 
+	 precise meaning graph reasoning 
+	 binary wefa new proposal provide formal 
+	 sufficiently simple language logic base argumentation use 
+	 business people decision support knowledge management whilst 
+	 binary wefa expressively simple logic base 
+	 argumentation formalism incorporate novel formalization 
+	 notion significance 

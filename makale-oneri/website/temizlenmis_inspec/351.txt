@@ -1,0 +1,9 @@
+optimal online algorithm scheduling identical machine machine 
+	 availability constraint 
+ paper consider online scheduling identical machine 
+	 machine availability constraint minimize makespan assume 
+	 machine m sub j/ unavailable period s sub j/ 
+	 t sub j/ 0 or= s sub j/ t sub j/ j 1 2 
+	 unavailable period machine overlap 
+	 competitive ratio list scheduling 3 far optimal 
+	 algorithm competitive ratio 5/2 

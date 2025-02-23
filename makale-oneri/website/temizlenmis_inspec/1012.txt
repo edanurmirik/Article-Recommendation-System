@@ -1,0 +1,18 @@
+evolve receptive field controller mobile robot 
+ use evolutionary method generate controller real world 
+	 autonomous agent attract attention pertinent 
+	 research employ genetic algorithm variation thereof 
+	 research apply alternative evolutionary method evolution 
+	 strategy generation simple braitenberg vehicle 
+	 application accelerate development controller 
+	 order magnitude hour compare 
+	 day motivate useful speedup paper investigate 
+	 evolution complex architecture receptive field controller 
+	 employ nonlinear interaction yield 
+	 complex behavior interesting note evolution strategy 
+	 yield efficacy term function evaluation 
+	 second class controller require 10 time parameter 
+	 simple braitenberg architecture addition speedup 
+	 important theoretical reason prefer evolution 
+	 strategy genetic algorithm problem presence 
+	 epistasis 

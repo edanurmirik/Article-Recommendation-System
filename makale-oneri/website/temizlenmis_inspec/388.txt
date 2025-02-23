@@ -1,0 +1,22 @@
+noninvasive myocardial activation time imaging novel inverse algorithm 
+	 apply clinical ecg mapping data 
+ linear approach like minimum norm square algorithm 
+	 insufficient performance come estimate activation 
+	 time map surface heart electrocardiographic ecg 
+	 mapping datum additional regularization consider lead 
+	 nonlinear problem formulation gauss newton approach 
+	 standard mathematical tool capable solve kind 
+	 problem experience algorithm specific drawback 
+	 cause apply regularization procedure particular 
+	 clinical condition regularization 
+	 determine clearly reason develop iterative 
+	 algorithm solve nonlinear problem sequence regularize 
+	 linear problem step iteration individual l curve 
+	 compute subsequent iteration step perform individual 
+	 optimal regularization parameter novel approach compare 
+	 standard gauss newton approach method apply 
+	 simulate ecg mapping datum single beat sinus rhythm datum 
+	 patient record catheter laboratory propose 
+	 approach excellent numerical computational performance 
+	 clinical condition gauss newton approach begin 
+	 break 

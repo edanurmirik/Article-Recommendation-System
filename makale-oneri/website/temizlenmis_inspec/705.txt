@@ -1,0 +1,12 @@
+use extra degree freedom multilevel drive 
+ multilevel converter series connection semiconductor allow power 
+	 electronic reach medium voltage 1 10 kv relatively standard 
+	 component increase number semiconductor provide extra 
+	 degree freedom use improve different 
+	 characteristic paper focus variable speed drive 
+	 propose multilevel direct torque control 
+	 strategy dicoif tradeoff performance drive 
+	 harmonic distortion torque dynamic voltage step gradient etc 
+	 switch frequency semiconductor improve 
+	 slightly modify strategy reduce common mode voltage bearing 
+	 current present 

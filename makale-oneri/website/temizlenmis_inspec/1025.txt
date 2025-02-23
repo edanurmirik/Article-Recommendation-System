@@ -1,0 +1,21 @@
+watermarke technique electronic delivery remote sensing image 
+ earth observation mission recently attract grow interest mainly 
+	 large number possible application capable exploit 
+	 remotely sense datum image increase market 
+	 potential need arise protection image product 
+	 need crucial internet 
+	 public private network preferred mean datum exchange 
+	 critical issue arise deal digital image distribution 
+	 copyright protection problem largely address 
+	 resort watermarke technology question obviously arise 
+	 requirement impose remote sensing imagery 
+	 compatible exist watermarking technique basis 
+	 motivation contribution work twofold assessment 
+	 requirement impose remote sensing application 
+	 watermark base copyright protection modification 
+	 establish digital watermarking technique meet 
+	 constraint specifically concept near lossless 
+	 watermarking introduce possible algorithm match 
+	 requirement present experimental result measure 
+	 impact watermark introduction typical remote sensing 
+	 application i.e. unsupervise image classification 

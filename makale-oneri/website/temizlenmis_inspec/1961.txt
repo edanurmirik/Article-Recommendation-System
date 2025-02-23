@@ -1,0 +1,15 @@
+influence tollbooth highway traffic 
+ study effect tollbooth traffic flow highway traffic 
+	 simulate nagel schreckenberg model type toll 
+	 collection examine characterize wait 
+	 time reduced speed order phase transition observe 
+	 phase separation result saturated flow observe 
+	 plateau region fundamental diagram effect lane 
+	 expansion near tollbooth examine capacity 
+	 highway restore emergence vehicle queuing study 
+	 numerical result obtain analytical expression 
+	 quantity numerical simulation describe 
+	 analytical formula discuss influence travel 
+	 time variance tollbooth increase travel time 
+	 decrease variance difference long- 
+	 short distance traveler discuss 

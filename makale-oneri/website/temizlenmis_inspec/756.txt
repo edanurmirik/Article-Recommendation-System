@@ -1,0 +1,12 @@
+new high resolution color flow system use eigendecomposition base 
+	 adaptive filter clutter rejection 
+ present new signal processing strategy high frequency color flow 
+	 mapping tissue environment new application 
+	 eigendecomposition base clutter rejection filter present 
+	 modification deal high blood clutter ratio bcr 
+	 additionally new method correct blood velocity estimate 
+	 estimate tissue motion profile detail performance 
+	 clutter filter velocity estimation strategy quantify use 
+	 new swept scan signal model vivo color flow image present 
+	 illustrate potential system mapping blood flow 
+	 microcirculation external tissue motion 

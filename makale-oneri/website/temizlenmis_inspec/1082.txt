@@ -1,0 +1,18 @@
+numerical approximation nonlinear bvp mean bvm 
+ boundary value methods bvm suitable candidate 
+	 solution nonlinear boundary value problems bvp 
+	 successfully use solve linear bvp mesh 
+	 selection strategy base conditioning linear system 
+	 aim extend approach use numerical 
+	 approximation nonlinear problem reason consider 
+	 quasi linearization technique application newton 
+	 method nonlinear differential equation consequently 
+	 iteration require solution linear bvp order guarantee 
+	 convergence solution continuous nonlinear problem 
+	 necessary determine accurately linear bvp 
+	 solve goal suitable stopping criterion residual 
+	 error linear bvp numerical experiment 
+	 stiff problem satisfactory result 
+	 experimental code tom use class bvm 
+	 quasi linearization technique competitive know 
+	 solver bvp 

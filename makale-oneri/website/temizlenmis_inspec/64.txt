@@ -1,0 +1,14 @@
+speech enhancement use mixture maximum model 
+ present spectral domain speech enhancement algorithm new algorithm 
+	 base mixture model short time spectrum clean 
+	 speech signal maximum assumption production 
+	 noisy speech spectrum past model use context 
+	 noise robust speech recognition paper 
+	 model effective improve quality speech signal 
+	 corrupt additive noise computational requirement 
+	 algorithm significantly reduce essentially pay 
+	 performance penalty incorporate dual codebook scheme 
+	 tie variance experiment use record speech signal actual 
+	 noise source spite low computational 
+	 requirement algorithm improved performance compare 
+	 alternative speech enhancement algorithm 

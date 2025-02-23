@@ -1,0 +1,8 @@
+estimate intrinsic dimension datum fractal base method 
+ paper problem estimate intrinsic dimension data set 
+	 investigate fractal base approach use 
+	 grassberger procaccia algorithm propose 
+	 grassberger procaccia algorithm 1983 perform badly set high 
+	 dimensionality empirical procedure improve original 
+	 algorithm develop procedure test datum 
+	 set know dimensionality time series santa fe competition 

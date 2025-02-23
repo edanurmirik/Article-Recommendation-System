@@ -1,0 +1,22 @@
+web base experiment control javascript example probability 
+	 learning 
+ javascript program use control web experiment technique 
+	 illustrate experiment test effect advice 
+	 performance classic probability learn paradigm previous 
+	 research report people test web lab tend 
+	 match probability response probability 
+	 response reinforce optimal strategy 
+	 consistently choose frequent event probability matching 
+	 produce suboptimal performance investigate manipulation 
+	 reason improve performance horse race scenario 
+	 participant predict winner series race 
+	 horse compare abstract scenario use previously 
+	 group learner receive different advice include 
+	 combination 1 explicit instruction concern optimal 
+	 strategy 2 explicit instruction concern monetary sum 
+	 maximize 3 accurate information concern probability 
+	 event result minimal effect horse race versus 
+	 abstract scenario advice concern optimal strategy 
+	 probability information contribute significantly performance 
+	 task paper include brief tutorial javascript explain 
+	 simple example assemble browser base experiment 

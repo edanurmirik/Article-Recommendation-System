@@ -1,0 +1,17 @@
+feedforward maximum power point tracking pv system use fuzzy controller 
+ feedforward maximum power mp point track scheme develop 
+	 interleaved dual boost idb converter feed photovoltaic pv system 
+	 use fuzzy controller tracking algorithm change duty ratio 
+	 converter solar cell array sca voltage equal 
+	 voltage correspond mp point solar insolation 
+	 feedforward loop generate error signal 
+	 compare instantaneous array voltage reference voltage 
+	 reference voltage feedforward loop correspond mp 
+	 point obtain line train neural network experimental 
+	 datum use line training neural network employ 
+	 propagation algorithm propose fuzzy feedforward peak power 
+	 tracking effectiveness demonstrate simulation 
+	 experimental result compare conventional proportional 
+	 plus integral pi controller base system finally comparative 
+	 study interleaved boost conventional boost converter pv 
+	 application suitability discuss 

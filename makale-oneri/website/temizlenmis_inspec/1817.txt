@@ -1,0 +1,16 @@
+nonlinear adaptive control slide mode state perturbation observer 
+ paper present nonlinear adaptive controller nac single input 
+	 single output feedback linearisable nonlinear system slide mode 
+	 state perturbation observer design estimate system 
+	 state perturbation include combine effect system 
+	 nonlinearitie uncertainty external disturbance nac design 
+	 require detail nonlinear system model 
+	 system state possess adaptation capability deal 
+	 system parameter uncertainty unmodelled system dynamic external 
+	 disturbance convergence observer stability 
+	 analysis controller observer system propose 
+	 control scheme apply control synchronous generator 
+	 comparison state feedback linearising controller flc 
+	 simulation study carry base single generator 
+	 infinite bus power system performance 
+	 controller observer system 

@@ -1,0 +1,13 @@
+improve frequency stability microwave oscillator utilize 
+	 dual mode sapphire load cavity resonator 
+ design experimental testing novel control circuit stabilize 
+	 temperature sapphire load cavity whisper gallery 
+	 resonator oscillator improve medium term frequency stability 
+	 present finite element software use predict frequency 
+	 quality factor wge sub 7,0,0/ wgh sub 9,0,0/ mode near 9 
+	 ghz separate frequency approximately 80 mhz calculation 
+	 novel temperature control circuit difference 
+	 frequency result frequency stability 
+	 10 sup 13/ 270 k. present detail good way 
+	 couple orthogonally mode similar frequency different 
+	 polarization 

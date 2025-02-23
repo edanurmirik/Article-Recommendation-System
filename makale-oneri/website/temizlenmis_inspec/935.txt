@@ -1,0 +1,13 @@
+experimental feedforward feedback control dimensional sma 
+	 composite 
+ control embed shape memory alloy sma actuator recently 
+	 topic interest field smart structure inherent 
+	 difficulty associate sma actuator result variety 
+	 approach homogenization provide simplify mathematically 
+	 rigorous method determine average stress strain field 
+	 composite modified constitutive model present base 
+	 experimental result demonstrate inability simple 
+	 phenomenological model capture effective behavior sma 
+	 thermal activation feedforward controller present 
+	 sma composite base homogenization modify 
+	 phenomenological model sma linear matrix 

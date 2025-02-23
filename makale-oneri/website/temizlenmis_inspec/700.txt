@@ -1,0 +1,14 @@
+digital stochastic realization complex analog controller 
+ stochastic logic base digital processing random pulse stream 
+	 information codify probability high level 
+	 finite sequence binary pulse sequence digitally process 
+	 exploit similarity boolean algebra statistical 
+	 algebra random pulse sequence boolean operation 
+	 individual pulse correspond algebraic expression 
+	 variable represent respective average pulse rate 
+	 subsequently pulse stream digitally process perform 
+	 analog operation paper propose stochastic approach 
+	 digital implementation complex controller use programmable 
+	 device alternative traditional digital signal processor 
+	 example practical realization nonlinear dissipative 
+	 controller series resonant converter present 

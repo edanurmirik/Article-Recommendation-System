@@ -1,0 +1,15 @@
+design high performance wavelet image code use perceptual time 
+	 domain criterion 
+ paper present new biorthogonal linear phase wavelet design image 
+	 compression instead calculate prototype filter spectral 
+	 factor half band filter design base direct 
+	 optimization low pass analysis filter use objective 
+	 function directly relate perceptual criterion image 
+	 compression function define product theoretical 
+	 code gain index peak peak ratio 
+	 high correlation perceptual quality distinctive feature 
+	 propose technique procedure good 
+	 start filter good filter long length generate 
+	 result excellent clear improvement perceptual image 
+	 quality devise criterion constrain coefficient 
+	 filter order design wavelet minimum ringing 

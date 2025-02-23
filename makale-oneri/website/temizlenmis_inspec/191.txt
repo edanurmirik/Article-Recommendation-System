@@ -1,0 +1,24 @@
+linear parameter vary control application turbofan engine 
+ paper describe application parameter dependent control design method 
+	 turbofan engine parameter dependent system linear system 
+	 state space description know function time vary 
+	 parameter time variation parameter know 
+	 advance assume measurable real time linear 
+	 parameter vary lpv approach control design discuss 
+	 method base linear fractional transformation rely 
+	 small gain theorem bound performance robustness 
+	 method use single sqlf parameter dependent 
+	 pdqlf quadratic lyapunov function bound achievable level 
+	 performance technique use synthesize 
+	 controller high performance turbofan engine lpv model 
+	 turbofan engine construct jacobian linearization fix 
+	 power code control design control problem formulate 
+	 model matching problem h sub infinity lpv framework 
+	 objective decouple command response closed loop system 
+	 pressure rotor speed request performance linear h sub 
+	 infinity point design compare sqlf pdqlf 
+	 controller nonlinear simulation indicate controller 
+	 synthesize use sqlf approach slightly conservative 
+	 pdqlf controller nonlinear simulation sqlf pdqlf 
+	 controller robust design achieve desire 
+	 performance objective 

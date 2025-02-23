@@ -1,0 +1,10 @@
+critical line identification voltage collapse analysis 
+ paper deal critical line identification voltage collapse 
+	 analysis know literature voltage collapse 
+	 local phenomenon spread initial neighborhood 
+	 identify system critical bus play important role voltage 
+	 collapse prevention purpose system critical transmission 
+	 line identify paper issue 
+	 address yield reliable result short computational time 
+	 test help ieee-118 bus southeastern 
+	 brazilian system 

@@ -1,0 +1,14 @@
+uniform hyperbolic polynomial b spline curve 
+ paper present new kind uniform spline hyperbolic polynomial 
+	 b spline generate space omega span{sinh t cosh t t sup 
+	 k-3/ t sup k-3/ t sup k-4/ ... t 1 k arbitrary 
+	 integer large equal 3 hyperbolic polynomial b spline 
+	 share property b spline polynomial space 
+	 subdivision formulae new kind curve prove 
+	 variation diminish property control polygon 
+	 subdivision converge hyperbolic polynomial b spline handle 
+	 freeform curve remarkable curve hyperbola 
+	 catenary generation tensor product surface use new 
+	 spline straightforward example tensor product surface 
+	 saddle surface catenary cylinder certain kind rule 
+	 surface 

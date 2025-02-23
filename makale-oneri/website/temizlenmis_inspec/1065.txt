@@ -1,0 +1,7 @@
+quantum universal variable length source code 
+ construct optimal quantum universal variable length code achieve 
+	 admissible minimum rate i.e. code use probability 
+	 distribution quantum state probability exceed 
+	 admissible minimum rate exponentially 0 code optimal 
+	 sense exponent addition average error 
+	 asymptotically tend 0 

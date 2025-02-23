@@ -1,0 +1,12 @@
+bandwidth vs. gain design h sub infinity tracking controller 
+	 current feed induction motor 
+ describe systematic procedure design speed rotor flux norm 
+	 track h sub infinity /. controller unknown load torque 
+	 disturbance current feed induction motor new effective design 
+	 tool develop allow selection control gain 
+	 adjust disturbance rejection capability controller 
+	 face bandwidth requirement closed loop system 
+	 application propose design procedure demonstrate case 
+	 study result numerical simulation illustrate 
+	 satisfactory performance achievable presence rotor 
+	 resistance uncertainty 

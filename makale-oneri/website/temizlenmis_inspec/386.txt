@@ -1,0 +1,14 @@
+match filter template generation spatial filtering application fetal 
+	 biomagnetic recording 
+ develop step procedure signal processing fetal 
+	 biomagnetic recording remove cardiac interference noise 
+	 modify match filter mf apply remove maternal 
+	 cardiac interference simple signal space projection ssp 
+	 apply remove noise key difference mf 
+	 conventional interference template template 
+	 scaling derive signal spatially filter 
+	 isolate interference raw signal unlike 
+	 conventional mfs able separate maternal fetal cardiac 
+	 complex similar morphology overlap strongly 
+	 follow ssp preserve signal subspace 
+	 noise reduce low level 

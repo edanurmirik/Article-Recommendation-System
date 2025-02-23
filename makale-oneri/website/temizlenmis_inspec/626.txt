@@ -1,0 +1,17 @@
+approximate confidence interval proportion difference 
+	 proportion 
+ construct confidence interval binomial proportion difference 
+	 proportion routine exercise daily data analysis 
+	 know method wald interval base asymptotic normal 
+	 approximation distribution observed sample proportion 
+	 know bad performance small medium sample 
+	 size agresti et al 1998 2000 propose adding-4 method 4 
+	 pseudo observation add 2 success 2 failure 
+	 result pseudo-)sample proportion use method simple 
+	 perform extremely propose approximate method 
+	 base t approximation account uncertainty 
+	 estimate variance observe pseudo-)sample proportion 
+	 follow line use t test z test test 
+	 mean normal distribution unknown variance 
+	 circumstance propose method high coverage probability 
+	 adding-4 method 

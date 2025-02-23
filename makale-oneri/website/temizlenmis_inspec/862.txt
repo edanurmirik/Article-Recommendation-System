@@ -1,0 +1,19 @@
+efficient algorithm generalized maximum balanced flow problem 
+ minoux 1976 consider maximum balanced flow problem i.e. problem 
+	 find maximum flow terminal network n v source 
+	 s sink t satisfy constraint arc flow n 
+	 bound fix proportion total flow value s t 
+	 v vertex set arc set generalization focus 
+	 problem maximize total flow value generalized flow 
+	 n gain gamma 0 arc flow bound 
+	 fix proportion total flow value gamma a)f(a 
+	 unit arrive vertex w arc flow f(a identical 
+	 upsilon w enter vertex upsilon generalized flow 
+	 main result propose polynomial algorithm problem 
+	 algorithm run o(mm(n m b log b time b 
+	 maximum absolute value integral value use instance 
+	 problem m(n m b denote complexity solve 
+	 generalize maximum flow problem network n vertex m 
+	 arc rational instance express integer 1 b 
+	 second algorithm use parameterized technique run 
+	 o({m(n m b')}/sup 2/ time 

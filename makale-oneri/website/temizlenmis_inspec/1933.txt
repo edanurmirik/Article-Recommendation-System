@@ -1,0 +1,6 @@
+accelerate simulation steady state availability non markovian 
+	 system 
+ general accelerate simulation method evaluation steady state 
+	 availability non markovian system propose apply 
+	 investigation class system repair numerical example 
+	 

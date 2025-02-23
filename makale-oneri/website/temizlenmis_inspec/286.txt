@@ -1,0 +1,15 @@
+real time tissue characterization basis vivo raman spectra 
+ application vivo raman spectroscopy clinical diagnosis demand 
+	 dedicated software perform necessary signal processing 
+	 subsequent multivariate datum analysis enable clinically relevant 
+	 parameter extract available real time 
+	 describe design implementation software package 
+	 allow real time signal processing datum analysis raman 
+	 spectra design base automatic data exchange grams 
+	 spectroscopic datum acquisition analysis program matlab 
+	 program design array base calculation datum analysis 
+	 software modular design provide great flexibility develop 
+	 custom datum analysis routine different application 
+	 implementation illustrate computationally demanding 
+	 application classification skin spectra use principal 
+	 component analysis linear discriminant analysis 

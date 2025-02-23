@@ -1,0 +1,7 @@
+characterization generalized pareto distribution progressive censoring 
+	 scheme goodness fit test 
+ paper generalize characterization property generalized pareto 
+	 distribution know ordinary order statistic 
+	 arbitrary scheme progressive type ii censor order statistic 
+	 goodness fit test generalized pareto distribution 
+	 base progressively censor datum statistic discuss 

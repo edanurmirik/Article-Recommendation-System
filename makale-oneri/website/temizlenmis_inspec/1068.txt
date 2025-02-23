@@ -1,0 +1,5 @@
+quantum phase gate photonic qubit use beam splitter 
+	 postselection 
+ beam splitter reflectivity use realize 
+	 quantum phase gate operation output conserve number 
+	 photon postselecte 

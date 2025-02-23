@@ -1,0 +1,17 @@
+prediction ultraviolet spectral absorbance use quantitative 
+	 structure property relationship 
+ high performance liquid chromatography hplc ultraviolet uv 
+	 spectrophotometric detection common method analyze reaction 
+	 product organic chemistry procedure benefit 
+	 computational model predict relative response organic 
+	 molecule model report prediction integrate 
+	 uv absorbance diverse set organic compound use 
+	 quantitative structure property relationship qspr approach 
+	 seven descriptor linear correlation squared correlation 
+	 coefficient r sup 2/ 0.815 report data set 
+	 521.compound use sum zindo oscillator strength 
+	 integration range additional descriptor allow reduction 
+	 number descriptor produce robust model 460 compound 
+	 descriptor squared correlation coefficient 0.857 
+	 descriptor use model discuss respect 
+	 physical nature uv absorption process 

@@ -1,0 +1,9 @@
+screen ultrafast video mode clock simple vesa routine 
+	 register reprogramme ms dos 
+ fast screen presentation stimuli necessary psychological 
+	 research spitczok von brisinski 1994 introduce method 
+	 achieve ultrafast display reprogramme register 
+	 produce acceptable screen display report 
+	 author introduce new method combine vesa routine 
+	 register reprogramme yield display 640 480 
+	 resolution refresh rate 150 hz 

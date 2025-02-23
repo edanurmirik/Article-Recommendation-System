@@ -1,0 +1,15 @@
+track control flexible slider crank mechanism system impact 
+ variable structure control vsc stabilizer design use 
+	 pole placement technique apply tracking control 
+	 flexible slider crank mechanism impact vsc strategy 
+	 employ track crank angular position speed 
+	 stabilizer design involve suppress flexible vibration 
+	 simultaneously theoretical impact consideration 
+	 approach include generalized momentum balance gmb 
+	 continuous force model cfm cfm associate effective 
+	 mass compensation emc adopt derive basis 
+	 energy impulse momentum conservation simulation result 
+	 provide demonstrate performance motor controller 
+	 flexible slider crank mechanism accomplish good tracking 
+	 trajectory crank angle eliminate vibration 
+	 flexible connect rod 

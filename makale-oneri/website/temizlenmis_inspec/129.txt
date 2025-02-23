@@ -1,0 +1,7 @@
+phase condition schur polynomial 
+ rate change phase real complex schur polynomial evaluate 
+	 unit circle traverse counterclockwise strictly positive 
+	 polynomial real coefficient bind tighten 
+	 fundamental bound rate change phase 
+	 derive use tchebyshev representation image 
+	 real polynomial evaluate unit circle 

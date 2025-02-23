@@ -1,0 +1,14 @@
+fully automatic algorithm region interest location camera calibration 
+ present automatic method region interest roi location camera 
+	 calibration use computer vision inspection intelligent roi 
+	 location algorithm base radon transform develop 
+	 automate calibration process algorithm remain robust 
+	 anchor target notable rotation angle target plane 
+	 method function anchor target carefully 
+	 positioned improvement method study avoid 
+	 algorithm huge time space consumption problem algorithm run 
+	 100 time fast improvement method apply use 
+	 method fully automatic camera calibration achieve 
+	 human interactive roi specification experiment 
+	 algorithm help calibrate intrinsic parameter zoom 
+	 lens camera parameter quickly automatically 

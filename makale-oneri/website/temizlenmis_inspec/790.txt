@@ -1,0 +1,19 @@
+datum assimilation local model error forecast deterministic model 
+ popular datum assimilation technique use today 
+	 kalman filter type provide improved estimate state 
+	 system current time level base actual measurement 
+	 forecasting viewpoint correspond updating 
+	 initial condition standard forecasting procedure run 
+	 model uncorrecte future drive predict boundary 
+	 force condition problem methodology 
+	 update initial condition quickly wash certain 
+	 forecast horizon model prediction 
+	 initially uncorrecte model study demonstrate 
+	 assimilation error forecast present case use 
+	 local model entire model domain correct 
+	 extend forecast horizon i.e. long update initial condition 
+	 wash demonstrate significant improvement 
+	 conventional methodology alternate use local model 
+	 explore distribution error forecast 
+	 entire model domain compare conventional 
+	 kalman filter type scheme 

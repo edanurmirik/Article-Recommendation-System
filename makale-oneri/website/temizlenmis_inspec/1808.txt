@@ -1,0 +1,6 @@
+nonlinearitie narx polynomial model representation estimation 
+ nonlinearitie map narx polynomial model general 
+	 expression derive gain eigenvalue function term 
+	 regressor coefficient narx model relationship 
+	 useful grey box identification problem result 
+	 illustrate use simulated real datum 

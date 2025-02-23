@@ -1,0 +1,12 @@
+new identification approach fir model 
+ identification stochastic discrete system disturb noise 
+	 discuss brief concept general prediction error gpe 
+	 criterion introduce time domain estimate optimal 
+	 frequency estimation ofe introduce frequency domain 
+	 estimate estimation method combine form new 
+	 identification algorithm empirical 
+	 frequency domain optimal parameter efop estimate finite 
+	 impulse response fir model interfere noise algorithm 
+	 theoretically provide global optimum model frequency domain 
+	 estimate simulation example illustrate new 
+	 identification method 

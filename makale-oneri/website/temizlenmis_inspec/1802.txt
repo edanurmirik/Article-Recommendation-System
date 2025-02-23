@@ -1,0 +1,16 @@
+novel tcp congestion control scheme performance evaluation 
+ novel self tune proportional derivative st pd control base tcp 
+	 congestion control scheme propose new scheme approach 
+	 congestion control problem control theoretical perspective 
+	 overcome important limitation associate exist tcp 
+	 congestion control scheme heuristic base propose 
+	 scheme pd controller employ buffer occupancy 
+	 bottleneck node connection path ideal operating level 
+	 adjust tcp window accordingly control gain pd 
+	 controller tune online fuzzy logic controller base 
+	 perceive bandwidth delay product tcp connection scheme 
+	 st pd tcp advantage current tcp implementation 
+	 include rapid response bandwidth variation insensitivity 
+	 buffer size significant improvement tcp throughput lossy 
+	 link decouple congestion control error control function 
+	 tcp 

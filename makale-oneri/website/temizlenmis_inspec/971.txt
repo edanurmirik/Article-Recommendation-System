@@ -1,0 +1,14 @@
+homogenization l sup infinity 
+ homogenization deterministic control problem l sup infinity running 
+	 cost study viscosity solution technique prove 
+	 value function l sup infinity problem medium 
+	 periodic micro structure converge uniformly compact set 
+	 value function homogenize problem period shrink 0 
+	 main convergence result extend ishii stochastic analysis 
+	 control optimization application pp 305 324 birkhauser boston 
+	 boston ma 1999 case discontinuous hamiltonian cell 
+	 problem solve nonuniqueness occur effective 
+	 hamiltonian select careful way paper provide 
+	 representation formula effective hamiltonian 
+	 illustration calculus variation averaging dimensional 
+	 problem 

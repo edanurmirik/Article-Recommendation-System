@@ -1,0 +1,13 @@
+low voltage dram sensing scheme offset cancellation sense amplifier 
+ novel bitline sense scheme propose low voltage dram achieve low 
+	 power dissipation compatibility low voltage cmos 
+	 major obstacle low voltage dram degradation 
+	 data retention time low signal level memory cell 
+	 require power consume refresh operation frequently paper 
+	 propose offset cancellation sense amplifier scheme ocsa 
+	 improve data retention time significantly low supply voltage 
+	 improve die efficiency propose scheme reduce 
+	 number sense amplifier support cell sense 
+	 amplifier measurement data retention time 
+	 propose scheme 1.5 v supply voltage 2.4 time 
+	 conventional scheme 2.0 v 

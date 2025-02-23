@@ -1,0 +1,20 @@
+automate cerebrum segmentation dimensional sagittal brain mr image 
+ present fully automate cerebrum segmentation algorithm 
+	 dimensional sagittal brain mr image cerebrum 
+	 segmentation midsagittal brain mr image perform utilize 
+	 landmark anatomical information connectivity base threshold 
+	 segmentation algorithm previously report recognize 
+	 cerebrum laterally adjacent slice tend similar size 
+	 shape use cerebrum segmentation result midsagittal 
+	 brain mr image mask guide cerebrum segmentation adjacent 
+	 lateral slice iterative fashion masking operation yield 
+	 mask image preliminary cerebrum segmentation lateral 
+	 slice truncate brain region(s truncated region 
+	 restore find end point boundary compare 
+	 mask image mask image boundary apply 
+	 connectivity base algorithm result final extracted cerebrum 
+	 image slice use mask lateral slice 
+	 algorithm yield satisfactory fully automate cerebrum 
+	 segmentation dimensional sagittal brain mr image 
+	 performance superior conventional edge detection algorithm 
+	 segmentation cerebrum 3d sagittal brain mr image 

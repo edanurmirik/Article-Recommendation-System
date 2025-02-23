@@ -1,0 +1,5 @@
+method solution system linear algebraic equation 
+	 m dimensional lambda -matrice 
+ system linear algebraic equation m dimensional lambda -matrice 
+	 consider propose method search solution 
+	 system lie reduce numerical system special kind 

@@ -1,0 +1,12 @@
+strain contour use gabor filter principle algorithm 
+ moire interferometry powerful technique high sensitivity plane 
+	 deformation contouring engineering viewpoint 
+	 derivative displacement i.e. strain desire parameter 
+	 need differentiate displacement field optical 
+	 digital method propose differentiation 
+	 optical method provide contour need quantify 
+	 digital method suffer drawback inherent digital 
+	 differentiation process describe novel approach strain 
+	 segmentation moire pattern use multichannel gabor filter 
+	 appropriate filter design allow user specific segmentation 
+	 essentially engineering design analysis 

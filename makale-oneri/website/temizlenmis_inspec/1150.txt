@@ -1,0 +1,46 @@
+effect multileaf collimator leaf width physical dose distribution 
+	 treatment cns head neck neoplasm intensity modulate 
+	 radiation therapy 
+ purpose work examine physical radiation dose difference 
+	 multileaf collimator mlc leaf width 5 10 mm 
+	 treatment cns head neck neoplasm intensity modulate 
+	 radiation therapy imrt clinical patient cns tumor 
+	 plan different mlc leaf size 5 10 mm represent 
+	 varian-120 varian-80 millennium multileaf collimator 
+	 respectively set imrt treatment plan develop goal 
+	 set radiation dose conformality dimension 
+	 goal second set organ avoidance nearby critical 
+	 structure maintain adequate coverage target volume 
+	 treatment planning utilize cadplan helios system varian medical 
+	 systems milpitas dynamic mlc treatment delivery beam 
+	 parameter optimization cost function parameter identical 
+	 5 10 mm plan case number beam gantry 
+	 position table position clinically treat 
+	 dimensional conformal radiotherapy plan conformality 
+	 measure ratio planning isodose volume target 
+	 volume organ avoidance measure volume critical 
+	 structure receive great 90 prescription dose v sub 
+	 90/ patient squamous cell carcinoma head 
+	 neck t2 t4 n0 n2c m0 5 10 mm leaf width compare 
+	 parotid preservation utilize coplanar equally space beam 
+	 deliver simultaneous integrate boost modest difference 
+	 physical dose parotid detect ntcp model base 
+	 clinical parameter eisbruch et al use 
+	 comparison conformality improve cns case 5 
+	 mm plan compare 10 mm plan organ avoidance plan 
+	 v sub 90/ improve case 5 mm leaf 
+	 width utilize imrt treatment delivery case 
+	 5 10 mm plan able spare critical structure 
+	 structure receive 90 prescription dose 
+	 moderate dose range dose deliver critical 
+	 structure 5 mm plan head neck case 5 
+	 10 2.5 mm beamlet dmlc slide window technique spare 
+	 contralateral parotid gland maintain target volume coverage 
+	 mean parotid dose modestly low small beamlet size 
+	 21.04 gy vs 22.36 gy result average ntcp value 13.72 
+	 10 mm dmlc 8.24 5 mm dmlc conclusion mm leaf 
+	 width result improvement physical dose distribution 10 
+	 mm leaf width clinically relevant case 
+	 difference pronounce single fraction radiosurgery 
+	 case tolerance sensitive organ 
+	 close target volume prescription 

@@ -1,0 +1,10 @@
+taylor series base dimensional digital differentiator 
+ new type taylor series base 2 d finite difference approximation 
+	 present coefficient 
+	 approximation unique explicit formula present 
+	 possible set coefficient arbitrary order 
+	 extend previously present 1 d approximation 
+	 coefficient implement maximally linear 2 d fir digital 
+	 differentiator formula modify narrow 
+	 inaccuracy region resultant frequency response close 
+	 nyquist frequency 

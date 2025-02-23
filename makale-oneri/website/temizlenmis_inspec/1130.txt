@@ -1,0 +1,20 @@
+node capacitate ring route 
+ consider node capacitate routing problem undirected ring network 
+	 fractional relaxation node capacitate 
+	 multicommodity flow problem feasibility problem farkas lemma 
+	 provide characterization general undirected graph assert 
+	 roughly exist flow 
+	 distance inequality hold choice distance function 
+	 arise nonnegative node weight ring 
+	 straightforward result improve way prove 
+	 independent integrality node capacity suffice 
+	 require distance inequality distance arise 
+	 0 1 2)-valued node weight requirement 
+	 double cut condition integer value node capacity 
+	 double cut condition imply existence half integral 
+	 multicommodity flow case integer value 
+	 multicommodity flow violate node capacity 
+	 approach rise combinatorial strongly polynomial 
+	 algorithm compute violate double cut 
+	 node capacitate multicommodity flow relation problem 
+	 edge capacitate counterpart explain 

@@ -1,0 +1,15 @@
+access privilege management protection system 
+ consider problem manage access privilege protect object 
+	 associate lock object lock access 
+	 right define object type possession access right 
+	 object certify possession key object 
+	 key match object lock introduce number 
+	 variant basic key lock technique polymorphic access right 
+	 possible decrease number key require certify 
+	 possession complex access privilege define term 
+	 access right multiple lock access right allow 
+	 exercise form selective revocation access privilege lock 
+	 conversion function use reduce number lock 
+	 associate object single lock extent 
+	 result obtain evaluate relation alternative methodology 
+	 access privilege management 

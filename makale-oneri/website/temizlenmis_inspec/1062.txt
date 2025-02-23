@@ -1,0 +1,12 @@
+fidelity quantum teleportation noisy channel 
+ investigate quantum teleportation noisy quantum channel solve 
+	 analytically numerically master equation lindblad form 
+	 calculate fidelity function decoherence rate angle 
+	 state teleport find average fidelity 
+	 range state accurately teleport depend type noise 
+	 act quantum channel quantum channel subject 
+	 isotropic noise average fidelity decay 1/2 small 
+	 good possible value 2/3 obtain classical 
+	 communication hand noisy quantum channel 
+	 model single lindblad operator average fidelity 
+	 great 2/3 

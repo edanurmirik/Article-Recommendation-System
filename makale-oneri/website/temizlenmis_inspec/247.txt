@@ -1,0 +1,22 @@
+congenial talk philosopher problem computer network 
+ group mutual exclusion occur naturally situation resource 
+	 share process group process 
+	 different group example suppose datum store cd jukebox 
+	 disc load access user need datum 
+	 disc concurrently access disc user need datum 
+	 different disc wait current disc unload 
+	 design issue group mutual exclusion model 
+	 congenial talking philosophers problem solution share memory 
+	 model propose y.-j. young 2000 p. keane m. moir 
+	 1999 ordinary mutual exclusion problem 
+	 distribute system technique develop shared memory 
+	 necessarily apply message pass vice versa 
+	 investigate solution congenial talk philosophers computer 
+	 network process communicate asynchronous message pass 
+	 present solution straightforward adaptation 
+	 g. ricart a.k. agrawala 1981 algorithm ordinary mutual 
+	 exclusion simple modification suffer severe 
+	 performance degradation cause system behave 
+	 process group critical section time 
+	 present efficient highly concurrent distribute 
+	 algorithm problem solution computer network 

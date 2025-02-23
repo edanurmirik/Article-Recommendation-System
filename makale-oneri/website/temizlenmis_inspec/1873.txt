@@ -1,0 +1,12 @@
+phytography waldmeister 
+ architecture waldmeister prover unit equational deduction 
+	 base strict separation active passive fact 
+	 inspection system proof procedure representation 
+	 central datum structure outline index 
+	 active fact compression passive fact successor set 
+	 hypothesis minimal recording inference step proof 
+	 object order cope large search space specialized 
+	 redundancy criterion employ empirically gain control 
+	 knowledge integrate ease use system paper 
+	 conclude quantitative comparison waldmeister version 
+	 year view future prospect 

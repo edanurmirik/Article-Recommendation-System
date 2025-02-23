@@ -1,0 +1,10 @@
+application sugeno fuzzy logic controller stator field orient 
+	 doubly feed asynchronous motor drive 
+ study deal application fuzzy control theory 
+	 wound rotor asynchronous motor stator rotor feed 
+	 pwm voltage source inverter system operate 
+	 stator field orient control determine model 
+	 machine present type fuzzy controller mamdani sugeno 
+	 controller training carry start 
+	 simulation study conduct effectiveness 
+	 propose method 

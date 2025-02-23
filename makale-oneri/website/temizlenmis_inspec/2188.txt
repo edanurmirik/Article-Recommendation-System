@@ -1,0 +1,17 @@
+nonlinear modulation strategy hybrid ac dc power system 
+ nonlinear control strategy improve transient stability multi machine 
+	 ac power system dc link terminate presence 
+	 large disturbance present approach propose paper 
+	 base differential geometric theory hvdc system 
+	 variable admittance connect inverter rectifi ac bus 
+	 derive analytical description relationship 
+	 variable admittance active power flow generator 
+	 traditional generator dynamic equation express 
+	 variable admittance hvdc system additional state variable 
+	 change affine form suitable global linearization 
+	 method use determine control variable important 
+	 feature propose method modulate dc power 
+	 adaptive non linear function ac system state 
+	 realize local feedback transmit datum adjacent 
+	 generator design procedure test dual infeed hybrid 
+	 ac dc system 

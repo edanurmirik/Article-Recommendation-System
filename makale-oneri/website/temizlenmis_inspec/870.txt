@@ -1,0 +1,22 @@
+speaker identification voice use neural network 
+ paper provide different scheme speaker identification 
+	 personnel voice use artificial neural network 
+	 scheme recognize speaker employ classical backpropagation 
+	 algorithm pre train know voice sample person 
+	 second scheme provide framework classify know training 
+	 sample voice feature use hierarchical architecture 
+	 realize self organize feature map neural net 
+	 scheme highly robust capable identify personnel 
+	 noisy voice sample excessive training 
+	 time limit application large voice database second 
+	 scheme robust classify 
+	 unknown voice sample near class time need 
+	 classification scheme unique irrespective 
+	 voice sample proportional number feedforward layer 
+	 network time requirement second classification scheme 
+	 free voice feature proportional 
+	 number 2d array traverse algorithm hierarchical 
+	 structure scheme highly robust mis classification 
+	 low 0.2 cent scheme combine composite 
+	 benefit radial basis function neural net backpropagation 
+	 train neural net 

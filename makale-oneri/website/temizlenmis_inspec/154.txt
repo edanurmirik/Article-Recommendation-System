@@ -1,0 +1,10 @@
+verify concurrent system symbolic execution 
+ current technique interactively prove temporal property concurrent 
+	 system translate transition system temporal formula 
+	 introduce program counter variable proof intuitive 
+	 control flow explicitly consider sequential 
+	 program symbolic execution intuitive interactive proof 
+	 strategy paper adopt technique parallel program 
+	 property formulate interval temporal logic implementation 
+	 interactive theorem prover kiv technique 
+	 offer high degree automation allow simple local invariant 

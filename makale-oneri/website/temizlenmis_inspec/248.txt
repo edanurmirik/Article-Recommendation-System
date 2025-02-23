@@ -1,0 +1,15 @@
+universal dynamic synchronous self stabilization 
+ prove existence universal synchronous self stabilize protocol 
+	 protocol allow distribute system stabilize 
+	 desire nonreactive behaviour long protocol stabilize 
+	 behaviour exist previous proposal require drastic increase 
+	 asymmetry knowledge work protocol use 
+	 additional knowledge require symmetry break 
+	 condition available stabilize respect 
+	 dynamic change topology prove optimal quiescence time n 
+	 d synchronous network n processor diameter d 
+	 protocol finite state negligible loss quiescence 
+	 time optimal d 1 protocol case 
+	 unique identifier consequence provide effective proof 
+	 technique allow self stabilization 
+	 certain behaviour possible wide range model 

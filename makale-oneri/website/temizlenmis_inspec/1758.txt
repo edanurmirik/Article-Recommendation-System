@@ -1,0 +1,7 @@
+hilbert modular threefold arithmetic genus 
+ d. weisser 1981 prove exactly galois cubic number field 
+	 hilbert modular threefold arithmetic genus paper 
+	 extend weisser work cover cubic number field main 
+	 result exactly 33 field hilbert modular 
+	 threefold arithmetic genus field enumerate 
+	 explicitly 

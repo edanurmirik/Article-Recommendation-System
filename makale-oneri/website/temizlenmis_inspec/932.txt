@@ -1,0 +1,13 @@
+modeling torsional vibration induce extension twisting coupling 
+	 anisotropic composite laminate piezoelectric actuator 
+ paper present dynamic analytical model torsional vibration 
+	 anisotropic piezoelectric laminate induce 
+	 extension twisting coupling effect present approach use 
+	 hamilton principle reduce bend stiffness method 
+	 derivation equation motion result plane 
+	 displacement involve plane displacement 
+	 laminate quantity calculate propose 
+	 method turn twisting laminate structural coupling 
+	 simplify problem lose feature analytical 
+	 solution present model harmonic excitation parametric 
+	 study perform demonstrate present approach 

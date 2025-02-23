@@ -1,0 +1,15 @@
+differential calculus p norm complex value vector function 
+	 application 
+ complex value n dimensional vector function t s(t suppose 
+	 sufficiently smooth differentiability property mapping t 
+	 ||s(t)||/sub p/ point t t sub 0/ epsilon r sub 0//sup 
+	 /:= t epsilon r t or= 0 investigate || ||/sub p/ 
+	 usual vector norm c sup n/ resp r sup n/ p epsilon 1 
+	 o infinity formulae right derivative 
+	 d sub //sup k/||s(t)||/sub p/ k 1 2,3 determine 
+	 formulae apply vibration problem compute upper 
+	 bound ||s(t)||/sub p/ certain class bound result 
+	 obtain method use far systematic use 
+	 differential calculus vector norm 
+	 time lead major advance branch 
+	 mathematic science 

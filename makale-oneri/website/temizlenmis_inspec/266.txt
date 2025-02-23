@@ -1,0 +1,16 @@
+pattern recognition strategy molecular surface i. pattern generation 
+	 use fuzzy set theory 
+ new method characterization molecule base model approach 
+	 molecular surface present use topographical property 
+	 surface electrostatic potential local 
+	 lipophilicity hydrophilicity hydrogen bond density 
+	 surface characterization definition calculation method 
+	 property review surface segment 
+	 overlap patch similar molecular property patch 
+	 use represent characteristic local feature 
+	 molecule way atomistic resolution 
+	 apply analysis partial similarity 
+	 different molecule identification molecular 
+	 complementarity general sense patch representation 
+	 use different application demonstrate 
+	 subsequent article 

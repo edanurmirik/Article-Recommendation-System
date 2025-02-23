@@ -1,0 +1,14 @@
+high dynamic control level voltage source converter drive main 
+	 strip mill 
+ high dynamic control system alspa vdm 7000 medium voltage drive 
+	 implement provide fast torque response time 
+	 millisecond despite typically low switching frequency 
+	 gate turn thyristor necessary achieve high efficiency 
+	 drive system consist level voltage source converter 
+	 active end synchronous motor drive 
+	 recently apply main strip mill provide maximum 
+	 8.3 mw mechanical power rate motor voltage 3 kv. 
+	 motor torque main control objective control system 
+	 comply number additional objective constraint like 
+	 dc link voltage regulation balancing current torque harmonic 
+	 motor flux excitation 

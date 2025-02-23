@@ -1,0 +1,10 @@
+development railway vr safety simulation system 
+ abnormal condition occur railway transportation trouble accident 
+	 affect number passenger important 
+	 quickly recover return normal train operation 
+	 purpose develop system computer vr simulation system 
+	 safety railway transportation new type simulation system 
+	 evaluate measure abnormal condition user 
+	 simulation system cooperate correct 
+	 abnormal condition occur virtual reality paper 
+	 report newly develop simulation system 

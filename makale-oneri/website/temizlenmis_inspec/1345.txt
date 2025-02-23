@@ -1,0 +1,15 @@
+infrared image classification use hidden markov tree 
+ image dimensional target generally characterize 
+	 visible target subcomponent dictate target sensor 
+	 orientation target pose image change quickly variable 
+	 pose define class set contiguous target sensor 
+	 orientation associated target image relatively 
+	 stationary aspect target general characterize 
+	 multiple class distinct set wiener filter employ 
+	 class image identify presence target subcomponent 
+	 karhunen loeve representation use minimize number 
+	 filter template associate subcomponent 
+	 statistical relationship different target subcomponent 
+	 model hidden markov tree hmt hmt classifier 
+	 discuss example result present 
+	 forward look infrared flir imagery vehicle 

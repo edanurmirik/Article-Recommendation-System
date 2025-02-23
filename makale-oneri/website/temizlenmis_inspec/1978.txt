@@ -1,0 +1,21 @@
+multilayere image representation application image compression 
+ main contribution work new paradigm image representation 
+	 image compression describe new multilayere representation 
+	 technique image image parse superposition 
+	 coherent layer piecewise smooth region layer texture layer etc 
+	 multilayere decomposition algorithm consist cascade 
+	 compression apply successively image 
+	 residual result previous compression 
+	 iteration algorithm code residual lossy way 
+	 retain significant structure residual 
+	 result sparse representation layer encode 
+	 independently different transform basis different 
+	 bitrate combination compress layer 
+	 reconstruct meaningful way strength multilayer 
+	 approach come fact different set basis function 
+	 complement basis function 
+	 reasonable account large trend datum 
+	 catch local transient oscillatory pattern 
+	 multilayere representation lot beautiful application 
+	 image understanding image video coding implement 
+	 algorithm study capability 

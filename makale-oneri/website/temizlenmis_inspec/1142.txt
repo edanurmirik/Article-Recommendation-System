@@ -1,0 +1,22 @@
+fast accurate leaf verification dynamic multileaf collimation use 
+	 electronic portal imaging device 
+ prerequisite accurate dose delivery imrt profile produce 
+	 dynamic multileaf collimation dmlc highly accurate leaf 
+	 positioning institution leaf verification dmlc 
+	 initially film ionization chamber overcome 
+	 limitation method fast accurate dimensional 
+	 method daily leaf verification use ccd camera base 
+	 electronic portal imaging device epid develop 
+	 method base flat field produce 0.5 cm wide slide gap 
+	 leaf pair deviation gap width detect deviation 
+	 gray scale value profile derive epid image 
+	 directly assess leaf position image dedicated software 
+	 develop reduce noise level low signal image produce 
+	 narrow gap accuracy quality assurance procedure 
+	 test introduce know leaf position error 
+	 error leaf gap small 0.01 0.02 cm detect 
+	 certainly adequate guarantee accurate dose delivery dmlc 
+	 treatment strongly modulate beam profile use 
+	 method demonstrate short long term 
+	 reproducibility leaf positioning 0.01 cm 1 sigma 
+	 gantry angle effect gravity negligible 

@@ -1,0 +1,20 @@
+compatibility comparison performance evaluation japanese hpf compiler 
+	 use scientific application 
+ lack compatibility high performance fortran hpf vender 
+	 implementation dishearten scientific application user 
+	 hinder development portable program parallel 
+	 computing unpopular computational science community 
+	 parallel programming common computer science 
+	 community user like run source code parallel 
+	 machine different architecture fast possible 
+	 investigate compatibility source code japanese hpf 
+	 compiler nec fujitsu hitachi real world application 
+	 3d fluid code 2d particle code find 
+	 source level compatibility japanese hpf compiler 
+	 preserve effort need sustain complete 
+	 compatibility evaluate parallel performance find 
+	 hpf achieve good performance 3d fluid code 
+	 source code 2d particle code good result 
+	 obtain small number processor change 
+	 original source code addition interface block 
+	 require 

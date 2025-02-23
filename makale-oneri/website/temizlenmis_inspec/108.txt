@@ -1,0 +1,10 @@
+exploit randomness quantum information process 
+ consider randomness play useful role quantum 
+	 information processing particular decoherence control 
+	 implementation quantum algorithm level system 
+	 decoherence channel non dissipative decoherence 
+	 suppression possible memory present channel random 
+	 switching potentially harmful noise source 
+	 provide source stochastic control random switching 
+	 use advantageous way implementation quantum 
+	 algorithm 

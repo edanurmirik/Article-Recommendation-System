@@ -1,0 +1,20 @@
+nonlinear control shape memory alloy actuate manipulator 
+ paper present nonlinear robust control algorithm accurate 
+	 positioning single degree freedom rotary manipulator actuate 
+	 shape memory alloy sma model sma actuate manipulator 
+	 present model include nonlinear dynamic manipulator 
+	 constitutive model shape memory alloy electrical heat 
+	 transfer behavior sma wire model use open closed 
+	 loop motion simulation manipulator experiment present 
+	 result similar closed open loop simulation 
+	 result model uncertainty nonlinear behavior 
+	 system classic control method 
+	 proportional integral derivative control able present fast 
+	 accurate performance nonlinear robust control algorithm 
+	 present base variable structure control algorithm 
+	 control gain switch technique base weighted average 
+	 position velocity feedback method design 
+	 simulation test experimentally result fast accurate 
+	 robust performance control system computer simulation 
+	 experimental result different stabilization tracking 
+	 situation present 

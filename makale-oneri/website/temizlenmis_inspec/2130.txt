@@ -1,0 +1,5 @@
+synchronize experiment linear interval system 
+ concerns generalize control problem exact information p 
+	 method construct minimal synchronizing sequence linear 
+	 interval system field real number develop 
+	 problem reduce system linear inequality 

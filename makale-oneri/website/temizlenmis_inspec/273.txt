@@ -1,0 +1,19 @@
+chemical information base scaling molecular descriptor universal 
+	 chemical scale library design analysis 
+ scaling difficult issue analysis chemical property 
+	 molecular topology disparate descriptor involve compare 
+	 property different datum set common scale define 
+	 use publicly available database acd cmc mddr nci 
+	 basis propose define chemically meaningful scale number 
+	 molecular property topology descriptor chemically 
+	 derive scaling function advantage 
+	 possible define chemically relevant scale greatly simplify 
+	 similarity diversity analysis data set second 
+	 approach provide convenient method set descriptor boundary 
+	 define chemically reasonable topology space example 
+	 descriptor scale compound little potential 
+	 biological activity bioavailability drug like 
+	 characteristic easily identify outlier compile 
+	 scale value 314 molecular descriptor addition 10th 
+	 90th percentile value descriptor calculate use 
+	 outli filtering 

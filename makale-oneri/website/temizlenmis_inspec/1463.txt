@@ -1,0 +1,21 @@
+computational complexity probabilistic disambiguation 
+ recent model natural language processing employ statistical reasoning 
+	 deal ambiguity formal grammar approach 
+	 statistic concern linguistic phenomenon interest 
+	 gather actual linguistic datum use estimate 
+	 probability entity generate 
+	 grammar e.g. derivation parse tree sentence extension 
+	 grammar probability possible state ambiguity 
+	 resolution constrained optimization formula aim 
+	 maximize probability entity grammar generate 
+	 input e.g. maximum probability parse tree input 
+	 sentence implementation optimization formulae 
+	 efficient algorithm proceed smoothly 
+	 paper address computational complexity ambiguity 
+	 resolution kind probabilistic model provide 
+	 proof frequently occur problem ambiguity resolution 
+	 np complete problem encounter 
+	 application e.g. language understanding textand speech base 
+	 application assume common model computation result 
+	 imply exist probabilistic model possible 
+	 devise tractable algorithm solve optimization problem 

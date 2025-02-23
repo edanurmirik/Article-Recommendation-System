@@ -1,0 +1,18 @@
+xml typechecking problem 
+ xml document conform type e.g. dtd xml schema 
+	 type valid document check xml document 
+	 valid validation problem typically perform 
+	 parser validate parser precisely perform 
+	 right parse program module practice 
+	 xml document generate dynamically program 
+	 check xml document generate program valid 
+	 wrt type typechecking problem validation 
+	 analyze xml document type checker analyze program 
+	 problem difficulty function language 
+	 program express xml typechecking problem 
+	 investigate recently xquery working group adopt 
+	 technique typechecke xquery technique 
+	 limitation need understand far 
+	 explore investigate define xml typechecking problem 
+	 present current approach typechecking discuss 
+	 limitation 

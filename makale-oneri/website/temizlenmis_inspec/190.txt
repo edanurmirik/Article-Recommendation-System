@@ -1,0 +1,9 @@
+design gain schedule trajectory tracking controller auv 
+	 application 
+ new methodology propose design trajectory tracking controller 
+	 autonomous vehicle design technique build gain scheduling 
+	 control theory application design trajectory 
+	 tracking controller prototype autonomous underwater vehicle 
+	 auv effectiveness advantage new control law derive 
+	 illustrate simulation use set non linear equation 
+	 motion vehicle 

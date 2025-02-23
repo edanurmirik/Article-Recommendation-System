@@ -1,0 +1,16 @@
+redboot fit open source rom monitor 
+ embed developer today use rom- flash resident software program 
+	 provide functionality loading running application 
+	 software scripting read write access processor register 
+	 memory dump rom monitor useful 
+	 far expensive debugging tool circuit emulator 
+	 article describe redboot rom monitor look 
+	 feature offer redboot rom monitor 
+	 configure walk step rebuilding 
+	 instal new redboot image target platform finally look 
+	 future enhancement come new release 
+	 support additional information use redboot redboot 
+	 use software module ecos real time operating system rto 
+	 use system run embed linux completely 
+	 independent operating system redboot use 
+	 operating system rto 

@@ -1,0 +1,9 @@
+bivariate dependence convex order 
+ investigate interplay variability sense convex 
+	 order dependence bivariate framework extend previous 
+	 result area exploit fact discrete uniform 
+	 distribution dense space probability measure 
+	 topology weak convergence prove central result 
+	 obtain partial result general multivariate case finding 
+	 interpret term impact component variability 
+	 mean life correlate serial parallel system 

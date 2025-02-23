@@ -1,0 +1,20 @@
+use neural network ensemble qsar qspr 
+ despite grow popularity neural network practitioner ensemble 
+	 method widely adopt structure activity 
+	 structure property correlation neural network inherently 
+	 unstable small change training set and/or training 
+	 parameter lead large change generalization 
+	 performance recent research capitalize 
+	 diversity individual model ensemble technique minimize 
+	 uncertainty produce stable accurate predictor 
+	 work present critical assessment common ensemble 
+	 technique know bootstrap aggregation bagging apply 
+	 qsar qspr aggregation offer definitive advantage 
+	 demonstrate bagging possible choice 
+	 simple technique retrain sample 
+	 produce superior result finding rationalize use 
+	 krogh vedelsby 1995 decomposition generalization error 
+	 term measure average generalization performance 
+	 individual network term measure diversity 
+	 network design resist fitting benefit 
+	 aggregation clear overwhelming 

@@ -1,0 +1,10 @@
+orthogonal decomposition complete digraph 
+ family g isomorphic copy digraph g 
+	 orthogonal decomposition complete digraph d sub n/ g 
+	 arc d sub n/ belong exactly member g union 
+	 different element g contain precisely pair 
+	 reverse arc digraph h h family mh vertex disjoint 
+	 union m copy h paper consider orthogonal 
+	 decomposition h family objective prove existence 
+	 orthogonal decomposition certain necessary 
+	 condition hold m sufficiently large 

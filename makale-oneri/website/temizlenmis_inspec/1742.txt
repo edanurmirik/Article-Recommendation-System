@@ -1,0 +1,4 @@
+sufficient condition optimality nondifferentiable invex program 
+ sufficient optimality condition establish nonlinear programming 
+	 problem differentiability assumption datum 
+	 clarke 1975 generalize gradient use define invexity 

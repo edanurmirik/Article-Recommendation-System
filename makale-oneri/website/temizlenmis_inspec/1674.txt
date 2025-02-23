@@ -1,0 +1,20 @@
+column generation approach delivery planning time inhomogeneous 
+	 service provider service interval constraint 
+ consider problem delivery planning multiple time period 
+	 delivery customer nominate demand 
+	 time period demand meet time period use 
+	 combination inhomogeneous service provider service provider 
+	 different delivery capacity different cost delivery 
+	 customer different utilisation requirement different rule 
+	 govern spread delivery time problem plan 
+	 delivery minimise overall cost subject demand meet 
+	 service rule obey natural integer programming model find 
+	 intractable problem loose demand constraint 
+	 gap lower bound good feasible solution 
+	 35.1 average 15.4 test datum set 
+	 problem loose demand constraint cplex 6.5 apply 
+	 formulation fail find optimal solution run 
+	 memory column generation approach improve lower bind 
+	 0.6 21.9 average 9.9 case 
+	 find optimal solution root node require 
+	 branch 

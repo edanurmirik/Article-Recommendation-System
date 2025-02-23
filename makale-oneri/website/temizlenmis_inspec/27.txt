@@ -1,0 +1,14 @@
+formal model compute word 
+ classical automata formal model compute value fuzzy automata 
+	 generalization classical automata knowledge 
+	 system state vague uncertain worth note like 
+	 classical automata fuzzy automata process string input 
+	 symbol fuzzy automata abstract device 
+	 compute value certain vagueness uncertainty 
+	 involve process computation introduce new kind 
+	 fuzzy automata input instead string fuzzy subset 
+	 input alphabet new fuzzy automata serve formal model 
+	 compute word establish extension principle 
+	 compute value compute word principle indicate 
+	 compute word implement compute value 
+	 price big extra computation 

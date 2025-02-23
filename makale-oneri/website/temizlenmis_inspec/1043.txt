@@ -1,0 +1,13 @@
+fractional motion control application xy cutting table 
+ path tracking design dynamic actuator account 
+	 order reduce overshoot appear small displacement new 
+	 approach path tracking use fractional differentiation propose 
+	 application xy cutting table permit generation 
+	 optimal movement reference input lead minimum path 
+	 completion time account maximum velocity 
+	 acceleration torque bandwidth closed loop system 
+	 fractional differentiation use davidson cole filter 
+	 methodology aim improve accuracy especially 
+	 checkpoint present reference input obtain compare 
+	 spline function apply xy cutting table model 
+	 actuator output compare 

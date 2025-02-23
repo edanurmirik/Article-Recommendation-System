@@ -1,0 +1,11 @@
+wavelet collocation method kind boundary integral equation 
+	 acoustic scattering 
+ paper consider wavelet algorithm piecewise constant 
+	 collocation method apply boundary element solution 
+	 kind integral equation arise acoustic scattering conventional 
+	 stiffness matrix transform corresponding matrix 
+	 respect wavelet basis approximate compress 
+	 matrix finally stiffness matrix multiply diagonal 
+	 preconditioner result matrix system linear 
+	 equation condition sparse use matrix 
+	 boundary integral equation solve effectively 

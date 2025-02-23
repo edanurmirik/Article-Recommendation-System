@@ -1,0 +1,15 @@
+scalable lightweight qos monitoring technique combine passive 
+	 active approach mathematical formulation compact monitor 
+ scalable lightweight qos monitoring system 2002 
+	 propose new qos monitoring technique change measure 
+	 base passive active monitoring compact monitor base 
+	 change measure framework active measurement 
+	 transform use passively monitor datum technique enable 
+	 measure detailed qos information individual user 
+	 application organization scalable lightweight manner 
+	 paper present mathematical foundation compact 
+	 monitor addition characteristic simulation 
+	 term typical implementation issue infer delay 
+	 distribution result compact monitor accurate qos 
+	 estimation small extra traffic active 
+	 measurement 

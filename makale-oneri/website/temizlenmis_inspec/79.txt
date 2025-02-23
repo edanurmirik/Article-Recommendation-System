@@ -1,0 +1,11 @@
+efficient stable ray trace algorithm parametric surface 
+ paper propose efficient stable algorithm find 
+	 ray surface intersection newton method bezier clip 
+	 adapt form core algorithm ray coherence use 
+	 find start point newton iteration introduce obstruction 
+	 detection technique verify intersection point find use 
+	 newton method close newton method fail achieve 
+	 convergence use bezier clip substitution find 
+	 intersection point combination achieve significant 
+	 improvement trace primary ray similar approach successfully 
+	 improve performance trace secondary ray 

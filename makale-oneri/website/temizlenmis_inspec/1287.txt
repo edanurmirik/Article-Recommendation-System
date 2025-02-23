@@ -1,0 +1,8 @@
+average depth decision tree implement boolean function 
+ article consider representation boolean function form 
+	 decision tree present bound average time complexity 
+	 decision tree class boolean function close 
+	 substitution insertion deletion unessential 
+	 variable obtain result compare result develop 
+	 m.ju moshkov 1995 describe bad case time complexity 
+	 decision tree 

@@ -1,0 +1,14 @@
+digital fountain approach asynchronous reliable multicast 
+ proliferation application reliably distribute large rich 
+	 content vast number autonomous receiver motivate design 
+	 new multicast broadcast protocol describe ideal fully 
+	 scalable protocol application digital 
+	 fountain digital fountain allow number heterogeneous 
+	 receiver acquire content optimal efficiency time 
+	 choosing feedback channel need ensure reliable 
+	 delivery face high loss rate develop protocol 
+	 closely approximate digital fountain use new class 
+	 erasure code large block size order magnitude fast 
+	 standard erasure code provide performance measurement 
+	 demonstrate feasibility approach discuss design 
+	 implementation performance experimental system 

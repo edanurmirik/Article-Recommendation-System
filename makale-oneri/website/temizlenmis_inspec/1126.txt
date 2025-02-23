@@ -1,0 +1,9 @@
+note axiomatization core market game 
+ peleg 1993 core market game characterize 
+	 nonemptiness individual rationality superadditivity weak reduced 
+	 game property converse reduce game property weak symmetry 
+	 know weak symmetry logically independent 
+	 help certain transitive 4 person tu game 
+	 weak symmetry redundant result core market 
+	 game axiomatize remain property universe 
+	 player contain member 

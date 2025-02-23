@@ -1,0 +1,14 @@
+condition decentralized integral controllability 
+ term decentralize integral controllability dic pertain existence 
+	 stable decentralized controller integral action 
+	 close loop property stable independent detuning 
+	 especially useful select control structure systematically 
+	 early stage control system design information 
+	 need dic steady state process gain matrix 
+	 necessary sufficient condition conjecture literature 
+	 prove real structured singular value exploit realness 
+	 controller gain use describe computable condition 
+	 dic primary usage dic eliminate unworkable pairing 
+	 simple necessary condition propose example 
+	 illustrate effectiveness propose condition 
+	 dic 

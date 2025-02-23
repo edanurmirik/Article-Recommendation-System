@@ -1,0 +1,10 @@
+novel approach super resolution pit readout 
+ propose novel method realize readout super resolution pit 
+	 use super resolution reflective film replace reflective 
+	 layer conventional rom time use sb 
+	 super resolution reflective layer sin dielectric layer 
+	 super resolution pit diameter 380 nm read setup 
+	 laser wavelength 632.8 nm numerical aperture 0.40 
+	 addition influence sb thin film thickness readout 
+	 signal investigate result optimum sb thin 
+	 film thickness 28 30 nm maximum cnr 38 40 db 

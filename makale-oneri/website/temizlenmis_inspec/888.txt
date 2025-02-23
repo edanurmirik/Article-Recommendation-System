@@ -1,0 +1,17 @@
+storage functional lyapunov function passive dynamical system 
+ nonlinear time invariant input output dynamical system passivity 
+	 condition obtain restriction condition imply 
+	 storage function satisfy dissipation inequality class 
+	 storage function allow unique reconstruction passive dynamical 
+	 system define result illustrate example 
+	 linear system fade memory important practical 
+	 application class linear relaxation system direct 
+	 input output interaction consider necessary condition 
+	 dynamical system relaxation type obtain 
+	 class condition connect existence unique 
+	 quadratic lyapunov function satisfy complete monotonicity 
+	 condition unique lyapunov function correspond standard 
+	 thermodynamic potential compact family potential 
+	 nonequilibrium thermodynamic result obtain useful 
+	 automatic control mechanic viscoelastic material 
+	 application physics system theory 

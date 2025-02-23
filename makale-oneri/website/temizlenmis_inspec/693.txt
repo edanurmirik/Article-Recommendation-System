@@ -1,0 +1,10 @@
+lift factorization discrete w transform 
+ general method propose factor type iv discrete w transform 
+	 dwt iv lift step addition base 
+	 relationship type dwts type dwt 
+	 factor lift step addition approximate 
+	 lifting matrix type new integer dwts intdwt 
+	 intdwt ii intdwt iii intdwt iv float point 
+	 multiplication free integer integer transform ii dwt 
+	 approximate dwt propose fast algorithm 
+	 new transform computational complexity analyze 

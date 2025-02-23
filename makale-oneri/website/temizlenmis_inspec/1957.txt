@@ -1,0 +1,12 @@
+population cellular automata model predation base penna 
+	 model 
+ penna 1995 single species asexual bit string model biological ageing 
+	 verhulst factor strong restraining effect 
+	 development population danuta makowiec improved model 
+	 base lattice restraining factor 
+	 neighbour place verhulst factor discuss 
+	 population penna model predation planar lattice 
+	 dimension cellular automata model contain movable wolf 
+	 sheep build result quantity 
+	 wolf sheep fluctuate accordance law 
+	 quantity increase decrease 

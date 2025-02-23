@@ -1,0 +1,15 @@
+bad pixel identification mean principal component analysis 
+ bad pixel define pixel temporal evolution 
+	 signal different rest pixel array 
+	 principal component analysis help understand definition 
+	 statistical distance associate pixel use 
+	 distance possible identify pixel label bad pixel 
+	 spatiality pixel calculate assumption 
+	 normality distribution distance pixel 
+	 revise influence robustness identification 
+	 algorithm negligible definition parameter relate 
+	 nonnormality help identify principal component 
+	 eigenimage responsible departure multinormal 
+	 distribution method identify bad pixel successfully 
+	 apply set frame obtain ccd visible focal 
+	 plane array fpa ir camera 

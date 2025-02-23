@@ -1,0 +1,10 @@
+quantum compute spin qubit semiconductor structure 
+ survey recent work design evaluate quantum computing 
+	 implementation base nuclear bind electron spin 
+	 semiconductor heterostructure low temperature high magnetic 
+	 field general overview follow summary result 
+	 theoretical calculation decoherence time scale spin spin 
+	 interaction carry system 
+	 dimensional electron gas provide dominant carrier spin 
+	 dynamic exchange spin exciton integer quantum hall 
+	 regime 

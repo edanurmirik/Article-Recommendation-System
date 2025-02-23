@@ -1,0 +1,12 @@
+linear time algorithm recognize regular boolean function 
+ positive monotone boolean function regular variable 
+	 naturally order leave fight decrease strength 
+	 shift nonzero component true vector left 
+	 yield true vector paper consider problem 
+	 recognize positive function f regular f 
+	 min t(f set minimal true vector f propose 
+	 simple linear time i.e. o(n|min t(f)|)-time algorithm 
+	 improve previous algorithm j.s. provan m.o. ball 
+	 1988 require o(n sup 2/|min t(f)| time corollary 
+	 present o(n(n+|min t(f)|))-time algorithm recognition 
+	 problem 2 monotonic function 

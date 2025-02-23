@@ -1,0 +1,16 @@
+exact solution coupled thermoelectroelastic behavior piezoelectric 
+	 laminate 
+ exact solution static analysis thermoelectroelastic laminate plate 
+	 present analysis new concise procedure 
+	 analytical solution composite laminated plate piezoelectric 
+	 layer develop simple eigenvalue formula real number form 
+	 directly develop basic couple piezoelectric differential 
+	 equation difficulty treat imaginary eigenvalue 
+	 avoid solution define trigonometric series 
+	 apply thin thick plate numerical study conduct 
+	 layer piezoelectric plate complexity stress 
+	 deformation combined loading illustrate result 
+	 use benchmark assess numerical solution 
+	 approximate approach finite element method 
+	 provide useful physical insight behavior piezoelectric 
+	 plate thermal environment 

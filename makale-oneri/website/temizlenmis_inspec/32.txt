@@ -1,0 +1,12 @@
+analysis efficient implementation linguistic fuzzy c mean 
+ paper concern linguistic fuzzy c mean fcm algorithm 
+	 vector fuzzy number input algorithm base 
+	 extension principle decomposition theorem turn 
+	 use extension principle extend capability standard 
+	 membership update equation deal linguistic vector huge 
+	 computational complexity order cope problem 
+	 efficient method base fuzzy arithmetic optimization 
+	 develop analyze carefully examine prove 
+	 algorithm behave way similar fcm degenerate 
+	 linguistic case synthetic data set iris datum set 
+	 use illustrate behavior linguistic version fcm 

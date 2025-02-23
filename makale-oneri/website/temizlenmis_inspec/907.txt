@@ -1,0 +1,14 @@
+development integrated open architecture precision motion control 
+	 system 
+ paper development integrated open architecture precision 
+	 motion control system present control system generally 
+	 applicable develop particular focus direct drive 
+	 servo system base linear motor overall control system 
+	 comprehensive comprise select control 
+	 instrumentation component integrate configuration 
+	 hardware architecture centre dspace ds1004 dsp processor 
+	 board component include precision composite controller 
+	 comprise feedforward feedback control disturbance 
+	 observer adaptive notch filter geometrical error 
+	 compensator hardware architecture software development platform 
+	 user interface constituent control component describe 

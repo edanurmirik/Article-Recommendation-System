@@ -1,0 +1,9 @@
+use fractional order adjustment rule fractional order reference model 
+	 model reference adaptive control 
+ paper investigate use fractional order calculus foc 
+	 conventional model reference adaptive control mrac system 
+	 modification conventional mrac present i.e. use 
+	 fractional order parameter adjustment rule employment 
+	 fractional order reference model example benefit 
+	 use foc illustrate remark 
+	 research 

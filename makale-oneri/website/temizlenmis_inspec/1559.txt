@@ -1,0 +1,9 @@
+comparison theorem iterative method preconditioner 
+	 s sub max/ 
+ a.d. gunawardena et al 1991 report modified gauss seidel method 
+	 preconditioner s article propose use 
+	 preconditioner s sub max/ instead s s sub max/ 
+	 construct large element row upper 
+	 triangular a. use lemma establish m. neumann 
+	 r.j. plemmons 1987 comparison theorem propose 
+	 method simple numerical example 

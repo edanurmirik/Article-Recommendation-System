@@ -1,0 +1,8 @@
+waiting time distribution discrete time multiserver queue correlated 
+	 arrival deterministic service time d map d k system 
+ derive wait time distribution discrete time multiserver queue 
+	 correlate arrival deterministic constant service time 
+	 procedure obtain waiting time distribution 
+	 multiserver queue reduce single server queue 
+	 present complete solution wait time distribution 
+	 d map d k queue computational result 

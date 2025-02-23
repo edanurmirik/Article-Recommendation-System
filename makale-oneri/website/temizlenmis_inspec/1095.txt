@@ -1,0 +1,23 @@
+development real time monitoring system 
+ paper describe pattern recognition pr technique use learn 
+	 vector quantization lvq method adapt practical 
+	 application solve problem area condition monitoring 
+	 fault diagnosis number fault signature involve 
+	 situation aim health monitoring include 
+	 identification deterioration healthy condition 
+	 identification cause failure real time reason 
+	 fault database develop contain collect information 
+	 state operation system form pattern 
+	 vector task real time monitoring system correlate 
+	 pattern unknown fault know fault signature fault 
+	 database determine cause failure degree 
+	 deterioration system test problem fault diagnosis 
+	 involve large number pattern large sample time 
+	 affect learning stage neural network study aim 
+	 find fast learning model neural network instance 
+	 high number pattern numerous processing element involve 
+	 begin search appropriate solution study extend 
+	 enforcement learning model consider lvq network 
+	 emerge competitive learning model enforcement 
+	 training finally test accuracy 92.3 cent fault 
+	 diagnostic capability technique 

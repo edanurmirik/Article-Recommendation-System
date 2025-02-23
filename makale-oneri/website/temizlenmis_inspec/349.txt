@@ -1,0 +1,18 @@
+self adjust quality service control scheme 
+ propose analyze self adjust quality service qos control scheme 
+	 goal optimize system reward result servicing 
+	 different priority client vary workload qos 
+	 reward penalty requirement scheme base resource 
+	 partition designate degrade qos area system 
+	 resource partition priority area reserve 
+	 specifically serve client corresponding class qos 
+	 degradation plus degraded qos area client 
+	 admit qos adjustment apply low priority 
+	 client good partition dictate workload 
+	 reward penalty characteristic client difference 
+	 priority class analysis result use qos manager 
+	 optimize system total reward dynamically response change 
+	 workload run time demonstrate validity scheme 
+	 mean simulation compare propose qos self adjusting 
+	 scheme use resource partitioning designate 
+	 degraded qos area 

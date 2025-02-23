@@ -1,0 +1,10 @@
+semi algebraic theory stochastic game 
+ asymptotic behavior min max value finite state zero sum 
+	 discount stochastic game discount rate approach 0 
+	 study past use theory real close field use 
+	 theory semi algebraic set mapping prove asymptotic 
+	 property min max value hold uniformly 
+	 stochastic game number state player action 
+	 predetermine fix value corollary prove uniform 
+	 polynomial convergence rate value n stage game 
+	 value nondiscount game bound set payoff 

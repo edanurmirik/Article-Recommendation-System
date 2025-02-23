@@ -1,0 +1,16 @@
+evaluation exist new feature recognition algorithm 2 experimental 
+	 result 
+ pt.1 ibid p.839 851 second paper investigate 
+	 performance general purpose feature detection technique 
+	 paper describe development methodology synthesize 
+	 possible general feature detection face set algorithm result 
+	 synthesis design implement sun 
+	 workstation c++ use acis geometric modelling system 
+	 paper extensive test comparative analysis conduct 
+	 feature detection algorithm use carefully select component 
+	 public domain national design repository 
+	 result new enhanced algorithm identify face set 
+	 previously publish algorithm detect test 
+	 algorithm detect type certain type 
+	 feature unique algorithm discuss 
+	 paper combine obtain complete coverage 

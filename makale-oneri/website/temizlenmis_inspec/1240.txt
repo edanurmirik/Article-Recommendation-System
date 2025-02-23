@@ -1,0 +1,16 @@
+implementation evaluation hpf sx v2 
+ develop hpf sx v2 high performance fortran hpf compiler 
+	 vector parallel machine provide unique extension 
+	 feature hpf 2.0 hpf ja particular paper describe 
+	 1 directive hpf 2.0 2 reflect 
+	 local directive hpf ja 3 vectorization directive 4 
+	 automatic parallelization evaluate feature 
+	 benchmark program nec sx-5 result 
+	 achieve 5 8 time speedup 8 cpu parallel execution 
+	 feature useful vector parallel execution evaluate 
+	 overall performance hpf sx v2 use 30 know benchmark 
+	 program hpfbench apr benchmarks genesis benchmarks nas 
+	 parallel benchmarks half program good 
+	 performance half suggest weakness compiler 
+	 especially runtime necessary improve 
+	 compiler practical use 

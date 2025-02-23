@@ -1,0 +1,15 @@
+role b2b engine b2b integration architecture 
+ semantic b2b integration architecture enable enterprise communicate 
+	 standard base b2b event like purchase order potential 
+	 trading partner require end application 
+	 integration capability integrate e.g. enterprise resource 
+	 planning erp system company internal source destination 
+	 b2b event capability implement necessary b2b 
+	 protocol like electronic data interchange edi rosettanet 
+	 generic capability like web service ws paper 
+	 placement functionality b2b engine semantic b2b integration 
+	 architecture implement generic framework modeling 
+	 execute b2b protocol detailed discussion b2b 
+	 engine provide necessary abstraction implement 
+	 standard base b2b protocol trading partner specific 
+	 specialization 

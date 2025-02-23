@@ -1,0 +1,20 @@
+efficient transitive closure reasoning combine class containment 
+	 hierarchy 
+ class hierarchy form backbone implement knowledge 
+	 representation reasoning system use inheritance 
+	 classification transitive closure reasoning hierarchy 
+	 important artificial intelligence hierarchy e.g. 
+	 containment hierarchy receive attention artificial 
+	 intelligence paper present architecture implementation 
+	 hierarchy reasoner integrate class hierarchy 
+	 hierarchy containment hierarchy structure order 
+	 implement reasoner useful need operate 
+	 speed comparable human reasoning real world hierarchy 
+	 large special technique need use achieve 
+	 develop set parallel algorithm datum representation 
+	 maximally reduce tree cover purpose maximally 
+	 reduce tree cover improvement materialize transitive 
+	 closure representation appear literature 
+	 experiment medical vocabulary transitive closure 
+	 reason combine class containment hierarchy near 
+	 constant time possible fix hardware configuration 

@@ -1,0 +1,10 @@
+regularize conjugate gradient method symmetric positive definite system 
+	 linear equation 
+ class regularize conjugate gradient method present solve 
+	 large sparse system linear equation coefficient matrix 
+	 ill condition symmetric positive definite matrix 
+	 convergence property method discuss depth 
+	 good possible choice parameter involve new method 
+	 investigate detail numerical computation new 
+	 method efficient robust classical relaxation 
+	 method classical conjugate direction method 

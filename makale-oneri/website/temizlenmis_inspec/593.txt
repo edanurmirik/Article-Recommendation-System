@@ -1,0 +1,9 @@
+fuzzy system overlap gaussian concept approximation property 
+	 sobolev norm 
+ paper approximate capability fuzzy system overlap 
+	 gaussian concept consider target function assume 
+	 sample regular gird accord uniform probability 
+	 density exploit connection radial basis functions 
+	 approximator new method computation system 
+	 coefficient provide guarantee uniform 
+	 approximation derivative target function 

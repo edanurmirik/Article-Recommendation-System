@@ -1,0 +1,26 @@
+spatial rainfall simulator crop production modeling southern africa 
+ paper describe methodology simulate rainfall dekad 
+	 set spatial unit area long term meteorological record 
+	 available small number site work form 
+	 large simulation model food system district zimbabwe 
+	 include crop production component yield maize small 
+	 grain groundnut limited number meteorological station 
+	 available surround district long time 
+	 series rainfall record preliminary analysis rainfall datum 
+	 station suggest intra seasonal temporal correlation 
+	 negligible rainfall station correlate 
+	 rainfall neighbouring station spatial correlation structure 
+	 model use multivariate normal distribution consist 
+	 30 relate variable represent dekadly rainfall 30 
+	 ward ward log transform rainfall 36 
+	 dekad year characterize mean standard deviation 
+	 interpolate surround meteorological station 
+	 covariance matrix derive distance measure use 
+	 represent spatial correlation ward set random number 
+	 draw distribution simulate rainfall 
+	 ward dekad cross validation estimate rainfall 
+	 parameter observed parameter meteorological 
+	 station district suggest interpolation process 
+	 work methodology develop useful situation 
+	 long term climatic record scarce rainfall 
+	 pronounce spatial correlation negligible temporal correlation 

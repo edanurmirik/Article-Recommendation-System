@@ -1,0 +1,12 @@
+exactly solvable random satisfiability problem 
+ introduce new model generation random satisfiability problem 
+	 extension hyper sat model ricci tersenghi weigt 
+	 zecchina 2001 variant famous k sat model 
+	 extend q state variable relate different choice 
+	 statistical ensemble model exactly solvable statistic 
+	 critical exponent scale function sat unsat transition 
+	 calculable zero temperature need replicas 
+	 exact finite size correction introduce exact duality 
+	 model analogy thermodynamic property 
+	 random energy model disorder spin system theory relation 
+	 error correcting code discuss 

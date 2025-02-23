@@ -1,0 +1,14 @@
+silicon debug powerpc tm microprocessor use model check 
+ silicon available newly design microprocessor test 
+	 specially equip hardware laboratory real application 
+	 run hardware speed large volume code 
+	 run plus limit access internal node chip 
+	 difficult characterize nature failure occur 
+	 describe temporal logic model checking use quickly 
+	 characterize design error exhibit hardware testing 
+	 powerpc microprocessor outline condition model 
+	 checking efficiently characterize failure 
+	 particular error detect reveal early 
+	 design cycle model check short simple correctness 
+	 specification discuss implication verification 
+	 methodology design cycle 

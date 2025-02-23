@@ -1,0 +1,19 @@
+efficient dipie algorithm cad electrostatically actuate mems device 
+ pull parameter important property electrostatic actuator 
+	 efficient accurate analysis tool capture parameter 
+	 different design geometry essential current 
+	 simulation tool approach pull state iteratively adjust 
+	 voltage apply actuator electrode convergence 
+	 rate scheme gradually deteriorate pull state 
+	 approach convergence inconsistent require 
+	 mesh accuracy refinement assure reliable prediction 
+	 result design procedure electrostatically actuate mems device 
+	 time consume paper novel displacement iteration 
+	 pull extraction dipie scheme present dipie scheme 
+	 converge consistently far rapidly voltage 
+	 iterations vi scheme 100 time fast dipie scheme 
+	 require separate mechanical electrostatic field solver 
+	 easily implement exist moems cad package 
+	 use dipie scheme pull parameter extraction 
+	 perform fully automate mode user input search 
+	 bound require 

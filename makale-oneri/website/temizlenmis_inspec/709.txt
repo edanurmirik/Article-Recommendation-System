@@ -1,0 +1,8 @@
+cooperative mutation base evolutionary programming continuous function 
+	 optimization 
+ evolutionary programming ep algorithm adapt new mutation operator 
+	 present unlike previous ep individual 
+	 mutate individual propose algorithm 
+	 mutate cooperation individual 
+	 enhance convergence speed chance escape 
+	 local minima 

@@ -1,0 +1,10 @@
+bit serial ab sup 2/ multiplier use modify inner product 
+ paper present new multiplication algorithm base 
+	 algorithm propose hardware architecture modify 
+	 inner product multipli mipm compute ab sup 2/ 
+	 multiplication base linear feedback shift register lfsr 
+	 algorithm base property irreducible 
+	 polynomial aop finite field gf(2 sup m/ propose 
+	 architecture reduce time space complexity compute ab sup 
+	 2/. propose architecture potential application 
+	 implement exponentiation architecture public key cryptosystem 

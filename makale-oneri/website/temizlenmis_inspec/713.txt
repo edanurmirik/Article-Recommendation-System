@@ -1,0 +1,12 @@
+efficient feasibility testing dial ride problem 
+ dial ride system involve dispatch vehicle satisfy demand set 
+	 customer vehicle operate agency request 
+	 item tie pick specific location deliver specific 
+	 destination dial ride problem differ routing 
+	 scheduling problem typically involve service relate 
+	 constraint common maximum wait time constraint 
+	 maximum ride time constraint presence maximum wait time 
+	 maximum ride time restriction clear efficiently 
+	 determine sequence pickup delivery 
+	 feasible schedule exist demonstrate fact 
+	 linear time 

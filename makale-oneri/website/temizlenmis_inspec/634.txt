@@ -1,0 +1,13 @@
+approximation f distribution use chi square distribution 
+ cumulative distribution function c.d.f f distribution f(x 
+	 k n associate degree freedom k n shrink factor 
+	 approximation sfa g lambda kx k propose large n 
+	 fix k g(x k chi square c.d.f degree 
+	 freedom k lambda lambda kx n shrink factor 
+	 numerical analysis indicate n k or= 3 approximation 
+	 accuracy sfa fourth decimal place small 
+	 value k. substantial improvement accuracy 
+	 achievable use normal ordinary chi square scheffe tukey 
+	 approximation addition theoretical 
+	 approximation error sfa |f(x k n)-g lambda kx k)| 
+	 o(1 n sup 2/ uniformly x 

@@ -1,0 +1,24 @@
+adaptive thinning bivariate scatter datum 
+ paper study adaptive thinning strategy approximate large set 
+	 scatter datum piecewise linear function triangulate 
+	 subset strategy depend location datum point 
+	 plane value sample function point 
+	 adaptive thinning thinning strategy remove datum point 
+	 minimize estimate error result 
+	 removal point current set point estimate 
+	 term anticipate error thinning process generate subset 
+	 significant point piecewise linear interpolant 
+	 delaunay triangulation subset approximate 
+	 progressively function value sample original scatter 
+	 point approximation error small relative 
+	 number point subset design method 
+	 compute anticipated error reasonable cost compare 
+	 test performance method prove datum sample 
+	 convex function strategy convex triangulation 
+	 actual error minimize minimize perform measure 
+	 anticipate error datum sample certain 
+	 quadratic polynomial adaptive thinning equivalent thinning 
+	 depend location datum point nonadaptive 
+	 thinning base numerical test comparison practical 
+	 adaptive thinning algorithm propose thin large data set 
+	 accurate fast 

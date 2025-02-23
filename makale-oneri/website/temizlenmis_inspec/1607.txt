@@ -1,0 +1,12 @@
+solvable queue network model railway network validation 
+	 application netherlands 
+ performance new railway network measure simulate 
+	 detailed train schedule available railway infrastructure 
+	 capacity determine long actual traffic 
+	 know paper propose solvable queue network model 
+	 compute performance measure interest require train 
+	 schedule timetable closed form expression mean delay 
+	 obtain new network design traffic scenario capacity 
+	 expansion evaluate comparison real delay datum 
+	 netherlands support practical value model special 
+	 dutch cargo line application include 

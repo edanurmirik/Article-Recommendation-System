@@ -1,0 +1,12 @@
+estimation vanish point automatic driving system use cross 
+	 ratio 
+ paper propose new method estimate vanish point use 
+	 vehicle heading essential automatic driving system 
+	 propose method use cross ratio comprise ratio length 
+	 collinear point extract edge shape vanish 
+	 point line intersect point fit edge 
+	 hough space consequently vanish point estimate 
+	 robustly lane marking occlude vehicle 
+	 presence lane marking road boundary estimate 
+	 time experimental result image real road scene 
+	 effectiveness propose method 

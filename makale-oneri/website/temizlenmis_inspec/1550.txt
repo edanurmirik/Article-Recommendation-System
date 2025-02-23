@@ -1,0 +1,11 @@
+convergence bermudez moreno algorithm constant parameter 
+ a. bermudez c. moreno 1981 present duality numerical algorithm 
+	 solve variational inequality second kind performance 
+	 algorithm strongly depend choice constant 
+	 parameter assume hypothesis inf sup type 
+	 present convergence theorem improve present 
+	 a. bermudez c. moreno prove convergence linear 
+	 expression asymptotic error constant 
+	 explicit form optimal parameter function 
+	 constant relate variational inequality finally present 
+	 numerical example confirm theoretical result 

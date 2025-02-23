@@ -1,0 +1,8 @@
+quadratic 0 1 knapsack problem series parallel support 
+ consider special case quadratic 0 1 knapsack problem qkp 
+	 underlie graph structure fairly simple 
+	 variant edge series parallel graph dynamic programming 
+	 algorithm pseudo polynomial time complexity fully 
+	 polynomial time approximation scheme strong contrast 
+	 variant vertex series parallel graph strongly 
+	 np complete 

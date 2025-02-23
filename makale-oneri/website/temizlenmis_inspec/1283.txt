@@ -1,0 +1,8 @@
+upsilon universal programming system incomplete lazy object notation 
+ paper present new model computation differ prior model 
+	 emphasize datum flow control variable 
+	 object orient flavor prove model 
+	 complete confluent acceptable programming system usable 
+	 type theory new data synchronization primitive introduce 
+	 order achieve property subtle variation model 
+	 fall short necessary property 

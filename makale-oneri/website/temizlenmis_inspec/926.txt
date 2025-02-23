@@ -1,0 +1,12 @@
+experimental investigation active vibration control use neural network 
+	 piezoelectric actuator 
+ use neural network identification control smart structure 
+	 investigate experimentally piezoelectric actuator employ 
+	 suppress vibration cantilever plate subject impulse 
+	 sine wave band limit white noise disturbance neural 
+	 network use multilayer perceptron train error 
+	 backpropagation validation study identifier predict 
+	 system dynamic accurately controller train adaptively 
+	 help neural identifier experimental result 
+	 demonstrate excellent closed loop performance robustness 
+	 neurocontroller 

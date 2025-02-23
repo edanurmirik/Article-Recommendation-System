@@ -1,0 +1,18 @@
+fusion qualitative bond graph genetic algorithm fault diagnosis 
+	 application 
+ paper problem fault diagnosis integration genetic 
+	 algorithm ga qualitative bond graph qbg address 
+	 suggest ga use search possible fault component 
+	 system qualitative equation qbg adopt 
+	 modeling scheme generate set qualitative equation 
+	 qualitative bond graph provide unified approach modeling 
+	 engineering system particular mechatronic system order 
+	 demonstrate performance propose algorithm test 
+	 propose algorithm house design build float disc 
+	 experimental setup result fault diagnosis float disc 
+	 system present discuss additional measurement 
+	 require localize fault fault candidate 
+	 infer fault diagnosis activate fault detection mechanism 
+	 discrepancy measure abnormal behavior predict 
+	 system behavior observe fault detection mechanism 
+	 present 

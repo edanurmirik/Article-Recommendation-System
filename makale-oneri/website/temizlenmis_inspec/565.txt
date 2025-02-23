@@ -1,0 +1,22 @@
+control thin film growth chemical vapor deposition manufacturing system 
+	 feasibility study 
+ study carry design optimize chemical vapor deposition cvd 
+	 system material fabrication design optimization cvd 
+	 process necessary satisfy strong global demand 
+	 increase quality requirement thin film production advantage 
+	 computer aid optimization include high design turnaround time 
+	 flexibility explore large design space development 
+	 adaptation automation technique design optimization cvd 
+	 reactor consist vertical impinge jet atmospheric pressure 
+	 grow titanium nitride film study thin film 
+	 deposition numerical modeling simulation use determine 
+	 rate deposition film uniformity wide range design 
+	 variable operating condition result use system 
+	 design optimization optimization procedure employ 
+	 objective function characterize film quality productivity 
+	 operational cost base reactor gas flow rate susceptor temperature 
+	 precursor concentration parameter space mapping use 
+	 determine design space minimization algorithm 
+	 steep descent method use determine optimal operating 
+	 condition system main feature computer aid design 
+	 optimization use technique discuss detail 

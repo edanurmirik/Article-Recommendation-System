@@ -1,0 +1,18 @@
+plenoptic image edit 
+ paper present new class interactive image edit operation 
+	 design maintain consistency multiple image physical 
+	 3d scene distinguish feature operation edit 
+	 image propagate automatically image 
+	 unknown 3d scene modify modified scene 
+	 view interactively camera viewpoint 
+	 different scene illumination approach useful 
+	 power assist enable user quickly modify image 
+	 edit second means construct editing 
+	 image base scene representation manipulate set photograph 
+	 approach work extend operation like image painting 
+	 scissoring morph alter scene plenoptic 
+	 function physically consistent way affect scene 
+	 appearance viewpoint simultaneously key element 
+	 realize operation new volumetric decomposition technique 
+	 reconstruct scene plenoptic function incomplete set 
+	 camera viewpoint 

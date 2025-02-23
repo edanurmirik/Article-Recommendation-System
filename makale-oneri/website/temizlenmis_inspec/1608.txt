@@ -1,0 +1,8 @@
+geometric process equivalent model multistate degenerative system 
+ paper monotone process model component degenerative system 
+	 k+1 states k failure state work state study 
+	 model equivalent geometric process gp model 
+	 state component system system 
+	 long run average cost unit time optimal policy 
+	 furthermore explicit expression determination optimal 
+	 policy derive 

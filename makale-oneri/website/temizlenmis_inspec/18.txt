@@ -1,0 +1,13 @@
+differential integral calculus discrete time series datum 
+ find discontinuity play crucial role natural evolution 
+	 lin 1998 presentation generalize idea 
+	 integration differentiation develop calculus study 
+	 time series hope problem outlier 
+	 discontinuity resolve successfully simply delete 
+	 outlier avoid discontinuity overall data 
+	 analysis general appearance outlier tend mean existence 
+	 discontinuity explosive growth decline evolution 
+	 time approach employ partially overcome 
+	 problem data value available time series 
+	 end look real life problem prediction 
+	 order power new approach 

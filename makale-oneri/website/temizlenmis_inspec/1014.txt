@@ -1,0 +1,16 @@
+modelling complete robot dynamic base multi dimensional rbf like 
+	 neural architecture 
+ neural network base identification approach manipulator dynamic 
+	 present structured modelling rbf like static neural network 
+	 use order represent adapt model parameter 
+	 non linear dependence joint position neural 
+	 architecture hierarchically organise reach optimal adjustment 
+	 structural priori knowledge identification problem 
+	 model structure substantially simplify general system analysis 
+	 independent robot type lot specific feature 
+	 utilise experimental robot account fix grid base 
+	 neuron placement application b spline polynomial basis 
+	 function utilise favourably effective recursive 
+	 implementation neural architecture online 
+	 identification dynamic model submit complete 6 joint 
+	 industrial robot 

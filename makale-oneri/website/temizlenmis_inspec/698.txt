@@ -1,0 +1,14 @@
+robust stability analysis current program regulator 
+ uncertainty model basic switch mode converter buck boost 
+	 buck boost paper result model 
+	 represent linear fractional transformation structured 
+	 dynamic uncertainty uncertainty assume load 
+	 resistance r r sub o/(1 delta /sub r/ inductance l l sub o/(1 delta 
+	 /sub l/ capacitance c c sub o/(1 delta /sub c/ interest 
+	 model clearly motivate need model 
+	 switch mode dc dc converter compatible robust control 
+	 analysis require model structure consist nominal model 
+	 norm bound modeling uncertainty robust stability 
+	 analysis realize use standard mu -tool end 
+	 paper illustrative example simplicity 
+	 procedure 

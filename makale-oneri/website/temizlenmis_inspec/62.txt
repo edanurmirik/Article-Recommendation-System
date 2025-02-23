@@ -1,0 +1,15 @@
+text independent speaker verification use utterance level scoring 
+	 covariance modeling 
+ paper describe computationally simple method perform text 
+	 independent speaker verification use second order statistic 
+	 suggest method utterance level scoring uls allow 
+	 obtain normalize score use single pass frame 
+	 test utterance utterance sample covariance calculate 
+	 compare speaker covariance use distortion measure 
+	 subsequently distortion measure utterance covariance 
+	 sample covariance datum different speaker use 
+	 normalize score experimental result 2000 nist speaker 
+	 recognition evaluation present uls use different 
+	 distortion measure gaussian mixture model gmm system 
+	 result indicate uls viable alternative gmm 
+	 computational complexity verification accuracy need trade 

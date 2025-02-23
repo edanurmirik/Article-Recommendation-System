@@ -1,0 +1,8 @@
+use fuzzy weight autocorrelation function pitch extraction noisy 
+	 speech 
+ investigation present feasibility incorporate fuzzy 
+	 weighting scheme calculation autocorrelation function 
+	 pitch extraction simulation result reveal propose 
+	 method provide robustness background noise 
+	 conventional approach extract pitch period noisy 
+	 environment 

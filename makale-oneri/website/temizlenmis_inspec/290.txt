@@ -1,0 +1,8 @@
+mems application computer disk drive dual stage servo system 
+ present decouple discrete time pole placement design method 
+	 combine self tune scheme compensate variation 
+	 microactuator ma resonance mode section paper describe 
+	 design fabrication prototype microactuator 
+	 integrate gimbal structure section ii present decouple 
+	 track follow controller design self tune control scheme 
+	 compensate ma resonance mode variation 

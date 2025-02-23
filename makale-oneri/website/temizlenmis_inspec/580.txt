@@ -1,0 +1,14 @@
+genetic approach optimization automatic generation control 
+	 parameter power system 
+ paper present method base genetic algorithm automatic 
+	 generation control power system technique apply 
+	 control system include area tie 
+	 power line consequence continuous load variation 
+	 frequency power system change time conventional 
+	 study frequency transient minimize use integral 
+	 controller zero steady state error obtain 
+	 paper integral controller gain frequency bias factor 
+	 determine use genetic algorithm result simulation 
+	 reveal application genetic algorithm easy 
+	 implementation find global optimum value control 
+	 parameter 

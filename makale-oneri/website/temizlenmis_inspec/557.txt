@@ -1,0 +1,16 @@
+noise psth response current transient ii integrate fire model 
+	 slow recovery application motoneuron datum 
+ pt ibid vol.11 no.2 p.135 151 2001 generalized version 
+	 integrate fire model present qualitatively reproduce 
+	 fire rate membrane trajectory motoneuron description 
+	 base spike response model include different time 
+	 constant passive membrane time constant recovery time 
+	 input conductance spike time constant spike 
+	 afterpotential effect stochastic background input 
+	 peristimulus time histogram psth response spike input 
+	 calculate analytically model result compare 
+	 experimental datum poliakov et al 1996 linearize theory 
+	 psth response input spike proportional 
+	 filter version postsynaptic potential generate input 
+	 spike shape filter depend background activity 
+	 nonlinear theory close agreement simulate psth datum 

@@ -1,0 +1,3 @@
+exact controllability shell minimal time 
+ prove exact controllability result thin cup use fourier method 
+	 recent improvement ingham 1936 type theorem 

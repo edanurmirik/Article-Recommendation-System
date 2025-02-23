@@ -1,0 +1,16 @@
+fuzzy system model pharmacology improved algorithm 
+ paper propose improve fuzzy system model algorithm 
+	 address limitation exist approach identify 
+	 modeling pharmacological datum algorithm differ 
+	 exist approach cluster validity problem 
+	 i.e. number cluster projection schema i.e. input 
+	 membership assignment rule determination significant input 
+	 determination new algorithm compare bazoon turksen 
+	 model base know sugeno yasukawa approach 
+	 comparison term predictive performance use 
+	 different datum set comparison variable 
+	 nonlinear function prediction problem second comparison 
+	 clinical pharmacokinetic modeling problem 
+	 propose algorithm provide precise prediction determine 
+	 degree significance input variable allow user 
+	 distinguish relative importance 

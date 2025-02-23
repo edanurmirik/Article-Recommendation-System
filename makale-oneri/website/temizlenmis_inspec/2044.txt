@@ -1,0 +1,10 @@
+dimensional geometrical optic code indoor propagation 
+ paper present program 3d compute field transmitter 
+	 indoor environment use geometrical optic program use 
+	 image tree datum structure construct image need compute 
+	 ray carry field preset threshold value 
+	 matter reflection need paper briefly describe 
+	 input file require define wall construction floor plan 
+	 transmitter receiver location case study consist 
+	 long corridor small room use demonstrate 
+	 feature 3d program 

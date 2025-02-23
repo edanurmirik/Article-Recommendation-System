@@ -1,0 +1,26 @@
+efficient tracking cross correlation coefficient 
+ audio processing algorithm involve manipulation discrete time 
+	 signal performance vary strongly repertoire 
+	 use case signal channel 
+	 allow strongly positively negatively correlate 
+	 propose analyze general formula track time dependent 
+	 correlation signal special case formula 
+	 lead classical result know literature new 
+	 formula recursive nature use instantaneous 
+	 value signal low cost low complexity manner 
+	 particular need square root carry 
+	 division furthermore formula modify respect 
+	 occurrence signal far decrease 
+	 complexity increase ease implementation 
+	 modification come expense actual correlation 
+	 track somewhat deform version overcome 
+	 problem propose number instance tracking 
+	 formula simple warping operation deform correlation 
+	 obtain sinusoidal signal correct value 
+	 correlation coefficient special attention pay convergence 
+	 behavior algorithm stationary signal dynamic 
+	 behavior transition stationary state 
+	 consider important study tracking ability 
+	 nonstationary signal illustrate tracking algorithm use 
+	 stereo music fragment obtain number digital audio 
+	 recording 

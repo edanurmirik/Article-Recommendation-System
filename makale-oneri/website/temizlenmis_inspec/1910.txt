@@ -1,0 +1,28 @@
+breast cancer effectiveness computer aid diagnosis observer study 
+	 independent database mammogram 
+ evaluate effectiveness computerized classification method aid 
+	 radiologist review clinical mammogram diagnosis 
+	 unknown radiologist computer 
+	 mammographer community radiologist participate 
+	 observer study 12 radiologist interpret 
+	 computer aid 110 case unknown 12 radiologist 
+	 observer train computer classification scheme 
+	 radiologist performance differentiate benign 
+	 malignant masse computer aid evaluate 
+	 receiver operating characteristic roc analysis tail p value 
+	 calculate student t test indicate statistical 
+	 significance difference performance 
+	 computer aid computer aid use average performance 
+	 12 radiologist improve indicate increase 
+	 area roc curve sub z/ 0.93 0.96 p<.001 
+	 increase partial area roc curve /sub 0.9/0a'/sub z/ 
+	 0.56 0.72 p<.001 increase sensitivity 
+	 94 98 p=.022 statistically significant difference 
+	 specificity find reading computer 
+	 aid delta -0.014 p=.46 95 cl -0.054 0.026 delta 
+	 difference specificity analyze result 
+	 mammographer community radiologist separate group large 
+	 improvement demonstrate community radiologist 
+	 computer aid diagnosis potentially help radiologist improve 
+	 diagnostic accuracy task differentiate benign 
+	 malignant masse mammogram 

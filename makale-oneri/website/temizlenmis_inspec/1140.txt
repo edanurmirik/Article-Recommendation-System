@@ -1,0 +1,20 @@
+computer aid classification masse ultrasonic mammography 
+ frequency compounding recently investigate computer aid 
+	 classification masse ultrasonic b mode image benign 
+	 malignant classification perform use normalize 
+	 parameter nakagami distribution single region interest 
+	 site mass combination normalize nakagami 
+	 parameter different image mass undertake 
+	 improve performance classification receiver operate 
+	 characteristic roc analysis approach result 
+	 area 0.83 roc curve aim work describe 
+	 paper feature describe characteristic 
+	 boundary extract combine nakagami parameter 
+	 far improve performance classification combination 
+	 feature perform use weighted summation result 
+	 indicate 10 improvement specificity sensitivity 96 
+	 combine information site boundary 
+	 technique require minimal clinical intervention 
+	 performance reach train radiologist 
+	 suggest technique utilize practice 
+	 characterize breast masse 

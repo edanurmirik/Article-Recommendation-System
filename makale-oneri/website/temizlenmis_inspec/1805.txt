@@ -1,0 +1,16 @@
+exact analytical model aep control signal 
+ exact analytical model aliasing error probability aep 
+	 signature analysis control signal use modified signature 
+	 analyser present signature analyser use comprise 
+	 general structure input compacting module ticm simplifie 
+	 motherboard vlsi design provide flexible geometry 
+	 easily integrate neighbouring structure use 
+	 modify datum probe eliminate ambiguity introduce 
+	 high impedance state time retain signature 
+	 binary stream model specify algebraically effect 
+	 ticm architecture test pattern length control stream 
+	 error probability prove hardware criterion use 
+	 calculate aep internal- external exclusive 
+	 input shift register valid general case new 
+	 criterion provide result obtain augment 
+	 special case case study associate simulation 

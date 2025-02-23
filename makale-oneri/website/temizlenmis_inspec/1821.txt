@@ -1,0 +1,11 @@
+performance design control series parallel cl sup 2/-type resonant 
+	 dc dc converter 
+ element resonant network topological alternative 
+	 prospective compound topology investigate detail 
+	 converter use capacitor c inductor l sup 2/ form 
+	 compound type cl sup 2/ network advantage limitation 
+	 converter detail new design procedure 
+	 converter introduce converter control 
+	 vary switch frequency pulse width modulation 
+	 experimental prototype produce excellent performance 
+	 lag power factor mode confirm 

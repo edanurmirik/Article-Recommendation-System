@@ -1,0 +1,16 @@
+model selection electromagnetic source analysis application vefs 
+ electromagnetic source analysis necessary determine 
+	 source require describe electroencephalogram 
+	 magnetoencephalogram adequately model selection procedure msp 
+	 goodness fit procedure estimate require number 
+	 source existing new msp evaluate different source 
+	 noise setting source close distant noise 
+	 uncorrelated correlate commonly use msp residual variance 
+	 ineffective select source 
+	 alternative like adjust hotelling test bayes information 
+	 criterion wald test source amplitude 
+	 effective adjusted hotelling test recommend 
+	 conservative approach msp bayes information 
+	 criterion wald test source amplitude recommend 
+	 liberal approach desirable msp apply empirical 
+	 datum visual evoke field 

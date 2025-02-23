@@ -1,0 +1,6 @@
+strong completeness lattice value logic 
+ paper strong completeness system l lattice value logic 
+	 s. titani 1999 formulate lattice value set 
+	 theory introduce logical implication represent 
+	 order relation lattice syntax semantic concern 
+	 describe strong completeness prove 

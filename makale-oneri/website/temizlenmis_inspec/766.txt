@@ -1,0 +1,7 @@
+physical quantum algorithm 
+ review difference classical quantum system emphasize 
+	 connection hide variable theorem superior 
+	 computational power quantum computer use quantum lattice gas 
+	 automata example describe possibility efficient simulation 
+	 quantum classical system quantum computer conclude 
+	 list research direction 

@@ -1,0 +1,15 @@
+stem secure telephony enable middlebox 
+ dynamic application include ip telephony wide acceptance 
+	 enterprise problem cause exist network 
+	 infrastructure static element include firewall network 
+	 address translation device capable allow dynamic 
+	 application operate properly secure telephony enable 
+	 middlebox stem architecture enhancement exist network 
+	 design remove issue surround static device 
+	 architecture incorporate improved firewall interpret 
+	 utilize information application layer packet ensure 
+	 proper functionality addition allow dynamic application 
+	 function normally stem architecture incorporate 
+	 detection response mechanism know network base 
+	 vulnerability article describe key component 
+	 architecture respect sip protocol 

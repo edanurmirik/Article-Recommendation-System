@@ -1,0 +1,17 @@
+use visual search knowledge gathering image decision support 
+ paper present new method knowledge gathering decision support 
+	 image understanding base information extract dynamic 
+	 saccadic eye movement framework involve construction 
+	 generic image feature extraction library feature 
+	 extractor relevant visual assessment domain 
+	 expert determine automatically factor analysis 
+	 dynamic visual search analyze use markov model 
+	 provide training information novice look 
+	 image feature validity framework evaluate 
+	 clinical scenario pulmonary vascular distribution 
+	 computed tomography image assess experienced radiologist 
+	 potential indicator heart failure performance system 
+	 demonstrate train novice follow visual 
+	 assessment behavior experienced observer case 
+	 accuracy student improve near random decision 
+	 33 accuracy range 50 68 

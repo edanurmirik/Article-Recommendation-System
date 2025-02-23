@@ -1,0 +1,9 @@
+fuzzy probabilistic control chart 
+ article different procedure construct control chart 
+	 linguistic datum base fuzzy probability theory discuss 
+	 set membership function different degree 
+	 fuzziness propose fuzzy approach comparison 
+	 fuzzy probability approach base average run length 
+	 sample control conduct real datum contrary 
+	 conclusion raz wang 1990 choice degree fuzziness 
+	 affect sensitivity control chart 

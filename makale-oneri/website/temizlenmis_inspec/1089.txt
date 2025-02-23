@@ -1,0 +1,7 @@
+accuracy stability split stabilize corrections 
+ paper contain convergence analysis method stabilize 
+	 correction internally consistent splitting scheme 
+	 initial boundary value problem obtain accuracy 
+	 treatment explicit term extension regard 
+	 analyze relevance theoretical result test 
+	 convection diffusion reaction equation 

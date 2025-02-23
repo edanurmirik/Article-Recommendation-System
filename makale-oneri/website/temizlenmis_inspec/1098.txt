@@ -1,0 +1,17 @@
+instability phenomena gas metal arc welding self regulation process 
+ arc instability important determinant weld quality 
+	 instability behaviour gas metal arc welding gmaw process 
+	 characterize strong oscillation arc length current 
+	 paper model gmaw process develop use exact arc 
+	 voltage characteristic model use study stability 
+	 self regulation process develop simulation program help 
+	 understand transient dynamic nature gmaw process 
+	 relationship current electrode extension contact tube work 
+	 distance process exhibit instability long 
+	 electrode extension normal extension result obtain 
+	 simulation run model experimentally confirm 
+	 present author report study order explain 
+	 concept instability phenomena metal transfer mode 
+	 arc voltage current characteristic examine base 
+	 examination conclusion study combine 
+	 effect lead oscillation arc current length 

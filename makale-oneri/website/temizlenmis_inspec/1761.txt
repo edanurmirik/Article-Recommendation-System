@@ -1,0 +1,8 @@
+superconvergence discontinuous galerkin method nonstationary hyperbolic 
+	 equation 
+ order nonstationary hyperbolic equation piecewise 
+	 linear discontinuous galerkin solver prove uniform 
+	 rectangular partition discontinuous solver 
+	 postprocessing half approximative order half 
+	 order high optimal estimate p. lesaint p. raviart 
+	 1974 rectangular partition 

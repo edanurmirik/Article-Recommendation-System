@@ -1,0 +1,20 @@
+self organize feature map predict sea level 
+ paper new method predict sea level employ self organize 
+	 feature map introduce purpose map transform 
+	 unsupervised learning procedure supervised 
+	 concept originally develop solve problem convergence 
+	 network type propose apply kohonen network 
+	 functional relationship number neuron number 
+	 learn example criterion break learning 
+	 conform process self organization 
+	 use u matrix visualization learning procedure 
+	 prediction use neural model compare accuracy 
+	 observation prognosis prepare use model 
+	 hydrodynamic model statistical model near neighbor model 
+	 persistence model verbal forecast broadcast 
+	 record sea level forecast service federal maritime 
+	 hydrography agency bsh hamburg train map 
+	 meteorological oceanographic situation condense 
+	 possible weight learning vector 
+	 small possible self organize feature map predict sea level 
+	 model comparison 

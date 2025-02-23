@@ -1,0 +1,10 @@
+control lorenz chen system 
+ letter investigate new chaotic system role joint function 
+	 complex chaotic system lorenz chen system 
+	 use simple variable constant controller gradual tuning 
+	 controller control system evolve canonical lorenz 
+	 attractor chen attractor new transition chaotic 
+	 attractor evolve procedure reveal form mechanism 
+	 similar closely relate chaotic system demonstrate 
+	 simple control technique useful generate 
+	 analyze complex chaotic dynamical phenomenon 

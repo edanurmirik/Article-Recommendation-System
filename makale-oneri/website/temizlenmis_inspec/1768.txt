@@ -1,0 +1,19 @@
+isogenous elliptic curve rational 
+ elliptic curve pair e o e smooth projective curve 
+	 genus 1 o point e point infinity 
+	 elliptic curve weierstrass equation e y sup 2/ 
+	 sub 1 xy sub 3 y x sup 3/ sub 2 x sup 2/ sub 4 x 
+	 sub 6/. let q set rational e define q 
+	 coefficient sub i/ 1 2 3 4 6 rational o 
+	 define q. let e q elliptic curve let e(q)/sub tors/ 
+	 torsion group point e define q. theorem mazur 
+	 assert e(q)/sub tors/ follow 15 group e(q)/sub 
+	 tors/ z mz z mz z/2mz m 1 2 ... 10 12 m 1 2 3 4 
+	 elliptic curve e'/q isogenous elliptic curve e 
+	 isogeny i.e. morphism phi e e phi o 
+	 o o point infinity explicit model 
+	 elliptic curve e(q)/sub tors/ form z mz m 
+	 9,10,12 z/2z z/2mz m 4 accord mazur theorem 
+	 family elliptic curve explicit 
+	 model isogenous curve cyclic kernel consist 
+	 rational point 

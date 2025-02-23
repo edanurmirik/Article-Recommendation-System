@@ -1,0 +1,17 @@
+optimization requantization parameter mpeg transcode 
+ paper consider transcode mpeg stream convert 
+	 low bit rate mpeg stream propose method 
+	 transcode error reduce optimally select 
+	 quantization parameter macroblock transcode low 
+	 compression ratio crucial prohibit transcode 
+	 requantization parameter 1 2 time quantization 
+	 parameter input stream consequently step 
+	 optimization method requantization parameter propose 
+	 care error propagation effect interframe prediction 
+	 propose optimization method extend method 
+	 apply case high compression ratio 
+	 rate distortion curve approximate macroblock range 
+	 requantization parameter large 2 time quantization 
+	 parameter verify simulation experiment psnr 
+	 improve 0.5 0.8 db compare case 6 mbit s mpeg 
+	 stream optimize twofold recompression 

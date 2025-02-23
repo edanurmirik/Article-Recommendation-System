@@ -1,0 +1,15 @@
+surface micromachine paraffin actuate microvalve 
+ normally open microvalve fabricate test use paraffin 
+	 microactuator active element entire structure nominal 
+	 dimension phi 600 mu m 30 mu m batch fabricate surface 
+	 micromachine actuator channel material single 
+	 substrate gas flow rate 0.01 0.1 sccm range measure 
+	 device actuation power range 50 150 mw 
+	 glass substrate leak rate low 500 mu sccm measure 
+	 normally open blocking microvalve structure use 
+	 fabricate precision flow control system microvalve consist 
+	 block valve structure control valve design 
+	 operate 0.01 5.0 sccm flow range differential pressure 
+	 800 torr flow rate range 0.02 4.996 sccm 
+	 measure leak rate low 3.2 msccm valve system 
+	 measure 

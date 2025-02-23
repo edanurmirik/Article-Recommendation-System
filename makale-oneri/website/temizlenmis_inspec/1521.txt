@@ -1,0 +1,19 @@
+optimal multi degree reduction bezier curve constraint endpoint 
+	 continuity 
+ bezier curve degree n problem optimal multi degree reduction 
+	 degree reduction degree bezier curve degree 
+	 m m n-1 constraint endpoint continuity investigate 
+	 respect l sub 2/ norm paper present approximate 
+	 method mdr l sub 2/ explicit solution deal 
+	 method good property endpoint interpolation 
+	 continuity r s r s or=0 order preserve 
+	 endpoint respectively method paper perform multi degree 
+	 reduction time need stepwise computing 
+	 apply multi degree reduction endpoint continuity 
+	 order mdr l sub 2/ obtain square 
+	 approximation comparison method multi degree reduction 
+	 mdr l sub infinity achieve nearly good uniform 
+	 approximation respect l sub infinity norm 
+	 approximate effect mdr l sub 2/ 
+	 mdr l sub infinity /. explicit approximate error analysis 
+	 multi degree reduction method present 

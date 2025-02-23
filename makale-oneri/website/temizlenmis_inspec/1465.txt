@@ -1,0 +1,14 @@
+p system symport antiport rule trace object 
+ continue study p system computation perform 
+	 communication object system symport 
+	 antiport rule instead number object collect 
+	 specify membrane result computation consider 
+	 itinerary certain object membrane halting 
+	 computation write coding string label visit 
+	 membrane family language generate way 
+	 investigate respect place chomsky hierarchy 
+	 symport antiport rule apply conditional manner 
+	 promote inhibit certain object present 
+	 membrane rule apply characterization 
+	 recursively enumerable language obtain power system 
+	 rule apply freely partially describe 

@@ -1,0 +1,9 @@
+verification non functional property composable architecture 
+	 petri net 
+ paper introduce concept composability present mss 
+	 architecture example composable architecture mss claim 
+	 composable respect timing property discuss 
+	 model prove property architecture time extend 
+	 petrinets result step proof composability 
+	 present new kind petri net suitable 
+	 modeling architecture like mss 

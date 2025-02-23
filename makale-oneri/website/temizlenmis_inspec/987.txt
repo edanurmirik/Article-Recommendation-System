@@ -1,0 +1,11 @@
+proof election problem belong nf completeness problem 
+	 asynchronous distribute system 
+ paper hardness election problem asynchronous 
+	 distribute system process crash link 
+	 reliable hardness problem define respect 
+	 difficulty solve despite failure problem 
+	 encounter system classify class problem 
+	 f fault tolerant nf fault tolerant nfc nf completeness 
+	 class nfc hard problem solve 
+	 paper prove election problem difficult problem 
+	 belong class nfc 

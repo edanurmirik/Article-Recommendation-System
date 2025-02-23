@@ -1,0 +1,17 @@
+parallel operation capacity limit phase wire active power 
+	 filter 
+ phase wire active power filter apf present 
+	 parallel enlarge system capacity reliability apf 
+	 employ pwm leg voltage source inverter decouple control 
+	 approach leg connect neutral line propose 
+	 switching leg interaction function 
+	 propose apf include compensation reactive power harmonic current 
+	 unbalanced power zero sequence current load objective 
+	 achieve unity power factor balanced line current zero 
+	 neutral line current compensation component 
+	 capacity limited co operate cascade load current sensing 
+	 scheme multiple apf parallel share load power 
+	 require control interconnection addition provide 
+	 theoretic basis detailed design apf 6 kva apf 
+	 implement effectiveness propose method validate 
+	 experimental result 

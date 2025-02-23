@@ -1,0 +1,14 @@
+local activity criterion discrete map cnn 
+ discrete time cnn system study paper application 
+	 chua local activity principle system locally active 
+	 isolated parameter value result 
+	 nonhomogeneous spatiotemporal pattern induce initial 
+	 setting cnn system strength system diffusion 
+	 coupling exceed critical threshold critical coupling 
+	 coefficient derive load cell impedance cnn 
+	 system know 1d map cnn logistic map cnn 
+	 magnetic vortex pin map cnn spiral wave reproducing 
+	 map cnn introduce illustrate application local 
+	 activity principle addition use cell impedance 
+	 demonstrate period double scenario logistic 
+	 magnetic vortex pin map 

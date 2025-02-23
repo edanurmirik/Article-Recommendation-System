@@ -1,0 +1,11 @@
+adaptable dialog box cross platform programming 
+ author present framework build dialog box adapt 
+	 look feel platform method help 
+	 related problem specify cross platform resource handling 
+	 dialog size change localization use combination xml 
+	 automatic layout run time dialog creation 
+	 benefit platform specific resource associate pain 
+	 source code implementation layout engine mac os 9.1 
+	 carbon mac os x microsoft windows download 
+	 cuj website www.cuj.com/code use code 
+	 starting point complete implementation 

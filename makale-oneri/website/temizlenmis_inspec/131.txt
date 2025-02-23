@@ -1,0 +1,12 @@
+biorthogonal nonuniform filter bank tree structure 
+ paper concern biorthogonal nonuniform filter bank 
+	 tree structured filter bank biorthogonal equivalent 
+	 tree structured filter bank match constituent level 
+	 analysis synthesis biorthogonal pair 
+	 strong statement dyadic filter bank 
+	 general dyadic filter bank biorthogonal analysis 
+	 synthesis bank decompose dyadic tree far 
+	 decomposition stability fir preserving 
+	 result derive filter bank filter rational transfer 
+	 function extend early comparable result 
+	 orthonormal filter bank 

@@ -1,0 +1,7 @@
+computational finite element scheme optimal control elliptic system 
+	 conjugation condition 
+ new optimal control problem consider distribute system describe 
+	 elliptic equation conjugate condition quadratic 
+	 minimized function highly accurate computational discretization 
+	 scheme construct case feasible control set u sub 
+	 delta coincide hilbert space u control 

@@ -1,0 +1,10 @@
+hidden markov model base tool wear monitoring turn 
+ paper present new modeling framework tool wear monitoring 
+	 machining process use hidden markov model hmm feature vector 
+	 extract vibration signal measure turning 
+	 codebook design use vector quantization convert 
+	 feature vector symbol sequence hidden markov model 
+	 series experiment conduct evaluate effectiveness 
+	 approach different length training datum observation 
+	 sequence experimental result successful tool state 
+	 detection rate high 97 achieve use approach 

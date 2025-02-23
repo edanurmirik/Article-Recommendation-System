@@ -1,0 +1,6 @@
+optimal estimation finite sample discrete chaotic process 
+ synthesis optimal algorithm estimate discrete chaotic process 
+	 specify finite sample consider possible approach 
+	 discuss expression determine potential accuracy 
+	 estimate single value chaotic process derive 
+	 example application general equation obtain 

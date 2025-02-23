@@ -1,0 +1,12 @@
+completeness time mu crl 
+ previously straightforward extension process algebra mu crl 
+	 propose explicitly deal time process algebra mu crl 
+	 especially design deal datum process algebraic 
+	 context use feature datum minor extension 
+	 language need obtain expressive variant time 
+	 previously contain syntax operational semantic axiom 
+	 characterise time mu crl contain depth analysis 
+	 theory time mu crl paper fill gap provide 
+	 soundness completeness result main tool establish 
+	 mapping time untimed mu crl employ completeness 
+	 result obtain untimed mu crl 

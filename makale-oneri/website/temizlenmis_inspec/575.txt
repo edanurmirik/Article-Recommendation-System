@@ -1,0 +1,12 @@
+new voltage vector selection algorithm direct torque control induction 
+	 motor drive 
+ ac drive base direct torque control induction machine allow high 
+	 dynamic performance obtain simple control scheme 
+	 drive behavior term current flux torque ripple 
+	 dependent utilise voltage vector selection strategy 
+	 operating condition paper new voltage vector selection 
+	 algorithm allow sensible reduction rms value 
+	 stator current ripple increase average value 
+	 inverter switch frequency need pwm pulse 
+	 generator block present numerical simulation carry 
+	 validate propose method 

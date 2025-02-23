@@ -1,0 +1,20 @@
+analytic center cut plane method semidefinite feasibility problem 
+ semidefinite feasibility problem arise area operation research 
+	 abstract form problem describe find point 
+	 nonempty bound convex body gamma cone symmetric 
+	 positive semidefinite matrix assume gamma define 
+	 oracle m m symmetric positive semidefinite 
+	 matrix gamma confirm y epsilon gamma return cut 
+	 i.e. symmetric matrix gamma half space y 
+	 y or= y study analytic center cut plane algorithm 
+	 problem iteration algorithm compute 
+	 approximate analytic center working set define cutting 
+	 plane system generate previous iteration approximate 
+	 analytic center solution algorithm terminate 
+	 new cut plane return oracle add system 
+	 number iteration increase working set shrink 
+	 algorithm eventually find solution problem iterate 
+	 generate algorithm positive definite matrix 
+	 algorithm bad case complexity o*(m sup 3// epsilon /sup 2/ 
+	 total number cut use epsilon maximum 
+	 radius ball contain gamma 

@@ -1,0 +1,6 @@
+optimal strategy semi markovian inventory system 
+ control semi markovian inventory system consider general 
+	 assumption system functioning condition existence 
+	 optimal nonrandomize markovian strategy find 
+	 additional assumption store condition 
+	 inventory optimal strategy threshold s s)-frame 

@@ -1,0 +1,21 @@
+formal model correctness cadastre 
+ key issue cadastral system maintenance correctness 
+	 correctness define proper correspondence 
+	 valid legal situation content cadastre 
+	 correspondence generally difficult achieve cadastre 
+	 complete representation aspect influence legal 
+	 situation reality goal paper develop formal 
+	 model comprise representation cadastre reality 
+	 allow simulation investigation case 
+	 correspondence potentially violate purpose model 
+	 consist represent valid legal 
+	 situation second represent cadastre 
+	 feasible mark difference reality cadastre 
+	 mark model facilitate 
+	 discussion issue real world cadastral system 
+	 incorrectness occur order develop formal model paper 
+	 use transfer ownership parcel person 
+	 minimal case study foundation formalization modern 
+	 version situation calculus focus analysis 
+	 cadastre preparation conceptual formalized model 
+	 implementation prototype 

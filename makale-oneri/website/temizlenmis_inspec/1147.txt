@@ -1,0 +1,25 @@
+angular disparity etact scintimammography 
+ emission tune aperture compute tomography etact previously 
+	 potential detection small tumor 1 cm 
+	 scintimammography optimal approach application 
+	 etact clinic determine seek 
+	 determine effect angular disparity etact 
+	 projection image quality use computer simulation 
+	 small spherical tumor variable size 5 7.5 10 mm place 
+	 center hemispherical breast 15 cm diameter tumor 
+	 nontumor ratio 5:1 10:1 detector model 
+	 gamma camera fit 4 mm diam pinhole collimator 
+	 pinhole detector pinhole tumor distance 25 15 
+	 cm respectively ray tracing technique use generate 
+	 set projection 10 degree 15 degree 20 degree angular 
+	 disparity datum blur resolution consistent 
+	 4 mm pinhole tact reconstruction method use reconstruct 
+	 image set tumor contrast axial spatial 
+	 resolution measure small angular disparity lead 
+	 improvement image contrast cost degraded axial spatial 
+	 resolution improvement contrast slight improvement 
+	 plane spatial resolution improve contrast lead 
+	 tumor detectability small angular disparity 
+	 use difference contrast 10 degree 15 
+	 degree slight reasonable clinical choice 
+	 angular disparity 15 degree 

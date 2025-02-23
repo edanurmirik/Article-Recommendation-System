@@ -1,0 +1,14 @@
+use netcloak develop server web base experiment write cgi 
+	 program 
+ server experiment use web server participant 
+	 browser handle task random assignment eliminate 
+	 inconsistency java client application 
+	 heretofore experimenter wish create server experiment 
+	 write program create common gateway interface cgi 
+	 script programming language perl c++ netcloak use 
+	 simple html like command create cgi use netcloak 
+	 implement experiment probability estimation measurement time 
+	 task participant ip address assist quality control 
+	 prior training 1 month able use 
+	 netcloak design create web base experiment help 
+	 graduate student create web base experiment 

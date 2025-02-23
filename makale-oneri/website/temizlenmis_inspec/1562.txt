@@ -1,0 +1,13 @@
+solution class dimensional integral equation 
+ dimensional integral equation 1/ pi integral integral /sub d/ phi r 
+	 theta /r sup 2/)ds f(r sub 0/ theta /sub 0/ define circular 
+	 disk d r sub 0/<or 0 or= theta /sub 0/<or=2 pi 
+	 consider present paper r kernel denote 
+	 distance point p(r theta p sub 0/(r sub 0/ theta 
+	 /sub 0/ d 0 alpha 2 2 alpha 4 base 
+	 know result bessel function integral representation 
+	 kernel establish 0 alpha 2 2 alpha 4 
+	 respectively employ solve corresponding dimensional 
+	 integral equation solution weakly singular integral 
+	 equation 0 alpha 2 hypersingular integral 
+	 equation 2 alpha 4 obtain respectively 

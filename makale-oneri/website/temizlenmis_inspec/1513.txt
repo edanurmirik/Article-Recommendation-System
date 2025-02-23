@@ -1,0 +1,6 @@
+solution reconstruction problem source function 
+	 coagulation fragmentation equation 
+ study problem reconstruct source function kinetic 
+	 coagulation fragmentation equation study base optimal 
+	 control method solvability theory operator equation 
+	 use iteration algorithm 

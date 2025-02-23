@@ -1,0 +1,17 @@
+simulation study cardiovascular functional status hypertensive 
+	 situation 
+ extended cardiovascular model establish base previous work 
+	 study consequence physiological pathological change 
+	 homeostatic function cardiovascular system study 
+	 hemodynamic change hypertensive situation impact 
+	 cardiovascular parameter variation peripheral vascular resistance 
+	 arterial vessel wall stiffness baroreflex gain hemodynamic 
+	 short term regulation cardiovascular system 
+	 investigate purpose analyze baroregulation function 
+	 short term regulation arterial pressure response moderate 
+	 dynamic exercise normotensive hypertensive case study 
+	 computer simulation clinical experiment simulation 
+	 result agree clinical datum result work suggest 
+	 model present paper provide useful tool 
+	 investigate functional status cardiovascular system 
+	 normal pathological condition 

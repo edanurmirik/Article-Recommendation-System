@@ -1,0 +1,19 @@
+accurate cog defuzzifier design use lamarckian co adaptation learning 
+	 evolution 
+ paper propose design technique optimal center gravity cog 
+	 defuzzifier use lamarckian co adaptation learn 
+	 evolution propose cog defuzzifier specify design 
+	 parameter center width modifier mfs 
+	 design parameter adjust lamarckian co adaptation 
+	 learning evolution learning perform local search 
+	 design parameter individual cog defuzzifier evolution 
+	 perform global search design parameter population 
+	 cog defuzzifier co adaptation scheme allow evolve 
+	 fast non learning case high possibility 
+	 find optimal solution wide searching capability 
+	 application truck backer upper control problem 
+	 propose co adaptive design method cog defuzzifier present 
+	 approximation ability control performance compare 
+	 conventionally simplify cog defuzzifier term fuzzy 
+	 logic controller approximation error average tracing 
+	 distance respectively 

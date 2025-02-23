@@ -1,0 +1,8 @@
+interlingua base chinese english mt system 
+ chinese english machine translation significant challenging problem 
+	 information processing paper present interlingua base 
+	 chinese english natural language translation system icent 
+	 introduce realization mechanism chinese language analysis 
+	 contain syntactic parsing semantic analyzing 
+	 design interlingua detail experimental result system 
+	 evaluation result satisfy 

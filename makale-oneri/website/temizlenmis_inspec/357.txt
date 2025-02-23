@@ -1,0 +1,11 @@
+embed level continuous fuzzy set banach space 
+ paper present extension minkowski embed theorem 
+	 existence isometric embedding classf sub 
+	 c/(x compact convex level continuous fuzzy set real 
+	 separable banach space x c([0 1 b(x banach space 
+	 real continuous function define cartesian product 0 
+	 1 unit ball b(x dual space x use 
+	 embed application characterization 
+	 relatively compact subset f sub c/(x particular 
+	 ascoli arzela type theorem prove apply solve cauchy 
+	 problem x(t f(t x(t x(t sub 0/ x sub 0/ f sub c/(x 

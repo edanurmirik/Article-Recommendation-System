@@ -1,0 +1,15 @@
+computational challenge cell simulation software engineering approach 
+ molecular biology advent 20th century exponentially increase 
+	 knowledge inner working life dozen complete 
+	 genome array high throughput method characterize gene 
+	 encoding gene product operation question 
+	 assemble piece word sufficient 
+	 information live cell molecular component predict 
+	 behavior introduce major class cellular process 
+	 relevant modeling discuss software engineering role cell 
+	 simulation identify cell simulation requirement e cell 
+	 project aim develop theory technique software 
+	 platform necessary cell scale modeling simulation 
+	 analysis project launch 1996 build variety 
+	 cell model currently develop new model vary 
+	 respect specie target subsystem overall scale 

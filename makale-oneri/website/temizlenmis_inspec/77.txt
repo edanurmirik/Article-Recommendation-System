@@ -1,0 +1,14 @@
+model frequently access wireless datum weak consistency 
+ reduce response time wireless datum access mobile network 
+	 cache utilize wireless handheld device original data 
+	 entry update cache datum handheld device 
+	 stale mechanism require predict cache copy 
+	 expire paper study weakly consistent datum access 
+	 mechanism compute time live ttl interval predict 
+	 expiration time propose analytic model investigate 
+	 ttl base algorithm frequently access datum analytic model 
+	 validate simulation experiment study quantitatively 
+	 indicate ttl base algorithm reduce wireless 
+	 communication cost increase probability stale access 
+	 depend requirement application appropriate parameter 
+	 value select base guideline provide 

@@ -1,0 +1,13 @@
+behavior runge kutta discretization near equilibrium index 2 differential 
+	 algebraic system 
+ analyze runge kutta discretization apply index 2 differential 
+	 algebraic equation dae near equilibrium compare geometric 
+	 property numerical exact solution 
+	 project half explicit runge kutta method reproduce 
+	 qualitative feature continuous system vicinity 
+	 equilibrium correctly proof combine cut scale 
+	 technique index 2 differential algebraic equation 
+	 invariant manifold result schropp geometric property 
+	 runge kutta discretization index 2 differential algebraic 
+	 equation konstanzer schriften mathematik und informatik 128 
+	 classical result discretized ordinary differential equation 

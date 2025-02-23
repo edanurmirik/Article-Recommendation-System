@@ -1,0 +1,8 @@
+robot trajectory control use neural network 
+ use new type neural network nn control trajectory 
+	 robot discuss control system describe comprise 
+	 nn base controller fix gain feedback controller nn base 
+	 controller employ modify recurrent nn weight 
+	 obtain train nn identify online inverse dynamic 
+	 robot work confirm superiority propose 
+	 nn base control system reject large disturbance 

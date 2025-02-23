@@ -1,0 +1,27 @@
+improve supply chain performance share advance demand information 
+ paper analyze share advance demand information adi 
+	 improve supply chain performance consider type adi 
+	 aggregate adi adi detailed adi d adi adi customer 
+	 share manufacturer information place 
+	 order product time period share 
+	 information product order 
+	 potential manufacturer receive order d adi customer 
+	 additionally share information product order 
+	 manufacturer receive order remain uncertain develop 
+	 solve mathematical model supply chain adi share 
+	 derive exact expression close form approximation expect 
+	 cost expect base stock level variation production 
+	 quantity manufacturer customer 
+	 benefit share adi share adi increase bullwhip 
+	 effect certain condition optimal 
+	 collect adi customer study 
+	 supply chain detail supply chain arbitrary number 
+	 product identical demand rate supply chain 
+	 product arbitrary demand rate supply chain 
+	 analyze value adi d adi depend 
+	 characteristic supply chain quality share 
+	 information identify condition share adi 
+	 d adi significantly reduce cost result use 
+	 decision maker analyze cost saving achieve 
+	 share adi help determine share adi beneficial 
+	 supply chain 

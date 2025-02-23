@@ -1,0 +1,22 @@
+fast accurate stable simulation power electronic system use virtual 
+	 resistor capacitor 
+ simulation power electronic circuit remain problem high level 
+	 stiffness bring modelling switch biresistor 
+	 i.e. low turn resistance high turn resistance 
+	 merit drawback modelling method address problem 
+	 discuss modelling solution ensure numerically stable 
+	 accurate fast simulation power electronic system propose 
+	 solution enable easy connectivity power electronic 
+	 element simulation model involve modelling virtual 
+	 capacitance switch node soften voltage discontinuity 
+	 switch current suddenly zero undesirable ring effect 
+	 arise interaction virtual capacitance 
+	 circuit inductance eliminate model virtual damp 
+	 resistor parallel inductor adjacent switch 
+	 element midpoint configuration method introduce 
+	 modelling shunt capacitor dc traction system simulate use 
+	 modelling strategy result include simulation 
+	 result obtain use modelling strategy validate 
+	 comparison establish mesh analysis technique modelling 
+	 simulation performance compare power system 
+	 blockset commercial software 

@@ -1,0 +1,19 @@
+building block approach automate engineering 
+ shenandoah valley electric cooperative svec mt. crawford virginia 
+	 recognize need automate engineering function create 
+	 interactive model distribution system early 1990 
+	 use milsoft da software 10 year engineering 
+	 study landis gyr scada system hybrid load 
+	 management system control water heater switch 
+	 development gis facility management fm application svec 
+	 decide basis information system 
+	 model physical plant interface accounting billing 
+	 system add application outage management stake 
+	 line design metering use information interface 
+	 database base svec size feasible 
+	 implement sophisticated expensive gis fm system past 
+	 year svec success building block approach 
+	 customer employee realize benefit automate 
+	 application building block approach discuss article 
+	 include gis outage management system mapviewer stake 
+	 package lesson learn future expansion discuss 

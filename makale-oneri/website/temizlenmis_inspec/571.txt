@@ -1,0 +1,11 @@
+control transient thermal response sequential open die forge 
+	 trajectory optimization approach 
+ trajectory optimization approach apply design sequence 
+	 open die forge operation order control transient thermal 
+	 response large titanium alloy billet time 
+	 billet soak furnace prior successive forge operation 
+	 optimize minimize total process time simultaneously 
+	 satisfy constraint maximum minimum value billet 
+	 temperature distribution avoid microstructural defect 
+	 forge result indicate differential heating profile 
+	 effective meet design goal 

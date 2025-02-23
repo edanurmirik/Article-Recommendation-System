@@ -1,0 +1,17 @@
+h matrix approximation operator exponential application 
+ previously develop data sparse accurate approximation parabolic 
+	 solution operator case general elliptic 
+	 strongly p positive operator class matrix 
+	 h matrix analyse datum sparse allow 
+	 approximate matrix arithmetic linear complexity 
+	 particular matrix vector matrix matrix product matrix 
+	 computation inverse linear logarithmic cost 
+	 paper apply h matrix technique approximate 
+	 exponent elliptic operator start dunford cauchy 
+	 representation operator exponent discretise 
+	 integral exponentially convergent quadrature rule involve 
+	 short sum resolvent approximate h matrix 
+	 algorithm inherit level parallelism respect 
+	 computation resolvent treatment different time value 
+	 case smooth datum coefficient boundary prove 
+	 linear logarithmic complexity method 

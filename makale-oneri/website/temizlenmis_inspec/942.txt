@@ -1,0 +1,11 @@
+micro optical realization array selectively addressable dipole trap 
+	 scalable configuration quantum computation atomic qubit 
+ experimentally demonstrate novel structure realization register 
+	 atomic qubit trap neutral atom one- dimensional 
+	 array far detune dipole trap obtain focus red detune 
+	 laser beam microfabricated array microlense able 
+	 selectively address individual trap site large lateral 
+	 separation 125 mu m. initialize read different internal 
+	 state individual site create interleaved set 
+	 trap array adjustable separation require propose 
+	 implementation quantum gate operation 

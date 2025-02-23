@@ -1,0 +1,13 @@
+3d reconstruction uncalibrated camera optical flow reliability 
+	 evaluation 
+ present scheme reconstruct 3d structure optical flow 
+	 observe camera unknown focal length statistically 
+	 optimal way evaluate reliability compute 
+	 shape flow fundamental matrix optimally compute 
+	 observe flow decompose focal length 
+	 rate change motion parameter flow optimally 
+	 correct satisfy epipolar equation exactly finally 
+	 3d position compute covariance matrix 
+	 evaluate simulation real image experiment test 
+	 performance system observe normalization gauge 
+	 remove indeterminacy affect description uncertainty 

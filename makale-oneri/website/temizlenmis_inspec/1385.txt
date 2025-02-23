@@ -1,0 +1,17 @@
+cache invalidation replacement strategy location dependent datum 
+	 mobile environment 
+ mobile location dependent information service ldis increasingly 
+	 popular recent year datum cache strategy ldis 
+	 far receive little attention paper study 
+	 issue cache invalidation cache replacement 
+	 location dependent datum geometric location model introduce 
+	 new performance criterion cache efficiency propose 
+	 generic method location dependent cache invalidation strategy 
+	 addition cache replacement policy pa paid propose 
+	 unlike conventional replacement policy pa pay 
+	 consideration valid scope area data value conduct series 
+	 simulation experiment study performance propose 
+	 cache scheme experimental result propose 
+	 location dependent invalidation scheme effective pa 
+	 pay policy significantly outperform conventional replacement 
+	 policy 

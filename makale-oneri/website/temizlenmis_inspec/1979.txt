@@ -1,0 +1,23 @@
+combine spatial scale space technique edge detection provide 
+	 spatially adaptive wavelet base noise filtering algorithm 
+ new method detect edge image use spatial scale space 
+	 domain propose priori knowledge geometrical 
+	 characteristic edge use assign probability factor 
+	 chance pixel edge improve double thresholding 
+	 technique introduce spatial domain filtering probability 
+	 pixel belong edge assign base pixel 
+	 similarity gradient amplitude gradient phase edge 
+	 connectivity scale space approach use dynamic range compression 
+	 allow wavelet correlation wide range scale 
+	 probabilistic formulation use combine result obtain 
+	 filtering domain provide final edge probability image 
+	 advantage spatial scale space domain 
+	 method decompose edge probability image wavelet 
+	 original image permit generation adaptive filter 
+	 recognize characteristic edge wavelet detail 
+	 approximation image regardless scale match filter 
+	 permit significant reduction image noise contribute 
+	 edge distortion spatially adaptive wavelet noise filter 
+	 algorithm qualitatively quantitatively compare frequency 
+	 domain wavelet base noise suppression algorithm use 
+	 natural computer generate noisy image 

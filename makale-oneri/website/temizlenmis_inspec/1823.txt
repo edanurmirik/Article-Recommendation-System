@@ -1,0 +1,9 @@
+single phase shunt active power filter harmonic detection 
+ advanced active power filter compensation instantaneous harmonic 
+	 current component nonlinear current load present signal 
+	 processing technique use adaptive neural network algorithm 
+	 apply detection harmonic component generate nonlinear 
+	 current load efficiently determine instantaneous 
+	 harmonic component real time validity active filtering 
+	 processing system compensate current harmonics substantiate 
+	 simulation result 

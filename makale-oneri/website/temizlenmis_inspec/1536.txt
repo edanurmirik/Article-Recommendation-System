@@ -1,0 +1,14 @@
+connection management qos service web 
+ current web service model treat request equivalently 
+	 process server transmit 
+	 network use multiple priority scheme different 
+	 level service desirable propose application level tcp 
+	 connection management mechanism web server provide 
+	 different level web service high low service set 
+	 different time inactive tcp connection evaluate 
+	 performance mechanism heavy light loading condition 
+	 web server experiment heavy traffic 
+	 saturate network high level class performance improve 
+	 25 28 mechanism effectively provide qos 
+	 guarantee service absence operating system network 
+	 support 

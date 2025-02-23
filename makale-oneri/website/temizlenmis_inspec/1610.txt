@@ -1,0 +1,10 @@
+dynamic multi objective heating optimization 
+ develop multicriteria approach problem space heating 
+	 time vary price electricity dynamic goal programming 
+	 model goal ideal temperature interval criterion 
+	 cost energy consumption discuss modelling 
+	 requirement multicriteria problem dynamic structure 
+	 present new relaxation method combine traditional epsilon 
+	 -constraint goal programming gp method multi objective 
+	 heating optimization moho application spreadsheet environment 
+	 numerical example describe 

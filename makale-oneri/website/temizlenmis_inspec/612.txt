@@ -1,0 +1,14 @@
+analysis operation hybrid active filter harmonic elimination 
+ paper present hybrid active filter topology control suppress 
+	 harmonic current enter power source adopt 
+	 hybrid active filter consist active filter passive 
+	 filter connect series control equivalent output 
+	 voltage active filter harmonic current generate 
+	 nonlinear load block flow passive filter 
+	 power rating converter reduce compare pure active 
+	 filter filter harmonic current harmonic current detecting 
+	 approach dc link voltage regulation propose obtain 
+	 equivalent voltage active filter effectiveness adopt 
+	 topology control scheme verify computer 
+	 simulation experimental result scale laboratory 
+	 prototype 

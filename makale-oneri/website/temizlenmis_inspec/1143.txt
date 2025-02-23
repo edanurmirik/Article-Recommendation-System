@@ -1,0 +1,27 @@
+source model calculation head scatter factor 
+ accurate determination head scatter factor s sub c/ important 
+	 issue especially intensity modulate radiation therapy 
+	 segment field irregular 
+	 collimator jaw setting work report s sub c/ 
+	 calculation algorithm symmetric asymmetric irregular open 
+	 field shape tertiary collimator multileaf collimator 
+	 block different source chamber distance algorithm 
+	 base source model photon radiation 
+	 point calculation treat originate 
+	 effective source source primary photon target 
+	 extra focal photon source scattered photon 
+	 primary collimator flatten filter respectively field 
+	 mapping method propose kim et al phys med biol 43 1593 1604 
+	 1998 extend extra focal source plane scatter 
+	 contribution integrate project area determine 
+	 detector eye view source plane consider 
+	 source intensity distribution algorithm implement use 
+	 microsoft visual c c++ ms windows environment input 
+	 datum require head scatter factor symmetric square field 
+	 normally acquire machine commissioning large 
+	 number different field use evaluate algorithm 
+	 result compare measurement find 
+	 calculate s sub c/ agree measure value 0.4 
+	 algorithm easily apply deal irregular field 
+	 shape multileaf collimator replace upper low 
+	 collimator jaw 

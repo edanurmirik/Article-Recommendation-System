@@ -1,0 +1,13 @@
+control integral process dead time 1 disturbance observer base 2 
+	 dof control scheme 
+ disturbance observer base control scheme version 2 dof internal model 
+	 control effective control integral process 
+	 dead time present controller design reject ramp 
+	 disturbance step disturbance arbitrary 
+	 disturbance plant model available parameter 
+	 leave tune time constant set point response 
+	 time constant disturbance response 
+	 tune accord compromise disturbance response 
+	 robustness control scheme simple clear easy design 
+	 easy implement structure good performance compare 
+	 good result far use simulation example 

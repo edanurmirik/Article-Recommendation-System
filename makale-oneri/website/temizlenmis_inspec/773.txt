@@ -1,0 +1,12 @@
+topology reduce surface simplification use discrete solid representation 
+ paper present new approach generate coarse level approximation 
+	 topologically complex model dramatic topology reduction 
+	 achieve convert 3d model volumetric 
+	 representation approach produce valid error bound model 
+	 support creation approximation interpenetrate 
+	 original model completely contain input solid 
+	 bound simple implement version approach 
+	 present discuss method perform 
+	 significantly surface base approach 
+	 simplify topologically rich model scene complex 
+	 mechanical assembly 

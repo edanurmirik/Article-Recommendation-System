@@ -1,0 +1,5 @@
+new result global convergence hopfield neural network 
+ work discuss hopfield neural network investigate global 
+	 stability sufficient condition class hopfield neural 
+	 network globally stable globally exponentially stable 
+	 

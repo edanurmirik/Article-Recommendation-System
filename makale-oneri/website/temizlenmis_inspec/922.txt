@@ -1,0 +1,13 @@
+smart collision information processing sensor fast object 
+ technical note survey area smart collision information 
+	 processing sensor review exist technology detect 
+	 collision overlap fast physical object object 
+	 virtual environment physical environment combination 
+	 physical virtual object report development collision 
+	 detection fast object discrete time step 
+	 consecutive time frame continuous time interval 
+	 interframe collision detection system discussion 
+	 computational technique paper limit convex object 
+	 technique exist efficiently decompose non convex object 
+	 convex object discuss tracking technology 
+	 object standpoint collision detection avoidance 

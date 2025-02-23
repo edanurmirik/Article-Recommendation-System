@@ -1,0 +1,8 @@
+fault tolerant computer aid control system multiversion threshold 
+	 adaptation adaptation method reliability estimation choice 
+	 architecture 
+ multiversion majority redundant computer aid control system 
+	 systematization adaptation method stable hardware 
+	 software failure method estimate reliability 
+	 event graph model method select standard architecture 
+	 regard reliability requirement study 

@@ -1,0 +1,24 @@
+reconstruction time vary 3 d left ventricular shape multiview x ray 
+	 cineangiocardiogram 
+ paper report clinical application system recover 
+	 time vary dimensional 3 d left ventricular lv shape 
+	 multiview x ray cineangiocardiogram consider x ray 
+	 cineangiocardiography commonly employ clinical cardiology 
+	 computational cost 3 d recovery visualization rapidly 
+	 decrease meaningful develop clinically applicable system 
+	 3 d lv shape recovery x ray cineangiocardiogram system 
+	 base previously report closed surface method shape 
+	 recovery dimensional occlude contour multiple view 
+	 apply method real lv cineangiocardiogram user interactive 
+	 system implement preprocessing include detection lv 
+	 contour calibration imaging geometry set lv 
+	 model coordinate system result real lv angiographic 
+	 image sequence present fix multiple view use 
+	 supplementary angiography rotate view 3 d 
+	 reconstruction utilize different number view compare 
+	 evaluate term contour manually trace experienced 
+	 radiologist performance preprocesse evaluate 
+	 effect variation user specify parameter final 
+	 3 d reconstruction result sufficiently small 
+	 experimental result demonstrate potential usefulness combine 
+	 multiple view 3 d recovery real lv cineangiocardiogram 

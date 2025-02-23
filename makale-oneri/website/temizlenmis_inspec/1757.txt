@@ -1,0 +1,8 @@
+unimodular gaussian lattice rank 12 
+ classify unimodular gaussian lattice rank 12 
+	 unimodular integral lattice rank 12 ring gaussian 
+	 integer equivalent classification automorphism 
+	 tau tau /sup 2/=-1 automorphism group niemeier 
+	 lattice unimodular real integral lattice rank 
+	 24 28 unimodular gaussian lattice rank 12 
+	 equivalence 

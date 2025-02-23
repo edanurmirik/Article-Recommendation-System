@@ -1,0 +1,28 @@
+estimation error curvature computation multi scale free form surface 
+ novel technique multi scale curvature computation free form 3 d 
+	 surface present achieve convolve local 
+	 parametrisation surface 2 d gaussian filter iteratively 
+	 technique semigeodesic coordinate construct 
+	 vertex mesh smoothing result 3 d surface 
+	 different shape indicate surface noise eliminate 
+	 surface detail remove gradually number evolution property 
+	 3 d surface describe surface gaussian mean 
+	 curvature value estimate accurately multiple scale 
+	 map colour display directly surface 
+	 performance technique select different direction 
+	 arbitrary direction geodesic vertex present 
+	 result indicate error observe estimation 
+	 gaussian mean curvature low iteration 
+	 furthermore surface smooth iteratively error 
+	 far reduce result estimation error 
+	 gaussian curvature mean curvature experiment 
+	 demonstrate estimation smoothed surface curvature 
+	 accurate affect arbitrary direction 
+	 geodesic line construct semigeodesic coordinate technique 
+	 independent underlying triangulation 
+	 efficient volumetric diffusion technique 2 d 
+	 3 d convolution employ finally method present 
+	 generalisation curvature scale space method 2 d contour 
+	 css method outperform comparable technique mpeg-7 
+	 evaluation framework result select inclusion 
+	 mpeg-7 package standard 

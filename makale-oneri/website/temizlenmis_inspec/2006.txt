@@ -1,0 +1,16 @@
+lung metastasis detection visualization ct image knowledge base 
+	 method 
+ solution problem lung metastasis detection compute tomography 
+	 ct scan thorax present knowledge base 
+	 approach image interpretation use method inspire 
+	 manner radiologist radiotherapist interpret ct 
+	 image radiotherapy plan dimensional follow 
+	 dimensional analysis perform algorithm detect 
+	 thorax contour lung rib far help 
+	 detection metastasis type tumor detect 
+	 nodule metastasis locate lung extremity method 
+	 visualize anatomical structure segment present 
+	 system test 20 patient 988 total image oncology 
+	 department la chaux de fonds hospital result 
+	 method reliable computer aid diagnostic tool clinical 
+	 purpose oncology department 

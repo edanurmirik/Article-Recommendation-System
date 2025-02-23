@@ -1,0 +1,10 @@
+resonant controller smart structure 
+ paper propose special type colocate feedback controller 
+	 smart structure controller parallel combination high q 
+	 resonant circuit resonant circuit tune pole 
+	 resonant frequency smart structure prove 
+	 parallel combination resonant controller stable infinite 
+	 gain margin set actuator sensor damp multiple resonant 
+	 mode resonant controller experimental result present 
+	 robustness propose controller damp multimode 
+	 resonance 

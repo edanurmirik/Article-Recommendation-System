@@ -1,0 +1,6 @@
+pairwise thermal entanglement n qubit n or= 5 heisenberg xx chain 
+ calculate concurrence pairwise thermal entanglement 
+	 qubit qubit heisenberg xx chain find 
+	 great difference qubit odd qubit chain 
+	 aspect critical temperature existence 
+	 entanglement case qubit number n 5 

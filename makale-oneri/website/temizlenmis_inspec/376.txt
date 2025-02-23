@@ -1,0 +1,12 @@
+recursive state estimation multiple switching model unknown 
+	 transition probability 
+ work consider hybrid system continuous value target state 
+	 discrete value regime variable change switch regime 
+	 variable model finite state markov chain unknown 
+	 random transition probability follow dirichlet distribution 
+	 work analytically derive marginal posterior distribution 
+	 state regime variable transition probability 
+	 integrate lead variety recursive hybrid state 
+	 estimation scheme appealing intuitive straightforward 
+	 extension standard algorithm performance illustrate 
+	 maneuvering target track example 

@@ -1,0 +1,15 @@
+run time data flow analysis 
+ parallelize compiler great progress recent year 
+	 remain gap current ability parallelizing 
+	 compiler final goal order achieve maximum 
+	 parallelism run time technique use parallelize compiler 
+	 year paper present basic run time 
+	 privatization method definition run time dead code 
+	 effect discuss eliminate imprecision cause 
+	 run time dead code backward data flow information use 
+	 proteus test use backward information run time 
+	 present exploit dynamic parallelism variation 
+	 proteus test advanced proteus test offer achieve partial 
+	 parallelism proteus test implement parallelize compiler 
+	 aft end paper program fpppp.f spec95fp benchmark 
+	 example effectiveness proteus test 

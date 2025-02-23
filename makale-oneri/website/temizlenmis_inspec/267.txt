@@ -1,0 +1,11 @@
+efficient parallel algorithm calculation canonical mp2 energy 
+ present parallel version previous serial algorithm 
+	 efficient calculation canonical mp2 energy base 
+	 saebo almlof direct integral transformation couple efficient 
+	 prescreening ao integral parallel algorithm avoid 
+	 synchronization delay spawn second set slave 
+	 bin sort prior second half transformation result present 
+	 system 2000 basis function mp2 energy molecule 
+	 400 500 basis function routinely calculate 
+	 microhartree accuracy small number processor 6 8) matter 
+	 minute modern pc base parallel computer 

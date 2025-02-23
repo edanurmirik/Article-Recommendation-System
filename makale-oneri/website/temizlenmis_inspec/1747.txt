@@ -1,0 +1,26 @@
+general constitutive description inelastic failure behavior 
+	 fibrous laminate ii laminate theory application 
+ pt ibid pp 1159 76 paper report systematically 
+	 constitutive description inelastic strength behavior 
+	 laminate composite reinforce fiber preform 
+	 constitutive relationship establish micromechanically 
+	 layer layer analysis property constituent 
+	 fiber matrix material composite require input 
+	 datum previous lamina theory present 
+	 fundamental quantity laminae i.e. internal stress 
+	 generate constituent fiber matrix material 
+	 instantaneous compliance matrix different fiber preform 
+	 include woven braid knit fabric reinforcement 
+	 explicitly obtain virtue bridge micromechanic model 
+	 paper laminate stress analysis purpose 
+	 analysis determine load share lamina 
+	 laminate lamina theory apply incorporation 
+	 constitutive equation fem software package illustrate 
+	 number application example demonstrate 
+	 efficiency constitutive theory prediction include 
+	 failure envelope multidirectional laminate subject biaxial 
+	 plane load thermomechanical cycling stress strain curve 
+	 titanium metal matrix composite laminate s n curve multilayer 
+	 knit fabric reinforce laminate tensile fatigue bend 
+	 load deflection plot ultimate bend strength laminate 
+	 braid fabric reinforce beam subject lateral load 

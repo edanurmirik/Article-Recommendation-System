@@ -1,0 +1,12 @@
+analysis nonlinear time delay system use module non commutative 
+	 ring 
+ theory non commutative ring introduce provide basis 
+	 study nonlinear control system time delay left ore ring 
+	 non commutative polynomial define field meromorphic 
+	 function suggest framework study approach 
+	 generalize broad class nonlinear system delay 
+	 generalized roesser system finally theory 
+	 apply analyze nonlinear time delay system weak observability 
+	 define characterize generalize know linear 
+	 result property closed submodule develop obtain 
+	 result accessibility system 

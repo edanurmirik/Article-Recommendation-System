@@ -1,0 +1,12 @@
+shy invariant graph 
+ know result p.l. hammer et al 1982 introduce 
+	 new graph invariant lambda g refer graph g. 
+	 non negative integer non zero g contain particular 
+	 induce odd cycle equivalently admit particular minimum 
+	 clique partition that).(g efficiently evaluate 
+	 determination allow reduce hard problem 
+	 compute minimum clique cover graph identical problem 
+	 small size special structure furthermore alpha g 
+	 or= theta g lambda g alpha g theta g 
+	 respectively denote cardinality maximum stable set g 
+	 minimum clique partition g 

@@ -1,0 +1,17 @@
+quantitative speed control srm drive use fuzzy adapt inverse model 
+ quantitative robust speed control switch reluctance motor srm 
+	 drive consider difficult challenge owe 
+	 highly nonlinear dynamic behavior speed control scheme 
+	 degree freedom 2dof structure develop improve 
+	 speed dynamic response srm drive propose control scheme 
+	 feedback controller quantitatively design meet desire 
+	 regulation control requirement reference model 
+	 command feedforward controller base inverse plant model 
+	 employ yield desire tracking response nominal case 
+	 variation system parameter operating condition occur 
+	 prescribe control specification satisfied 
+	 improve inverse model adaptively tune fuzzy control 
+	 scheme model follow tracking error significantly 
+	 reduced addition simple disturbance cancellation robust 
+	 controller add improve tracking regulation control 
+	 performance far 

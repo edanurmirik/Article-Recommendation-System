@@ -1,0 +1,14 @@
+efficient combinational verification use overlap local bdd hash 
+	 table 
+ propose novel methodology combine local bdd binary decision 
+	 diagram hash table efficient verification 
+	 combinational circuit main purpose technique remove 
+	 considerable overhead associate case case verification 
+	 internal node pair typical internal correspondence base 
+	 verification method heuristic base number structural 
+	 level circuitry look total number node bdd 
+	 manager use control bdd size introduce new cutset 
+	 base find equivalent node verify iscas85 
+	 benchmark circuit demonstrate significant speedup exist 
+	 method verify hard industrial circuit 
+	 superiority extract internal equivalence 

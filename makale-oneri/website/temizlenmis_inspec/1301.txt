@@ -1,0 +1,23 @@
+integrate fire neuron drive correlate stochastic input 
+ neuron sensitive correlation synaptic input 
+	 analytical model explicitly include correlation hard 
+	 solve analytically influence neuron response 
+	 difficult ascertain gain intuition problem 
+	 study firing time simple integrate fire model neuron 
+	 drive correlate binary variable represent total input 
+	 current analytic expression obtain average firing rate 
+	 coefficient variation measure spike train variability 
+	 function mean variance correlation time stochastic 
+	 input result computer simulation excellent agreement 
+	 expression model increase correlation 
+	 time general produce increase average firing rate 
+	 variability output spike train magnitude 
+	 change depend differentially relative value 
+	 input mean variance increase firing rate high 
+	 variance large relative mean increase 
+	 variability high variance relatively small 
+	 addition firing rate tend finite limit value 
+	 correlation time increase infinity coefficient 
+	 variation typically diverge result suggest temporal 
+	 correlation play major role determine variability 
+	 intensity neuronal spike train 

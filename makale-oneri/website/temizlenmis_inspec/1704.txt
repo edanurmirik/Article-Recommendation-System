@@ -1,0 +1,21 @@
+statistical analysis nonlinearly reconstruct near infrare tomographic 
+	 image i. theory simulation 
+ near infrare nir diffuse tomography emerge method image 
+	 interior tissue quantify concentration hemoglobin 
+	 exogenous chromophore noninvasively vivo exploit 
+	 optical diffusion model base image reconstruction algorithm 
+	 estimate spatial property value measurement light flux 
+	 surface tissue study mean squared error mse 
+	 image use evaluate method regularize ill pose 
+	 inverse image reconstruction problem nir tomography estimate 
+	 image bias image standard deviation calculate base 100 
+	 repeat reconstruction test image randomly distribute 
+	 noise add light flux measurement observe 
+	 bias error dominate high regularization parameter value 
+	 variance dominate algorithm allow approach optimal 
+	 solution optimum necessarily correspond minimum 
+	 projection error solution typically require iteration 
+	 decrease regularization parameter reach low image 
+	 error increase measurement noise cause need constrain 
+	 minimum regularization parameter high value order achieve 
+	 minimum overall image mse 

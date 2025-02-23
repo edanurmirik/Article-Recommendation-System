@@ -1,0 +1,8 @@
+post project runge kutta method index-2 differential algebraic equation 
+ new projection technique runge kutta method apply index-2 
+	 differential algebraic equation present numerical 
+	 approximation project output process 
+	 method strictly stable infinity order 
+	 convergence unaffected compare standard project method 
+	 gauss method technique special interest 
+	 symmetry preserve study detail 

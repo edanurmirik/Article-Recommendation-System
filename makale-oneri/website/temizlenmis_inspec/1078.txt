@@ -1,0 +1,11 @@
+action aggregation defuzzification mamdani type fuzzy system 
+ discuss issue action aggregation defuzzification mamdani type 
+	 fuzzy system paper highlight shortcoming defuzzification 
+	 technique associate customary interpretation sentence 
+	 connective mean set union operation include 
+	 loss smoothness output characteristic inaccurate mapping 
+	 fuzzy response appropriate procedure aggregate 
+	 output different fuzzy rule convert crisp 
+	 signal suggest advantage term increase 
+	 transparency mapping accuracy fuzzy response 
+	 demonstrate 

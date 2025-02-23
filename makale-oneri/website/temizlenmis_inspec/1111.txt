@@ -1,0 +1,11 @@
+contiguity r m 
+ r.e degree c contiguous deg sub wtt/(a)=deg sub wtt/(b r.e 
+	 set b c. paper generalize notation contiguity 
+	 structure r m upper semilattice r.e degree set r 
+	 modulo cappable r.e degree set m. element c r m 
+	 contiguous deg sub wtt/(a)]=[deg sub wtt/(b r.e set 
+	 b deg sub t/(a),deg sub t/(b c prove 
+	 paper nonzero element r m contiguous i.e. 
+	 element c r m c not=[o exist 
+	 r.e set b deg sub t/(a deg sub t/(b c 
+	 deg sub wtt/(a not=[deg sub wtt/(b 

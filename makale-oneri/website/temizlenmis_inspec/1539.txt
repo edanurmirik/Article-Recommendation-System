@@ -1,0 +1,9 @@
+comment recent method simultaneous determination 
+	 polynomial zero 
+ note comment recent result concern 
+	 simultaneous method fourth order find complex zero 
+	 circular interval arithmetic main discussion direct 
+	 rediscovered iterative formula modification present recently 
+	 sun kosmol 2001 present comment include critical 
+	 paper petkovic trickovic herceg 1998 sun 
+	 kosmol 2001 treat subject 

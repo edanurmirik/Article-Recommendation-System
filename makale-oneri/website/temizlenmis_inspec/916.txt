@@ -1,0 +1,16 @@
+attribute generation base association rule 
+ decision tree consider appropriate 1 tree classify 
+	 unseen datum accurately 2 size tree small 
+	 approach induce good decision tree add new 
+	 attribute value enhance expressiveness 
+	 training datum datum pre processing stage exist 
+	 method attribute extraction construction construct new 
+	 attribute art method time consume 
+	 need priori knowledge data domain 
+	 suitable data mining deal large volume datum propose 
+	 novel approach knowledge attribute relevant class 
+	 extract association rule training datum new 
+	 attribute value generate association rule 
+	 originally attribute elaborate method 
+	 investigate feature effectiveness approach 
+	 demonstrate experiment 

@@ -1,0 +1,10 @@
+control projective synchronization nonpartially linear chaotic system 
+ projective synchronization ps state vector synchronize 
+	 scaling factor usually observable partially linear system 
+	 ps mean control extend general 
+	 class chaotic system nonpartial linearity performance ps 
+	 manipulate control scaling factor 
+	 desire value numerical experiment illustrate application 
+	 rossler system chua circuit feasibility 
+	 control high dimensional system demonstrate hyperchaotic 
+	 system 

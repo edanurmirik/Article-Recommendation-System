@@ -1,0 +1,17 @@
+structural invariance spatial pythagorean hodograph 
+ structural invariance polynomial characterization 
+	 dimensional pythagorean hodograph introduce dietz et al 
+	 1993 arbitrary spatial rotation demonstrate proof 
+	 rely factor quaternion representation pythagorean 
+	 hodograph dimensional euclidean space particular instance 
+	 ph representation map propose choi et al 2002)-and 
+	 unit quaternion description spatial rotation approach 
+	 furnish remarkably simple derivation polynomial u(t 
+	 upsilon t p(t q(t specify canonical form rotate 
+	 pythagorean hodograph term original polynomial u(t 
+	 upsilon t p(t q(t angle theta axis n spatial 
+	 rotation preservation canonical form ph space curve 
+	 arbitrary spatial rotation essential incorporation 
+	 computer aid design manufacturing application 
+	 contour machining free form surface use ball end mill 
+	 realtime ph curve cnc interpolator 

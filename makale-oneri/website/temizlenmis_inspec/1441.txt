@@ -1,0 +1,20 @@
+handle exception safety 1 simple handle class 
+ c++ program use inheritance manage memory 
+	 obvious way directly programmer create 
+	 complicated datum structure trouble figure 
+	 datum structure safe delete classical method 
+	 deal complexity hide class class 
+	 typically handle idea attach handle object 
+	 object contain actual datum simple form 
+	 handle discuss article 
+	 handle object correspond single object inheritance 
+	 hierarchy handle straightforward use implement 
+	 tend intrinsically exception safe respect 
+	 exception hazard class typically assignment operator 
+	 assignment operator test self assignment avoid aliase 
+	 problem herb sutter observe 2000 program need 
+	 test exception unsafe rewrite assignment 
+	 operator ensure irrevocable 
+	 possibility throw exception pass strategy ensure 
+	 exception occur assignment operator execute 
+	 corrupt rest system 

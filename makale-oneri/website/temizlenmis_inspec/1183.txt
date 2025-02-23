@@ -1,0 +1,11 @@
+evolve robust asynchronous cellular automata density task 
+ paper evolution kind asynchronous cellular automata 
+	 study density task result compare 
+	 obtain synchronous automata influence 
+	 asynchronous update policy computational strategy 
+	 describe synchronous asynchronous cellular automata behave 
+	 investigate update policy gradually change 
+	 asynchronous cellular automata adaptable behavior 
+	 synchronous asynchronous evolved automata study 
+	 presence random noise kind asynchronous 
+	 cellular automata implicitly offer superior fault tolerance 

@@ -1,0 +1,23 @@
+application layer multicasting delaunay triangulation overlay 
+ application layer multicast support group application need 
+	 network layer multicast protocol application arrange 
+	 logical overlay network transfer datum overlay 
+	 present application layer multicast solution use delaunay 
+	 triangulation overlay network topology advantage use 
+	 delaunay triangulation allow application locally 
+	 derive hop route information require routing 
+	 protocol overlay disadvantage use delaunay 
+	 triangulation mapping overlay network 
+	 topology network datum link layer suboptimal 
+	 present protocol delaunay triangulation dt protocol 
+	 construct delaunay triangulation overlay network present 
+	 measurement experiment dt protocol overlay network 
+	 10 000 member run local pc cluster 100 
+	 linux pc result protocol stabilize quickly e.g. 
+	 overlay network 10 000 node build 30 s. 
+	 traffic measurement indicate average overhead node 
+	 kilobit second overlay network steady 
+	 state result throughput experiment multicast transmission 
+	 use tcp unicast connection neighbor overlay 
+	 network achievable throughput approximately 15 mb s 
+	 overlay 100 node 2 mb s overlay 1000 node 

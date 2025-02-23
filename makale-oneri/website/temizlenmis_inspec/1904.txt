@@ -1,0 +1,11 @@
+component support plt scheme 
+ plt scheme drscheme mzscheme support component object model com 
+	 standard piece software piece mzcom com 
+	 class scheme evaluator available com client 
+	 mzcom programmer embed scheme code program write 
+	 mainstream language c++ visual basic application 
+	 use mzcom client piece component support 
+	 software mysterx com class available plt scheme 
+	 program need mysterx use programmable web browser 
+	 display com object describe technical issue encounter 
+	 build system sketch application 

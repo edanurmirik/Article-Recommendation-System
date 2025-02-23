@@ -1,0 +1,11 @@
+implement equal mixed type comparison 
+ idea compare object different type entirely base 
+	 particular class class hierarchy 
+	 object class hierarchy class hierarchy mean 
+	 class derive common superclass object 
+	 common superclass 
+	 demonstrate previous paper 2002 provide correct 
+	 implementation mixed type comparison non trivial task 
+	 article way implement mixed type 
+	 comparison object class hierarchy meet 
+	 requirement equal contract 

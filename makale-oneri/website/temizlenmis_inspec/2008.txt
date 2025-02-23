@@ -1,0 +1,11 @@
+build 3d anatomical scene web 
+ propose new service build user define 3d anatomical structure 
+	 web web server connect database store 
+	 1000 3d anatomical model reconstruct visible human user 
+	 combine exist model planar oblique slice order 
+	 create structure anatomical scene furthermore 
+	 record sequence scene construction visualization action 
+	 action enable server construct high quality video animation 
+	 downloadable user professional student anatomy 
+	 medicine related discipline invite use server 
+	 create anatomical scene 

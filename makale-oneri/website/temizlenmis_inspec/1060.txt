@@ -1,0 +1,14 @@
+variety identification wheat use mass spectrometry neural network 
+	 influence mass spectra processing prior neural network 
+	 analysis 
+ performance matrix assist laser desorption ionisation time flight 
+	 mass spectrometry neural network wheat variety classification 
+	 far evaluate principal issue study number 
+	 variety classify correctly b mean 
+	 preprocesse mass spectrometric datum number wheat variety 
+	 test increase 10 30 main pre processing method 
+	 investigate base gaussian smoothing spectra 
+	 method base normalisation procedure multiplicative scatter 
+	 correction datum use final method 
+	 possible classify 30 wheat variety 87 correctly classify 
+	 mass spectra correlation coefficient 0.90 

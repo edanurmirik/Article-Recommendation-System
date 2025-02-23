@@ -1,0 +1,17 @@
+fuzzy logic control shunt active power filter power quality improvement 
+ simulation experimental study fuzzy logic control phase 
+	 shunt active power filter improve power quality compensate 
+	 harmonic reactive power require nonlinear load present 
+	 advantage fuzzy control base linguistic 
+	 description require mathematical model system 
+	 fuzzy control scheme realise inexpensive dedicate 
+	 micro controller intel 8031 base system compensation process 
+	 base sense line current approach different 
+	 conventional method require harmonic reactive volt ampere 
+	 requirement load performance fuzzy logic controller 
+	 compare conventional pi controller dynamic behavior 
+	 fuzzy controller find conventional pi 
+	 controller pwm pattern generation base carrierless hysteresis 
+	 base current control obtain switch signal 
+	 simulation experimental result present steady state 
+	 transient condition 

@@ -1,0 +1,14 @@
+reach strong consensus general network 
+ strong consensus sc problem variant conventional distribute 
+	 consensus problem know byzantine agreement problem 
+	 sc problem require agree value fault free processor 
+	 fault free processor initial value originally 
+	 problem study fully connect network malicious faulty 
+	 processor paper sc problem examine general 
+	 network component processor communication link 
+	 subject different faulty type simultaneously 
+	 hybrid fault model mixed faulty type network topology 
+	 fully connect propose protocol tolerate 
+	 maximum number tolerable faulty component 
+	 fault free processor obtain common value sc problem 
+	 general network 

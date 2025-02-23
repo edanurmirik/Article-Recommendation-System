@@ -1,0 +1,14 @@
+numerical solution forward backward problem 2 d heat conduction 
+	 equation 
+ dimensional heat conduction problem consider initial boundary 
+	 value problem related inverse problem determine 
+	 initial temperature distribution transient temperature 
+	 measurement conditional stability inverse problem 
+	 error analysis tikhonov regularization present 
+	 implicit inversion method base regularization 
+	 technique successive relaxation sor iteration process 
+	 establish explicit difference scheme direct heat 
+	 problem develop paper inversion process 
+	 efficient application sor technique inversion 
+	 convergent rapidly numerical result illustrate method 
+	 

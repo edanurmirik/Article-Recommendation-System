@@ -1,0 +1,10 @@
+image reconstruction simulate specimen use convolution projection 
+ paper report reconstruction cross section composite 
+	 structure convolution projection cbp algorithm 
+	 use capture attenuation field speciman different 
+	 test case evaluation case represent 
+	 vary degree complexity addition role filter 
+	 nature reconstruction error discuss numerical 
+	 result obtain study reveal cbp algorithm useful 
+	 tool qualitative quantitative assessment composite 
+	 region encounter engineering application 

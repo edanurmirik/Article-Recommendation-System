@@ -1,0 +1,19 @@
+high performance numerical pricing method 
+ pricing financial derivative important field finance 
+	 constitute major component financial management application 
+	 uncertainty future event analytic approach infeasible 
+	 time consume numerical simulation require 
+	 aurora financial management system pricing perform basis 
+	 lattice representation stochastic multidimensional scenario 
+	 process use monte carlo simulation backward induction 
+	 method allow exploitation share memory 
+	 parallelism present parallelization backward induction 
+	 numerical pricing kernel cluster smps use hpf+ extended 
+	 version high performance fortran base language extension 
+	 specify hierarchical mapping datum smp cluster 
+	 compiler generate hybrid parallel program combine 
+	 distribute memory share memory parallelism outline 
+	 parallelization strategy adopt vfc compiler present 
+	 experimental evaluation pricing kernel nec sx-5 vector 
+	 supercomputer linux smp cluster compare pure mpi version 
+	 hybrid parallel mpi openmp version 

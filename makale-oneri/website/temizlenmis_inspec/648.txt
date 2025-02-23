@@ -1,0 +1,13 @@
+study ambiguity inherent spectral analysis voigt profile 
+	 modify simplex approach 
+ pulse spectrometry temporal transient analyze directly 
+	 temporal domain assume consist purely exponentially 
+	 decay sinusoid experimental spectra actually consist 
+	 gaussian voigt profile gauss lorentz profile 
+	 direct method erroneously interpret line sum 
+	 lorentzian profile use nelder mead simplex method 
+	 modify introduce new mean avoid degeneracy quenching 
+	 secondary minima demonstrate large number different 
+	 solution obtain equivalent accuracy limited 
+	 acquisition time interval final peak parameter devoid 
+	 physical chemical meaning 

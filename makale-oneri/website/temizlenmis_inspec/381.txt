@@ -1,0 +1,12 @@
+robust fuzzy control photovoltaic power inverter taguchi method 
+ paper present design implementation robust fuzzy control 
+	 photovoltaic pv power inverter taguchi tune scale factor 
+	 achieve fast transient response small steady state error system 
+	 robustness robust fuzzy controller adopt input 
+	 output scaling factor determine efficiently use 
+	 taguchi tuning algorithm propose system operate different 
+	 mode grid connection mode stand mode accommodate 
+	 wide load variation simulation result hardware measurement 
+	 obtain prototype microcontroller intel 80196kc 
+	 present verify theoretical discussion adaptivity 
+	 robustness feasibility 

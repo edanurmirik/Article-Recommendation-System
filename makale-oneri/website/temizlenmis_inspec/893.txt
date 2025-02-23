@@ -1,0 +1,16 @@
+use natural language processing translate clinical information 
+	 database 889,921 chest radiographic report 
+ aim evaluate translation chest radiographic report use natural 
+	 language processing compare finding 
+	 literature natural language processor code 10 year narrative 
+	 chest radiographic report urban academic medical center 
+	 code 150 report compare manual coding frequency 
+	 cooccurrence 24 clinical condition disease abnormality 
+	 clinical state estimate ratio right left lung mass 
+	 association pleural effusion condition frequency 
+	 bullet stab wound compare independent observation 
+	 sensitivity specificity system pneumothorax coding 
+	 compare manual financial coding internal external 
+	 validation study confirm accuracy natural language 
+	 processing translate chest radiographic narrative report 
+	 large database information 

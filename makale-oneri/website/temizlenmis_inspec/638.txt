@@ -1,0 +1,19 @@
+scalable secure group communication ip multicast 
+ introduce analyze scalable rekeying scheme implement secure 
+	 group communication internet protocol multicast 
+	 scheme incur constant processing message storage overhead 
+	 rekey operation single member join leave group 
+	 logarithmic overhead bulk simultaneous change group 
+	 membership bound hold group dynamic know 
+	 priori rekeying algorithm require particular clustering 
+	 member secure multicast group describe protocol 
+	 achieve clustering feasible efficiently 
+	 cluster member realistic internet like topology evaluate 
+	 overhead rekeying scheme previously 
+	 publish scheme simulation internet topology map 
+	 contain 280 000 router analysis detailed 
+	 simulation rekeying scheme perform 
+	 previous scheme single change group membership far 
+	 bulk group change algorithm outperform previously know 
+	 scheme order magnitude term actual bandwidth 
+	 usage processing cost storage requirement 

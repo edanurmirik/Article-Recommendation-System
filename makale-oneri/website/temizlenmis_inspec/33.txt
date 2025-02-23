@@ -1,0 +1,10 @@
+fuzzy control multivariable process modified error decouple 
+ paper control concept squared equal number input 
+	 output multivariable process system propose control 
+	 system consist single loop fuzzy controller 
+	 loop centralized decoupling unit fuzzy control system use 
+	 feedback control minimize error loop decoupler 
+	 use adaptive technique mitigate loop interaction decoupler 
+	 predict interact loop change modify input error 
+	 loop controller controller test simulation model 
+	 single component vaporizer process 

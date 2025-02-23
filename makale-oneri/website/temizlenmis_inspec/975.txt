@@ -1,0 +1,12 @@
+algebraic condition high order convergent defer correction scheme 
+	 base runge kutta nystrom method second order boundary value 
+	 problem 
+ t. van hecke m. van daele j. comp appl math vol 132 p. 107 125 
+	 2001 investigation high order convergence defer 
+	 correction scheme numerical solution second order nonlinear 
+	 point boundary value problem contain derivative 
+	 derivation algebraic condition raise 
+	 increase order defer correction scheme base taylor 
+	 series expansion paper describe elegant way 
+	 mean p series obtain necessary condition generalize 
+	 idea equation form y f t y y 

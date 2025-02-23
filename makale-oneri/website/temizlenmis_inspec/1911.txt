@@ -1,0 +1,24 @@
+pulmonary perfusion pattern pulmonary arterial pressure 
+ use artificial intelligence method determine quantitative 
+	 parameter describe perfusion image synthesize 
+	 reasonable estimate pulmonary arterial pa pressure measure 
+	 angiography radionuclide perfusion image obtain 120 
+	 patient normal chest radiograph undergo angiographic 
+	 pa pressure measurement 3 day radionuclide study 
+	 artificial neural network ann construct image 
+	 parameter describe statistical boundary characteristic 
+	 perfusion image use leave cross validation 
+	 technique method use predict pa systolic pressure 
+	 case ann train pearson correlation 
+	 coefficient determine predict measured pa 
+	 systolic pressure ann prediction correlate measured pulmonary 
+	 systolic pressure r=0.846 p<.001 accuracy 
+	 prediction influence presence pulmonary embolism 
+	 51 patient predict pa pressure 29 mm 
+	 hg pulmonary hypertension angiography 13 patient 
+	 predict pa pressure great 48 mm hg pulmonary hypertension 
+	 angiography meaningful information regard pa pressure 
+	 derive noninvasive radionuclide perfusion scanning use 
+	 image analysis concert artificial intelligence method help 
+	 reveal physiologic information readily apparent visual image 
+	 inspection 

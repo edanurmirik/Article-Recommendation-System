@@ -1,0 +1,15 @@
+closed loop model set validation stochastic framework 
+ deal probabilistic model set validation assume dynamic 
+	 multi input multi output mimo plant describe model set 
+	 unstructured uncertainty identification experiment 
+	 perform closed loop necessary sufficient condition 
+	 derive consistency model set stabilize 
+	 controller closed loop frequency domain experimental datum fded 
+	 condition euclidean norm complex vector 
+	 involve complex vector depend linearly 
+	 disturbance measurement error base condition 
+	 analytic formula derive sample unfalsifie 
+	 probability sup model set asymptotic statistical 
+	 property sup briefly discuss numerical 
+	 example include illustrate efficiency suggest 
+	 method model set quality evaluation 

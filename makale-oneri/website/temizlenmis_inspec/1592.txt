@@ -1,0 +1,16 @@
+hermite interpolation rotation invariant spatial pythagorean hodograph 
+	 curve 
+ interpolation order hermite datum spatial pythagorean hodograph 
+	 curve exhibit closure arbitrary 3 dimensional rotation 
+	 address hodograph curve correspond certain 
+	 combination polynomial dietz et al 1993 
+	 admit compact description term quaternion instance 
+	 ph representation map propose choi et al 2002 
+	 low order ph curve interpolate arbitrary order spatial 
+	 hermite datum quintic ph quintic 
+	 quaternion representation yield reduction hermite 
+	 interpolation problem simple quadratic equation 
+	 quaternion unknown system admit closed form solution 
+	 express ph quintic interpolant spatial hermite datum 
+	 parameter family integral shape measure invoke fix 
+	 free parameter 

@@ -1,0 +1,11 @@
+simple nonlinear dual window operator edge detection 
+ propose nonlinear edge detection technique base 
+	 concentric circular window operator perform preliminary 
+	 selection edge candidate use standard gradient use 
+	 dual window operator reveal edge zero cross point 
+	 simple difference function depend minimum maximum 
+	 value window comparison establish 
+	 technique report term visual appearance computational 
+	 efficiency detect edge surely comparable 
+	 canny laplacian gaussian algorithm noteworthy 
+	 reduction term computational load 

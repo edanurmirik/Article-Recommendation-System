@@ -1,0 +1,14 @@
+mtd pls pls base variant mtd method ii mapping ligand receptor 
+	 interaction enzymatic acetic acid ester hydrolysis 
+ pls variant mtd method t.i. oprea et al sar qsar environ res 
+	 2001 12 75 92 apply series 25 acetylcholinesterase 
+	 hydrolysis substrate statistically significant mtd pls model q sup 
+	 2/ 0.7 0.8 agreement previous mtd model 
+	 advantage local contribution understand 
+	 occupancy nonoccupancy interpretation mtd chemically intuitive 
+	 approach force mtd pls coefficient assume negative 
+	 zero value fragmental volume descriptor positive 
+	 zero value fragmental hydrophobicity descriptor 
+	 separate kind local interaction vertex 
+	 mtd hypermolecule method suitable medicinal chemistry 
+	 synthesis planning 

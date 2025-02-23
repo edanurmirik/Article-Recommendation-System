@@ -1,0 +1,23 @@
+generic simulation approach multi axis machining 1 modeling 
+	 methodology 
+ paper present new methodology analytically simulate multi axis 
+	 machining complex sculptured surface generalized approach 
+	 develop represent arbitrary cutting edge design 
+	 local surface topology complex sculptured surface nurbs curve 
+	 use represent cut edge profile approach offer 
+	 advantage represent arbitrary cutting edge design 
+	 generic way provide standardized technique 
+	 manipulate location orientation cutting edge 
+	 local surface topology define surface 
+	 generate previous tool path vicinity current tool 
+	 position local surface topology represent 
+	 use computationally expensive cad system systematic prediction 
+	 technique develop determine instantaneous tool 
+	 interaction machining methodology employ determine 
+	 cut edge cut segment determine intersection 
+	 nurbs curve representation cut edge 
+	 define local surface topology cut segment utilize 
+	 predict instantaneous chip load static dynamic cutting 
+	 force tool deflection 1 paper detail modeling 
+	 methodology demonstrate capability simulation 
+	 machine complex surface 

@@ -1,0 +1,14 @@
+optimal routing policy torus 
+ routing policy method use select specific output channel 
+	 message number acceptable output channel optimal 
+	 route policy policy maximize probability message 
+	 reach destination delay optimal routing policy 
+	 propose regular network include mesh 
+	 hypercube open problem interconnection network research 
+	 identification optimal routing policy torus 
+	 paper optimal routing policy torus 
+	 result demonstrate present detailed example 
+	 good choice output channel dependent probability 
+	 channel available result settle negative 
+	 conjecture j. wu 1996 concern optimal routing policy 
+	 torus 

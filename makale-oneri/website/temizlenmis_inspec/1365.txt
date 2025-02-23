@@ -1,0 +1,24 @@
+deadlock free scheduling flexible manufacturing system use petri net 
+ paper address deadlock free scheduling problem flexible 
+	 manufacturing systems efficient deadlock free scheduling algorithm 
+	 develop use time petri net class fmss 
+	 systems sequential systems shared resources s sup 4/ r 
+	 algorithm generate partial reachability graph find optimal 
+	 near optimal deadlock free schedule term firing sequence 
+	 transition petri net model objective minimize 
+	 mean flow time mft efficient truncation technique base 
+	 siphon concept develop use generate minimum 
+	 necessary portion reachability graph search 
+	 experimentally develop siphon truncation technique 
+	 enhance ability develop deadlock free schedule system 
+	 high number deadlock achieve use standard 
+	 petri net scheduling approach necessary case 
+	 relax optimality condition large fms order 
+	 search effort reasonable user control factor ucf 
+	 define use scheduling algorithm objective use 
+	 ucf achieve acceptable trade solution 
+	 quality search effort effect mft cpu time 
+	 investigate randomly generate example use 
+	 illustration comparison effect ucf affect 
+	 mean flow time increase reduce search 
+	 effort cpu time significantly 

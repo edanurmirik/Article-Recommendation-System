@@ -1,0 +1,4 @@
+edit distance run length encode string 
+ let x y run length encode string encode length k l 
+	 respectively present simple o(|x|l+|y|k time algorithm 
+	 compute edit distance 

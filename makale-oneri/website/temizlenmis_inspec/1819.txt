@@ -1,0 +1,17 @@
+structural interpretation match pole zero discretisation 
+ deal match pole zero discretisation use practice 
+	 hand calculation digital redesign continuous time 
+	 system available transfer function form 
+	 form inconvenient characterise time domain property 
+	 sample datum loop computerise design system 
+	 state space formulation develop new interpretation 
+	 match pole zero model structurally identical 
+	 hold equivalent discrete time model generalised hold 
+	 integral unify widely use discretisation 
+	 approach algorithm obtain generalised hold function 
+	 present hold equivalent structure match pole zero model 
+	 clarify discrete time system property 
+	 controllability observability preservation loss 
+	 match pole zero discretisation propose formulation 
+	 match pole zero hold equivalent mapping model 
+	 construct single schematic model 

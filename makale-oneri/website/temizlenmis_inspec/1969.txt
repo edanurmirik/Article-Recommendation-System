@@ -1,0 +1,20 @@
+model self consistent multi class dynamic traffic flow 
+ study present systematic self consistent multiclass multilane 
+	 traffic model derive vehicular boltzmann equation 
+	 traffic dispersion model multilane domain consider 
+	 dimensional space interaction vehicle domain 
+	 describe dispersion model reason consider multilane 
+	 domain dimensional space drive behavior road 
+	 user restrict lane especially motorcyclist 
+	 dispersion model nonlinear poisson equation derive 
+	 car follow theory equilibrium assumption 
+	 concept kind user share finite section density 
+	 distribute road dispersion model addition 
+	 dynamic evolution traffic flow determine systematic 
+	 gas kinetic model derive boltzmann equation multiply 
+	 boltzmann equation zeroth first- second order moment 
+	 function integrate equation use chain rule 
+	 derive continuity motion variance equation respectively 
+	 second order moment function square 
+	 individual velocity employ previous research 
+	 physical meaning traffic flow 

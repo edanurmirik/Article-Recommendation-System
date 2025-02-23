@@ -1,0 +1,17 @@
+high level language support user define reduction 
+ optimize handling reduction parallel supercomputer cluster 
+	 workstation critical high performance reduction 
+	 common scientific code potential source bottleneck 
+	 high level language mechanism write efficient 
+	 reduction remain surprisingly absent far mechanism 
+	 exist provide flexibility programmer need 
+	 achieve desirable level performance paper present 
+	 new language construct arbitrary reduction let 
+	 programmer achieve level performance equal achievable 
+	 highly flexible low level combination fortran mpi 
+	 implement construct zpl language evaluate 
+	 context initialization nas mg benchmark 45 
+	 time speedup code write zpl construct 
+	 addition performance large number processor surpasse 
+	 achieve nas implementation mechanism provide 
+	 programmer need flexibility 

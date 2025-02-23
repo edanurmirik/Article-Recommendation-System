@@ -1,0 +1,17 @@
+real time implementation new low memory spiht image code algorithm use 
+	 dsp chip 
+ algorithm base wavelet transform zerotree quantization 
+	 pearlman 1996 set partition hierarchical tree spiht 
+	 algorithm know simplicity efficiency paper 
+	 deal real time implementation spiht algorithm use dsp 
+	 chip order facilitate implementation improve codec 
+	 performance relative issue thoroughly discuss 
+	 optimization program structure speed wavelet 
+	 decomposition spiht high memory requirement major drawback 
+	 hardware implementation paper modify original spiht 
+	 algorithm present new concept number error bit 
+	 absolute zerotree consequently memory cost significantly 
+	 reduced introduce new method control code process 
+	 number error bit experimental result 
+	 implementation meet common requirement real time video coding 
+	 prove practical efficient dsp solution 

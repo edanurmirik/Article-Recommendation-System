@@ -1,0 +1,21 @@
+computational capacity odorant discriminator linear separability 
+	 curve 
+ introduce study artificial neural network inspire 
+	 probabilistic receptor affinity distribution model olfaction 
+	 system consist n sensory neuron output converge single 
+	 processing linear threshold element system aim model 
+	 discrimination single target odorant large number p 
+	 background odorant range odorant concentration 
+	 possible provide p exceed critical value p sub 
+	 c/ calculate critical capacity alpha c p sub c//n. critical 
+	 capacity depend range concentration 
+	 discrimination accomplish olfactory bulb 
+	 think collection processing element 
+	 responsible discrimination single odorant study 
+	 provide quantitative analysis potential computational 
+	 property olfactory bulb mathematical formulation 
+	 problem consider determine capacity linear 
+	 separability continuous curve embed large dimensional 
+	 space accomplish numerical study use method 
+	 signal discrimination task realizable 
+	 finite size scaling analysis 

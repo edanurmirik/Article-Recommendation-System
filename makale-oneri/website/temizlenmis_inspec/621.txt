@@ -1,0 +1,7 @@
+mpeg-4 video object base rate allocation variable temporal rate 
+ object base coding bit allocation perform object level 
+	 temporal rate different object vary propose algorithm 
+	 deal issue code multiple video object mvos 
+	 propose algorithm able successfully achieve target bit 
+	 rate effectively code arbitrarily shape mvo different temporal 
+	 rate maintain stable buffer level 

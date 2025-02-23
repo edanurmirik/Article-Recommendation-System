@@ -1,0 +1,18 @@
+generalized mosaicing wide field view multispectral imaging 
+ present approach significantly enhance spectral resolution 
+	 imaging system generalize image mosaicing filter transmit 
+	 spatially vary spectral band rigidly attach camera 
+	 system sense scene point multiple time time 
+	 different spectral band additional dimension 
+	 generalize mosaic paradigm demonstrate yield high 
+	 radiometric dynamic range image wide field view use 
+	 spatially vary density filter result mosaic represent 
+	 spectrum scene point image acquisition easy 
+	 traditional image mosaic derive efficient scene sampling rate 
+	 use registration method accommodate spatially varying 
+	 property filter use datum acquire method 
+	 demonstrate scene render different simulated illumination 
+	 spectra able infer information scene 
+	 illumination approach test use standard 8 bit 
+	 black white video camera fix spatially vary spectral 
+	 interference filter 

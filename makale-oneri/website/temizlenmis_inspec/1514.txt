@@ -1,0 +1,13 @@
+universal parametrization construct smoothly connect b spline surface 
+ paper explore feasibility universal parametrization 
+	 generate b spline surface propose recently 
+	 literature lim 1999 present interesting property new 
+	 parametrization guarantee continuity b spline surface 
+	 independently construct patch 
+	 impose constraint simple blend method patchwork 
+	 propose construct c sup n-1/ surface overlap control 
+	 net utilize account semi localness property 
+	 universal parametrization effectively help construct 
+	 natural look b spline surface deviation 
+	 datum point low experimental result 
+	 set surface datum point 

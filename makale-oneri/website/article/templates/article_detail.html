@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ article.title }}</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #0e2238; /* Arka plan rengi */
+            color: #343a40; /* Yazı rengi */
+        }
+
+        .container {
+            background-color: white; /* Container arka plan rengi */
+            border-radius: 10px; /* Kenar yumuşatma */
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Kutu gölgesi */
+            padding: 20px; /* İç boşluk */
+            margin-top: 20px; /* Yukarıdan boşluk */
+        }
+
+        .article-header {
+            margin-bottom: 20px;
+        }
+
+        .article-title {
+            font-size: 2.5rem;
+            color: #343a40;
+        }
+
+        .article-meta {
+            color: #6c757d;
+            margin-bottom: 20px;
+        }
+
+        .article-summary {
+            font-size: 1.125rem;
+            line-height: 1.6;
+        }
+
+        .key-content {
+            margin-top: 30px;
+        }
+
+        .key-content-item {
+            border: 1px solid #dee2e6;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Eğer rate değeri varsa, artık butonun rengi ve ok simgesi büyüklüğü belirlenmiş olacak */
+        .artic-rate {
+            background-color: #ffa500; /* Yeşil */
+            border: 2px solid #0e2238;
+            border-style: solid;
+            color: white;
+            padding: 8px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            width: 400px;
+        }
+
+        .artic-rate::before {
+            font-size: 1.5em; /* Ok simgesi boyutunu ayarlayın */
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container mt-5">
+        <div class="article-header">
+            <h1 class="article-title">{{ article.title }}</h1>
+        </div>
+        <div class="article-summary">
+            <p>{{ article.summary }}</p>
+        </div>
+
+        {% if rate %}
+        <div class="artic-rate">
+            <h5>Similarity Rate: {{ rate }}</h5>
+        </div>
+        {% endif %}
+
+        <!-- Key Contents -->
+        <div class="key-content">
+            <h5>Key Contents</h5>
+            <div class="key-content-item">
+                <p>{{ article.key_content }}</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

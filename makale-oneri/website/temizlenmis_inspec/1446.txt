@@ -1,0 +1,17 @@
+tattletale technique 
+ practical experience teach java developer thing critical 
+	 resource mutexe database connection transaction file handle 
+	 etc require timely systematic release unfortunately java 
+	 garbage collector job accord java language 
+	 specification guarantee garbage collector 
+	 run collect object finalize object 
+	 unfortunately java counterpart c++ 
+	 destructor finally block tedious error prone 
+	 require developer constantly remember duplicate 
+	 resource release code consequently good java developer 
+	 forget release critical resource light end 
+	 tunnel java easy leak critical resource 
+	 provide necessary mechanism easily track 
+	 tattletale technique simple method design new class 
+	 retrofit exist class quickly easily detect 
+	 offend code responsible leak resource 

@@ -1,0 +1,23 @@
+adjoint base optimization steady suction disturbance control 
+	 incompressible flow 
+ optimal distribution steady suction need control growth 
+	 single multiple disturbance quasi dimensional 
+	 incompressible boundary layer flat plate investigate 
+	 evolution disturbance analyse framework 
+	 parabolize stability equation pse gradient base optimization 
+	 procedure use gradient evaluate use adjoint 
+	 parabolize stability equation apse adjoint 
+	 boundary layer equation able accuracy gradient 
+	 increase introduce stabilization procedure pse result 
+	 suction peak appear upstream suction 
+	 region optimal control tollmien schlichting t s wave steady 
+	 streamwise streak dimensional boundary layer oblique 
+	 wave quasi dimensional boundary layer subject adverse 
+	 pressure gradient mean flow modification suction 
+	 stabilize effect similar favourable pressure 
+	 gradient optimal suction distribution 
+	 disturbance interest reduce growth rate 
+	 perturbation result control steady cross flow mode 
+	 dimensional boundary layer subject favourable pressure 
+	 gradient large suction completely 
+	 stabilize disturbance 

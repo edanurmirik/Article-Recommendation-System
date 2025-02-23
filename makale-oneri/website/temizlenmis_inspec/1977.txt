@@ -1,0 +1,14 @@
+track nonparameterize object contour video 
+ propose new method contour tracking video inverted distance 
+	 transform edge map use edge indicator function 
+	 contour detection use concept topographical distance 
+	 watershe segmentation formulate minimization new 
+	 viewpoint way combine result watershed algorithm 
+	 different surface particular algorithm determine 
+	 contour combination current edge map contour 
+	 predict tracking result previous frame 
+	 problem background clutter relax 
+	 object motion account compensation object motion allow 
+	 detect remove spurious edge background experimental 
+	 result confirm expect advantage propose method 
+	 exist approach 

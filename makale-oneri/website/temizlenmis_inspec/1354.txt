@@ -1,0 +1,16 @@
+design analysis optimal material distribution policy flexible 
+	 manufacturing system use single agv 
+ modern automate manufacturing process employ automate guide vehicle 
+	 agv material handling serve machine centre mc 
+	 factory optimal scheduling agv significantly help 
+	 increase efficiency manufacturing process minimize 
+	 idle time mcs wait raw material analyse 
+	 requirement optimal schedule provide mathematical 
+	 framework efficient schedule material delivery agv 
+	 mathematical model develop strategy optimal 
+	 material distribution available raw material mcs 
+	 derive model optimal number mc utilize 
+	 determine finally material delivery schedule employ 
+	 multiple journey mcs agv carry 
+	 rigorous analysis simulation experiment 
+	 delivery strategy optimize overall performance 

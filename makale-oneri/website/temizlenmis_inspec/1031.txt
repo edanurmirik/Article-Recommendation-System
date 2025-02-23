@@ -1,0 +1,15 @@
+noise constrain hyperspectral datum compression 
+ storage transmission requirement hyperspectral data set 
+	 significant reduce hardware cost design compression 
+	 technique need preserve information content maximize 
+	 compression ratio lossless compression technique maintain data 
+	 integrity yield small compression ratio present slightly 
+	 lossy compression algorithm use noise statistic datum 
+	 preserve information content maximize compression ratio 
+	 adaptive principal component analysis apca algorithm use noise 
+	 statistic determine number significant principal component 
+	 select require represent pixel 
+	 noise level demonstrate effectiveness 
+	 method airborne visible infrare spectrometer aviris 
+	 hyperspectral digital imagery collection experiment hydice 
+	 hyperspectral mapper hymap hyperion dataset 

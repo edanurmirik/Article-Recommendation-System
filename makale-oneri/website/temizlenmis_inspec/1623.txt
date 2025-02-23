@@ -1,0 +1,8 @@
+transmission real time video ip differentiate service 
+ multimedia application require high bandwidth guarantee quality 
+	 service qos current internet provide good effort 
+	 service meet stringent qos requirement deliver 
+	 mpeg video propose mpeg frame transport 
+	 service model diffserv performance analysis simulation 
+	 result propose approach guarantee qos 
+	 achieve high bandwidth utilisation 

@@ -1,0 +1,7 @@
+robust h sub infinity control approach induction motor 
+ paper deal robustness stability induction motor 
+	 control structure internal external disturbance 
+	 propose control scheme use h sub infinity controller 
+	 field orientation input output linearization achieve 
+	 specify feature simulation result include illustrate 
+	 control approach performance 

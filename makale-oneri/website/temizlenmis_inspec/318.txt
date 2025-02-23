@@ -1,0 +1,9 @@
+note deterministic inventory lot size model inflation shortage 
+	 deterioration fluctuate demand yang et al 
+ original paper h.-l. yang et al ibid vol.48 p.144 58 2001 yang 
+	 et al extend lot size model allow inflation 
+	 fluctuate demand model prove optimal 
+	 replenishment schedule exist unique propose 
+	 algorithm find optimal policy present paper provide 
+	 example optimal replenishment schedule 
+	 consequently overall optimal policy exist 

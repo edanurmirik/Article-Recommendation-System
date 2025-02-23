@@ -1,0 +1,20 @@
+control thrust vectore fly wing recede horizon lpv approach 
+ paper deal application recede horizon method hover 
+	 forward flight model experimental tethered fly wing develop 
+	 caltech dynamic system representative vertical 
+	 landing aircraft harrier hover 
+	 thrust vectore aircraft f18 harv x-31 forward flight 
+	 adopt control methodology hybrid recede horizon 
+	 technique control lyapunov function clf)-base idea 
+	 clf generate use quasi lpv method use clf 
+	 terminal cost recede horizon optimization stability 
+	 guarantee main advantage approach stability 
+	 guarantee impose constraint line optimization 
+	 allow problem solve efficient manner model 
+	 experimental set obtain hover forward flight 
+	 mode numerical simulation different time horizon present 
+	 illustrate effectiveness discuss method specifically 
+	 mere upper bind cost 
+	 appropriate choice terminal cost horizon length 
+	 short simulation result present use experimentally verify 
+	 model parameter 

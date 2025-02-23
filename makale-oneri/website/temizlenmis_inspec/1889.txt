@@ -1,0 +1,19 @@
+slide mode dynamic continuous feedback control distribute 
+	 discrete event scheduling 
+ continuous feedback control approach real time scheduling discrete 
+	 event present motivate need control theoretic 
+	 technique analyze design system distribute 
+	 manufacturing application continuous feedback control system 
+	 exhibit highly nonlinear discontinuous dynamic specifically 
+	 production demand manufacturing system exceed available 
+	 resource capacity control system chatter exhibit 
+	 slide mode slide mode behavior advantageously use 
+	 scheduling application allow system visit different 
+	 schedule infinitesimal region near slide surface 
+	 paper analytical model develop characterize slide 
+	 mode dynamic model use design controller 
+	 slide mode domain improve effectiveness control system 
+	 search schedule good performance computational result 
+	 indicate continuous feedback control approach provide 
+	 near optimal schedule computationally efficient 
+	 compare exist scheduling technique 

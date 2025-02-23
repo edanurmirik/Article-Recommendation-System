@@ -1,0 +1,13 @@
+quasi linear pdae convection application index numerical 
+	 solution 
+ class partial differential algebraic equation pdaes quasi linear 
+	 type include nonlinear term convection type possibility 
+	 determine time spatial index consider typical example 
+	 investigate application plasma physic especially 
+	 discuss numerical solution initial boundary value problem 
+	 mean corresponding finite difference splitting procedure 
+	 modification know fractional step method couple 
+	 matrix factorization convergence numerical solution 
+	 exact solution correspond initial boundary value problem 
+	 investigate result numerical solution plasma 
+	 pdae 

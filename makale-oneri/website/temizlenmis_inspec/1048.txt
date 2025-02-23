@@ -1,0 +1,14 @@
+parallel distribute haskells 
+ parallel distribute language specify computation multiple processor 
+	 computation language describe algorithm i.e. 
+	 compute coordination language describe organise 
+	 computation processor haskell use 
+	 computation language wide variety parallel distribute 
+	 language paper comprehensive survey implement 
+	 language outline parallel distribute language concept 
+	 classifie haskell extension use similar example program 
+	 use illustrate contrast coordination language 
+	 comparison facilitate common computation language lazy 
+	 language obvious choice parallel distribute 
+	 computation address question haskell common 
+	 functional computation language 

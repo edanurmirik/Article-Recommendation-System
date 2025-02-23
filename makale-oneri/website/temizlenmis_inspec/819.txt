@@ -1,0 +1,15 @@
+local search constraint propagation conflict base heuristic 
+ search algorithm solve csp constraint satisfaction problems usually 
+	 fall main family local search algorithm 
+	 systematic algorithm family advantage designing 
+	 hybrid approach promise advantage 
+	 combine single approach paper present new hybrid 
+	 technique perform local search partial assignment instead 
+	 complete assignment use filter technique 
+	 conflict base technique efficiently guide search new 
+	 technique benefit classical approach priori pruning 
+	 search space filtering base search possible repair 
+	 early mistake local search focus specific version 
+	 technique tabu decision repair experiment open shop 
+	 scheduling problem approach compete good 
+	 highly specialized algorithm 

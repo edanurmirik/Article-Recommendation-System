@@ -1,0 +1,15 @@
+heuristic single pass welding task sequence 
+ welding task sequence prerequisite offline programming robot 
+	 arc welding single pass welding task sequence model 
+	 modify travel salesman problem owe difficulty 
+	 result arc route problem effective local search heuristic 
+	 develop computational speed important robot arc 
+	 welding automate process planning procedure 
+	 generate reasonable solution acceptable time necessary 
+	 effective automate process planning different heuristic 
+	 propose solve welding task sequence problem consider 
+	 productivity potential weld distortion 
+	 constructive heuristic base near neighbour concept tabu 
+	 search heuristic develop enhance use improvement 
+	 procedure effectiveness heuristic develop test 
+	 verify actual weld structure problem random problem 

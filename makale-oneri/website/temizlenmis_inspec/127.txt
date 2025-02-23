@@ -1,0 +1,12 @@
+asymptotical stability discrete time neural network 
+ work present proof existence fix point 
+	 generalize sufficient condition guarantee stability 
+	 discrete time neural network use lyapunov function method 
+	 symmetric asymmetric connection 
+	 unique attractor fix point condition 
+	 satisfied extended result chen aihara physica 
+	 d vol 104 3/4 p. 286 325 1997 particular far 
+	 study stability equilibrium discrete time neural network 
+	 connection weight matrix form interval matrix 
+	 finally example illustrate reinforce 
+	 theory 

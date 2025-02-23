@@ -1,0 +1,15 @@
+route security wireless ad hoc network 
+ mobile ad hoc network consist collection wireless mobile node 
+	 capable communicate use 
+	 network infrastructure centralized administration manet 
+	 emerge research area practical application wireless 
+	 manet particularly vulnerable fundamental 
+	 characteristic open medium dynamic topology distribute 
+	 cooperation constrain capability routing play important 
+	 role security entire network general route 
+	 security wireless manets appear problem trivial 
+	 solve article study route security issue 
+	 manet analyze detail type attack black hole 
+	 problem easily employ manet propose 
+	 solution black hole problem ad hoc demand distance 
+	 vector route protocol 

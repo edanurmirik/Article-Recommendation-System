@@ -1,0 +1,18 @@
+theoretical experimental investigation coherence traffic noise 
+	 transmission open window rectangular room 
+	 high rise building 
+ method theoretically calculate coherence sound pressure 
+	 inside rectangular room high rise building outside 
+	 open window room propose traffic noise transmit 
+	 room generally dominate low frequency component 
+	 active noise control anc technology find application 
+	 good coherence reference error signal essential 
+	 effective noise reduction check base traffic 
+	 noise prediction method wave theory mode coupling theory 
+	 result paper enable determine potential 
+	 limitation anc use reduce transmission experimental 
+	 coherence result similar rectangular room 
+	 locate 17th 30th floor 34 floor high rise building 
+	 calculate result propose method generally good 
+	 agreement experimental result demonstrate usefulness 
+	 method predict coherence 

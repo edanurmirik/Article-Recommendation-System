@@ -1,0 +1,17 @@
+adaptive sphere fitting method sequential tolerance control 
+ machining complex typically involve logical chronological 
+	 sequence n operation m machine tool manufacturing 
+	 datum match design constraint design 
+	 specification impose usually satisfied distinct 
+	 subset n operation prescribe process plan 
+	 conventional tolerance control specify fix set point 
+	 operation permissible variation set point insure 
+	 compliance specification sequential tolerance 
+	 control stc use real time measurement information completion 
+	 stage reposition set point subsequent operation 
+	 early sphere fitting method stc 
+	 lead inferior solution process distribution 
+	 skewed paper introduce extension stc use adaptive 
+	 sphere fitting method significantly improve yield 
+	 presence skewed distribution significantly reduce 
+	 computational effort require early probabilistic search method 

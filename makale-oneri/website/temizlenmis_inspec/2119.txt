@@ -1,0 +1,8 @@
+location transport net heterogeneous territory 
+ location transport route heterogeneous territory study 
+	 network join set terminal point certain number 
+	 additional branch point problem formulate property 
+	 optimal solution a. tree like network number branch 
+	 point study stepwise optimization algorithm a. network 
+	 adjacency matrix base algorithm construct 
+	 minimal cost route design 

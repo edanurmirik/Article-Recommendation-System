@@ -1,0 +1,18 @@
+advanced aerostatic stability analysis cable stay bridge use 
+	 finite element method 
+ base concept limit point instability advanced nonlinear 
+	 finite element method use analyze aerostatic 
+	 stability cable stay bridge propose geometric 
+	 nonlinearity component wind load consider 
+	 method example bridge second santou bay cable stay bridge 
+	 main span length 518 m build china aerostatic stability 
+	 example bridge investigate use linear propose 
+	 method effect pitch moment coefficient aerostatic 
+	 stability bridge study result 
+	 aerostatic instability analysis cable stay bridge base 
+	 linear method considerably overestimate wind resist capacity 
+	 cable stay bridge propose method highly accurate 
+	 efficient pitch moment coefficient major effect 
+	 aerostatic stability cable stay bridge finally aerostatic 
+	 failure mechanism cable stay bridge explain trace 
+	 aerostatic instability path 

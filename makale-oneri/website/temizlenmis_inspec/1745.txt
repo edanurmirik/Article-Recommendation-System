@@ -1,0 +1,17 @@
+approximate relaxed descent method optimal control problem 
+ consider optimal control problem system govern ordinary 
+	 differential equation control constraint convexity 
+	 assumption datum problem reformulate 
+	 relaxed form relaxed state equation discretize implicit 
+	 trapezoidal scheme relaxed control approximate 
+	 piecewise constant relaxed control propose combine descent 
+	 discretization method generate sequence discrete relaxed 
+	 control progressively refine discretization 
+	 adjoint discrete state equation define use 
+	 iteration approximate derivative cost functional define 
+	 discretize continuous adjoint equation integral involve 
+	 appropriate trapezoidal scheme prove accumulation 
+	 point sequence construct method satisfy strong 
+	 relaxed necessary condition optimality continuous problem 
+	 finally compute relaxed control easily approximate 
+	 piecewise constant classical control 

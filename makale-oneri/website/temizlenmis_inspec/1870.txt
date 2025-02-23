@@ -1,0 +1,13 @@
+robust control nonlinear system parametric uncertainty 
+ probabilistic robustness analysis synthesis nonlinear system 
+	 uncertain parameter present monte carlo simulation use 
+	 estimate likelihood system instability violation 
+	 performance requirement subject variation probabilistic 
+	 system parameter stochastic robust control synthesis search 
+	 controller design parameter space minimize cost function 
+	 probability design criterion satisfied 
+	 robust control design approach illustrate simple nonlinear 
+	 example modified feedback linearization control choose 
+	 controller structure design parameter search 
+	 genetic algorithm achieve tradeoff stability 
+	 performance robustness 

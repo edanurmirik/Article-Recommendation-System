@@ -1,0 +1,12 @@
+dataflow computer accelerate execution sequential program 
+	 precedent fire instruction 
+ dataflow machine important avoid degradation performance 
+	 sequential processing important viewpoint 
+	 hardware scale reduce number wait operand paper 
+	 demonstrate processing performance degrade sequential 
+	 processing switching process present method remedy 
+	 precedent fire control propose means remedy 
+	 simulation execution time total number 
+	 wait operand reduce precedent fire control 
+	 hardware scale examine evaluation precedent fire 
+	 control 

@@ -1,0 +1,14 @@
+application heuristic method conformance test selection 
+ paper focus test selection problem model 
+	 real life problem arise telecommunication 
+	 check reliability application apply different 
+	 metaheuristic reactive tabu search rts genetic algorithms 
+	 ga simulated annealing sa solve problem propose 
+	 modification conventional scheme include adaptive 
+	 neighbourhood sampling rts adaptive variable mutation rate ga 
+	 adaptive variable neighbourhood structure sa performance 
+	 algorithm evaluate different model exist 
+	 protocol computational result ga sa provide 
+	 high quality solution acceptable time compare result 
+	 commercial software applicable practical test 
+	 selection 

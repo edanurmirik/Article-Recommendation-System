@@ -1,0 +1,14 @@
+ultra high speed position control gravure engrave unit use 
+	 discrete time degree freedom h sub infinity control 
+ piezoelectric actuator high speed response comparison 
+	 electro magnetic actuator easy achieve 
+	 high speed high precision response feedforward control 
+	 piezoelectric element nonlinear property 
+	 hysteresis effect feedback control require achieve good 
+	 performance develop control design method achieve 
+	 high speed high precision response piezoelectric actuator 
+	 use discrete time h sub infinity control method 
+	 degree freedom control scheme effectiveness propose 
+	 method simulation experimental result 
+	 important contribution study method directly 
+	 apply commercial machine 

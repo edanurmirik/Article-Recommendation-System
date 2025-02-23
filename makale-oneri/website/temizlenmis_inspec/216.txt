@@ -1,0 +1,19 @@
+extinction cross section realistic raindrop datum bank establish use 
+	 t matrix method nonlinear fitting technique 
+ new computer program develop base t matrix method generate 
+	 large number total extinction cross section tcs value 
+	 realistic raindrop deform balance force 
+	 act drop fail gravity describe shape 
+	 pruppacher pitter 1971 datum dimension 
+	 raindrop mean effective radius 0 3.25 mm frequency 
+	 10 80 ghz horizontal vertical polarization 
+	 temperature 0 10 20 degree c store establish data 
+	 bank furthermore curve fit technique i.e. interpolation 
+	 order 3 implement tcs value data bank 
+	 interpolate tcs result obtain readily 
+	 interpolation process negligible null computational time 
+	 effort error analysis carry high accuracy 
+	 present analysis applicability interpolation 
+	 operating frequency 15 21.225 38 ghz locally use 
+	 singapore new tcs value obtain new fast 
+	 efficient interpolation good accuracy 

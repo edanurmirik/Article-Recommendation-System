@@ -1,0 +1,10 @@
+formalise optimal feature weight set case base diagnosis linear 
+	 programming problem 
+ approach case base reasoning cbr exploit feature weight set 
+	 algorithm reduce sensitivity distance function 
+	 demonstrate optimal feature weight set special kind 
+	 cbr problem formalise linear programming problem 
+	 optimal weight setting calculate polynomial 
+	 time instead search exponential weight space use heuristic 
+	 sub optimal setting demonstrate approach 
+	 use solve classification problem 

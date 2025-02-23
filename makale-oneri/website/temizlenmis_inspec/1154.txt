@@ -1,0 +1,22 @@
+effect voxel size accuracy dose volume histogram prostate 
+	 /sup 125 seed implant 
+ cumulative dose volume histogram dvh crucial evaluate quality 
+	 radioactive seed prostate implant calculate dvh 
+	 choice voxel size compromise computational speed 
+	 large voxel accuracy small voxel quantify effect 
+	 voxel size accuracy dvh use house computer 
+	 program program validate comparison hand calculate 
+	 dvh single 0.4 u iodine-125 model 6711 seed use program 
+	 find voxel size require obtain accurate dvh 
+	 iodine-125 prostate implant patient institution millimeter 
+	 cube sufficient obtain dvh accurate 5 
+	 200 prescription dose patient plan obtain 
+	 good agreement variseed version 6.7 varian usa treatment 
+	 planning software dvh algorithm use voxel sup inf 
+	 dimension equal spacing successive transverse seed 
+	 implant plane 5 mm volume receive 200 
+	 target dose v sub 200/ calculate variseed 30 43 large 
+	 calculate program small voxel single seed 
+	 dvh calculate variseed fall hand calculation 50 
+	 low dose 30 gy 50 high dose 250 
+	 gy 

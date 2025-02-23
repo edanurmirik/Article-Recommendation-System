@@ -1,0 +1,15 @@
+real time quasi-2 d inversion array resistivity log datum use neural 
+	 network 
+ present quasi-2 d real time inversion algorithm modern galvanic 
+	 array tool dimensional reduction neural network simulation 
+	 use reciprocity superposition apply numerical focus 
+	 technique unfocused datum numerically focus datum 
+	 subject 2 d layering effect approximate 
+	 cylindrical 1 d earth perform 1 d inversion 
+	 focused datum provide approximate information 2 d 
+	 resistivity structure neural network use perform forward 
+	 modeling 1 d inversion time fast 
+	 conventional numerical forward solution test inversion 
+	 algorithm synthetic field datum fast 
+	 inversion algorithm useful provide formation resistivity 
+	 information site 

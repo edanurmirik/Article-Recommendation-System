@@ -1,0 +1,17 @@
+wave propagation relate high speed train scaled boundary fe approach 
+	 unbounded domain 
+ analysis wave propagation solid material load topic 
+	 great interest railway engineering objective paper 
+	 dimensional modelling high speed train relate ground 
+	 vibration particular question account 
+	 unbounded medium address efficient accurate modelling 
+	 railway structural component unbounded medium account 
+	 hybrid method base combination conventional finite 
+	 element method scale boundary finite element method 
+	 establish paper element matrix solution procedure 
+	 scale boundary finite element method sbfem derive 
+	 non linear finite element iteration scheme use lagrange multiplier 
+	 couple unbounded domain finite element domain 
+	 discuss numerical example include example 
+	 demonstrate dynamical response railroad section 
+	 present demonstrate performance propose method 

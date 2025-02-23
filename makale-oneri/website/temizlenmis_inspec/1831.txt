@@ -1,0 +1,7 @@
+fast broadcasting gossip radio network 
+ establish o(n log sup 2/ n upper bind time deterministic 
+	 distribute broadcasting multi hop radio network unknown 
+	 topology nearly match know low bind omega n log n 
+	 fast previously know algorithm problem work time 
+	 o(n sup 3/2/ use broadcasting algorithm develop o(n sup 
+	 3/2/ log sup 2/ n algorithm gossip network model 

@@ -1,0 +1,26 @@
+induce shear piezoelectric actuator rotor blade trail edge flap 
+ current rotorcraft research focus improve performance 
+	 reduce unwanted helicopter noise vibration 
+	 promise active rotorcraft vibration control system active 
+	 trail edge flap paper induce shear piezoelectric tube 
+	 actuator use conjunction simple lever cusp hinge 
+	 amplification device generate useful combination trail edge 
+	 flap deflection hinge moment finite element model 
+	 actuator tube trail edge flap include aerodynamic 
+	 inertial loading use guide design actuator flap 
+	 system scale induce shear tube actuator flap system 
+	 fabricate bench testing conduct validate 
+	 analysis hinge moment correspond rotor speed 
+	 apply actuator use mechanical spring testing 
+	 demonstrate apply electric field 3 kv cm sup -1/ 
+	 tube actuator deflect representative scale 12 inch flap 
+	 or-2.8 degree 0 rpm or-1.4 degree hinge moment 
+	 simulate 400 rpm condition cent error 
+	 predict experimental scale flap deflection range 4 
+	 low rpm 12.5 large rpm increase electric field 4 kv 
+	 cm sup -1/ result or-2.5 degree flap deflection rotation 
+	 speed 400 rpm accord design analysis trade study 
+	 conduct compare performance piezoelectric tube actuator 
+	 state art trail edge flap actuator indicate 
+	 induce shear tube actuator promise trail edge 
+	 flap actuator 

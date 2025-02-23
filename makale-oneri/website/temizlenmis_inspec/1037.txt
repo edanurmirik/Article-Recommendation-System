@@ -1,0 +1,13 @@
+stochastic averaging approach feedback control design nonlinear 
+	 system random excitation 
+ paper present method design quantify performance 
+	 feedback stochastic control nonlinear system design 
+	 use method stochastic averaging reduce dimension 
+	 state space derive ito stochastic differential equation 
+	 response amplitude process moment equation 
+	 amplitude process close rayleigh approximation use 
+	 mean characterize transient performance feedback 
+	 control steady state transient response amplitude 
+	 process use design criterion choose feedback 
+	 control gain numerical example study demonstrate 
+	 performance control 

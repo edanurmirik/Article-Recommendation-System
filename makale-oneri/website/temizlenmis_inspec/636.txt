@@ -1,0 +1,21 @@
+flid dl congestion control layered multicast 
+ describe fair layered increase decrease dynamic layering flid dl ): 
+	 new multirate congestion control algorithm layered multicast 
+	 session flid dl generalize receiver drive layered congestion 
+	 control protocol rlc introduce vicisano et al proc ieee 
+	 infocom san francisco p.996 1003 mar. 1998)ameliorate 
+	 problem associate large internet group management protocol 
+	 igmp leave latency abrupt rate increase like rlc flid dl 
+	 scalable receiver drive congestion control mechanism 
+	 receiver add layer sender initiate synchronization point 
+	 leave layer experience congestion flid dl congestion 
+	 control coexist transmission control protocol tcp flow 
+	 flid dl session support general rate different 
+	 multicast layer demonstrate simulation congestion 
+	 control scheme exhibit fairness property provide 
+	 throughput previous method key contribution enable 
+	 flid dl useful dynamic layering dl 
+	 mitigate negative impact long igmp leave latency 
+	 eliminate need probe interval present rlc use dl 
+	 respond congestion fast igmp leave operation 
+	 prove bottleneck practice prior work 

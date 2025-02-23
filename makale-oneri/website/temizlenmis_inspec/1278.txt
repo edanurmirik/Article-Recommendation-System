@@ -1,0 +1,8 @@
+verification time automata base similarity 
+ paper present modification standard partition technique 
+	 generate abstract state space preserve similarity timed 
+	 automata relation weak bisimilarity 
+	 obtain model state space small bisimilar 
+	 preserve universal fragment branch time temporal 
+	 logic theoretical result exemplified strong delay 
+	 observational simulation relation 

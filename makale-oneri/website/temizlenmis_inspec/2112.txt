@@ -1,0 +1,13 @@
+allan variance fractal brownian motion 
+ noise filtering subject voluminous literature radio engineering 
+	 method filtering require knowledge frequency response 
+	 usually unknown d.w. allan proc ieee vol.54 no.2 
+	 p.221 30 1966 ieee trans instr measur vol im-36 p.646 54 1987 
+	 propose simple method determine interval equally 
+	 accurate observation information 
+	 method variance increment noise signal equal 
+	 observation great step variation cause 
+	 noise small cause signal method 
+	 standard accept usa metrology community present paper 
+	 devoted statistical analysis allan method acquisition 
+	 additional information 

@@ -1,0 +1,8 @@
+q learning risk sensitive control 
+ propose risk sensitive control finite markov chain counterpart 
+	 popular q learn algorithm classical markov decision 
+	 process algorithm converge probability 
+	 desire solution proof technique adaptation 
+	 o.d.e approach analysis stochastic approximation 
+	 algorithm work involve use analysis 
+	 specific o.d.e.s arise 

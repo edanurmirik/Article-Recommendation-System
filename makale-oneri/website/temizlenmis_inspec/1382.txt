@@ -1,0 +1,21 @@
+loop restructuring datum o minimization limit chip memory embed 
+	 processor 
+ paper propose framework analyze flow value 
+	 reuse loop nest minimize data traffic 
+	 constraint limited chip memory capacity dependence 
+	 analysis undertake fusion possible loop nest 
+	 intra procedurally perform loop distribution analysis 
+	 discover closeness factor statement 
+	 quantitative measure data traffic save unit memory occupy 
+	 statement loop nest case 
+	 different loop nest develop greedy algorithm 
+	 traverse program dependence graph group statement 
+	 loop nest legally promote maximal reuse 
+	 unit memory occupy implement framework petit tool 
+	 dependence analysis loop transformation compare 
+	 method base tile fuse loop nest base 
+	 greedy strategy purely maximize reuse method work 
+	 strategy case processor 
+	 tms320cxx limited chip memory 
+	 improvement datum o range 10 30 percent tiling 
+	 10 40 percent maximal reuse jpeg loop 

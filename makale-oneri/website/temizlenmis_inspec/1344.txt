@@ -1,0 +1,14 @@
+restoration archival document use wavelet technique 
+ paper address problem restore handwritten archival document 
+	 recover content interfere handwriting 
+	 reverse cause seeping ink present novel method 
+	 work match document 
+	 interfere stroke map correspond stroke 
+	 originate reverse facilitate identification 
+	 foreground interfere stroke wavelet reconstruction 
+	 process iteratively enhance foreground stroke smear 
+	 interfere stroke strengthen discriminating capability 
+	 improved canny edge detector interfere stroke 
+	 method restore document effectively average 
+	 precision recall rate foreground text extraction 84 percent 
+	 96 percent respectively 

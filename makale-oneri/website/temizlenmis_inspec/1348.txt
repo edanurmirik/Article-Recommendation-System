@@ -1,0 +1,18 @@
+reconstruct surface volumetric regularization use radial basis 
+	 function 
+ present new method surface reconstruction generate smooth 
+	 seamless model sparse noisy nonuniform low resolution 
+	 range datum datum acquisition technique computer vision 
+	 stereo range image space carving produce 3d point set 
+	 imprecise nonuniform compare laser optical range 
+	 scanner traditional reconstruction algorithm design dense 
+	 precise datum produce smooth reconstruction apply 
+	 vision base data set method construct 3d implicit surface 
+	 formulate sum weight radial basis function achieve 
+	 primary advantage exist algorithm 1 implicit 
+	 function construct estimate surface region 
+	 little datum 2 reconstructed surface insensitive noise 
+	 datum acquisition allow surface approximate 
+	 exactly interpolate datum 3 reconstructed 
+	 surface locally detail globally smooth use radial 
+	 basis function achieve multiple order smoothness 

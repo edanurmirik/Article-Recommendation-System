@@ -1,0 +1,16 @@
+mrp job shop environment use resource constrain project scheduling 
+	 model 
+ difficult task job shop manufacturing environment 
+	 balance schedule capacity ongoing basis mrp system 
+	 commonly use scheduling inability deal 
+	 capacity constraint adequately severe drawback study 
+	 material requirement planning effectively 
+	 job shop environment use resource constrain project 
+	 scheduling model propose model augment mrp model 
+	 incorporate capacity constraint use variable lead time 
+	 length efficacy approach test mrp system 
+	 compare inventory carry cost resource allocation 
+	 solution obtain propose model obtain use 
+	 traditional mrp model general conclude propose 
+	 model provide improved schedule considerable reduction 
+	 inventory carry cost 

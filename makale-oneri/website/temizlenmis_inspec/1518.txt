@@ -1,0 +1,12 @@
+explicit matrix representation nurbs curve surface 
+ matrix form curve surface largely promote cad cam 
+	 paper present matrix representation formulation 
+	 arbitrary degree nurbs curve surface explicitly 
+	 recursively approach derive computation 
+	 divide difference marsden identity respectively explicit 
+	 coefficient matrix b spline equally space knot bezier 
+	 curve surface obtain formulae coefficient 
+	 formulae coefficient matrix formulae develop paper 
+	 express non uniform b spline function arbitrary degree explicit 
+	 polynomial matrix form .. useful evaluation 
+	 conversion nurbs curve surface cad cam system 

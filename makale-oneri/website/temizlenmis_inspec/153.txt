@@ -1,0 +1,7 @@
+relationship omega -automata temporal logic normal form 
+ consider relationship omega -automata specific logical 
+	 formulation base normal form temporal logic formulae 
+	 normal form develop use execution clausal 
+	 resolution temporal logic represent 
+	 syntactically omega -automata high level way technical proof 
+	 correctness representation 

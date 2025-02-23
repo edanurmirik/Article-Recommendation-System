@@ -1,0 +1,18 @@
+mapping ccf marc21 experimental approach 
+ purpose article raise address number issue 
+	 pertain conversion common communication format ccf 
+	 marc21 era global resource sharing exchange 
+	 bibliographic record system imperative 
+	 today library community instead use single standard 
+	 create machine readable catalogue record 20 standard 
+	 emerge use different institution 
+	 variation standard share resource transfer datum 
+	 system institution locally globally 
+	 significant problem address problem require 
+	 mind country india southeast asia 
+	 use ccf standard create bibliographic catalogue 
+	 record paper describe way map bibliographic catalogue 
+	 record ccf marc21 100 mapping possible 
+	 addition paper describe experimental approach enumerate 
+	 problem occur mapping record exchanging 
+	 record problem overcome 

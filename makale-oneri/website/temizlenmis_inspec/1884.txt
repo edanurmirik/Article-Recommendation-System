@@ -1,0 +1,13 @@
+observer base strict positive real spr feedback control system design 
+ presents theory stability analysis design class observer base 
+	 feedback control system relaxation controllability 
+	 observability condition impose yakubovich kalman popov lemma 
+	 class nonlinear system describe linear 
+	 time invariant system feedback connect cone bound nonlinear 
+	 element circle criterion approach use 
+	 design observer base state feedback control yield 
+	 closed loop system specify robustness characteristic 
+	 approach relevant design preservation stability 
+	 cone bound nonlinearity introduce feedback loop important 
+	 application find nonlinear control high robustness 
+	 requirement 

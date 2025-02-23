@@ -1,0 +1,20 @@
+effective cast shadow detection monocular color traffic image 
+	 sequence 
+ accurate scene analysis use monocular color traffic image sequence 
+	 robust segmentation vehicle stationary background 
+	 generally require presence cast shadow 
+	 lead inaccurate vehicle segmentation result lead 
+	 erroneous scene analysis propose effective method 
+	 detection cast shadow observe characteristic 
+	 cast shadow luminance chrominance gradient density 
+	 geometry domain combine probability map shadow 
+	 confidence score scs obtain edge map input 
+	 image edge pixel examine determine belong 
+	 vehicle region base neighboring scs cast shadow 
+	 identify region high scs outside 
+	 convex hull select vehicle edge pixel propose method 
+	 test 100 vehicle image different lighting condition 
+	 sunny cloudy view angle roadside overhead vehicle 
+	 size small medium large color similar road 
+	 result indicate average error rate 14 
+	 obtain low error rate 3 large vehicle 

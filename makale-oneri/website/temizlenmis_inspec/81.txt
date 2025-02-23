@@ -1,0 +1,13 @@
+scalable efficient systolic algorithm long common subsequence 
+	 problem 
+ long common subsequence lcs string common subsequence 
+	 string maximal length lcs problem find 
+	 lcs string length lcs problem 
+	 subject research solution apply 
+	 area paper scalable efficient systolic 
+	 algorithm present string length m n 
+	 m n algorithm solve lcs problem m+2r-1 
+	 respectively n+2r-1 time step r n/2 respectively r m/2 
+	 processor experimental result algorithm fast 
+	 multicomputer previous systolic algorithm 
+	 problem 

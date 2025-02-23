@@ -1,0 +1,9 @@
+model dynamic object distribute system nest petri net 
+ nested petri net np net petri net extension allow token net 
+	 mark represent marked net paper 
+	 discuss applicability np net model task planning system 
+	 multi agent system recursive parallel system comparison 
+	 np net formalism opn r. valk 2000 
+	 recursive parallel program o. kushnarenko ph schnoebelen 
+	 1997 process algebras aspect decidability 
+	 object orient petri net extension discuss 

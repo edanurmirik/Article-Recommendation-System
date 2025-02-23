@@ -1,0 +1,14 @@
+unifying co operative web cache architecture 
+ network cache object standard way reduce network 
+	 traffic latency web web cache exhibit poor 
+	 performance hit rate 30 solution improve 
+	 hit rate group proxy form co operation object 
+	 cache later retrieval cooperative cache system include 
+	 protocol hierarchical transversal cache drawback 
+	 system lie result network load number 
+	 message need exchange locate object paper 
+	 propose new co operative web cache architecture unify 
+	 previous method web caching performance result 
+	 architecture achieve 70 co operative hit rate access 
+	 cache object hop architecture 
+	 scalable low traffic database overhead 

@@ -1,0 +1,11 @@
+implementation dimsim stiff differential system 
+ issue relate implementation diagonally implicit multistage 
+	 integration method stiff differential system discuss 
+	 include reliable estimation local discretization error 
+	 construction continuous interpolant solution nonlinear system 
+	 equation simplify newton iteration choice initial 
+	 stepsize order step order change strategy numerical 
+	 result present indicate experimental matlab code 
+	 base type 2 method order outperform ode15s 
+	 code matlab ode suite problem jacobian eigenvalue 
+	 close imaginary axis 

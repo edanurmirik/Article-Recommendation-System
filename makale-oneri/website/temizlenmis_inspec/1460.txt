@@ -1,0 +1,16 @@
+detection flaw composite scatter elastic wave field use 
+	 improved mu ga local optimizer 
+ effective technique flaw detection composite propose 
+	 technique detection problem formulate optimization 
+	 problem minimize difference measured calculate 
+	 surface displacement response derive scatter elastic wave 
+	 field combined optimization technique use improved mu ga 
+	 local optimizer develop solve optimization problem 
+	 obtain flaw parameter define flaw configuration guideline 
+	 implement detection technique include formulation 
+	 objective function optimization problem use different error 
+	 norm improvement mu ga convergence performance switch mu 
+	 ga local optimizer optimization process suppression 
+	 effect noise detection result address detail 
+	 numerical example present demonstrate effectiveness 
+	 efficiency propose detection technique 

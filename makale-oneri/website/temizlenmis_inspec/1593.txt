@@ -1,0 +1,8 @@
+single multi interval legendre tau -method time parabolic equation 
+ paper parabolic equation periodic boundary condition 
+	 model present spectral method fourier approximation 
+	 spatial single multi interval legendre petrov galerkin method 
+	 time single interval spectral method time obtain 
+	 optimal error estimate l sup 2/-norm multi interval 
+	 spectral method time l sup 2/-optimal error estimate valid 
+	 spatial numerical result efficiency method 

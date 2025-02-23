@@ -1,0 +1,33 @@
+development evaluation case base reasoning classifier prediction 
+	 breast biopsy outcome bi rads sup tm/ lexicon 
+ approximately 70 85 breast biopsy perform benign lesion 
+	 reduce high number biopsy perform benign lesion 
+	 case base reasoning cbr classifier develop predict biopsy 
+	 result bi rads sup tm/ finding use 1433 931 benign 
+	 biopsy prove mammographic case cbr similarity define use 
+	 hamming euclidean distance measure case feature 
+	 feature represent case calcification distribution 
+	 calcification morphology calcification number mass margin mass 
+	 shape mass density mass size associate finding special case 
+	 age performance evaluate use round robin sampling receiver 
+	 operate characteristic roc analysis bootstrap determine 
+	 influential feature cbr exhaustive feature search 
+	 perform possible feature combination 1022 
+	 similarity threshold influential feature define 
+	 frequently occur feature feature subset high 
+	 partial roc area /sub 0.90 auc cbr hamming distance 
+	 influential feature find mass margin calcification 
+	 morphology age calcification distribution calcification number 
+	 mass shape result /sub 0.90 auc 0.33 95 sensitivity 
+	 hamming cbr spare biopsy 34 benign lesion 
+	 98 sensitivity hamming cbr spare 27 benign lesion 
+	 cbr euclidean distance influential feature subset 
+	 consist mass margin calcification morphology age mass density 
+	 associate finding result /sub 0.90 auc 0.37 95 
+	 sensitivity euclidean cbr spare biopsy 41 benign 
+	 lesion 98 sensitivity euclidean cbr spare 27 benign 
+	 lesion profile case spare distance measure 98 
+	 sensitivity indicate cbr potentially useful diagnostic 
+	 tool classification mammographic lesion recommend 
+	 short term follow likely benign lesion agreement 
+	 final biopsy result mammographer intuition 

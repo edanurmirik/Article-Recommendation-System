@@ -1,0 +1,14 @@
+web accessible database characteristic 1,945 basic japanese kanji 
+ 1981 japanese government publish list 1,945 basic japanese 
+	 kanji jooyoo kanji hyo include specification pronunciation 
+	 list establish standard kanji usage print 
+	 database 1,945 basic japanese kanji provide 30 cell explain 
+	 detail characteristic kanji mean standard 
+	 deviation distribution information relate previous research 
+	 concern kanji provide paper database 
+	 save microsoft excel 2000 file windows kanji database 
+	 accessible web site oxford text archive oxford 
+	 university http://ota.ahds.ac.uk use database researcher 
+	 educator able conduct plan experiment organize 
+	 classroom instruction basis known characteristic 
+	 select kanji 

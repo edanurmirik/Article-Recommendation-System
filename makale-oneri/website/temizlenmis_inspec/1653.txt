@@ -1,0 +1,16 @@
+good circulant preconditioner hermitian toeplitz system ii 
+	 multiple zero case 
+ pt i. siam j. numer anal vol 38 p. 876 896 circulant type 
+	 preconditioner propose previously ill condition 
+	 hermitian toeplitz system generate nonnegative continuous 
+	 function zero order propose circulant 
+	 preconditioner construct require explicit knowledge 
+	 generating function spectra 
+	 precondition matrix uniformly bound fix number 
+	 outlier eigenvalue uniformly bound away 
+	 zero conjugate gradient method converge linearly 
+	 apply solve circulant precondition system previously 
+	 claim result extend case 
+	 generating function multiple zero main aim paper 
+	 complete convergence proof method class 
+	 generating function 

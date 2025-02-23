@@ -1,0 +1,10 @@
+blind identification non stationary ma system 
+ new adaptive algorithm blind identification time vary ma channel 
+	 derive algorithm propose use novel system 
+	 equation derive combine third- fourth order statistic 
+	 output signal ma model overdetermine system 
+	 equation important property solve adaptively 
+	 symmetry overdetermine recursive 
+	 instrumental variable type algorithm algorithm good 
+	 behaviour arbitrary noisy environment good performance 
+	 track time vary system 

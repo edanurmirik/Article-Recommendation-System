@@ -1,0 +1,8 @@
+dynamic modification object petri net application modelling 
+	 protocol fork join structure 
+ paper discuss possibility model protocol object 
+	 object base high level petri net advantage dynamically 
+	 modify structure token object discuss need 
+	 investigation mathematically rigorous foundation 
+	 object net formalism incorporate facility operation 
+	 token net emphasise 

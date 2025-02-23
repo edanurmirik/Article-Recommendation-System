@@ -1,0 +1,7 @@
+derive model parameter field test measurement generator control 
+	 simulation 
+ major component power system simulation generate plant 
+	 purpose deriveassist speed parameter derivation process 
+	 allow engineer verse parameter matching 
+	 identification involve process power plant electric 
+	 generator model 

@@ -1,0 +1,13 @@
+extend ctl action real time 
+ paper present logic atctl intend use 
+	 model checking model specify lightweight version 
+	 unified modelling language uml define 
+	 formal semantic luml describe model paper goal 
+	 specification language property fit luml luml 
+	 include state action real time atctl extend ctl 
+	 concurrent action real time base early extension 
+	 ctl r. de nicola f. vaandrager actl 1990 r. alur et al 
+	 tctl 1993 easy adapt exist model checker 
+	 atctl check property specify atctl 
+	 model specify luml small example use kronos 
+	 model checker 

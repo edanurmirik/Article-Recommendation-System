@@ -1,0 +1,7 @@
+comparison non stationary time series frequency domain 
+ paper compare nonstationary time series use nonparametric 
+	 procedure evolutionary spectra estimate series 
+	 randomization test perform group spectral estimate 
+	 related independent time series simulation study 
+	 certain case test perform reasonably test 
+	 apply observe geological financial time series 

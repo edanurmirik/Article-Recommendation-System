@@ -1,0 +1,22 @@
+ventilation perfusion ratio signal intensity human lung use 
+	 oxygen enhance arterial spin labeling technique 
+ study investigate distribution ventilation perfusion v q signal 
+	 intensity si ratio use oxygen enhance arterial spin labeling 
+	 asl technique lung 10 healthy volunteer ventilation 
+	 perfusion image simultaneously acquire use flow sensitive 
+	 alternate inversion recovery fair method volunteer alternately 
+	 inhale room air 100 oxygen image t sub 1/ distribution 
+	 calculate volunteer selective t sub 1f/ 
+	 nonselective t sub 1/ inversion average t sub 1/ 1360 
+	 ms+or-116 ms average t sub 1f/ 1012 ms+or-112 ms yield 
+	 difference statistically significant p<0.002 exclude 
+	 large pulmonary vessel average v q si ratio 0.355+or-0.073 
+	 left lung 0.371+or-0.093 right lung 
+	 agreement theoretical v q si ratio plot wo si ratio 
+	 similar logarithmic normal distribution obtain multiple 
+	 inert gas elimination technique range ratio match 
+	 ventilation perfusion mri v q technique completely 
+	 noninvasive involve ionize radiation limitation 
+	 method nonsimultaneous acquisition perfusion 
+	 ventilation datum oxygen administer ventilation 
+	 datum 

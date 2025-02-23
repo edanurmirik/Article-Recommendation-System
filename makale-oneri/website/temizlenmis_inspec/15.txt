@@ -1,0 +1,11 @@
+optimal safe ship control multi step matrix game 
+ paper describe process safe ship control collision 
+	 situation use differential game model j participant 
+	 approximated model manoeuvring process model multi step 
+	 matrix game adopt risktraj computer program design 
+	 matlab language order determine ship trajectory 
+	 certain sequence manoeuvre execute alter course 
+	 speed online navigator decision support system 
+	 consideration illustrate example computer simulation 
+	 safe ship trajectory real situation sea pass 
+	 encounter object 

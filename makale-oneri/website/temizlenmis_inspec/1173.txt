@@ -1,0 +1,12 @@
+comprehensive chatter prediction model face turn operation include 
+	 tool wear effect 
+ present dimensional mechanistic frequency domain chatter model 
+	 face turning process account effect tool wear 
+	 include process damp new formulation present model 
+	 variation process damp force nonlinear tool geometry 
+	 nose radius underlie dynamic force model simulate 
+	 variation chip cross sectional area account 
+	 displacement axial radial direction model use 
+	 determine stability boundary cutting condition 
+	 different state flank wear experimental result different 
+	 wear provide validation model 

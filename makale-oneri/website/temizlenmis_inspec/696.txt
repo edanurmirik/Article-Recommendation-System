@@ -1,0 +1,13 @@
+design implementation new slide mode observer speed sensorless 
+	 control induction machine 
+ letter new slide mode sensorless control algorithm propose 
+	 field orient induction machine drive propose algorithm 
+	 term contain flux speed rotor time constant 
+	 common current flux equation current model 
+	 induction machine estimate slide function flux 
+	 speed estimation accuracy guarantee error 
+	 actual current observed current converge zero 
+	 fourth order system reduce second order system 
+	 speed estimation simple robust parameter 
+	 uncertainty new approach verify simulation 
+	 experimental result 

@@ -1,0 +1,6 @@
+efficient algorithm stiff elliptic problem large parameter 
+ consider finite element approximation iteration algorithm solve 
+	 stiff elliptic boundary value problem large parameter 
+	 high derivative convergence rate algorithm 
+	 independent spread coefficient discretization 
+	 parameter 

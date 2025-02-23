@@ -1,0 +1,9 @@
+decomposition additive cellular automata 
+ finite additive cellular automata fix periodic boundary condition 
+	 consider endomorphism pattern space characterization 
+	 nilpotent regular endomorphism 
+	 term minimal polynomial generalized eigenspace 
+	 decomposition determined relevant cyclic subspace describe 
+	 term symmetry application length frequency 
+	 limit cycle transition diagram automaton 
+	 calculate 

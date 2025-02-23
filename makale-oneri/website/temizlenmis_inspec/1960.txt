@@ -1,0 +1,23 @@
+streaming disruptive interference power law behavior exit dynamic 
+	 confine pedestrian 
+ analyze exit dynamic pedestrian initially confine 
+	 room pedestrian model cellular automata compete 
+	 escape know exit soon possible time pedestrian 
+	 forward backward leave right iteration time 
+	 depend adjacent cell vacancy accordance simple rule 
+	 determine compulsion physical capability relative 
+	 neighbor arch signature jamming observe 
+	 pedestrian exit burst size power law behavior 
+	 find burst size frequency distribution exit width w 
+	 great cell dimension w 1 slope power law 
+	 curve vary w -1.3092 w 2 -1.0720 w 20 streaming 
+	 diffusive behavior arise large burst size 
+	 likely single exit room w 1 lead counterintuitive 
+	 result average exit throughput q obtain high 
+	 w 2 3 4 exit room w 1 q great 
+	 twice yield single exit room door 
+	 separate far 4w q significantly 
+	 collective slow emerge pedestrian cross 
+	 path disruptive interference effect w 
+	 door number q high relaxed pedestrian 
+	 anxious 

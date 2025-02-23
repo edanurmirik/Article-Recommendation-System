@@ -1,0 +1,23 @@
+estimation block probability cellular network dynamic channel 
+	 assignment 
+ blocking probability cellular mobile communication network use dynamic 
+	 channel assignment hard compute realistic sized system 
+	 computational difficulty structure state 
+	 space impose strong coupling constraint component 
+	 occupancy vector approximate tractable model propose 
+	 product form stationary state distribution 
+	 real channel assignment scheme product form poor 
+	 approximation necessary simulate actual occupancy 
+	 process order estimate block probability meaningful 
+	 estimate block probability typically require enormous 
+	 cpu time simulation block event usually 
+	 rare advanced simulation approach use importance sample 
+	 overcome problem study regime blocking 
+	 rare event low load high cell capacity simulation use 
+	 standard clock sc method low load propose change 
+	 measure static issc bound relative error 
+	 high capacity use change measure depend current 
+	 state network occupancy dynamic issc method 
+	 prove method yield zero variance estimator single 
+	 clique model empirically advantage method 
+	 naive simulation network moderate size traffic load 

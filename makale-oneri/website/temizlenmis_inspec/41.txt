@@ -1,0 +1,20 @@
+controller performance analysis lqg benchmark obtain closed loop 
+	 condition 
+ paper propose new method obtain linear quadratic gaussian 
+	 lqg benchmark term variance process input output 
+	 closed loop datum assess controller performance lqg 
+	 benchmark propose literature assess controller 
+	 performance lqg tradeoff curve represent limit 
+	 performance term input output variance 
+	 explicit parametric model require calculate lqg benchmark 
+	 work propose data drive subspace approach calculate 
+	 lqg benchmark closed loop condition certain external 
+	 excitation optimal lqg benchmark variance obtain directly 
+	 subspace matrix correspond deterministic input 
+	 stochastic input identify use closed loop datum 
+	 setpoint excitation variance use assess 
+	 controller performance method propose paper applicable 
+	 univariate multivariate system profit analysis 
+	 implementation feedforward control exist feedback 
+	 control system analyze optimal lqg performance 
+	 framework 

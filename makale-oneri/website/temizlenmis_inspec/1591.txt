@@ -1,0 +1,8 @@
+quadratic interpolation sphere 
+ riemannian quadratic c sup 1/ curve riemannian manifold obtain 
+	 perform quadratic recursive decastlejeau algorithm 
+	 riemannian setting interest interpolation problem 
+	 riemannian manifold trajectory planning rigid body 
+	 motion interpolation property riemannian quadratic 
+	 analyse ambient manifold sphere projective space 
+	 usual riemannian metric 

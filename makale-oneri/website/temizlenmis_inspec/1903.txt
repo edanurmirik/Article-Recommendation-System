@@ -1,0 +1,21 @@
+bliss programming language history 
+ bliss programming language invent william a. wulf 
+	 carnegie mellon university 1969 originally dec pdp-10 
+	 bliss-10 catch interest ronald f. brender dec digital 
+	 equipment corporation year collaboration include 
+	 creation bliss-11 pdp-11 bliss adopt dec 
+	 implementation language use new line vax computer 
+	 1975 dec develop completely new generation bliss vax 
+	 pdp-10 pdp-11 widely use dec 1970 
+	 1980s creation alpha architecture early 1990 
+	 bliss extend 32- 64 bit flavor bliss support 
+	 intel ia-32 architecture introduce 1995 ia-64 
+	 support progress bliss number unusual 
+	 characteristic typeless require use explicit content 
+	 operator write period dot algorithmic 
+	 approach data structure definition goto expression 
+	 language unusually rich compile time language paper 
+	 review evolution use bliss decade lifetime 
+	 emphasis language evolve facilitate portable 
+	 programming retain initial highly machine specific 
+	 character finally success characteristic assess 

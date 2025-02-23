@@ -1,0 +1,19 @@
+knowledge navigation system dimensional metrology 
+ geometric dimensioning tolerancing gd&t method specify 
+	 dimension form meet design intent 
+	 gd&t difficult master main reason base 
+	 complex 3d geometric entity relationship second geometry 
+	 associate large diverse knowledge base dimensional 
+	 metrology interconnection paper describe approach 
+	 create dimensional metrology knowledge base organize 
+	 set key concept represent concept virtual 
+	 object navigate interactive computer visualization 
+	 technique access associated knowledge approach enable 
+	 application application convey definition 
+	 meaning gd&t broad range tolerance type second 
+	 application provide visualization dimensional metrology 
+	 knowledge control hierarchy inspection process 
+	 application coverage interoperability standard 
+	 enable industry decision standard development 
+	 harmonization effort prototype system implement 
+	 demonstrate principle involve approach 

@@ -1,0 +1,10 @@
+diagnostic expert system use non monotonic reasoning 
+ objective work develop expert system cucumber disorder 
+	 diagnosis use non monotonic reasoning handle situation 
+	 system reach conclusion reason situation 
+	 information incomplete reason domain 
+	 knowledge incomplete reason information 
+	 inconsistent method maintain truth system case 
+	 change piece information propose method use type 
+	 non monotonic reasoning default reasoning reason 
+	 presence inconsistent information achieve goal 

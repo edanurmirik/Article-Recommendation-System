@@ -1,0 +1,10 @@
+doubly invariant equilibrium linear discrete time game 
+ notion doubly invariant di equilibrium introduce concept 
+	 extends control robustly control invariance notion 
+	 context person dynamic game player try 
+	 state region state space independently action 
+	 rival player paper existence condition criterion 
+	 algorithm determination di equilibrium linear dynamic 
+	 game discrete time example illustrate result 
+	 area fault tolerant controller synthesis second 
+	 application macroeconomic 

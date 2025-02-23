@@ -1,0 +1,15 @@
+summarization sentence extraction probabilistic approach sentence 
+	 compression 
+ human produce summary document simply extract 
+	 sentence concatenate create new sentence 
+	 grammatical cohere capture 
+	 salient piece information original document 
+	 large collection text abstract pair available online 
+	 possible envision algorithm train mimic 
+	 process paper focus sentence compression simple 
+	 version large challenge aim achieve goal 
+	 simultaneously compression grammatical 
+	 retain important piece information goal 
+	 conflict devise noisy channel decision tree approach 
+	 problem evaluate result manual compression 
+	 simple baseline 

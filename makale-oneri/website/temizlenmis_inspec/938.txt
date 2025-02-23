@@ -1,0 +1,31 @@
+fast accurate meg source localization use multilayer perceptron train 
+	 real brain noise 
+ iterative gradient method levenberg marquardt lm widespread 
+	 use source localization electroencephalographic eeg 
+	 magnetoencephalographic meg signal unfortunately lm depend 
+	 sensitively initial guess necessitating repeat run 
+	 combine lm high step cost computational burden 
+	 high reduce burden train multilayer perceptron 
+	 mlp realtime localizer use analytical model 
+	 quasistatic electromagnetic propagation spherical head map 
+	 randomly choose dipole sensor activity accord sensor 
+	 geometry 4d neuroimage neuromag-122 meg system train 
+	 mlp invert mapping absence noise presence 
+	 sort noise white gaussian noise correlate 
+	 noise real brain noise mlp structure choose trade 
+	 computation accuracy mlp train time 
+	 type noise measure effect initial guess lm 
+	 performance motivate hybrid mlp start lm method 
+	 train mlp initialize lm compare localization 
+	 performance lm mlp hybrid mlp start lm realistic brain 
+	 signal train mlp fast method 
+	 hybrid mlp start lm fast accurate 
+	 fixed-4 start lm particular hybrid mlp start lm initialize 
+	 mlp train real brain noise dataset 60 time fast 
+	 comparable accuracy random-20 start lm hybrid system 
+	 localization error 0.28 cm computation time 36 ms 
+	 good performance optimal-1 start lm localization error 0.23 cm 
+	 computation time 22 ms initialize lm correct dipole 
+	 location mlp train noise perform mlp train 
+	 noise mlp train real brain noise 
+	 good initial guesser lm correct dipole location 

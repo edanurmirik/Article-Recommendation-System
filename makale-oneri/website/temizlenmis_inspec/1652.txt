@@ -1,0 +1,12 @@
+convergence finite volume scheme nonlinear degenerate parabolic 
+	 equation 
+ approximate entropy weak solution u nonlinear parabolic 
+	 degenerate equation u sub t/+div(qf(u))- delta phi u)=0 piecewise 
+	 constant function u sub d/ use discretization d space time 
+	 finite volume scheme convergence u sub d/ u 
+	 size space time step tend zero step 
+	 estimate u sub d/ use prove convergence 
+	 subsequence u sub d/ measure value entropy solution 
+	 entropy process solution result uniqueness 
+	 entropy process solution prove yield strong convergence 
+	 u sub d/ u. numerical result model equation 

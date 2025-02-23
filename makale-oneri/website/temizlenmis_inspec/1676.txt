@@ -1,0 +1,15 @@
+optimization base approach train operator scheduling problem 
+	 singapore mrt 
+ singapore mass rapid transit smrt operate train line 83 kilometer 
+	 track 48 station total 77 train operation 
+	 peak hour 41 peak hour report optimization 
+	 base approach develop computerized train operator scheduling 
+	 system implement smrt approach involve 
+	 bipartite matching algorithm generation night duty 
+	 tabu search algorithm generation day duty system 
+	 automate train operator scheduling process smrt produce 
+	 favorable schedule comparison manual process 
+	 able handle multiple objective inherent crew scheduling 
+	 system try minimize system wide crew relate cost 
+	 system able address concern respect number 
+	 split duty 

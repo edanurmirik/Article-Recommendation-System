@@ -1,0 +1,13 @@
+new merging algorithm construct suffix tree integer alphabet 
+ new approach construct suffix tree t sub s/ string s 
+	 construct recursively suffix tree t sub o/ odd position 
+	 construct suffix tree t sub e/ position t sub o/ 
+	 merge t sub o/ t sub e/ t sub s/. construct suffix 
+	 tree integ alphabet linear time major open 
+	 problem index datum structure farach use approach 
+	 linear time algorithm integer alphabet hard 
+	 farach algorithm merging step paper present 
+	 new simple merging algorithm base coupled bfs breadth 
+	 search merging algorithm intuitive farach couple 
+	 dfs depth search merging easily extend 
+	 application 

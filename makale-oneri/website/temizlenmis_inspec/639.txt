@@ -1,0 +1,22 @@
+distribute server approach large scale secure multicast 
+ order offer backward forward secrecy multicast application 
+	 i.e. new member decrypt multicast datum send 
+	 joining member decrypt datum send 
+	 leaving data encryption key change user 
+	 join leave system change known 
+	 current user bandwidth use key messaging 
+	 high user pool large propose distribute server 
+	 approach minimize overall system bandwidth complexity 
+	 split user pool multiple group serve logical 
+	 server present analytic model system base 
+	 hierarchical key tree optimal number 
+	 server achieve minimum system bandwidth underlie user 
+	 traffic fluctuate propose simple dynamic scheme low 
+	 overhead physical server adaptively split merge 
+	 traffic multiple group serve logical server 
+	 minimize total bandwidth result distribute 
+	 server approach able substantially reduce total bandwidth 
+	 require compare traditional single server approach 
+	 especially application large user pool short holding 
+	 time relatively low bandwidth data stream internet 
+	 stock quote application 

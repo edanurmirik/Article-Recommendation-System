@@ -1,0 +1,16 @@
+effective feedback control mechanism diffserv architecture 
+ scalable qos quality service architecture diffserv differentiated 
+	 service mainly consist component traffic conditioning 
+	 edge diffserv domain simple packet forwarding inside 
+	 diffserv domain diffserv advantage flexibility 
+	 scalability simplicity provide af assured forwarding 
+	 service diffserv problem unfairness 
+	 aggregate flow micro flow belong aggregated flow 
+	 paper feedback mechanism af aggregate flow propose 
+	 solve problem simulation result mechanism 
+	 improve performance diffserv improve fairness 
+	 aggregated flow diffserv friendly tcp 
+	 transmission control protocol flow second decrease 
+	 buffer requirement congested router obtain low delay 
+	 packet loss rate link utility 
+	 normal diffserv finally simple easy implement 

@@ -1,0 +1,9 @@
+web content extraction whizbang approach 
+ extraction technology whizbang use consist unique approach 
+	 scour web current specific form information 
+	 flipdog example check company web site hyperlink page 
+	 list job opportunity crawl deep page 
+	 use whizbang extraction framework extract key element 
+	 posting job title employer job category 
+	 job function click job transfer company web 
+	 site view job description appear 

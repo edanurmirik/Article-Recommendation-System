@@ -1,0 +1,9 @@
+application xml neural network exchange 
+ article introduce framework interchange train neural 
+	 network model xml base language neural network markup language 
+	 neural network model description offer allow write 
+	 component neural network model necessary 
+	 reproduction propose use xml notation 
+	 description neural model include datum dictionary property 
+	 training sample preprocesse method detail network structure 
+	 parameter method network output interpretation 

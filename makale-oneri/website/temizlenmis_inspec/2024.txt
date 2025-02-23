@@ -1,0 +1,14 @@
+binocular model figure ground segmentation translucent occluding 
+	 image 
+ fourier base solution problem figure ground segmentation short 
+	 baseline binocular image pair present image model 
+	 additive composite component image exhibit spatial 
+	 shift binocular parallax segmentation accomplish 
+	 decouple fourier component resultant additive 
+	 image constituent phasor allocate 
+	 appropriate object specific spectrum reconstruct 
+	 foreground background use inverse fourier transform 
+	 foreground background shift compute 
+	 difference magnitude phase fourier transform 
+	 binocular image pair model base translucent 
+	 object work occlude object 

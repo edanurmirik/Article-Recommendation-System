@@ -1,0 +1,10 @@
+high performance servo system base multirate sampling control 
+ paper novel multirate degree freedom controller propose 
+	 digital control system sample period plant 
+	 output restrict relatively long control period 
+	 plant input propose feedforward controller assure perfect 
+	 tracking m inter sampling point hand propose 
+	 feedback controller assure perfect disturbance rejection m 
+	 inter sample point steady state illustrative example 
+	 position control hard disk drive present advantage 
+	 approach demonstrate 

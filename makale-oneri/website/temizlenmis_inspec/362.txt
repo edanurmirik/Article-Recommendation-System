@@ -1,0 +1,21 @@
+batch construct b sup /-trees algorithm performance evaluation 
+ efficient construction index important bulk load database 
+	 add new index exist database 
+	 handle enormous volume datum paper propose 
+	 algorithm batch construct b sup /-tree widely 
+	 use index structure database system main characteristic 
+	 algorithm simultaneously process key value 
+	 place b+-tree page access page avoid 
+	 overhead access page multiple time result 
+	 apply b+-tree insertion algorithm repeatedly 
+	 performance evaluation analyze algorithm term 
+	 number disk access result number disk 
+	 access exclude relocation process identical 
+	 number page belong b sup /-tree consider 
+	 relocation process unavoidable preprocessing step 
+	 batch constructing b sup /-trees algorithm require 
+	 disk access b+-tree page turn optimal 
+	 present performance tendency relation different 
+	 parameter value simulation finally performance 
+	 enhancement effect algorithm compare use 
+	 repeat insertion experiment 

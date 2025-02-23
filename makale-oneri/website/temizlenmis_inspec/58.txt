@@ -1,0 +1,24 @@
+robust speech recognition use probabilistic union model 
+ paper introduce new statistical approach probabilistic 
+	 union model speech recognition involve partial unknown 
+	 frequency band corruption partial frequency band corruption account 
+	 effect family real world noise previous method base 
+	 missing feature theory usually require identity noisy 
+	 band identification difficult unexpected noise 
+	 unknown time vary band characteristic new model combine 
+	 local frequency band information base union random event 
+	 reduce dependence model information noise 
+	 model partially accomplish target offer robustness 
+	 partial frequency band corruption require information 
+	 noise paper introduce theory implementation 
+	 union model focus important advance new 
+	 development include new algorithm automatic order selection 
+	 generalization modeling principle accommodate partial feature 
+	 stream corruption combination union model 
+	 conventional noise reduction technique deal mixture 
+	 stationary noise unknown nonstationary noise evaluation 
+	 use tidigits database speaker independent connect digit 
+	 recognition utterance corrupt type additive 
+	 noise stationary time varying assume knowledge 
+	 noise characteristic result indicate new model offer 
+	 significantly improve robustness comparison model 

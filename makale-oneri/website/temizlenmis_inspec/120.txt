@@ -1,0 +1,12 @@
+self organize critical traffic parallel computer network 
+ recent paper analyse dynamic traffic flow simple square 
+	 lattice architecture phase transition place 
+	 free congested phase transition point 
+	 exhibit optimal information transfer wide fluctuation time 
+	 scale free property paper far extend 
+	 analysis consider generalization previous model 
+	 rate packet emission regulate local congestion 
+	 perceive node result feedback traffic 
+	 congestion packet release system poise criticality 
+	 know statistical feature display internet traffic 
+	 recover model natural way 

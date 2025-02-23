@@ -1,0 +1,10 @@
+method outlier detection prediction 
+ prediction sample different calibration sample 
+	 consider outlier prediction work technique 
+	 use uncertainty estimation convex hull method 
+	 study detect prediction outlier classical technique 
+	 mahalanobis distance x residual potential function robust 
+	 technique use comparison conclude 
+	 combination convex hull method uncertainty estimation offer 
+	 practical way detect outlier prediction add 
+	 potential function method inlier detect 

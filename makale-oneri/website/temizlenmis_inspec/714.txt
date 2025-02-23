@@ -1,0 +1,5 @@
+embedding planar graph minimize number long face cycle 
+ consider problem find embedding planar graph minimize 
+	 number long face cycle prove k or= 4 
+	 np complete find embedding minimize number face 
+	 cycle length k 

@@ -1,0 +1,10 @@
+fractional differentiation passive vibration control 
+ single degree freedom model use illustrate concept 
+	 vibration isolation method transform design suspension 
+	 design robust controller present fractional 
+	 differentiation use model viscoelastic behaviour 
+	 suspension use fractional differentiation permit 
+	 optimisation suspension parameter 
+	 compactness fractional derivative operator lead 
+	 robustness suspension performance uncertainty sprung 
+	 mass example engine suspension study 

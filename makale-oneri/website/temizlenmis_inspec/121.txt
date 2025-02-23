@@ -1,0 +1,9 @@
+formula dependent equivalence compositional ctl model check 
+ present polytime computable state equivalence define respect 
+	 ctl formula attempt preserve ctl 
+	 formula like bisimulation expect compute coarser 
+	 equivalence equivalence use reduce complexity 
+	 model check system interact fsm additionally 
+	 case technique detect formula pass fail 
+	 form entire product machine method exact 
+	 fully automatic handle ctl 

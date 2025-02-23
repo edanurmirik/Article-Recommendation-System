@@ -1,0 +1,8 @@
+low bound information rate secret sharing scheme homogeneous 
+	 access structure 
+ present new low bound optimal information rate 
+	 optimal average information rate secret sharing scheme 
+	 homogeneous access structure bound find use 
+	 cover construction new parameter k degree 
+	 participant introduce paper bound improve 
+	 previous case 

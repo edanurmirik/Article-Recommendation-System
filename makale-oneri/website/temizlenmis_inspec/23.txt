@@ -1,0 +1,24 @@
+absorption long wave nonresonant parametric microstructure 
+ use simple acoustical mechanical model consider conceptual 
+	 possibility design active absorbing nonreflecting coat 
+	 form thin layer small scale stratification fast time 
+	 modulation parameter algorithm space time modulation 
+	 control layer structure study detail dimensional 
+	 boundary value problem algorithm require wave field 
+	 measurement eliminate self excitation problem 
+	 characteristic active system majority consider 
+	 algorithm parametric control transform low frequency incident 
+	 wave high frequency wave technological band 
+	 waveguiding medium inside layer assume opaque 
+	 absorbing efficient use condition find 
+	 algorithm absorbing layer thin 
+	 desire respect minimum spatial scale incident wave 
+	 ensure efficient absorption wide frequency interval start 
+	 zero frequency bound finite 
+	 space time resolution parameter control operation 
+	 structure dimensional parametric black coating 
+	 efficiency independent angle incidence incoming wave 
+	 develop basis studied dimensional problem 
+	 general solution problem diffraction incident wave 
+	 coating obtain solution analyze detail 
+	 case disk shape element 

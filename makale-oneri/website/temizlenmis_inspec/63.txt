@@ -1,0 +1,16 @@
+geometric source separation merge convolutive source separation 
+	 geometric beamforming 
+ convolutive blind source separation adaptive beamforming similar 
+	 goal extract source interest multiple source 
+	 reduce undesired interference benefit source separation 
+	 overcome conventional cross talk leakage problem 
+	 adaptive beamforming beamforme hand exploit geometric 
+	 information readily available utilize blind 
+	 algorithm propose join benefit combine cross power 
+	 minimization second order source separation geometric linear 
+	 constraint use adaptive beamforming find geometric 
+	 constraint resolve ambiguity inherent 
+	 independence criterion frequency permutation degree 
+	 freedom provide additional sensor demonstrate new method 
+	 performance comparison actual room recording 
+	 simultaneous acoustic source 

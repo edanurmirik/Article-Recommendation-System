@@ -1,0 +1,17 @@
+quantum information processing nuclear magnetic resonance experimental 
+	 implementation half adder subtractor operation use 
+	 orient spin-7/2 system 
+ advantage use quantum system perform computational task 
+	 establish quantum algorithm 
+	 develop exploit inherent property quantum system 
+	 superposition state entanglement efficiently perform 
+	 certain task experimental implementation achieve 
+	 quantum system nuclear magnetic resonance 
+	 large progress term number qubit paper describe 
+	 use spin-7/2 qubit system experimentally implement 
+	 half adder subtractor operation require qubit 
+	 realize partially orient /sup 133 cs nucleus 
+	 liquid crystalline medium yield quadrupolar split resolve 
+	 septet feature paper proposal labeling 
+	 quantum state system suitably choose increase 
+	 efficiency computational task 

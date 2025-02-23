@@ -1,0 +1,7 @@
+sample datum implementation gain schedule controller 
+ continuous time gain schedule controller transform 
+	 correspond discrete time controller sample datum implementation 
+	 certain linearization property continuous time gain 
+	 schedule controller inherit sample datum implementation 
+	 similar relationship exist multi rate gain 
+	 schedule controller arise flight control application 

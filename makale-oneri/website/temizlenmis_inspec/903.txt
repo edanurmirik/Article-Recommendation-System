@@ -1,0 +1,22 @@
+modeling simulation abr flow control algorithm use virtual 
+	 source virtual destination switch 
+ available bit rate abr service class asynchronous transfer mode 
+	 network use feedback control mechanism adapt vary link 
+	 capacity virtual source virtual destination vs vd technique 
+	 offer possibility segment end end abr 
+	 control loop separate loop improved feedback delay 
+	 control abr traffic inside closed segment provide 
+	 performance abr connection article present use 
+	 classical linear control theory model develop abr vs vd flow 
+	 control algorithm discrete event simulation use analyze 
+	 behavior algorithm respect transient behavior 
+	 correctness control model linear control theory offer 
+	 mean derive correct choice parameter assess performance 
+	 issue stability system design phase 
+	 performance goal high link utilization fair bandwidth 
+	 distribution robust operation environment 
+	 verify discrete event simulation major contribution 
+	 work use analytic method linear control theory model 
+	 design abr flow control algorithm tailor special 
+	 layout vs vd switch use simulation technique 
+	 verify result 

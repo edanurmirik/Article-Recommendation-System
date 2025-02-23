@@ -1,0 +1,17 @@
+facility network design revisit 
+ facility commodity network design problem ofoc nonnegative 
+	 flow cost consider problem send d unit flow 
+	 source destination arc capacity purchase batch c 
+	 unit facility problem tfoc similar capacity 
+	 purchase batch c unit unit flow cost 
+	 zero problem know np hard describe exact 
+	 o(n sup 3/3 sup n/ algorithm problem base repeat 
+	 use bipartite matching algorithm present low 
+	 bind omega n sup 2k*/ early omega n sup 2k/ algorithm 
+	 describe literature k d c k min{k n 2)/2 
+	 matching algorithm fast k or= n 
+	 2)/2 finally provide reformulation problem 
+	 quasi integral property useful design modify 
+	 version simplex method solve problem use sequence 
+	 pivot integer extreme solution refer integral 
+	 simplex method literature 

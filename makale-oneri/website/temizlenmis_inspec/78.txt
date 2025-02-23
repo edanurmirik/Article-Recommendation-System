@@ -1,0 +1,17 @@
+apply genetic algorithm solve fuzzy optimal profit problem 
+ study investigate application genetic algorithm solve 
+	 fuzzy optimization problem arise business economic 
+	 problem fuzzy price determine use linear quadratic 
+	 fuzzy demand function linear cost function objective 
+	 find optimal fuzzy profit derive fuzzy 
+	 price fuzzy cost traditional method solve problem 
+	 1 extension principle 2 use interval arithmetic 
+	 alpha -cut argue traditional method solve 
+	 problem restrictive produce optimal solution 
+	 alternative approach possibly need use genetic 
+	 algorithm obtain approximate solution fuzzy optimal 
+	 profit problem use membership function 
+	 empirical example effectiveness approach 
+	 theoretical proof validate correctness algorithm 
+	 conclude genetic algorithm produce good approximate solution 
+	 apply solve fuzzy optimization problem 

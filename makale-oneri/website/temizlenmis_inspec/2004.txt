@@ -1,0 +1,9 @@
+new paradigm interactive 3d volume segmentation 
+ present new virtual reality base interaction metaphor semi automatic 
+	 segmentation medical 3d volume datum mouse base manual 
+	 initialization deformable surface 3d represent major 
+	 bottleneck interactive segmentation multi modal system 
+	 enhance process additional sensory feedback 3d haptic 
+	 device use extract centreline tubular structure base 
+	 obtain path cylinder vary diameter generate 
+	 turn use initial guess deformable surface 

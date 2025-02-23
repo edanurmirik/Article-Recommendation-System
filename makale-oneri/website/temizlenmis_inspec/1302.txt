@@ -1,0 +1,22 @@
+dynamic firing probability noisy integrate fire neuron 
+ cortical neuron vivo undergo continuous bombardment synaptic 
+	 activity act major source noise investigate 
+	 effect noise filter synapsis level 
+	 realism integrate fire neuron dynamic noise input 
+	 model white instantaneous synapsis color synapsis 
+	 finite relaxation time noise analytical result 
+	 modulation fire probability response oscillatory input 
+	 current obtain expand fokker planck equation small 
+	 parameter problem amplitude modulation 
+	 small compare background firing rate synaptic time 
+	 constant small compare membrane time constant report 
+	 detailed calculation synaptic decay time constant 
+	 include synaptic current model firing rate modulation 
+	 neuron oscillatory input remain finite 
+	 high frequency limit phase lag addition characterize 
+	 low frequency behavior behavior high frequency limit 
+	 intermediate decay time characterize effect 
+	 introduce rise time synaptic current presence 
+	 synaptic receptor different kinetic case 
+	 determine use numerical simulation effective decay time 
+	 constant describe neuronal response completely 

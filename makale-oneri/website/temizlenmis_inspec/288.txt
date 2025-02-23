@@ -1,0 +1,13 @@
+complexity transition global algorithm sparse linear system 
+	 finite field 
+ study computational complexity basic problem 
+	 find solution large set random linear equation 
+	 finite galois field modulo q. use tool statistical mechanic 
+	 able identify phase transition structure solution 
+	 space connect change performance global 
+	 algorithm gaussian elimination cross phase boundary 
+	 produce dramatic increase memory cpu requirement necessary 
+	 algorithm turn cause saturation upper 
+	 bound running time illustrate result specific 
+	 problem integer factorization central interest 
+	 decipher message encrypt rsa cryptosystem 

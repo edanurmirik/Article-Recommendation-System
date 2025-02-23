@@ -1,0 +1,8 @@
+multi agent system infrastructure software component marketplace 
+	 ontological perspective 
+ paper introduce multi agent system architecture 
+	 implement prototype software component marketplace 
+	 emphasize ontological perspective discuss ontology modeling 
+	 component marketplace uml extension ontology modeling 
+	 idea ontology transfer multi agent system 
+	 adapt dynamically change ontology 

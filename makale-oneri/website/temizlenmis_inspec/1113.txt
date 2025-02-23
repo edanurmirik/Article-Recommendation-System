@@ -1,0 +1,14 @@
+word spot base posterior measure keyword confidence 
+ paper approach keyword confidence estimation develop 
+	 combine acoustic layer score syllable base statistical 
+	 language model lm score posteriori ap confidence measure 
+	 forward backward calculating algorithm deduce zero false 
+	 alarm zfa assumption propose evaluate relative confidence 
+	 measure word spot task word spot experiment 
+	 vocabulary 240 keyword keyword accuracy ap measure 
+	 94 approach theoretical upper limit 
+	 addition syllable lattice hidden markov model slhmm formulate 
+	 unified view confidence estimation word spot optimal 
+	 path search n good syllable scoring present propose 
+	 ap measure easily apply speech recognition system 
+	 

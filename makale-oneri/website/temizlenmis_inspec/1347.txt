@@ -1,0 +1,19 @@
+maximum likelihood surface estimator dense range datum 
+ describe estimate 3d surface model dense set noisy range datum 
+	 different point view i.e. multiple range map 
+	 propose method use sensor model develop expression 
+	 likelihood 3d surface conditional set noisy range 
+	 measurement optimize likelihood respect model 
+	 parameter provide unbiased efficient estimator propose 
+	 numerical algorithm estimation computationally practical 
+	 wide variety circumstance result method compare 
+	 favorably state art approach rely 
+	 close point perpendicular distance metric convenient heuristic 
+	 produce biased solution fail completely surface 
+	 sufficiently smooth case complex scene noisy 
+	 range measurement empirical result simulated real ladar 
+	 datum demonstrate effectiveness propose method 
+	 different type problem furthermore propose method offer 
+	 general framework accommodate extension include surface 
+	 prior sophisticated noise model sense modality 
+	 sonar synthetic aperture radar 

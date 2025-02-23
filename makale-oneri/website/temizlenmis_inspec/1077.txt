@@ -1,0 +1,21 @@
+quantum learn universal quantum matching machine 
+ suppose kind quantum system unknown state 
+	 |f>/sup x)n/ |g sub 1/>/sup x)k/ |g sub 2/>/sup x)k/ 
+	 want decide template state |g sub 1/ |g sub 
+	 2/ represent feature pattern class c sub 1/ 
+	 c sub 2/ respectively close input feature state |f 
+	 extension pattern match problem quantum 
+	 domain assume state know priori belong 
+	 certain parametric family pure qubit system derive kind 
+	 matching strategy semiclassical strategy 
+	 obtain natural extension conventional matching strategy 
+	 consist stage procedure identification estimation 
+	 unknown template state design classifier learning process 
+	 train classifier classification input system 
+	 appropriate pattern class base estimate result 
+	 fully quantum strategy intermediate measurement 
+	 universal quantum matching machine present 
+	 bayes optimal solution strategy case k=1 
+	 certainly exist fully quantum matching procedure 
+	 strictly superior straightforward semiclassical extension 
+	 conventional matching strategy base learning process 

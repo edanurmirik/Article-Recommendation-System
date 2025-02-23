@@ -1,0 +1,16 @@
+optimal control use transport equation liouville machine 
+ transport theory describe scatter behavior physical particle 
+	 photon connect theory optimal control 
+	 theory adaptive behavior agent embed environment 
+	 environment task define physical boundary condition 
+	 task compute set probability density 
+	 continuous state action time density derive 
+	 optimal policy state likely action 
+	 maximize probability reach predefine goal state 
+	 liouville conservation theorem tell conditional density 
+	 time t state s action equal density t dt s 
+	 ds da discretization yield linear system solve 
+	 directly solution correspond optimal policy 
+	 discount reward scheme incorporate naturally 
+	 laplace transform equation liouville machine quickly 
+	 solve complex maze problem 

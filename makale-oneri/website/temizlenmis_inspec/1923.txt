@@ -1,0 +1,12 @@
+predictive control high temperature short time pasteurisation process 
+ modification dynamic matrix control dmc algorithm present 
+	 deal transfer function vary parameter order 
+	 control high temperature short time pasteurisation process 
+	 control process order pure time delay model 
+	 parameter present exogenous variable dependence new method 
+	 free response calculation use multiple model information 
+	 develop method cope nonlinear model allow 
+	 generalised hammerstein model description propose propose 
+	 method test simulation real case 
+	 comparison pid dmc classic controller important 
+	 improvement reference tracking disturbance rejection 

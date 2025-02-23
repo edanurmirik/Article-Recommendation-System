@@ -1,0 +1,13 @@
+traffic engineering traditional ip routing protocol 
+ traffic engineering involve adapt routing traffic network 
+	 condition joint goal good user performance efficient 
+	 use network resource describe approach intradomain 
+	 traffic engineering work exist deploy base 
+	 interior gateway protocol open shortest path 
+	 intermediate system intermediate system explain adapt 
+	 configuration link weight base networkwide view 
+	 traffic topology domain addition summarize 
+	 result study technique optimize ospf 
+	 weight prevail traffic article argue traditional 
+	 short path route protocol surprisingly effective 
+	 engineer flow traffic large ip network 

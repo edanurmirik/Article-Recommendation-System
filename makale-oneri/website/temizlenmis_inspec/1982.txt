@@ -1,0 +1,4 @@
+verify resonant grounding distribution system 
+ author describe resfal software tool check behavior 
+	 distribution network resonant grounding system regard 
+	 compensation coil tuning fault detection 

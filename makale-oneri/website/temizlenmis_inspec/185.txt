@@ -1,0 +1,16 @@
+property tester dense constraint satisfaction program finite domain 
+ np hard language decide subexponential time 
+	 definition decide relax slightly rubinfeld sudan 
+	 introduce notion property tester probabilistic algorithm 
+	 decide high probability function certain 
+	 property far function property 
+	 goldreich goldwasser ron construct property tester 
+	 constant query complexity dense instance large class graph 
+	 problem graph problem view special case 
+	 constraint satisfaction problem boolean domain natural 
+	 try construct property tester general case 
+	 constraint satisfaction problem paper explicit 
+	 construction property tester use constant number query 
+	 dense instance constraint satisfaction problems 
+	 constraint constant arity variable assume value 
+	 domain finite size 

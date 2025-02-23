@@ -1,0 +1,10 @@
+dynamic railway freight wagon wheelset dry friction damp 
+ investigate dynamic simple model wheelset support 
+	 end railway freight wagon spring linear characteristic 
+	 dry friction damper wagon run ideal straight 
+	 level track constant speed lateral dynamic dependence 
+	 speed examine include stick slip hysteresis 
+	 model dry friction assume coulomb law hold 
+	 slip phase find action dry friction 
+	 completely change bifurcation diagram longitudinal 
+	 component dry friction damp force destabilize wagon 

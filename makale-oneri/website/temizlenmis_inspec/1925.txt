@@ -1,0 +1,5 @@
+accuracy polynomial interpolation hilbert space disturbed 
+	 nodal value operator 
+ interpolation accuracy polynomial operator hilbert space 
+	 measure estimate nodal value operator 
+	 approximately 

@@ -1,0 +1,17 @@
+outlier resistant adaptive match filter 
+ robust adaptive match filtering amf outlier data vector 
+	 censor covariance matrix estimate consider maximum 
+	 likelihood estimation mle setting know outli data 
+	 vector steering vector highly correlate desire 
+	 steering vector significantly degrade performance amf 
+	 algorithm sample matrix inversion smi fast maximum 
+	 likelihood fml new algorithm censor outlier 
+	 present derive approximation mle solution 
+	 algorithm relate use smi fml estimate 
+	 unknown underlying covariance matrix result present use 
+	 computer simulation demonstrate relative effectiveness 
+	 algorithm versus versus smi fml 
+	 algorithm presence outlier outlier 
+	 censoring algorithm reiterative censor 
+	 fast maximum likelihood cfml technique significantly superior 
+	 censoring method stressful outli scenario 

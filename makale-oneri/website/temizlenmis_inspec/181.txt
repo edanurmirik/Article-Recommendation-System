@@ -1,0 +1,27 @@
+electromagnetic computation use mpi parallel implementation 
+	 steep descent fast multipole method sdfmm 
+ computational solution large scale linear system equation 
+	 necessitate use fast algorithm greatly enhance 
+	 employ parallelization technique objective work 
+	 demonstrate speedup achieve mpi message pass interface 
+	 parallel implementation steep descent fast multipole method 
+	 sdfmm algorithm optimize 
+	 advantage structure physics scatter problem 
+	 opportunity speed calculation divide task 
+	 component use multiple processor solve parallel 
+	 sdfmm bottleneck order 1 fill sparse 
+	 impedance matrix associate near field method moment 
+	 interaction mom 2 matrix vector multiplication associate 
+	 sparse matrix 3 far field interaction associate 
+	 fast multipole method parallel implementation task 
+	 accomplish use thirty node intel pentium beowulf cluster 
+	 validate 4 processor alpha workstation beowulf 
+	 cluster consist thirty node 350 mhz intel pentium iis 
+	 256 mb ram node 4 450 mhz intel pentium ii xeon share 
+	 memory processor 2 gb ram node connect 100 
+	 basetx ethernet network alpha workstation maximum 
+	 667 mhz processor numerical result significant linear 
+	 speedup fill sparse impedance matrix use 32 processor 
+	 beowulf cluster lead 7.2 overall speedup 2.5 
+	 overall speedup gain use 4 processor alpha 
+	 workstation 

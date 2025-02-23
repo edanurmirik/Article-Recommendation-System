@@ -1,0 +1,10 @@
+dimensional periodic voronoi grain model micromechanical 
+	 fe simulation phase steel 
+ dimensional model propose modeling microstructure 
+	 model base finite element method periodic boundary 
+	 condition voronoi algorithm use generate geometrical 
+	 model periodic grain structure follow original 
+	 boundary voronoi cell application model use 
+	 model phase ferrite pearlite steel periodic 
+	 cell grain generate representative stress strain 
+	 curve 

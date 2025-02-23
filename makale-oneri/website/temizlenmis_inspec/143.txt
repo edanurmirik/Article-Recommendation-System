@@ -1,0 +1,11 @@
+automate irradiation device use cyclotron 
+ cyclotron operate ipen cnen sp model cv-28 capable 
+	 accelerate proton energy 24 mev beam current 
+	 30 mu particle model cyclone 30 
+	 accelerate proton energy 30 mev current 350 mu a. 
+	 objective irradiate target radioisotope 
+	 production use nuclear medicine general research 
+	 development irradiate system completely automatize 
+	 objective work aim reduce radiation 
+	 exposition dose worker increase reliability use 
+	 system 

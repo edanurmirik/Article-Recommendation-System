@@ -1,0 +1,12 @@
+simple etalon stabilize visible laser diode 
+ visible laser diode ld inexpensively available 
+	 single transverse mode single longitudinal mode operation 
+	 coherence length metre range constant current bias 
+	 constant operating temperature optical output power operating 
+	 wavelength stable simple inexpensive way develop 
+	 maintain constant ld temperature temperature local 
+	 environment vary monitor initially change wavelength 
+	 external etalon use information apply heating 
+	 correction monitor photodiode commonly integral ld 
+	 package fractional wavelength stability achieve limit 
+	 solid etalon 7 10 sup -6/ degree c sup -1/ 

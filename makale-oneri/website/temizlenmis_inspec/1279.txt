@@ -1,0 +1,9 @@
+place transition petri net evolution recording way analysis synthesis 
+ semantic domain place transition petri net relationship 
+	 consider monoid respectively fire sequence 
+	 process trace dependence graph analysis 
+	 synthesis problem state solve monoid process 
+	 define non standard way net consideration involve weight 
+	 arrow capacity finite infinite place 
+	 analysis synthesis task require net pure i.e. 
+	 transition pre set post set disjoint 

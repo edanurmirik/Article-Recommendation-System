@@ -1,0 +1,12 @@
+approximation complexity ii iterate integration 
+ pt i. ibid 1 p. 289 95 2001 introduce class real 
+	 analytic function w contain imply u interval start 
+	 rational function construct function w allow 
+	 application type operation addition integration 
+	 multiplication polynomial rational coefficient similar 
+	 way construct function u allow integration addition 
+	 multiplication function construct u multiplication 
+	 rational number u subring ring pfaffian 
+	 function low bound l sub infinity /-norm prove 
+	 function f w u respectively term 
+	 complexity construct f 

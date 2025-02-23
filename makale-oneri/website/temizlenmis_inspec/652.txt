@@ -1,0 +1,25 @@
+case end system multicast 
+ conventional wisdom internet protocol ip natural 
+	 protocol layer implement multicast related functionality 
+	 decade initial proposal ip multicast 
+	 plague concern pertain scalability network 
+	 management deployment support high layer functionality 
+	 error flow congestion control explore alternative 
+	 architecture term end system multicast end system 
+	 implement multicast related functionality include membership 
+	 management packet replication shifting multicast support 
+	 router end system potential address problem 
+	 associate ip multicast key concern 
+	 performance penalty associate model particular end 
+	 system multicast introduce duplicate packet physical link 
+	 incur large end end delay ip multicast study 
+	 performance concern context narada protocol narada 
+	 end system self organize overlay structure use fully 
+	 distribute protocol far end system attempt optimize 
+	 efficiency overlay adapt network dynamic 
+	 consider application level performance present detail narada 
+	 evaluate use simulation internet experiment 
+	 result indicate performance penalty low 
+	 application network perspective believe potential 
+	 benefit transfer multicast functionality end system 
+	 router significantly outweigh performance penalty incur 

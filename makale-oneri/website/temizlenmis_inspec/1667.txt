@@ -1,0 +1,13 @@
+combine constraint programming linear programming example bus 
+	 driver scheduling 
+ provide detail successful application column generation 
+	 algorithm use combine constraint programming linear 
+	 programming past constraint programming linear programming 
+	 consider compete technology solve similar 
+	 type problem technology strength 
+	 weakness paper technology combine 
+	 extract strength technology detail 
+	 real world application optimize bus driver duty 
+	 system develop ilog major software house japan 
+	 use ilog solver ilog cplex constraint programming linear 
+	 programming c c++ librarie 

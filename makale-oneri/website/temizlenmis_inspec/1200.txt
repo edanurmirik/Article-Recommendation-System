@@ -1,0 +1,12 @@
+continuous recovery discrete filtering numerical approximation 
+	 conservation law 
+ modern numerical approximation conservation law rely numerical 
+	 dissipation means stabilization old alternative 
+	 approach use central differencing dose artificial 
+	 dissipation paper review successful class weight 
+	 essentially non oscillatory finite volume scheme comprise 
+	 sophisticated method kind new development image 
+	 processing new device possible serve highly 
+	 nonlinear artificial dissipation term view artificial dissipation 
+	 discrete filter operation introduce new algorithm 
+	 inspire image processing 

@@ -1,0 +1,17 @@
+strong stability concurrent repetitive process share resource 
+ paper present method design stability condition concurrent 
+	 repetitive process share common resource steady state behaviour 
+	 system m cyclic process utilise resource 
+	 mutual exclusion consider base recurrent equation 
+	 framework necessary sufficient condition existence 
+	 maximal performance steady state present 
+	 condition hold m process system marginally stable 
+	 i.e. steady state system depend perturbation 
+	 problem find relative position process lead 
+	 wait free maximal efficiency steady state system 
+	 formulate constraint logic programming problem example 
+	 illustrate solving problem 3 process system use 
+	 object orient constraint logic programming language oz present 
+	 condition sufficient strong stability m process system 
+	 condition hold initial phase 
+	 process waiting free steady state reach 

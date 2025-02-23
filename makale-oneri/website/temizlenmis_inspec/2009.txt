@@ -1,0 +1,19 @@
+survey interactive mesh cut technique new method 
+	 implement generalize interactive mesh cutting use virtual tool 
+ experience mesh cut method distinguish 
+	 solution address follow major issue definition cut 
+	 path primitive removal meshing number new primitive 
+	 create meshing perform representation 
+	 cutting tool researcher develop scheme interactive 
+	 mesh cutting goal reduce number new primitive 
+	 create create new primitive good aspect ratio avoid 
+	 disconnect mesh structure primitive cut path 
+	 represent path traverse tool accurately possible 
+	 goal paper explain use simple 
+	 framework build generalized cutting scheme method 
+	 allow arbitrary cut virtual object 
+	 simulate cut surface layer surface tetrahedral object 
+	 use virtual scalpel scissor loop cautery tool method 
+	 implement real time haptic rate surgical simulation 
+	 system allow arbitrary cut high resolution 
+	 patient specific model 

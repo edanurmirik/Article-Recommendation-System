@@ -1,0 +1,6 @@
+activity location recognition use wearable sensor 
+ use measured acceleration angular velocity datum gather 
+	 inexpensive wearable sensor dead reckon method determine 
+	 user location detect transition preselecte location 
+	 recognize classify sitting standing walk behavior 
+	 experiment demonstrate propose method effectiveness 

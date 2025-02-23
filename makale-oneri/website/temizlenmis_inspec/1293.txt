@@ -1,0 +1,13 @@
+truss topology optimization modify genetic algorithm 
+ paper describe use stochastic search procedure base genetic 
+	 algorithm develop near optimal topology load bear truss 
+	 structure exist case publication express truss 
+	 topology combination member method 
+	 disadvantage result topology include needless member 
+	 overlap member addition problem 
+	 generate structure necessarily structurally stable new 
+	 method resolve problem express truss topology 
+	 combination triangle propose paper detail 
+	 propose methodology present result 
+	 numerical example clearly effectiveness efficiency 
+	 method 

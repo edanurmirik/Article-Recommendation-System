@@ -1,0 +1,13 @@
+component base software configuration management model support 
+	 system 
+ software configuration management scm important key technology 
+	 software development component base software development cbsd 
+	 emerge paradigm software development apply cbsd 
+	 effectively real world practice support scm cbsd need 
+	 far investigate paper object need 
+	 manage cbsd analyze component base scm model 
+	 present model component integral logical 
+	 constituent system manage basic configuration item 
+	 scm relationship component define 
+	 maintain base model configuration management system 
+	 implement 

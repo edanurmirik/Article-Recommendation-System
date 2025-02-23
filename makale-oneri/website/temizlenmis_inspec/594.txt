@@ -1,0 +1,10 @@
+improve analysis nonlinear performance cmos current mirror 
+	 device mismatch 
+ nonlinear performance simple complementary mosfet current 
+	 mirror analyze close form expression obtain 
+	 harmonic intermodulation component result 
+	 multisinusoidal input current expression use 
+	 predict limit value input current prespecified 
+	 condition threshold voltage mismatch and/or transconductance 
+	 mismatch case single input sinusoid discuss detail 
+	 result compare spice simulation 

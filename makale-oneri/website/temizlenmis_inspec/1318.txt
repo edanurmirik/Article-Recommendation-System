@@ -1,0 +1,16 @@
+network intrusion fault detection statistical anomaly approach 
+ advent explosive growth global internet electronic 
+	 commerce environment adaptive automatic network service intrusion 
+	 anomaly detection wide area datum network e commerce 
+	 infrastructure fast gain critical research practical 
+	 importance present demonstrate use general purpose 
+	 hierarchical multiti multiwindow statistical anomaly detection 
+	 technology system operate automatically adaptively 
+	 proactively apply networking technology 
+	 include wired wireless ad hoc network method use 
+	 statistical model multivariate classifier detect anomalous 
+	 network condition numerical result present 
+	 demonstrate propose methodology reliably detect attack 
+	 traffic anomaly intensity low 3 5 percent typical 
+	 background traffic intensity promise generate effective 
+	 early warning 

@@ -1,0 +1,19 @@
+virtual test facility simulation dynamic response material 
+ center simulating dynamic response materials california 
+	 institute technology construct virtual shock physics 
+	 facility study response target material 
+	 strong shock virtual test facility vtf end end fully 
+	 dimensional simulation detonation high explosive 
+	 shock wave propagation solid material response pressure loading 
+	 compressible turbulence vtf largely consist parallel 
+	 fluid solver parallel solid mechanic package couple 
+	 exchange boundary datum eulerian fluid code 
+	 lagrangian solid mechanic model interact novel approach base 
+	 level set main computational package integrate 
+	 use pyre problem solve environment write python 
+	 scripting language pyre allow application developer interchange 
+	 computational model solver package recompile 
+	 code provide standardized access datum visualization 
+	 engine datum input mechanism paper outline main 
+	 component vtf discuss integration pyre describe 
+	 recent accomplishment large scale simulation use vtf 

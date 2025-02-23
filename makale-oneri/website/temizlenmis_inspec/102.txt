@@ -1,0 +1,9 @@
+harmless delay cohen grossberg neural network 
+ assume monotonicity differentiability activation function 
+	 symmetry interconnection establish sufficient 
+	 condition globally asymptotic stability unique 
+	 equilibrium cohen grossberg 1983 neural network multiple 
+	 delay lyapunov functional function combine razumikhin 
+	 technique employ criterion independent 
+	 magnitude delay delay condition 
+	 harmless 

@@ -1,0 +1,12 @@
+numerical solution evolution problem second order time 
+	 close smooth boundary 
+ consider initial value problem second order differential equation 
+	 dirichlet neumann operator coefficient numerical 
+	 solution carry semi discretization laguerre 
+	 transformation respect time variable infinite 
+	 system stationary operator equation obtain potential 
+	 theory operator equation reduce boundary integral 
+	 equation second kind logarithmic hypersingular kernel 
+	 discretization realize nystrom method base 
+	 trigonometric quadrature rule numerical test confirm 
+	 ability method solve type nonstationary problem 

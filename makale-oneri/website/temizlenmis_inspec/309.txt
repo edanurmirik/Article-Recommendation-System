@@ -1,0 +1,21 @@
+wextor web base tool generate visualize experimental design 
+	 procedure 
+ wextor javascript base experiment generator teaching tool 
+	 world wide web use design laboratory web 
+	 experiment guide step step process dynamically create 
+	 customize web page javascript need experimental 
+	 procedure provide experimenter print ready visual display 
+	 experimental design wextor flexibly support complete 
+	 incomplete factorial design subject subject 
+	 quasi experimental factor mix design software 
+	 implement client response time measurement contain content 
+	 wizard create interactive material dependent 
+	 measure graphical scale multiple choice item etc 
+	 experiment page aim replace fledge 
+	 html editor methodological feature specifically need web 
+	 experimental design implement web base tool 
+	 describe paper wextor platform independent create 
+	 web page upload type web server datum 
+	 record logfile database current version 
+	 wextor freely available educational noncommercial purpose 
+	 web address http://www.genpsylab.unizh.ch/wextor/index.html 

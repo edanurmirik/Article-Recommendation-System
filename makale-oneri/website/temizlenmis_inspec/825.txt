@@ -1,0 +1,9 @@
+genetic algorithm neural network estimation cobb angle torso asymmetry 
+	 scoliosis 
+ scoliosis severity measure cobb angle estimate artificial 
+	 neural network index torso surface asymmetry use genetic 
+	 algorithm select optimal set input torso index estimate 
+	 cobb angle accurate 5 degree 
+	 10 degree seventh test set 115 scan 48 
+	 scoliosis patient promise future longitudinal study 
+	 detect scoliosis progression use x ray 

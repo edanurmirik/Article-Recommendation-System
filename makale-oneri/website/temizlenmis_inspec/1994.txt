@@ -1,0 +1,26 @@
+comparison computational color constancy algorithms ii experiment 
+	 image datum 
+ pt ibid vol 11 no.9 p.972 84 2002 test number 
+	 lead computational color constancy algorithm use comprehensive 
+	 set image 33 different scene 11 different 
+	 source representative common illumination condition 
+	 algorithm study include gray world method version 
+	 retinex method variant forsyth 1990 gamut mapping 
+	 method cardei et al 2000 neural net method finlayson et 
+	 al color correlation method finlayson et al 1997 2001 hubel 
+	 finlayson 2000 discuss number issue apply color 
+	 constancy idea image datum study depth effect 
+	 different preprocessing strategy compare performance 
+	 algorithm image datum performance synthesized datum 
+	 datum use study available online 
+	 http://www.cs.sfu.ca/~color/data implementation 
+	 algorithm available http://www.cs.sfu.ca/~color/code 
+	 experiment synthesized datum paper suggest 
+	 method emphasize use input data statistic 
+	 specifically color correlation neural net algorithm 
+	 potentially effective estimate chromaticity 
+	 scene illuminant unfortunately unable realize comparable 
+	 performance real image exploit pixel intensity prove 
+	 beneficial exploit detail image chromaticity 
+	 statistic dimensional 3 d gamut mapping algorithm 
+	 good performance 

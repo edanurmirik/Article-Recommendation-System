@@ -1,0 +1,14 @@
+adaptive tracking controller design robotic system use gaussian wavelet 
+	 network 
+ adaptive tracking control design robotic system use gaussian wavelet 
+	 network propose gaussian wavelet network accurate 
+	 approximation capability employ approximate unknown 
+	 dynamic robotic system use adaptive learning algorithm 
+	 learn parameter dilation translation 
+	 gaussian wavelet function depend finite number wavelet 
+	 basis function result inevitable approximation error 
+	 robust control law provide guarantee stability 
+	 closed loop robotic system prove lyapunov theory 
+	 finally effectiveness gaussian wavelet network base 
+	 control approach illustrate comparative simulation 
+	 link robot manipulator 

@@ -1,0 +1,11 @@
+transmission line fault location system use wavelet transform 
+ paper describe locate system line ground fault power 
+	 transmission line use wavelet transform possibility 
+	 location surge generate fault theoretically 
+	 propose order method practicable author realize 
+	 fast processor design wavelet transform location 
+	 chip construct fast fault location system process 
+	 measured datum parallel system realize computer 
+	 fpga processor board pci bus processor 
+	 control unix system graphical user interface 
+	 x window system 

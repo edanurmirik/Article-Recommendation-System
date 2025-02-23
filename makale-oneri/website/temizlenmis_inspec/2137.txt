@@ -1,0 +1,5 @@
+stabilization linear object frequency modulate pulse signal 
+ control system consist unstable continuous linear 
+	 pulse frequency modulator feedback circuit study 
+	 condition boundedness solution system 
+	 initial datum determine 

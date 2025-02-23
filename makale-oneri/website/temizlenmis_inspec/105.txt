@@ -1,0 +1,7 @@
+greenberger horne zeilinger paradox qubit 
+ construct greenberger horne zeilinger ghz contradiction 
+	 party share entangled state dimension subsystem 
+	 integer d. simple example 
+	 standard ghz paradox qubit involve ququat d 4 
+	 examine criterion ghz paradox satisfy order 
+	 genuinely m partite d dimensional 

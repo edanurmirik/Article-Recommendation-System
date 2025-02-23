@@ -1,0 +1,14 @@
+efficient simplicial reconstruction manifold sample 
+ algorithm manifold learning present sample 
+	 finite dimensional differentiable manifold priori knowledge 
+	 manifold geometry topology dimension goal 
+	 find description manifold learn manifold 
+	 approximate true manifold geometrically 
+	 topologically sample density sufficiently high 
+	 propose algorithm construct simplicial complex base 
+	 approximation tangent bundle manifold important 
+	 property algorithm complexity depend 
+	 dimension manifold embed space 
+	 successful example present case learn curve 
+	 plane curve space surface space addition case 
+	 algorithm fail analyze 

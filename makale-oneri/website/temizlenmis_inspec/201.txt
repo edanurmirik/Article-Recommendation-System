@@ -1,0 +1,8 @@
+correction construction panoramic image mosaic global local 
+	 alignment 
+ original paper ibid vol 36 2 p. 101 30 2000 author 
+	 method construction panoramic image mosaic 
+	 global local alignment unfortunately mistake lead 
+	 incorrect equation whilst little difference case 
+	 fast assured convergence correct formulae 
+	 use 

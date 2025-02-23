@@ -1,0 +1,17 @@
+line robust processing technique elimination measurement drop 
+ process measurement datum usually assume 
+	 normally distribute measurement noise present situation 
+	 outlier present measurement consequently noise 
+	 far normally distribute case classical square 
+	 procedure estimate fourier spectra derive quantity like 
+	 frequency response function result inaccurate 
+	 useless paper novel technique line 
+	 processing measurement outlier propose 
+	 computation speed accuracy technique present 
+	 compare different classical approach handle outlier 
+	 measurement datum i.e. filter technique outlier rejection 
+	 technique robust regression technique particular 
+	 processing technique validate apply problem 
+	 speckle drop optical vibration measurement perform 
+	 laser doppler vibrometer typically cause outlier 
+	 measurement 

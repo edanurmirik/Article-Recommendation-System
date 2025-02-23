@@ -1,0 +1,10 @@
+algorithm improve quality r tree 
+ novel approach operation structure spatial indexing extended 
+	 object shape r tree consider consist initial 
+	 global construction efficient r tree structure subsequent 
+	 operation use conventional dynamic algorithm global 
+	 strategy construct r tree reduce problem divide 
+	 set rectangular object k minimum mutual overlay 
+	 suggest base box divide conquer algorithm 
+	 suggest result experimental modeling execution 
+	 algorithm discuss 

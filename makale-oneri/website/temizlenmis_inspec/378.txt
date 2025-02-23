@@ -1,0 +1,15 @@
+incremental motion control linear synchronous motor 
+ study particular incremental motion control problem 
+	 specify trapezoidal velocity profile use multisegment 
+	 slide mode control mssmc propose control permanent magnet 
+	 linear synchronous motor pmlsm servo drive system 
+	 structure operate principle pmlsm describe detail 
+	 second field orient control pmlsm servo drive introduce 
+	 segment multisegment switch surface design 
+	 match corresponding trapezoidal velocity profile 
+	 motor dynamic specify segment switching surface 
+	 desire velocity acceleration corresponding trapezoidal 
+	 velocity profile addition propose control system 
+	 implement pc base computer control system finally 
+	 effectiveness propose pmlsm servo drive system demonstrate 
+	 simulated experimental result 

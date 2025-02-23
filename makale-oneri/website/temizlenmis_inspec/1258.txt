@@ -1,0 +1,21 @@
+implementation performance evaluation fifo queue class library 
+	 time warp 
+ author describe implementation use performance evaluation 
+	 fifo queue class library mean high performance easy use 
+	 interface employ queue simulation parallel discrete 
+	 simulation base time warp method general purpose 
+	 simulation library language propose 
+	 advantage require user define 
+	 state vector need awareness rollback 
+	 platform perform state control base copy 
+	 state vector define simple datum structure 
+	 pointer dynamic data structure fifo queue 
+	 handle directly propose class library platform 
+	 user handle structure fashion 
+	 embed datum structure handle addition instead 
+	 store datum operational history store recover 
+	 efficiently effectively minimal cost advantage 
+	 characteristic data structure 
+	 kernel delete past state history simulation garbage 
+	 collection perform transparently use corresponding 
+	 method 

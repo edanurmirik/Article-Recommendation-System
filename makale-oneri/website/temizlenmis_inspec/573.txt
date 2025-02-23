@@ -1,0 +1,31 @@
+ecg gate /sup 18 f fdg positron emission tomography single test evaluation 
+	 segmental metabolism function contractile reserve patient 
+	 coronary artery disease regional dysfunction 
+ /sup 18 f fluorodeoxyglucose /sup 18 f fdg)-positron emission tomography pet 
+	 provide information myocardial glucose metabolism diagnose 
+	 myocardial viability additional information functional 
+	 status necessary comparison tomographic metabolic pet datum 
+	 imaging technique hamper transfer 
+	 uncertainty scatter want evaluate new fourier base 
+	 ecg gate pet technique use high resolution scanner provide 
+	 metabolic functional datum respect feasibility patient 
+	 diseased left ventricle patient coronary artery 
+	 disease leave ventricular segment severe 
+	 hypokinesis akinesis biplane cineventriculography include 
+	 new fourier base ecg gate metabolic /sup 18 f fdg pet perform 
+	 patient function rest /sup 18 f fdg uptake 
+	 examine pet study use 36 segment model segmental 
+	 comparison ventriculography reveal high reliability 
+	 identify dysfunctional segment 96 /sup 18 f fdg uptake 
+	 normokinetic hypokinetic akinetic segment 75.4+or-7.5 
+	 65.3+or-10.5 35.9+or-15.2 p<0.001 segment or=70 
+	 /sup 18 f fdg uptake akinesia observe residual function 
+	 find 40 /sup 18 f fdg uptake additional dobutamine test 
+	 perform reveal inotropic reserve viability 42 akinetic 
+	 segment 45 hypokinetic segment ecg gate metabolic pet 
+	 pixel base fourier smoothing provide reliable datum regional 
+	 function assessment metabolism function complete 
+	 judgement segmental status feasible single study 
+	 transfer artefact test test variability result 
+	 indicate presence considerable viable myocardium 
+	 region uptake 40 50 /sup 18 f fdg 

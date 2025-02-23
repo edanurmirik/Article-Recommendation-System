@@ -1,0 +1,7 @@
+system embed polynomial equation 
+ class solution polynomial equation include 
+	 generalization form bezout matrix identity 
+	 construct analytically use technology constructive system 
+	 embed structure solution depend number step 
+	 euclidean algorithm obtain explicitly appropriate 
+	 substitution illustrative descriptive example present 

@@ -1,0 +1,22 @@
+model tomographic cone beam projection datum polyhedral phantom 
+ analytical phantom use generate projection datum testing 
+	 reconstruction accuracy compute axial tomography circular source 
+	 locus equivalent rotate speciman fix source provide 
+	 insufficient datum exact reconstruction cone beam transmission 
+	 tomography phantom datum useful study consequent 
+	 error investigate alternative scan loci 
+	 reconstruction technique present algorithm compute 
+	 phantom cone beam projection datum phantom comprise 
+	 geometrically define polyhedron polyhedron define set 
+	 polygon enclose volume fix linear attenuation coefficient 
+	 algorithm work project polygon turn 
+	 model detector array accumulate product source 
+	 polygon intersection distance ray intersect detector 
+	 element linear attenuation coefficient sign project polygon 
+	 area indicate ray enter exit polyhedron 
+	 face phantom datum rotate accord projection angle 
+	 whilst source location detector plane remain fix polyhedra 
+	 simple geometric form complex surface derive 3d 
+	 image real specimen algorithm illustrate use phantom 
+	 comprise 989 238 polygon represent iso surface generate 
+	 microtomographic reconstruction piece walrus tusk 

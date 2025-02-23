@@ -1,0 +1,7 @@
+optimal control algorithm base reachability set approximation 
+	 linearization 
+ terminal functional general control system refine study 
+	 analogous problem variational system regularization 
+	 sequential refinement method design combine local 
+	 approximation reachability set reduction corresponding 
+	 algorithm relaxation property illustrative example 

@@ -1,0 +1,18 @@
+discrete output feedback slide mode control second order system 
+	 switch line approach 
+ slide mode control system smcs switch variable 
+	 design independent initial condition know 
+	 sensitive parameter variation extraneous disturbance 
+	 reach phase second order system drawback 
+	 eliminate use switch line technique 
+	 switch line initially design pass initial condition 
+	 subsequently predetermine switching line 
+	 paper use idea switch line 
+	 reach law approach design discrete output feedback 
+	 slide mode control main contribution work 
+	 require use system state use 
+	 output sample design controller use 
+	 switch line low sensitivity system obtain shortening 
+	 reach phase simulation result fast output 
+	 sample feedback guarantee slide motion similar obtain 
+	 use state feedback 

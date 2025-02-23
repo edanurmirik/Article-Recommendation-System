@@ -1,0 +1,16 @@
+compute frequency response system affinely depend uncertain 
+	 parameter 
+ computation frequency response system depend affinely 
+	 uncertain parameter reduce dimensional 
+	 edge plant image edge plant fix frequency 
+	 arc line segment complex plane base 
+	 conclusion computational formula maximal minimal 
+	 maxi mini magnitude phase edge plant fix frequency 
+	 formula share simple form expression 
+	 concretely display extrema frequency response 
+	 edge plant relate typical characteristic arc line 
+	 segment centre radius tangent point arc 
+	 distance origin line segment etc direct 
+	 application result compute bode- nichols- 
+	 nyquist plot collection system need robustness 
+	 analysis design 

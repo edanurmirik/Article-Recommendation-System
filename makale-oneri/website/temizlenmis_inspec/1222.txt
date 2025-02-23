@@ -1,0 +1,15 @@
+optimal class association rule set 
+ define optimal class association rule set minimum rule set 
+	 predictive power complete class association rule set 
+	 use rule set instead complete class association rule set 
+	 avoid redundant computation require 
+	 mining predictive association rule improve efficiency 
+	 mining process significantly present efficient algorithm 
+	 optimal class association rule set use upward closure 
+	 property prune weak rule actually generate 
+	 implement algorithm experimental result 
+	 algorithm generate optimal class association rule set 
+	 size small 1/17 complete class association rule set 
+	 average significantly time generate complete class 
+	 association rule set propose criterion 
+	 effective prune weak rule dense database 

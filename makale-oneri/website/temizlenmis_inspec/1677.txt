@@ -1,0 +1,21 @@
+minimised geometric buchberger algorithm integer programming 
+ recently algebraic integer programming ip solver propose 
+	 base theory grobner basis main difficulty 
+	 solver size grobner basis generate algorithm 
+	 propose far large grobner basis generate 
+	 introduce additional variable consider generic ip 
+	 problem ip sub c/. improvement propose 
+	 hosten sturmfels method grin design avoid additional 
+	 variable thomas truncate grobner basis method compute 
+	 reduce grobner basis specific ip problem ip sub c/(b 
+	 generalisation ipa c paper propose new 
+	 algebraic algorithm solve ip problem new algorithm 
+	 minimised geometric buchberger algorithm combine hosten 
+	 sturmfels grin thomas truncate grobner basis method compute 
+	 fundamental segment ip problem ip sub c/ directly 
+	 original space truncated grobner basis specific ip 
+	 problem ip sub c/ b carry experiment compare 
+	 algorithm geometric buchberger algorithm 
+	 truncated geometric buchberger algorithm algorithm grin 
+	 experiment new algorithm offer significant 
+	 performance improvement 

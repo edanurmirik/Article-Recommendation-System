@@ -1,0 +1,13 @@
+operator splitting approximate factorization taxis diffusion reaction 
+	 model 
+ paper consider numerical solution 2d system certain type 
+	 taxis diffusion reaction equation mathematical biology 
+	 spatial discretization pde system approximate system 
+	 positive nonlinear ode method lines aim paper 
+	 examine numerical integration ode system low 
+	 moderate accuracy mean splitting technique important 
+	 consideration maintenance positivity apply operator splitting 
+	 approximate matrix factorization use low order explicit 
+	 runge kutta method linearly implicit runge kutta rosenbrock 
+	 method reference method general purpose solver vodpk 
+	 apply 

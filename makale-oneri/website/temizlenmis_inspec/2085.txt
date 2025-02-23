@@ -1,0 +1,14 @@
+intelligent fuzzy decision system flexible manufacturing system 
+	 multi decision point 
+ paper describe intelligent fuzzy decision support system real time 
+	 scheduling dispatching flexible manufacturing system 
+	 fms alternative routing possibility fuzzy 
+	 logic approach develop improve system performance 
+	 consider multiple performance measure multiple decision 
+	 point characteristic system status instead 
+	 feed assign priority wait process 
+	 simulation model develop propose 
+	 intelligent fuzzy decision support system performance 
+	 measure good level propose intelligent system 
+	 promising tool deal scheduling fms contrast 
+	 traditional rule 

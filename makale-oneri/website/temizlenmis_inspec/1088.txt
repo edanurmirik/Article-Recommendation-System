@@ -1,0 +1,12 @@
+parallel implicit predictor corrector method 
+ performance parallel code solution initial value problem 
+	 usually strongly sensitive dimension continuous problem 
+	 overhead relate exchange information 
+	 processor motivate problem minimize 
+	 communication accord principle define 
+	 parallel implicit predictor corrector methods class 
+	 derive stable l stable numerically zero stable formula 
+	 property refer zero stability condition 
+	 formula roundoff error introduce coefficient 
+	 representation finite precision arithmetic numerical 
+	 experiment potentiality approach 

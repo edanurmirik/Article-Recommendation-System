@@ -1,0 +1,18 @@
+adaptive scheduling batch server flow shop 
+ batch servicing common way benefit economy scale 
+	 manufacture operation good example production system 
+	 allow batch processing oven find aircraft industry 
+	 semiconductor manufacturing paper study issue 
+	 dynamic scheduling system context multi stage 
+	 flow shop far great deal research concentrate 
+	 development control strategy address batch stage 
+	 paper propose integral scheduling approach include 
+	 succeed stage way aim shop optimization instead 
+	 optimize performance single stage look ahead 
+	 strategy adapt scheduling decision shop status include 
+	 information limited number near future arrival particular 
+	 study stage flow shop batch stage succeed 
+	 serial stage serial stage realize single machine 
+	 parallel machine extensive simulation study 
+	 demonstrate shop performance improve propose 
+	 strategy relative exist strategy 

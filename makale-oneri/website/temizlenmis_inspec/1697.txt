@@ -1,0 +1,11 @@
+exact frequency domain reconstruction thermoacoustic tomography ii 
+	 cylindrical geometry 
+ pt ibid vol 21 7 p. 823 8 2002 microwave induce 
+	 thermoacoustic tomography tat cylindrical configuration 
+	 develop image biological tissue thermoacoustic signal 
+	 acquire scan flat ultrasonic transducer use new 
+	 expansion spherical wave cylindrical coordinate apply 
+	 fourier hankel transform tat obtain exact 
+	 frequency domain reconstruction method effect discrete spatial 
+	 sampling image quality analyze aliasing proof reconstruction 
+	 method propose numerical experimental result include 

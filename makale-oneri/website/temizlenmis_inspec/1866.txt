@@ -1,0 +1,6 @@
+track sensor failure 
+ study reliability sensor failure asymptotic tracking problem 
+	 linear time invariant system use factorization approach 
+	 plant output compensator degree freedom 
+	 necessary sufficient condition present general 
+	 problem simple solution problem stable plant 

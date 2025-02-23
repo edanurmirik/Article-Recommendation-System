@@ -1,0 +1,13 @@
+approach adaptive neural net base h sub infinity control design 
+ approach investigate adaptive neural net base h sub infinity 
+	 control design class nonlinear uncertain system 
+	 propose framework multilayer feedforward neural network 
+	 construct alternative approximate nonlinear system 
+	 neural network piecewisely interpolate generate linear 
+	 differential inclusion model linear state feedback h sub 
+	 infinity control law apply adaptive weight adjustment 
+	 mechanism multilayer feedforward neural network develop 
+	 ensure h sub infinity regulation performance 
+	 find control gain matrix transform standard 
+	 linear matrix inequality problem solve develop recurrent 
+	 neural network 

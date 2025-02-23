@@ -1,0 +1,9 @@
+parallel interior point scheme solve multistage convex program 
+ predictor corrector interior point path follow algorithm promise 
+	 solve multistage convex programming problem 
+	 general good feature algorithm especially attractive 
+	 algorithm allow possibility parallelise major 
+	 computation dynamic structure multistage problem 
+	 specify block tridiagonal system newton step 
+	 algorithm wrap permutation use implement 
+	 parallel computation step 

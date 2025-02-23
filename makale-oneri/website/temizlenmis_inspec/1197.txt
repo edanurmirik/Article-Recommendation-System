@@ -1,0 +1,9 @@
+numerical behaviour stable unstable solitary wave 
+ paper analyse behaviour time numerical approximation 
+	 solitary wave solution generalized benjamin bona mahony 
+	 equation equation possess important property stability 
+	 solution depend velocity identify error 
+	 propagation mechanism stable unstable case 
+	 particular stable case numerical method 
+	 preserve conserve quantity problem appropriate 
+	 simulation kind solution 

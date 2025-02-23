@@ -1,0 +1,28 @@
+control coupled map lattice model vortex shedding wake 
+	 cylinder 
+ flow vibrate flexible cable low reynolds number exhibit 
+	 complex wake structure lace like pattern vortex dislocation 
+	 frequency cell structure observe experiment 
+	 numerical simulation predict previously develop 
+	 low order couple map lattice cml discrete time space 
+	 cml model consist series diffusively couple circle map 
+	 oscillator cable span motivate desire modify 
+	 complex wake pattern flexible vibrate cable study 
+	 addition control term highly efficient cml model 
+	 explore result dynamic proportional adaptive proportional 
+	 discontinuous non linear dnl control method use derive 
+	 control law method employ occasional proportional 
+	 feedback adaptive method use spatio temporal feedback control 
+	 dnl method use discontinuous feedback linearization procedure 
+	 controller design result linearize system 
+	 use eigenvalue assignment technique apply model 
+	 vortex dislocation structure wake vibrate cable 
+	 uniform freestream flow parallel shedding pattern achieve 
+	 range force frequency force amplitude combination study 
+	 validate control theory adaptive proportional dnl method 
+	 find effective proportional control method 
+	 incorporation spatially vary feedback gain 
+	 cylinder span dnl method find efficient 
+	 controller low order cml model required control level 
+	 cable span correlate 1/1 lock behavior 
+	 temporal circle map 

@@ -1,0 +1,14 @@
+mixture expert classification use hierarchical mixture model 
+ level hierarchical mixture model classification present 
+	 model follow data generation process 1 datum 
+	 generate finite number source cluster 2 
+	 generation mechanism source assume existence individual 
+	 internal class label source subcluster external cluster 
+	 model estimate posterior probability class membership 
+	 similar mixture expert classifier order learn 
+	 parameter model develop general training approach 
+	 base maximum likelihood result efficient training 
+	 algorithm compare classification mixture model 
+	 propose hierarchical model exhibit advantage provide 
+	 improve classification performance indicate experimental 
+	 result 

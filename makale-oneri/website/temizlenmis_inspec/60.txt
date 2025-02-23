@@ -1,0 +1,24 @@
+perceptual audio code use adaptive pre- post filter lossless 
+	 compression 
+ paper propose versatile perceptual audio code method achieve 
+	 high compression ratio capable low encoding decode delay 
+	 accommodate variety source signal include music 
+	 speech different sampling rate base separate 
+	 irrelevance redundancy reduction independent functional 
+	 unit contrast traditional audio code 
+	 integrate subband decomposition separation allow 
+	 independent optimization irrelevance redundancy 
+	 reduction unit reduction rely adaptive filtering 
+	 predictive coding possible minimize delay 
+	 psycho acoustically control adaptive linear filter use 
+	 irrelevance reduction redundancy reduction carry 
+	 predictive lossless code scheme term weight cascade 
+	 mean square wclms method experiment carry 
+	 database moderate size contain mono signal different 
+	 sample rate vary nature music speech mixed 
+	 propose wclms lossless coder outperform compete 
+	 lossless coder term compression ratio delay apply 
+	 pre filter signal subjective listening test 
+	 combine pre filter lossless coder state art perceptual 
+	 audio coder pac new method achieve comparable 
+	 compression ratio audio quality low delay 

@@ -1,0 +1,12 @@
+tptp casc development semantically guide theorem prover 
+ order theorem prover scott series version 
+	 year successive prover retain 
+	 underlie technology use radically different algorithm 
+	 wide difference behaviour development process 
+	 depend heavily experiment problem tptp library 
+	 sharpen participation casc year 1997 
+	 outline difficulty inherent design refine 
+	 theorem prover complex scott explain experimental 
+	 methodology scott system 
+	 highly optimise casc help illustrate influence 
+	 casc tptp library contemporary theorem prove research 

@@ -1,0 +1,6 @@
+neural network optimal filtration 
+ combine use mutual influence neural network optimal filtering 
+	 consider neural network filtering approach compare 
+	 solve simple optimal filtering problem linear filtering 
+	 filtering binary telegraph signal correspond 
+	 observation discrete white noise 

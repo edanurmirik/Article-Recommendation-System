@@ -1,0 +1,15 @@
+decide stability constrained homogeneous random walk queue 
+	 system 
+ investigate stability scheduling policy queue system 
+	 day algorithmic characterization exist check stability 
+	 policy queue system paper introduce 
+	 certain generalized priority policy prove stability 
+	 policy algorithmically undecidable prove 
+	 stability homogeneous random walk l sub //sup d/ 
+	 undecidable finally problem compute fluid 
+	 limit queue system constrained homogeneous random walk 
+	 undecidable good knowledge 
+	 undecidability result area stability queue system 
+	 random walk l sub //sup d/. conjecture stability common 
+	 policy like priority policy 
+	 undecidable problem 

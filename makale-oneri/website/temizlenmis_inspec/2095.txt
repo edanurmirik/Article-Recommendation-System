@@ -1,0 +1,22 @@
+global stability attracting set enzyme catalysed reaction system 
+ essential feature enzymatic reaction nonlinear dependency 
+	 reaction rate metabolite concentration form saturation 
+	 kinetic recently feature associate 
+	 phenomenon loss system coordination liu 1999 
+	 paper study system ordinary differential equation 
+	 represent branched biochemical system enzyme mediate 
+	 reaction system sensitive 
+	 change certain maximum enzyme activity particular 
+	 system exhibit distinct response unique 
+	 globally stable steady state large amplitude oscillation 
+	 asymptotically unbounded solution transition 
+	 state instantaneous appearance 
+	 large amplitude stable limit cycle occur false 
+	 bifurcation canard explosion subsequent disappearance limit 
+	 cycle correspond collapse domain attraction 
+	 attract set system occur global bifurcation 
+	 flow saddle connection subsequently 
+	 nonnegative datum unbounded action dynamical 
+	 system correspond exactly loss system coordination 
+	 discuss relevance result possible consequence 
+	 modulate system 

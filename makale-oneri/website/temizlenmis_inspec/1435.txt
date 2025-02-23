@@ -1,0 +1,17 @@
+experimental investigation monitoring control induction heating 
+	 process semi solid alloy use heating coil sensor 
+ method monitor state metal alloy induction heating 
+	 control heating process utilize heating coil 
+	 sensor propose usefulness effectiveness 
+	 experimentally investigate use aluminium a357 billet 
+	 semi solid metal ssm casting process impedance coil 
+	 contain billet continuously measure propose method 
+	 temperature range room temperature 700 degree c. 
+	 find reactance component impedance vary 
+	 distinctively accord billet state clearly monitor 
+	 deformation billet resistance component increase 
+	 temperature reflect variation resistivity 
+	 billet strong correlation solid liquid fraction 
+	 billet measured impedance sensitive billet state 
+	 temperature deformation solid liquid fraction 
+	 use parameter monitor control heating process ssms 

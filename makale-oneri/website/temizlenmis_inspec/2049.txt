@@ -1,0 +1,6 @@
+maximum possible evpi 
+ paper calculate maximum expect value perfect information 
+	 evpi probability distribution state world 
+	 maximum evpi upper bind evpi 
+	 probability upper bind partial information 
+	 state world 

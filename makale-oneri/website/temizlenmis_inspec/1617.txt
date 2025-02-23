@@ -1,0 +1,7 @@
+adaptive array antenna base radial basis function network multiuser 
+	 detection wcdma 
+ adaptive array antenna propose base radial basis function rbf 
+	 network multiuser detector wcdma system propose system 
+	 calculate optimal combine weight coefficient use sample 
+	 matrix inversion common correlation matrix algorithm obtain 
+	 channel response vector use rbf output signal 

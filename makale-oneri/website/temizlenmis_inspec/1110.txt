@@ -1,0 +1,14 @@
+hybrid model smoke simulation 
+ smoke simulation approach base integration traditional particle 
+	 system density function present paper attach 
+	 density function particle attribute diffusion 
+	 smoke describe variation particle density 
+	 function effect airflow control particle 
+	 movement fragmentation addition continuous density field 
+	 realistic rendering generate quickly look table 
+	 particle density function compare traditional particle 
+	 system approach describe smoke diffusion provide 
+	 continuous density field realistic rendering 
+	 computation quick rendering scheme present paper 
+	 useful preview tool tune appropriate parameter smoke 
+	 model 

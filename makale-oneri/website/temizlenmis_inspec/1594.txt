@@ -1,0 +1,10 @@
+training multilayer perceptron minimization sum ridge function 
+ motivate problem training multilayer perceptron neural network 
+	 consider problem minimize e(x)= sigma /sub i=1//sup n/ 
+	 f sub i/ xi /sub i/.x xi /sub i/ r sup s/ 
+	 1 n f sub i/ xi /sub i/.x ridge 
+	 function n small problem minimize e 
+	 treat minimize univariate function use 
+	 gradient algorithm minimize e n moderately large 
+	 large n present online gradient algorithm especially 
+	 monotonicity weak convergence algorithm 

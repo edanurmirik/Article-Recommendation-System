@@ -1,0 +1,27 @@
+turn telecommunications detail churn prediction data mining 
+	 approach 
+ deregulation new technology new competitor open mobile 
+	 telecommunication industry churn prediction management 
+	 great concern mobile service provider mobile service provider 
+	 wish retain subscriber need able predict 
+	 risk change service 
+	 subscriber focus customer retention effort response 
+	 limitation exist churn prediction system unavailability 
+	 customer demographic mobile telecommunication provider 
+	 investigate propose design experimentally evaluate 
+	 churn prediction technique predict churn subscriber 
+	 contractual information pattern change extract 
+	 detail propose technique capable identify potential 
+	 churner contract level specific prediction time period 
+	 addition propose technique incorporate multi classifier 
+	 class combiner approach address challenge highly skewed 
+	 class distribution churner non churner empirical 
+	 evaluation result suggest propose behavior base 
+	 churn prediction technique exhibit satisfactory predictive 
+	 effectiveness recent detail employ churn 
+	 prediction model construction furthermore propose technique 
+	 able demonstrate satisfactory reasonable predictive power 
+	 month interval model construction churn prediction 
+	 use previous demographic base churn prediction system 
+	 reference lift factor attain propose technique appear 
+	 largely satisfactory 

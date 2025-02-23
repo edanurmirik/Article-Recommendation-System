@@ -1,0 +1,9 @@
+optical step modify sign digit addition base binary logic gate 
+ new modify sign digit msd addition algorithm base binary logic 
+	 gate propose parallel computing encode 
+	 input msd digit flag digit pair binary 
+	 bit number addition step reduce flag 
+	 digit introduce characterize low order pair nlop 
+	 input digit order suppress carry propagation rule 
+	 step addition binary code msd bcmsd number formulate 
+	 implement use optical shadow cast logic system 

@@ -1,0 +1,9 @@
+technology cad sige heterojunction field effect transistor 
+ 2d virtual wafer fabrication simulation suite employ 
+	 technology cad sige channel heterojunction field effect transistor 
+	 hfets complete fabrication process sige p hfet 
+	 simulate sige material parameter mobility model 
+	 incorporate simulate si sige p hfet uniform germanium 
+	 channel l sub eff/ 0.5 mu m. significant improvement 
+	 linear transconductance observe compare control silicon 
+	 p mosfet 

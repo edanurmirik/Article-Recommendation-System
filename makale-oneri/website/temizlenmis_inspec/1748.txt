@@ -1,0 +1,25 @@
+general constitutive description inelastic failure behavior 
+	 fibrous laminate i. lamina theory 
+ know structural design isotropic material 
+	 accomplish base stress failure criterion 
+	 generally true laminated composite laminate 
+	 subject plane load ultimate failure laminate 
+	 correspond ply failure stress failure 
+	 criterion sufficient detect maximum load 
+	 sustain laminate case load share 
+	 lamina laminate correctly determine lamina 
+	 instantaneous stiffness matrix inaccurately provide 
+	 lamina statically indeterminate laminate 
+	 laminate subject lateral load ultimate failure 
+	 occur ply failure use stress failure criterion 
+	 long sufficient additional critical deflection curvature 
+	 condition employ necessitate development 
+	 efficient constitutive relationship laminated composite order 
+	 laminate strain deflection ultimate failure 
+	 accurately calculate general constitutive description 
+	 thermomechanical response fibrous laminate ultimate failure 
+	 application fibrous laminate present 
+	 paper constitutive relationship obtain combine 
+	 classical lamination theory recently develop bridging 
+	 micromechanic model layer layer analysis paper 
+	 focus lamina analysis 

@@ -1,0 +1,14 @@
+adaptive neural fuzzy control interpolate nonlinear system 
+ adaptive control nonlinear time vary system theoretical 
+	 practical importance propose adaptive control methodology 
+	 class nonlinear system time vary structure class 
+	 system compose interpolation nonlinear subsystem 
+	 input output feedback linearizable indirect direct adaptive 
+	 control method develop spatially localize model 
+	 form takagi sugeno fuzzy system radial basis function neural 
+	 network use online approximator learn unknown 
+	 dynamic system assumption rate change system 
+	 dynamic propose adaptive control method guarantee 
+	 internal signal system bound tracking error 
+	 asymptotically stable performance adaptive controller 
+	 demonstrate use jet engine control problem 

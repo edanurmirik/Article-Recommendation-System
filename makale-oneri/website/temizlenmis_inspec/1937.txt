@@ -1,0 +1,8 @@
+nonlinear extrapolation algorithm realization scalar random process 
+ method construction nonlinear extrapolation algorithm propose 
+	 method possible account nonlinear random 
+	 dependence exist investigate process describe 
+	 mixed central moment function method base v. s. 
+	 pugachev canonical decomposition apparatus example problem 
+	 nonlinear extrapolation solve moment function 
+	 order 

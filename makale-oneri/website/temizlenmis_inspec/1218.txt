@@ -1,0 +1,21 @@
+knowledge acquisition expert system accounting financial problem 
+	 domain 
+ mid-1980 expert system develop variety 
+	 problem accounting finance commonly cite problem 
+	 develop system unavailability expert 
+	 knowledge engineer difficulty rule extraction process 
+	 field artificial intelligence 
+	 knowledge acquisition ka problem identify major 
+	 bottleneck expert system development process recent empirical 
+	 research reveal certain ka technique significantly 
+	 efficient help extract certain type knowledge 
+	 specific problem domain paper present mapping 
+	 empirical study generic taxonomy expert system problem 
+	 domain accomplish examine range problem 
+	 domain suggest mapping accounting finance task 
+	 generic problem domain taxonomy identify describe 
+	 prominent ka technique employ develop expert system 
+	 accounting finance examine summarize exist 
+	 empirical ka work conclude empirical ka research 
+	 problem domain use provide guidance 
+	 developer expert system field accounting finance 

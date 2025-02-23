@@ -1,0 +1,21 @@
+dimensional spiral mr imaging application renal multiphase 
+	 contrast enhance angiography 
+ fast mr pulse sequence spiral plane readout conventional 3d 
+	 partition encoding develop multiphase contrast enhance 
+	 magnetic resonance angiography ce mra renal vasculature 
+	 compare standard multiphase 3d ce mra flash readout 
+	 isotropic plane spatial resolution 1.4 1.4 mm sup 2/ 2.0 1.4 
+	 mm sup 2/ achieve temporal resolution 6 sec 
+	 theoretical gain spatial resolution use spiral pulse 
+	 sequence performance presence turbulent flow 
+	 evaluate phantom measurement multiphase 3d ce mra renal 
+	 artery perform healthy volunteer use 
+	 technique deblurring technique use correct spiral raw 
+	 datum resonance frequency determine 
+	 minimize imaginary datum image space choose 
+	 correction algorithm able reduce image blurring substantially 
+	 mra phase image quality spiral ce mra pulse sequence 
+	 comparable flash ce mra increase spatial 
+	 resolution 25 reduce contrast noise ratio additionally 
+	 artifact specific spiral mri observe impact 
+	 assessment renal artery 

@@ -1,0 +1,7 @@
+layer model formation state hidden markov chain 
+ procedure formation state hidden markov model 
+	 describe formant amplitude frequency use state 
+	 feature training strategy present allow 
+	 calculate parameter conditional probability generation 
+	 formant set hide state help 
+	 maximum likelihood method 

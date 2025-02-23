@@ -1,0 +1,13 @@
+120 mw 3 d rendering engine 6 mb embed dram 3.2 gb s runtime 
+	 reconfigurable bus pda chip 
+ low power dimensional 3 d render engine implement 
+	 mobile personal digital assistant pda chip megabit embed 
+	 dram macro attach 8 pixel parallel rendering logic logically 
+	 localize 3.2 gb s runtime reconfigurable bus reduce area 
+	 25 compare conventional local frame buffer architecture 
+	 low power consumption achieve polygon dependent access 
+	 embed dram macro line block mapping providing 
+	 read modify write data transaction 3 d rendering engine 
+	 2.22 mpolygon s draw speed fabricate use 0.18- mu m cmos 
+	 embed memory logic technology area 24 mm sup 2/ 
+	 power consumption 120 mw 

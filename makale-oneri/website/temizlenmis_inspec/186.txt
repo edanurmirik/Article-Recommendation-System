@@ -1,0 +1,15 @@
+diameter long range percolation graph 
+ consider follow long range percolation model undirected graph 
+	 node set 0 1 n}/sup d/ edge x y select 
+	 probability approximately= beta /||x y||/sup s/ ||x y|| 
+	 1 probability 1 ||x y|| 1 parameter 
+	 beta s 0 model introduce obtain bound 
+	 diameter graph dimensional case d 1 
+	 value s leave case s 1 2 open 
+	 high probability diameter graph theta log n log log n 
+	 s d constant 0 eta /sub 1/ eta /sub 2/ 
+	 1 n sup eta 2/ s 2d n sup 
+	 eta 1/ d 1 s 2 beta 1 s 2d 
+	 provide simple proof diameter log sup o(1)/ n 
+	 high probability d s 2d establish previously 
+	 benjamini berger 2001 

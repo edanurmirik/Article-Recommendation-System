@@ -1,0 +1,14 @@
+expect value minimum assignment 
+ minimum k assignment m*n matrix x minimum sum k entry 
+	 x belong row column coppersmith 
+	 sorkin conjecture x generate choose entry 
+	 independently exponential distribution mean 1 
+	 expect value minimum k assignment explicit 
+	 formula prove case paper 
+	 describe effort prove coppersmith sorkin conjecture 
+	 consider general situation entry x sub ij/ x 
+	 choose independently different distribution particular 
+	 require x sub ij/ choose exponential distribution 
+	 mean 1 r sub c sub j/. conjecture explicit formula 
+	 expect value minimum k assignment x evidence 
+	 formula 

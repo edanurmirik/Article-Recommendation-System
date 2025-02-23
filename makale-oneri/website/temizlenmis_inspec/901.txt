@@ -1,0 +1,6 @@
+estimation poisson stream intensity multilinear queue 
+	 exponential job queue decay 
+ time busy queue period start find multilinear queue 
+	 exponential job queue decay uniform resource allocation 
+	 individual server stream intensity average job 
+	 estimate observation time queue busy period start 

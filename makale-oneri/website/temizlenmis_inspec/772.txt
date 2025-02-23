@@ -1,0 +1,19 @@
+meshed atlase real time procedural solid texturing 
+ describe implementation procedural solid texturing use 
+	 texture atlas mapping object surface 
+	 texture space method use graphic hardware rasterize 
+	 solid texture coordinate color directly atlas 
+	 texturing procedure apply pixel texture map replace 
+	 solid texture coordinate correspond procedural solid 
+	 texture result procedural solid texture map 
+	 object surface use standard texture mapping implementation 
+	 render procedural solid texture real time user design 
+	 interactively quality technique depend greatly 
+	 layout texture atla broad survey texture atlas 
+	 scheme use develop set general purpose mesh atlas 
+	 tool measure effectiveness distribute 
+	 available texture sample evenly surface possible 
+	 main contribution paper new multiresolution texture atlas 
+	 distribute available texture sample nearly uniform 
+	 distribution multiresolution texture atlas support 
+	 mip map minification antialiasing linear magnification filtering 

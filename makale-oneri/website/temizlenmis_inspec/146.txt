@@ -1,0 +1,9 @@
+design pattern high availability 
+ possible achieve reliability everyday 
+	 commercial quality hardware software key way 
+	 component combine design high availability system 
+	 base combination redundant hardware component software 
+	 manage fault detection correction human intervention 
+	 author quickly review definition tie high availability 
+	 fault management discuss hardware 
+	 software design pattern fault tolerant system 

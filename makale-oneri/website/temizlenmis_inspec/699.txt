@@ -1,0 +1,14 @@
+novel line conditioner voltage capability 
+ paper novel pulsewidth modulate line conditioner fast output 
+	 voltage control propose line conditioner ac 
+	 chopper reversible voltage control transformer series 
+	 voltage compensation ac chopper proper switching operation 
+	 achieve commutation problem absorb energy store 
+	 line stray inductance regenerative dc snubber utilize 
+	 capacitor discharge resistor complicated 
+	 regenerative circuit snubber energy propose ac 
+	 chopper high efficiency reliability output voltage 
+	 line conditioner control use fast sensing technique 
+	 output voltage experimental result 
+	 present line conditioner good dynamic steady state 
+	 performance high quality output voltage 

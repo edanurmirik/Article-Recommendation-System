@@ -1,0 +1,22 @@
+permission grid practical error bound simplification 
+ introduce permission grid spatial occupancy grid use 
+	 guide standard polygonal surface simplification algorithm 
+	 generate approximation guarantee geometric error 
+	 bind particular point approximation guarantee 
+	 user specify distance original surface 
+	 bound notably absent current simplification method 
+	 increasingly important application scientific 
+	 computing adaptive level detail control conceptually simple 
+	 permission grid define volume approximation 
+	 lie permit underlie simplification algorithm 
+	 generate approximation outside volume permission grid 
+	 important practical improvement current error bound 
+	 simplification method work arbitrary triangular model 
+	 handle manner mesh degeneracy gracefully far 
+	 error tolerance easily expand simplification proceed 
+	 allow construction error bound level detail hierarchy 
+	 vertex correspondence level detail finally 
+	 permission grid representation complexity independent 
+	 size input model small running time overhead 
+	 practical efficient current method similar 
+	 guarantee 

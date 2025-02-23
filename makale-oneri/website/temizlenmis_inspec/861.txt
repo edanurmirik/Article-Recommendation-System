@@ -1,0 +1,21 @@
+decision procedure profitability investment project use 
+	 internal rate return single period project 
+ internal rate return irr criterion use evaluate 
+	 profitability investment project paper focus 
+	 single period project consist type cash flow 
+	 investment period return succeed period 
+	 financing period repayment succeed period 
+	 decompose investment project series 
+	 single period project viewpoint single period 
+	 project point applicability issue irr criterion 
+	 irr criterion apply project 
+	 compose investment type financing type investigate 
+	 property series single period project resolve 
+	 applicability issue irr criterion propose decision 
+	 procedure profitability judgment type investment 
+	 project base comparison irr capital cost 
+	 develop new algorithm obtain value project 
+	 investment rate pir project function 
+	 capital cost use standard irr computing routine 
+	 outcome theoretical breakthrough widen utilization irr 
+	 practical application 

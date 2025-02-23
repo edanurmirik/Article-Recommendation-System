@@ -1,0 +1,9 @@
+bayesian nonstationary autoregressive model biomedical signal analysis 
+ describe variational bayesian algorithm estimation 
+	 multivariate autoregressive model time vary coefficient 
+	 adapt accord linear dynamical system algorithm allow 
+	 time frequency domain characterization nonstationary 
+	 multivariate signal especially suit analysis 
+	 event relate datum result present synthetic datum real 
+	 electroencephalogram datum record event relate desynchronization 
+	 photic synchronization scenario 

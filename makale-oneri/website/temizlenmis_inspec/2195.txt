@@ -1,0 +1,15 @@
+model privacy control context aware system 
+ significant complexity issue challenge designer context aware system 
+	 privacy control information space provide way organize 
+	 information resource service important privacy relevant 
+	 contextual factor article describe theoretical model 
+	 privacy control context aware system base core 
+	 abstraction information space previously focus 
+	 derive socially base privacy objective pervasive computing 
+	 environment build ravi sandhu layer om objective 
+	 model architecture mechanism idea aim use information 
+	 space construct model privacy control support 
+	 socially base privacy objective discuss introduce 
+	 decentralization desirable property pervasive computing 
+	 system information space model use unified privacy 
+	 tagging 
